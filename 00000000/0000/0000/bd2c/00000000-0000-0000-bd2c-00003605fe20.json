@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-bd2c-00003605fe20",
+	"architectureId": 0,
+	"baseScore": "5.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0569",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-01-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4480978",
+			"articleUrl": "https://support.microsoft.com/help/4480978",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4480978",
+			"knownIssuesName": "4480978",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4480978",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4483232"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1709 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11453,
+	"releaseDate": "2019-01-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.5",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N"
+}

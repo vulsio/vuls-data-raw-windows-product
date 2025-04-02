@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-2f28-0000a939a654",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows Server 2008 Service Pack 2 (Server Core installation)",
+	"baseProductVersion": "6.0.0",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_sp2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3223",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"gpsvc.dll;gpprefcl.dll;gpscript.dll;polstore.dll"
+			],
+			"articleName": "3159398",
+			"articleUrl": "http://support.microsoft.com/kb/3159398",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3159398",
+			"knownIssuesUrl": "http://support.microsoft.com/kb/3159398",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10287,
+	"releaseDate": "2016-06-14T07:00:00Z",
+	"releaseNumber": "2016-Jun",
+	"severity": "Important",
+	"severityId": 100000001
+}

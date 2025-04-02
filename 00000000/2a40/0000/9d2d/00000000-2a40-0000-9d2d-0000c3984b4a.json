@@ -1,0 +1,55 @@
+{
+	"id": "00000000-2a40-0000-9d2d-0000c3984b4a",
+	"architectureId": 0,
+	"baseProductName": "Microsoft .NET Framework 3.5 AND 4.7.2",
+	"baseProductVersion": "4.7.0",
+	"baseScore": "8.7",
+	"cpe": "cpe:2.3:a:microsoft:.net:4.7.2:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-0056",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-319: Cleartext Transmission of Sensitive Information",
+				"https://cwe.mitre.org/data/definitions/319.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-319: Cleartext Transmission of Sensitive Information"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2024-01-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5034119",
+			"articleUrl": "https://support.microsoft.com/help/5034119",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5034119",
+			"fixedBuildNumber": "10.0.14393.6614",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5033373"
+		}
+	],
+	"platform": "Windows Server 2016",
+	"platformId": 10816,
+	"product": "Microsoft .NET Framework 3.5 AND 4.7.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11677,
+	"releaseDate": "2024-01-09T08:00:00Z",
+	"releaseNumber": "2024-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.6",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:N/E:U/RL:O/RC:C"
+}

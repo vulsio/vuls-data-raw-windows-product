@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-9f29-00005058ed06",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0122",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-04-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3114947",
+			"articleUrl": "https://support.microsoft.com/kb/3114947",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=416ae38e-fdb7-4c78-8488-735054c00add",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3114734"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2013 Service Pack 1 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10655,
+	"releaseDate": "2016-04-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

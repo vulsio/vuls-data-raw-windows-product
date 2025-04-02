@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-372d-00002190567e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0953",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-05-14T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://go.microsoft.com/fwlink/p/?linkid=831049",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://go.microsoft.com/fwlink/p/?linkid=831049",
+			"ordinal": 1,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2019 for Mac",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11575,
+	"releaseDate": "2019-05-14T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

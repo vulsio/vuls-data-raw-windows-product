@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-8804-0000ffac26ca",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV170020",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2017-11-14T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011264",
+			"articleUrl": "https://support.microsoft.com/help/",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=8e9a6a68-0ee1-4e24-aa0c-66e9a305e5d2",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011236"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Word Viewer",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 1160,
+	"releaseDate": "2017-11-14T08:00:00Z",
+	"severity": "None",
+	"severityId": 100000004
+}

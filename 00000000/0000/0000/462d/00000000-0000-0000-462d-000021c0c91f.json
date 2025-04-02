@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-462d-000021c0c91f",
+	"architectureId": 0,
+	"baseProductName": "Azure App Service on Azure Stack",
+	"baseProductVersion": "78.0.0.0",
+	"cpe": "cpe:2.3:a:microsoft:azure_app_service_on_azure_stack:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1372",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-10-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/azure-stack/operator/azure-stack-app-service-release-notes-update-seven?view=azs-1908",
+			"downloadName": "Security Update",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure App Service on Azure Stack",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11590,
+	"releaseDate": "2019-10-08T07:00:00Z",
+	"releaseNumber": "2019-Oct",
+	"severity": "Critical",
+	"severityId": 100000000
+}

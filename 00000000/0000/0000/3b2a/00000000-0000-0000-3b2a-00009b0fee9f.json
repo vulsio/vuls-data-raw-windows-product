@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-3b2a-00009b0fee9f",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Outlook 2013 Service Pack 1",
+	"baseProductVersion": "15.0.0.0",
+	"baseScore": "9.8",
+	"cpe": "cpe:2.3:a:microsoft:outlook:2013:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-23397",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2023-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002265",
+			"articleUrl": "https://support.microsoft.com/help/5002265",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=e78aa39d-7d9b-4d01-98e0-f058ff3b2db3",
+			"fixedBuildNumber": "15.0.5537.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5001990"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2013 Service Pack 1 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10811,
+	"releaseDate": "2023-03-14T07:00:00Z",
+	"releaseNumber": "2023-Mar",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "9.1",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:F/RL:O/RC:C"
+}

@@ -1,0 +1,33 @@
+{
+	"id": "00000000-2a64-0000-9028-0000ea557f27",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV180031",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-12-05T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4471331",
+			"articleUrl": "https://support.microsoft.com/help/4471331",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4471331",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4467694"
+		}
+	],
+	"platform": "Windows 10 Version 1607 for 32-bit Systems",
+	"platformId": 10852,
+	"product": "Adobe Flash Player",
+	"productFamily": "Other",
+	"productFamilyId": 100000000,
+	"productId": 10384,
+	"releaseDate": "2018-12-05T08:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

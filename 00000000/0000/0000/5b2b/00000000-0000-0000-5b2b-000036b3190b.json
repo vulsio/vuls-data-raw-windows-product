@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-5b2b-000036b3190b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1342",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2020-07-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484348",
+			"articleUrl": "https://support.microsoft.com/kb/4484348",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=efc8f7ae-31d0-40eb-9e05-525f4e4ba6b8",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484307"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Enterprise Server 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11099,
+	"releaseDate": "2020-07-14T07:00:00Z",
+	"releaseNumber": "2020-Jul",
+	"severity": "Important",
+	"severityId": 100000001
+}

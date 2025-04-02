@@ -1,0 +1,37 @@
+{
+	"id": "00000000-2a40-0000-f628-000058a875ae",
+	"architectureId": 0,
+	"baseScore": "6.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8547",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-06-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4022715",
+			"articleUrl": "https://support.microsoft.com/help/4022715",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4022715",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4022715",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4019472"
+		}
+	],
+	"platform": "Windows Server 2016",
+	"platformId": 10816,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2017-06-13T07:00:00Z",
+	"severity": "Low",
+	"severityId": 100000003,
+	"temporalScore": "5.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

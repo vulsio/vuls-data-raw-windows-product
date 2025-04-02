@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-1630-00002fbb4a74",
+	"architectureId": 0,
+	"baseProductName": "Skype for Consumer",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:skype_for_consumer:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-21411",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-453: Insecure Default Variable Initialization",
+				"https://cwe.mitre.org/data/definitions/453.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-453: Insecure Default Variable Initialization"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-03-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://www.skype.com/en/",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.skype.com/en/get-skype/",
+			"fixedBuildNumber": "8.113",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Skype for Consumer",
+	"productFamily": "Apps",
+	"productFamilyId": 100000012,
+	"productId": 12310,
+	"releaseDate": "2024-03-12T07:00:00Z",
+	"releaseNumber": "2024-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

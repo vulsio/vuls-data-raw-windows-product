@@ -1,0 +1,32 @@
+{
+	"id": "00000000-28f4-0000-092d-0000a4c134ce",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0606",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-01-14T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4535104",
+			"articleUrl": "https://support.microsoft.com/help/4535104",
+			"downloadName": "Monthly Rollup",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4524743; 4533097"
+		}
+	],
+	"platform": "Windows RT 8.1",
+	"platformId": 10484,
+	"product": "Microsoft .NET Framework 4.6/4.6.1/4.6.2/4.7/4.7.1/4.7.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11529,
+	"releaseDate": "2020-01-14T08:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

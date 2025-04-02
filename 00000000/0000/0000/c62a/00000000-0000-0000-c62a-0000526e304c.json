@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-c62a-0000526e304c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8254",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2018-06-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4022173",
+			"articleUrl": "https://support.microsoft.com/help/4022173",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=6c98f154-340c-4d97-a625-842676decdbc",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4018381"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Enterprise Server 2016",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10950,
+	"releaseDate": "2018-06-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

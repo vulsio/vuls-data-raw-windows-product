@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-be2a-0000553471c2",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1068",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4505419",
+			"articleUrl": "https://support.microsoft.com/help/4505419",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=292990af-7f14-4fe4-987d-4a2cce81cc65",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2014 Service Pack 2 for x64-based Systems (CU)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 10942,
+	"releaseDate": "2019-07-09T07:00:00Z",
+	"releaseNumber": "2019-Jul",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-042e-0000409c6850",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1469",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2020-07-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/microsoft/bond/blob/master/CHANGELOG.md#901-2020-07-14",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.nuget.org/packages/Bond.Core.CSharp/9.0.1",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Bond 9.0.1",
+	"productFamily": "Open Source Software",
+	"productFamilyId": 100000003,
+	"productId": 11780,
+	"releaseDate": "2020-07-14T07:00:00Z",
+	"releaseNumber": "2020-Jul",
+	"severity": "Important",
+	"severityId": 100000001
+}

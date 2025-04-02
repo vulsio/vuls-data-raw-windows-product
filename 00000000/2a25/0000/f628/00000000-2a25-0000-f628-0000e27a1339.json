@@ -1,0 +1,36 @@
+{
+	"id": "00000000-2a25-0000-f628-0000e27a1339",
+	"architectureId": 0,
+	"baseScore": "4.2",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8606",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-07-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4025344",
+			"articleUrl": "https://support.microsoft.com/help/4025344",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4025344",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4022714"
+		}
+	],
+	"platform": "Windows 10 Version 1511 for 32-bit Systems",
+	"platformId": 10789,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2017-07-11T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "3.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:L/I:L/A:N/E:P/RL:O/RC:C"
+}

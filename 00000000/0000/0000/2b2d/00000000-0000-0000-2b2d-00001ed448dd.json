@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-2b2d-00001ed448dd",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Windows 10 Version 1803",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_1803:{bv}:*:*:*:*:*:arm64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1287",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2019-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4516058",
+			"articleUrl": "https://support.microsoft.com/help/4516058",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4516058",
+			"knownIssuesName": "4516058",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4516058",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4512501"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1803 for ARM64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11563,
+	"releaseDate": "2019-09-10T07:00:00Z",
+	"releaseNumber": "2019-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

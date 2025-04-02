@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-a827-00004af59224",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3284",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-07-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115306",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3115306",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=05eb0b8e-e9ea-4439-a7e7-a60e8924430c",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3115107"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2007 Service Pack 3",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10152,
+	"releaseDate": "2016-07-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

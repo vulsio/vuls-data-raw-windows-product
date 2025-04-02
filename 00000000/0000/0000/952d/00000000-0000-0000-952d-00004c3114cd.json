@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-952d-00004c3114cd",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Azure Kubernetes Service",
+	"baseProductVersion": "2022.0.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:a:microsoft:azure_kubernetes_service:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-1677",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2021-01-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://azure.github.io/aad-pod-identity/docs/configure/aad_pod_identity_on_kubenet/#why-this-change",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://azure.github.io/aad-pod-identity/docs/configure/aad_pod_identity_on_kubenet/#why-this-change",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Azure Kubernetes Service",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11669,
+	"releaseDate": "2021-01-12T08:00:00Z",
+	"releaseNumber": "2021-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

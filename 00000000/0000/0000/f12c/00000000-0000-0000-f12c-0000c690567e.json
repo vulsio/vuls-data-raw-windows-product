@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-f12c-0000c690567e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0657",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2019-02-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2017-relnotes-v15.0",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://my.visualstudio.com/Downloads?q=Visual Studio 2017",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2017",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11505,
+	"releaseDate": "2019-02-12T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

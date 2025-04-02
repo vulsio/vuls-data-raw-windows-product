@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-5b2b-000090b3eb89",
+	"architectureId": 0,
+	"baseScore": "5.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-28450",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2021-04-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4493170",
+			"articleUrl": "https://support.microsoft.com/kb/4493170",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=618323ea-078a-4f01-a48c-1831d9aa9f38",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4486723"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Enterprise Server 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11099,
+	"productVersion": "15.0.0",
+	"releaseDate": "2021-04-13T07:00:00Z",
+	"releaseNumber": "2021-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.4",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:C/C:N/I:N/A:L/E:U/RL:O/RC:C"
+}

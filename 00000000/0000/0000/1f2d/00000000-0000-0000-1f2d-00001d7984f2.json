@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-1f2d-00001d7984f2",
+	"architectureId": 0,
+	"baseProductName": "PowerShell Core 6.1",
+	"baseProductVersion": "6.0",
+	"cpe": "cpe:2.3:a:microsoft:powershell_core:6.1:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1301",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2019-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/PowerShell/PowerShell/security/advisories/GHSA-62gw-3rmj-wmp2",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/PowerShell/PowerShell#get-powershell",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "PowerShell Core 6.1",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11551,
+	"releaseDate": "2019-09-10T07:00:00Z",
+	"releaseNumber": "2019-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

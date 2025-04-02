@@ -1,0 +1,33 @@
+{
+	"id": "00000000-2a24-0000-9028-0000309a750f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV160004",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-07-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3174060",
+			"articleUrl": "https://support.microsoft.com/kb/3174060",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3174060",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3167685"
+		}
+	],
+	"platform": "Windows 10 Version 1511 for x64-based Systems",
+	"platformId": 10788,
+	"product": "Adobe Flash Player",
+	"productFamily": "Other",
+	"productFamilyId": 100000000,
+	"productId": 10384,
+	"releaseDate": "2016-07-12T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

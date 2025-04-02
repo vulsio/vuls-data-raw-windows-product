@@ -1,0 +1,52 @@
+{
+	"id": "00000000-0000-0000-8a28-0000e068c5f1",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2012",
+	"baseProductVersion": "6.2.0",
+	"baseScore": "3.7",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2012:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0042",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4015551",
+			"articleUrl": "https://support.microsoft.com/help/4015551",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4015551",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4012217"
+		},
+		{
+			"affectedBinaries": [
+				"ntdsai.dll;combase.dll;ole32.dll;wordpad.exe;win32k.sys;msado15.dll;quartz.dll;mfmjpegdec.dll;storvsp.sys;vmswitch.sys;vpcivsp.sys;basicrender.sys;atmfd.dll"
+			],
+			"articleName": "4015548",
+			"articleUrl": "https://support.microsoft.com/help/4015548",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4015548",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10378,
+	"releaseDate": "2017-03-14T07:00:00Z",
+	"releaseNumber": "2017-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "3.4",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:L/UI:R/S:U/C:L/I:L/A:N/E:P/RL:O/RC:C"
+}

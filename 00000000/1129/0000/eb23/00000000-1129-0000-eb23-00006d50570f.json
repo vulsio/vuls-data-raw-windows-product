@@ -1,0 +1,43 @@
+{
+	"id": "00000000-1129-0000-eb23-00006d50570f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3209",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-10-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3188735",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3188735",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3188735",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3142041"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "3188726",
+			"articleUrl": "http://support.microsoft.com/kb/3188726",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3188726",
+			"ordinal": 2,
+			"rebootRequired": "Maybe",
+			"supercedence": "3142041"
+		}
+	],
+	"platform": "Windows Vista Service Pack 2",
+	"platformId": 4393,
+	"product": "Microsoft .NET Framework 3.0 Service Pack 2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 9195,
+	"releaseDate": "2016-10-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

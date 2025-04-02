@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-1f29-0000dfd348dd",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1084",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4475509",
+			"articleUrl": "https://support.microsoft.com/kb/4475509",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=89ec0d48-7e63-4ace-aa03-26156702efa2",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4461623"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2010 Service Pack 2 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10527,
+	"releaseDate": "2019-07-09T07:00:00Z",
+	"releaseNumber": "2019-Jul",
+	"severity": "Important",
+	"severityId": 100000001
+}

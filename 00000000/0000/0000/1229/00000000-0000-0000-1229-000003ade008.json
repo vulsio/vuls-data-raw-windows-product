@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-1229-000003ade008",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0950",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2018-04-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4018359",
+			"articleUrl": "https://support.microsoft.com/help/4018359",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=342a1e75-d442-4db0-bc11-a23cf2a761d0",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011674"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2010 Service Pack 2 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10514,
+	"releaseDate": "2018-04-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-6b29-0000263f85d1",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Microsoft Office 2013 Service Pack 1",
+	"baseProductVersion": "15.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:rt:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17064",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-11-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4486725",
+			"articleUrl": "https://support.microsoft.com/kb/4486725",
+			"downloadName": "Security Update",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4486688"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2013 RT Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10603,
+	"releaseDate": "2020-11-10T08:00:00Z",
+	"releaseNumber": "2020-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

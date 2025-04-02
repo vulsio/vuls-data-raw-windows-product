@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-ff28-000063e09e91",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0281",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-05-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3191839",
+			"articleUrl": "https://support.microsoft.com/kb/3191839",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=19c3be5d-9a37-42fe-a9aa-c374f2f00728",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3178684"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server 2010 Service Pack 2",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10495,
+	"releaseDate": "2017-05-09T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

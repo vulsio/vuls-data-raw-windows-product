@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-8804-0000faf888a9",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8427",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2018-10-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4092464",
+			"articleUrl": "https://support.microsoft.com/help/4092464",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=ff0c153e-2dd1-48b4-9f4e-cca9f8646995",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4032214"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Word Viewer",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 1160,
+	"releaseDate": "2018-10-09T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

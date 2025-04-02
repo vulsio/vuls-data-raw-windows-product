@@ -1,0 +1,33 @@
+{
+	"id": "00000000-2a25-0000-9028-0000339a750f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV160007",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-10-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3194343",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3194343",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3194343",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3188128"
+		}
+	],
+	"platform": "Windows 10 Version 1511 for 32-bit Systems",
+	"platformId": 10789,
+	"product": "Adobe Flash Player",
+	"productFamily": "Other",
+	"productFamilyId": 100000000,
+	"productId": 10384,
+	"releaseDate": "2016-10-11T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

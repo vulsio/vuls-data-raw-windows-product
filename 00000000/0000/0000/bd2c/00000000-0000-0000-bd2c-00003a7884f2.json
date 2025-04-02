@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-bd2c-00003a7884f2",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1405",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2019-11-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4525241",
+			"articleUrl": "https://support.microsoft.com/help/4525241",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4525241",
+			"knownIssuesName": "4525241",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4525241",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4520004"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1709 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11453,
+	"releaseDate": "2019-11-12T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

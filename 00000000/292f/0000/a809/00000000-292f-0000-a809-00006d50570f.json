@@ -1,0 +1,42 @@
+{
+	"id": "00000000-292f-0000-a809-00006d50570f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3209",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-10-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3188743",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3188743",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3188743",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3142045"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "3188732",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3188732",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3188732",
+			"ordinal": 2,
+			"supercedence": "MS16-039, 3142045"
+		}
+	],
+	"platform": "Windows Server 2012 R2 (Server Core installation)",
+	"platformId": 10543,
+	"product": "Microsoft .NET Framework 3.5",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 2472,
+	"releaseDate": "2016-10-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

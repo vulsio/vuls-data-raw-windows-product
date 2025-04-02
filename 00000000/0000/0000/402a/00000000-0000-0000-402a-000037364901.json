@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-402a-000037364901",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2016",
+	"baseProductVersion": "10.0.14393.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2016:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-38260",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-908: Use of Uninitialized Resource",
+				"https://cwe.mitre.org/data/definitions/908.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-908: Use of Uninitialized Resource"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5043051",
+			"articleUrl": "https://support.microsoft.com/help/5043051",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5043051",
+			"fixedBuildNumber": "10.0.14393.7336",
+			"knownIssuesName": "5043051",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5043051",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5041773"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2016",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10816,
+	"releaseDate": "2024-09-10T07:00:00Z",
+	"releaseNumber": "2024-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

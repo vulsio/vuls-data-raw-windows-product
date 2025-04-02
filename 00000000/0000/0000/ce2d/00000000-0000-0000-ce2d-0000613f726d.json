@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-ce2d-0000613f726d",
+	"architectureId": 0,
+	"baseProductName": "OneDrive for Android",
+	"baseProductVersion": "1.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:a:microsoft:onedrive:-:*:*:*:*:android:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-24923",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2023-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "App Store",
+			"articleUrl": "https://play.google.com/store/apps/details?id=com.microsoft.skydrive&hl=en_US&gl=US",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://play.google.com/store/apps/details?id=com.microsoft.skydrive&hl=en_US&gl=US",
+			"fixedBuildNumber": "6.73",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "OneDrive for Android",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11726,
+	"releaseDate": "2023-03-14T07:00:00Z",
+	"releaseNumber": "2023-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

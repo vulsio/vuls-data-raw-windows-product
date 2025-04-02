@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-e62d-0000bc552323",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1018",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4549677",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4549677",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/download/details.aspx?id=101069",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4538887"
+		}
+	],
+	"platformId": 0,
+	"product": "Dynamics 365 Business Central 2019 Spring Update",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 11750,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Important",
+	"severityId": 100000001
+}

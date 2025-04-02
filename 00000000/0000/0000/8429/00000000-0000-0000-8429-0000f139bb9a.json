@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-8429-0000f139bb9a",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-11786",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2017-10-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011179",
+			"articleUrl": "https://support.microsoft.com/help/4011179",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=324ec226-c71e-403e-bdea-e888d2820611",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011107"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Lync 2013 Service Pack 1 (32-bit)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10628,
+	"releaseDate": "2017-10-10T07:00:00Z",
+	"releaseNumber": "2017-Oct",
+	"severity": "Important",
+	"severityId": 100000001
+}

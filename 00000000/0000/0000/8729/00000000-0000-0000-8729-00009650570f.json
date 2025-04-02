@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-8729-00009650570f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3301",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-08-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115431",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3115431",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=ea30e3ae-5d1f-47c3-95bc-b0e598c59f53",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3114944"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Lync Basic 2013 Service Pack 1 (64-bit)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10631,
+	"releaseDate": "2016-08-09T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

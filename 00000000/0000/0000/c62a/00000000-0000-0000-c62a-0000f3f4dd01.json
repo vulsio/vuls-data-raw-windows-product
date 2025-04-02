@@ -1,0 +1,66 @@
+{
+	"id": "00000000-0000-0000-c62a-0000f3f4dd01",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Enterprise Server 2016",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server_2016:*:*:*:*:enterprise:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-49064",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-611: Improper Restriction of XML External Entity Reference",
+				"https://cwe.mitre.org/data/definitions/611.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-611: Improper Restriction of XML External Entity Reference"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2024-12-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002659",
+			"articleUrl": "https://support.microsoft.com/help/5002659",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=789b67f7-203e-4872-a698-3bc0e01f9daa",
+			"fixedBuildNumber": "16.0.5478.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002654"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5002544",
+			"articleUrl": "https://support.microsoft.com/help/5002544",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=1ae6358a-3c93-4a3f-ba80-126b32822db9",
+			"fixedBuildNumber": "16.0.5478.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002501"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Enterprise Server 2016",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10950,
+	"releaseDate": "2024-12-10T08:00:00Z",
+	"releaseNumber": "2024-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

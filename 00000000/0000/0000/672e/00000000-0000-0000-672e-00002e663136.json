@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-672e-00002e663136",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-27084",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-03-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/microsoft/vscode-maven/blob/master/CHANGELOG.md",
+			"downloadName": "Security Update",
+			"downloadUrl": "http://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Visual Studio Code - Java Extension Pack",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11879,
+	"releaseDate": "2021-03-09T08:00:00Z",
+	"releaseNumber": "2021-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

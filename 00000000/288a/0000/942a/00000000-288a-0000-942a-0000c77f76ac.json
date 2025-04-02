@@ -1,0 +1,41 @@
+{
+	"id": "00000000-288a-0000-942a-0000c77f76ac",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0160",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4014982",
+			"articleUrl": "https://support.microsoft.com/help/4014982",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4014982",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3205403"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4014986",
+			"articleUrl": "https://support.microsoft.com/help/4014986",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4014986",
+			"ordinal": 2
+		}
+	],
+	"platform": "Windows Server 2012",
+	"platformId": 10378,
+	"product": "Microsoft .NET Framework 4.6.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10900,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

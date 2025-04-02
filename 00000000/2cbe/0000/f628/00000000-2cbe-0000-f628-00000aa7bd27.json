@@ -1,0 +1,38 @@
+{
+	"id": "00000000-2cbe-0000-f628-00000aa7bd27",
+	"architectureId": 0,
+	"baseScore": "7.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-11907",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-12-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4054517",
+			"articleUrl": "https://support.microsoft.com/help/4054517",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4054517",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4048955"
+		}
+	],
+	"platform": "Windows 10 Version 1709 for x64-based Systems",
+	"platformId": 11454,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2017-12-12T08:00:00Z",
+	"releaseNumber": "2017-Dec",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.7",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

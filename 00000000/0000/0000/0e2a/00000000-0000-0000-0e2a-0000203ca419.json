@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-0e2a-0000203ca419",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Outlook 2016",
+	"baseProductVersion": "16.0.0.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:outlook:2016:*:*:*:*:x64:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36763",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-200: Exposure of Sensitive Information to an Unauthorized Actor",
+				"https://cwe.mitre.org/data/definitions/200.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-200: Exposure of Sensitive Information to an Unauthorized Actor"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2023-09-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002499",
+			"articleUrl": "https://support.microsoft.com/help/5002499",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=5bdafb99-21be-4104-ad7f-a88a5e839a55",
+			"fixedBuildNumber": "16.0.5413.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002459"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10766,
+	"releaseDate": "2023-09-12T07:00:00Z",
+	"releaseNumber": "2023-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

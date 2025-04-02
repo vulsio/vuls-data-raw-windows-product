@@ -1,0 +1,44 @@
+{
+	"id": "00000000-0000-0000-4127-000071beb8f3",
+	"architectureId": 0,
+	"baseScore": "8.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0719",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-11-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4525235",
+			"articleUrl": "https://support.microsoft.com/help/4525235",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4525235",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4519976"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4525233",
+			"articleUrl": "https://support.microsoft.com/help/4525233",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4525233",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10049,
+	"releaseDate": "2019-11-12T08:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.2",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:H/UI:N/S:C/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

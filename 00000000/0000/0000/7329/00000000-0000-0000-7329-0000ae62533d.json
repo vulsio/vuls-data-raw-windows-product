@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-7329-0000ae62533d",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-38655",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-09-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002009",
+			"articleUrl": "https://support.microsoft.com/kb/5002009",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=d1e8f050-355c-40b4-b747-ad6c2b544865",
+			"fixedBuildNumber": "5381.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5001986"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Web Apps Server 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10611,
+	"productVersion": "15.0.1",
+	"releaseDate": "2021-09-14T07:00:00Z",
+	"releaseNumber": "2021-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

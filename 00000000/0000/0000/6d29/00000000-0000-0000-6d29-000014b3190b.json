@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-6d29-000014b3190b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1447",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-07-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484446",
+			"articleUrl": "https://support.microsoft.com/kb/4484446",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=d0f16e42-056a-4f4f-962c-e5cf6481a8ae",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484361"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2013 Service Pack 1 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10605,
+	"releaseDate": "2020-07-14T07:00:00Z",
+	"releaseNumber": "2020-Jul",
+	"severity": "Important",
+	"severityId": 100000001
+}

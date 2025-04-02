@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-872d-0000ece7022e",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Edge (Chromium-based)",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "5.3",
+	"cpe": "cpe:2.3:a:microsoft:edge_chromium:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-23261",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Tampering",
+	"impactId": 100000009,
+	"initialReleaseDate": "2022-02-03T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "98.0.1108.43",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Edge (Chromium-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 11655,
+	"releaseDate": "2022-02-03T08:00:00Z",
+	"releaseNumber": "2022-Feb",
+	"severity": "Moderate",
+	"severityId": 100000002,
+	"temporalScore": "4.6",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N/E:U/RL:O/RC:C"
+}

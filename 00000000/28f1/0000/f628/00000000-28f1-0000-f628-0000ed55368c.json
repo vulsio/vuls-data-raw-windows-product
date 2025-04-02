@@ -1,0 +1,60 @@
+{
+	"id": "00000000-28f1-0000-f628-0000ed55368c",
+	"architectureId": 0,
+	"baseProductName": "Internet Explorer 11",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:internet_explorer:11:-:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17052",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-11-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				";cdd.dll;fdssdp.dll;gdiplus.dll;ipmontr.dll;ks.sys;localspl.dll;mshtml.dll;mstscax.dll;ndis.sys;nfssvr.sys;nfssvr.sys",
+				"rpcxdr.sys;Portcls.sys;printconfig.dll;RAMgmtPSProvider.dll;RAMgmtPSProvider.mof;Rasapi32.dll;rasdlg.dll;rasgcw.dll;rasmans.dll;rasplap.dll;rdp4vs.dll;rdpcore.dll;rdpcorets.dll;rpcxdr.sys;tsmf.dll;unidrvui.dll",
+				"ps5ui.dll",
+				"pscript5.dll;vmswitch.sys;win32k.sys;win32spl.dll;wintrust.dll"
+			],
+			"articleName": "4586845",
+			"articleUrl": "https://support.microsoft.com/help/4586845",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4586845",
+			"knownIssuesName": "4586845",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4586845",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4580347"
+		},
+		{
+			"affectedBinaries": [
+				"iertutil.dll;jscript9.dll"
+			],
+			"articleName": "4586768",
+			"articleUrl": "https://support.microsoft.com/help/4586768",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4586768",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4580326"
+		}
+	],
+	"platform": "Windows 8.1 for 32-bit systems",
+	"platformId": 10481,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2020-11-10T08:00:00Z",
+	"releaseNumber": "2020-Nov",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.7",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

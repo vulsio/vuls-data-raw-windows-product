@@ -1,0 +1,52 @@
+{
+	"id": "00000000-288a-0000-f628-000096f1c840",
+	"architectureId": 0,
+	"baseScore": "6.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0895",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4550917",
+			"articleUrl": "https://support.microsoft.com/help/4550917",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4550917",
+			"knownIssuesName": "4550917",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4550917",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4541510"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4550905",
+			"articleUrl": "https://support.microsoft.com/help/4550905",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4550905",
+			"knownIssuesName": "4550905",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4550905",
+			"ordinal": 2,
+			"rebootRequired": "Yes",
+			"supercedence": "4540671"
+		}
+	],
+	"platform": "Windows Server 2012",
+	"platformId": 10378,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Low",
+	"severityId": 100000003,
+	"temporalScore": "5.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

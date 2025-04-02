@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-7b2f-000041fa4d11",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Office for Android",
+	"baseProductVersion": "16.0.1",
+	"baseScore": "7.3",
+	"cpe": "cpe:2.3:a:microsoft:office:*:*:android:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-21823",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-190: Integer Overflow or Wraparound",
+				"https://cwe.mitre.org/data/definitions/190.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-190: Integer Overflow or Wraparound"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-02-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://support.google.com/googleplay/answer/113412?hl=en",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow",
+			"fixedBuildNumber": "16.0.16130.20156",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office for Android",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 12155,
+	"releaseDate": "2023-02-14T08:00:00Z",
+	"releaseNumber": "2023-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:H/RL:O/RC:C"
+}

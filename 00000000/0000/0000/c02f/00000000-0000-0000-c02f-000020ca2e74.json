@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-c02f-000020ca2e74",
+	"architectureId": 0,
+	"baseProductName": "Skype for Business Server 2015 CU13",
+	"baseProductVersion": "9319.0",
+	"baseScore": "7.2",
+	"cpe": "cpe:2.3:a:microsoft:skype_for_business_server:2015:cu13:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36789",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-94: Improper Control of Generation of Code ('Code Injection')",
+				"https://cwe.mitre.org/data/definitions/94.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-94: Improper Control of Generation of Code ('Code Injection')"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-10-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3061064",
+			"articleUrl": "https://support.microsoft.com/help/3061064",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=0d08ed37-106a-456f-a5c6-61df22588bec",
+			"fixedBuildNumber": "6.0.9319.869",
+			"knownIssuesName": "3061064",
+			"knownIssuesUrl": "https://support.microsoft.com/help/3061064",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Skype for Business Server 2015 CU13",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 12224,
+	"releaseDate": "2023-10-10T07:00:00Z",
+	"releaseNumber": "2023-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.3",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

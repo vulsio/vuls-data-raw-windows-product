@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-482a-00001d3fce6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV180012",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2018-05-21T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4073065",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4073065/",
+			"downloadName": "Update history",
+			"downloadUrl": "https://support.microsoft.com/en-us/help/4023488/surface-surface-book-update-history",
+			"ordinal": 1,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Surface Book",
+	"productFamily": "Device",
+	"productFamilyId": 100000011,
+	"productId": 10824,
+	"releaseDate": "2018-05-21T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

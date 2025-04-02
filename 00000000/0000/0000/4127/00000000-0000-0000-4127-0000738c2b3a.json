@@ -1,0 +1,69 @@
+{
+	"id": "00000000-0000-0000-4127-0000738c2b3a",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2008 R2 Service Pack 1 (Server Core installation)",
+	"baseProductVersion": "6.1.7601.0",
+	"baseScore": "9.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_R2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-21690",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-122: Heap-based Buffer Overflow",
+				"https://cwe.mitre.org/data/definitions/122.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-122: Heap-based Buffer Overflow"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-02-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5022872",
+			"articleUrl": "https://support.microsoft.com/help/5022872",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5022872",
+			"fixedBuildNumber": "6.1.7601.26366",
+			"knownIssuesName": "5022872",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5022872",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5022338"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5022874",
+			"articleUrl": "https://support.microsoft.com/help/5022874",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5022874",
+			"fixedBuildNumber": "6.1.7601.26366",
+			"knownIssuesName": "5022874",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5022874",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10049,
+	"releaseDate": "2023-02-14T08:00:00Z",
+	"releaseNumber": "2023-Feb",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

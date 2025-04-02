@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-8a28-000029c5feb1",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3319",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-08-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3175887",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3175887",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=b87f1177-e62e-4689-ab59-e1ea29fbbb9d",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3157569"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10378,
+	"releaseDate": "2016-08-09T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

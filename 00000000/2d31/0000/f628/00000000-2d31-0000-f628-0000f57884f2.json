@@ -1,0 +1,43 @@
+{
+	"id": "00000000-2d31-0000-f628-0000f57884f2",
+	"architectureId": 0,
+	"baseProductName": "Internet Explorer 11",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:internet_explorer:11:-:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1208",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4512578",
+			"articleUrl": "https://support.microsoft.com/help/4512578",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4512578",
+			"knownIssuesName": "4512578",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4512578",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4511553"
+		}
+	],
+	"platform": "Windows 10 Version 1809 for x64-based Systems",
+	"platformId": 11569,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2019-09-10T07:00:00Z",
+	"releaseNumber": "2019-Sep",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.7",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

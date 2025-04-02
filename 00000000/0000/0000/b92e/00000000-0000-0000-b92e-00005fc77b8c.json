@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-b92e-00005fc77b8c",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Server Subscription Edition",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "8.2",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server:-:*:*:*:subscription:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-49068",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-284: Improper Access Control",
+				"https://cwe.mitre.org/data/definitions/284.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-284: Improper Access Control"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-12-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002658",
+			"articleUrl": "https://support.microsoft.com/help/5002658",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=b2d6c4f7-5bbb-492a-a8eb-0471c8a25b3d",
+			"fixedBuildNumber": "16.0.17928.20290",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002651"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server Subscription Edition",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11961,
+	"releaseDate": "2024-12-10T08:00:00Z",
+	"releaseNumber": "2024-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.1",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N/E:U/RL:O/RC:C"
+}

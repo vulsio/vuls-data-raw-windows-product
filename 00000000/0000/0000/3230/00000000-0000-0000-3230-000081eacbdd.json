@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-3230-000081eacbdd",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Dataverse",
+	"baseProductVersion": "10.0",
+	"baseScore": "7.2",
+	"cpe": "cpe:2.3:a:microsoft:dataverse:*:*:*:*:*:*:*:*",
+	"customerActionRequired": false,
+	"cveNumber": "CVE-2025-24053",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-285: Improper Authorization",
+				"https://cwe.mitre.org/data/definitions/285.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-285: Improper Authorization"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2025-03-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Microsoft Dataverse",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 12338,
+	"releaseDate": "2025-03-13T07:00:00Z",
+	"releaseNumber": "2025-Mar",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

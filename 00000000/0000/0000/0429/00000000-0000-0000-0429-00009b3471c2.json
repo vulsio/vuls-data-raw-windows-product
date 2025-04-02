@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-0429-00009b3471c2",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft Project 2010 Service Pack 2",
+	"baseProductVersion": "15.0.0.0",
+	"cpe": "cpe:2.3:a:microsoft:project_2010:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1264",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2019-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4461631",
+			"articleUrl": "https://support.microsoft.com/help/4461631",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=510cf414-3364-4143-bcc8-0355e28d773b",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4022147"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Project 2010 Service Pack 2 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10500,
+	"releaseDate": "2019-09-10T07:00:00Z",
+	"releaseNumber": "2019-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

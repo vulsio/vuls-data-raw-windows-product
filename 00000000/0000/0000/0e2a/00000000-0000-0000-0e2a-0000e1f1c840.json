@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-0e2a-0000e1f1c840",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0696",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2020-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484250",
+			"articleUrl": "https://support.microsoft.com/help/4484250",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=643898bb-6d46-4ad5-8ff4-3e770b4e2e98",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4475553"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10766,
+	"releaseDate": "2020-02-11T08:00:00Z",
+	"releaseNumber": "2020-Feb",
+	"severity": "Important",
+	"severityId": 100000001
+}

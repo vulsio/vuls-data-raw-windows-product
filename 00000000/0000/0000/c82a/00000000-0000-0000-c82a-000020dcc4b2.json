@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-c82a-000020dcc4b2",
+	"architectureId": 0,
+	"baseScore": "7.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-11783",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2017-10-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4041676",
+			"articleUrl": "https://support.microsoft.com/help/4041676",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4041676",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/help/4041676",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4038788"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1703 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10952,
+	"releaseDate": "2017-10-10T07:00:00Z",
+	"releaseNumber": "2017-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.3",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

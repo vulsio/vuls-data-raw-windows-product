@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-902d-000020c0c91f",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Dynamics 365 (on-premises) version 9.0",
+	"baseProductVersion": "9.0.0",
+	"cpe": "cpe:2.3:a:microsoft:dynamics_365:9.0:*:*:*:on-premises:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1375",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2019-10-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4515519",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4515519",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=a1b5234c-d6f8-40e8-a5c1-426f696d714c",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Dynamics 365 (on-premises) version 9.0",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 11664,
+	"releaseDate": "2019-10-08T07:00:00Z",
+	"releaseNumber": "2019-Oct",
+	"severity": "Important",
+	"severityId": 100000001
+}

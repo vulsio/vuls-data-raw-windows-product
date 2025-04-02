@@ -1,0 +1,69 @@
+{
+	"id": "00000000-0000-0000-6024-0000dfbf7624",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows Server 2008 Service Pack 2",
+	"baseProductVersion": "6.0.6003.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_sp2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36005",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-591: Sensitive Data Storage in Improperly Locked Memory",
+				"https://cwe.mitre.org/data/definitions/591.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-591: Sensitive Data Storage in Improperly Locked Memory"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2023-12-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5033422",
+			"articleUrl": "https://support.microsoft.com/help/5033422",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5033422",
+			"fixedBuildNumber": "6.0.6003.22413",
+			"knownIssuesName": "5033422",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5033422",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5032254"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5033427",
+			"articleUrl": "https://support.microsoft.com/help/5033427",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5033427",
+			"fixedBuildNumber": "6.0.6003.22413",
+			"knownIssuesName": "5033427",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5033427",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for 32-bit Systems Service Pack 2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9312,
+	"releaseDate": "2023-12-12T08:00:00Z",
+	"releaseNumber": "2023-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

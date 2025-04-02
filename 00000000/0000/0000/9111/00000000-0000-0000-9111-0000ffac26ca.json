@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-9111-0000ffac26ca",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV170020",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2017-11-14T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011265",
+			"articleUrl": "https://support.microsoft.com/kb/4011265",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=09e3d8e3-7034-4d17-964b-befee23c88e0",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3213647"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Compatibility Pack Service Pack 3",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 4497,
+	"releaseDate": "2017-11-14T08:00:00Z",
+	"severity": "None",
+	"severityId": 100000004
+}

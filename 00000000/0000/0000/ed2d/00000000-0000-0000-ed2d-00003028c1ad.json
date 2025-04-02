@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-ed2d-00003028c1ad",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1050",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4538593",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4538593",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/download/details.aspx?id=101053",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Dynamics 365 Server, version 9.0 (on-premises)",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 11757,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Important",
+	"severityId": 100000001
+}

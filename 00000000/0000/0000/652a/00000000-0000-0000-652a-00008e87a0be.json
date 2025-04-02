@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-652a-00008e87a0be",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 10 Version 1607",
+	"baseProductVersion": "10.0.14393.0",
+	"baseScore": "8.1",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_1607:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-41770",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-416: Use After Free",
+				"https://cwe.mitre.org/data/definitions/416.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-416: Use After Free"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-10-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5031362",
+			"articleUrl": "https://support.microsoft.com/help/5031362",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5031362",
+			"fixedBuildNumber": "10.0.14393.6351",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5030213"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1607 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10853,
+	"releaseDate": "2023-10-10T07:00:00Z",
+	"releaseNumber": "2023-Oct",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.1",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

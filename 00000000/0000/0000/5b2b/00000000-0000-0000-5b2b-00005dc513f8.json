@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-5b2b-00005dc513f8",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-11775",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2017-10-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011170",
+			"articleUrl": "https://support.microsoft.com/help/4011170",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=9ff8330f-ef19-4984-971b-560cb469027e",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011113"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Enterprise Server 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11099,
+	"releaseDate": "2017-10-10T07:00:00Z",
+	"releaseNumber": "2017-Oct",
+	"severity": "Important",
+	"severityId": 100000001
+}

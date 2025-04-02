@@ -1,0 +1,38 @@
+{
+	"id": "00000000-2464-0000-6028-00000fc5feb1",
+	"architectureId": 0,
+	"baseProductName": "Internet Explorer 9",
+	"baseProductVersion": "1.0.0",
+	"cpe": "cpe:2.3:a:microsoft:internet_explorer:9:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3212",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3160005",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3160005",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3160005",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3154070"
+		}
+	],
+	"platform": "Windows Vista x64 Edition Service Pack 2",
+	"platformId": 9316,
+	"product": "Internet Explorer 9",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10336,
+	"releaseDate": "2016-06-14T07:00:00Z",
+	"releaseNumber": "2016-Jun",
+	"severity": "Important",
+	"severityId": 100000001
+}

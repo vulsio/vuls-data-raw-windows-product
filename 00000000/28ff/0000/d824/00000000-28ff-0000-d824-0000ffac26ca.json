@@ -1,0 +1,33 @@
+{
+	"id": "00000000-28ff-0000-d824-0000ffac26ca",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV170020",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2017-11-14T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011267",
+			"articleUrl": "https://support.microsoft.com/help/",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=6857d078-e44e-428f-be00-900306661697",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3213623"
+		}
+	],
+	"platform": "Microsoft SharePoint Server 2010 Service Pack 2",
+	"platformId": 10495,
+	"product": "Word Automation Services",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 9432,
+	"releaseDate": "2017-11-14T08:00:00Z",
+	"severity": "None",
+	"severityId": 100000004
+}

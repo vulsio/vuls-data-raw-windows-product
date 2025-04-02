@@ -1,0 +1,40 @@
+{
+	"id": "00000000-2d33-0000-e429-00006b087afb",
+	"architectureId": 0,
+	"baseScore": "4.2",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0878",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-09-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4570333",
+			"articleUrl": "https://support.microsoft.com/help/4570333",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4570333",
+			"knownIssuesName": "4570333",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4570333",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4565349"
+		}
+	],
+	"platform": "Windows Server 2019",
+	"platformId": 11571,
+	"product": "Microsoft Edge (EdgeHTML-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10724,
+	"releaseDate": "2020-09-08T07:00:00Z",
+	"releaseNumber": "2020-Sep",
+	"severity": "Moderate",
+	"severityId": 100000002,
+	"temporalScore": "3.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:L/I:L/A:N/E:P/RL:O/RC:C"
+}

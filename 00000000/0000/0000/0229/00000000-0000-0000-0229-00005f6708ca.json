@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-0229-00005f6708ca",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft PowerPoint 2010 Service Pack 2",
+	"baseProductVersion": "13.0.0.0",
+	"cpe": "cpe:2.3:a:microsoft:powerpoint:2010:sp2:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3360",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115467",
+			"articleUrl": "http://support.microsoft.com/kb/3115467",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=be4bafbe-2249-439c-b41d-30de85274ef6",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3115118"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft PowerPoint 2010 Service Pack 2 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10498,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

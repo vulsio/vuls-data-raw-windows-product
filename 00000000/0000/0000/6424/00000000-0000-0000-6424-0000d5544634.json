@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-6424-0000d5544634",
+	"architectureId": 0,
+	"baseScore": "6.7",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0199",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4014793",
+			"articleUrl": "https://support.microsoft.com/help/4014793",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4014793",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4011981"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Vista x64 Edition Service Pack 2",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 9316,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

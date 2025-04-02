@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-f829-00007aa6fa79",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Visio 2016",
+	"baseProductVersion": "16.0.1",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:visio:2016:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-44695",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2022-12-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002286",
+			"articleUrl": "https://support.microsoft.com/help/5002286",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "5374.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002016"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visio 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10744,
+	"releaseDate": "2022-12-13T08:00:00Z",
+	"releaseNumber": "2022-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

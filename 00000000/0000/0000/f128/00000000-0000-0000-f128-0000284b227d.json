@@ -1,0 +1,48 @@
+{
+	"id": "00000000-0000-0000-f128-0000284b227d",
+	"architectureId": 0,
+	"baseScore": "6.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1043",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-06-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4503276",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4503276",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4503276",
+			"knownIssuesName": "4503276",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4503276",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4499151"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4503290",
+			"articleUrl": "https://support.microsoft.com/help/4503290",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4503290",
+			"knownIssuesName": "4503290",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4503290",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 8.1 for 32-bit systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10481,
+	"releaseDate": "2019-06-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

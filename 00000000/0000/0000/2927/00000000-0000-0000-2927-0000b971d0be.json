@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-2927-0000b971d0be",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0198",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-05-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3155776",
+			"articleUrl": "https://support.microsoft.com/kb/3155776",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=6d430fa4-a261-49d8-95d4-0c9b53ac19f9",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3154208"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word for Mac 2011",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10025,
+	"releaseDate": "2016-05-10T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

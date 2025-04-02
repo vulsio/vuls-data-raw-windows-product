@@ -1,0 +1,36 @@
+{
+	"id": "00000000-28f4-0000-f628-00008b91c4f3",
+	"architectureId": 0,
+	"baseScore": "7.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8524",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-06-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4022726",
+			"articleUrl": "https://support.microsoft.com/help/4022726",
+			"downloadName": "Monthly Rollup",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4022726",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4019215"
+		}
+	],
+	"platform": "Windows RT 8.1",
+	"platformId": 10484,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2017-06-13T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.7",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

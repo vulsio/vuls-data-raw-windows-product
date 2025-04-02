@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-da30-00005deacbdd",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Visual Studio 2022 version 17.13",
+	"baseProductVersion": "17.10",
+	"baseScore": "7.3",
+	"cpe": "cpe:2.3:a:microsoft:visual_studio:2022:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-25003",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-427: Uncontrolled Search Path Element",
+				"https://cwe.mitre.org/data/definitions/427.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-427: Uncontrolled Search Path Element"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2025-03-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://my.visualstudio.com/Downloads?q=Visual Studio 2022 version 17.13",
+			"fixedBuildNumber": "17.13.3",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2022 version 17.13",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12506,
+	"releaseDate": "2025-03-11T07:00:00Z",
+	"releaseNumber": "2025-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.4",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-042f-0000baf891cb",
+	"architectureId": 0,
+	"baseProductName": "Power BI Report Server version 1.11.8091.10468",
+	"baseProductVersion": "1.0.0.0",
+	"baseScore": "7.6",
+	"cpe": "cpe:2.3:a:microsoft:power_bi_report_server:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-41372",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2021-11-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5007903",
+			"articleUrl": "https://support.microsoft.com/help/5007903",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?id=57270",
+			"fixedBuildNumber": "15.0.1106.457",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Power BI Report Server version 1.11.8091.10468",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 12036,
+	"releaseDate": "2021-11-09T08:00:00Z",
+	"releaseNumber": "2021-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:H/I:L/A:N/E:P/RL:O/RC:C"
+}

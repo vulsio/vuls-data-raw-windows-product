@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-c72a-000091dd6c94",
+	"architectureId": 0,
+	"baseScore": "3.7",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0159",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4015583",
+			"articleUrl": "https://support.microsoft.com/help/4015583",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4015583",
+			"ordinal": 1,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1703 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10951,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "3.4",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:L/A:N/E:P/RL:O/RC:C"
+}

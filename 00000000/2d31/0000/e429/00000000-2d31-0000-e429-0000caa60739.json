@@ -1,0 +1,38 @@
+{
+	"id": "00000000-2d31-0000-e429-0000caa60739",
+	"architectureId": 0,
+	"baseScore": "4.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0833",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-04-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4493509",
+			"articleUrl": "https://support.microsoft.com/help/4493509",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4493509",
+			"knownIssuesName": "4493509",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4493509",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4489899"
+		}
+	],
+	"platform": "Windows 10 Version 1809 for x64-based Systems",
+	"platformId": 11569,
+	"product": "Microsoft Edge (EdgeHTML-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10724,
+	"releaseDate": "2019-04-09T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "3.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N/E:P/RL:O/RC:C"
+}

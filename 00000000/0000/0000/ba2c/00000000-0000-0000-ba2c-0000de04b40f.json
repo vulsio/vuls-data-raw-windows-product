@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-ba2c-0000de04b40f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-11932",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2017-12-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4045655",
+			"articleUrl": "https://support.microsoft.com/help/4045655",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=572eec81-2998-48a3-be54-f4a2d067f268",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4045655",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4036108"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2016 Cumulative Update 6",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11450,
+	"releaseDate": "2017-12-12T08:00:00Z",
+	"releaseNumber": "2017-Dec",
+	"severity": "Important",
+	"severityId": 100000001
+}

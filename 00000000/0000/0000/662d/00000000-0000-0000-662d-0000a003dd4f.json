@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-662d-0000a003dd4f",
+	"architectureId": 0,
+	"baseProductName": "Visual Studio Code",
+	"baseProductVersion": "1.0.0",
+	"cpe": "cpe:2.3:a:microsoft:visual_studio_code:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1414",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2019-10-17T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://code.visualstudio.com/updates/v1_39",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://code.visualstudio.com/Download",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Visual Studio Code",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11622,
+	"releaseDate": "2019-10-17T07:00:00Z",
+	"releaseNumber": "2019-Oct",
+	"severity": "Important",
+	"severityId": 100000001
+}

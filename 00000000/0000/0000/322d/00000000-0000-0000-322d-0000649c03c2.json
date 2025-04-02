@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-322d-0000649c03c2",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Windows 10 Version 1809",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_1809:{bv}:*:*:*:*:*:arm64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-21377",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-197: Numeric Truncation Error",
+				"https://cwe.mitre.org/data/definitions/197.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-197: Numeric Truncation Error"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2024-02-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5034768",
+			"articleUrl": "https://support.microsoft.com/help/5034768",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5034768",
+			"fixedBuildNumber": "10.0.17763.5458",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5034127"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1809 for ARM64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11570,
+	"releaseDate": "2024-02-13T08:00:00Z",
+	"releaseNumber": "2024-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

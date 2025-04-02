@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-f228-0000176f9ec1",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0147",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2002-04-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3146963",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3146963",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=3bfa7314-34f6-4ad4-aae3-399ca60a4a8f",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3046482"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 8.1 for x64-based systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10482,
+	"releaseDate": "2002-04-12T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

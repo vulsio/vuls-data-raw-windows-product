@@ -1,0 +1,40 @@
+{
+	"id": "00000000-29e9-0000-e429-0000dd7884f2",
+	"architectureId": 0,
+	"baseScore": "4.2",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1103",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4507458",
+			"articleUrl": "https://support.microsoft.com/help/4507458",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4507458",
+			"knownIssuesName": "4507458",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4507458",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4503291"
+		}
+	],
+	"platform": "Windows 10 for 32-bit Systems",
+	"platformId": 10729,
+	"product": "Microsoft Edge (EdgeHTML-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10724,
+	"releaseDate": "2019-07-09T07:00:00Z",
+	"releaseNumber": "2019-Jul",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "3.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:L/I:L/A:N/E:P/RL:O/RC:C"
+}

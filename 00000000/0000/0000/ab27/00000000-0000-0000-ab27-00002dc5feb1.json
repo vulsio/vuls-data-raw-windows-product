@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-ab27-00002dc5feb1",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3315",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-08-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3114456",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3114456",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=906af6d4-1c36-412a-a6ec-eb1386ed4039",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "2889915"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft OneNote 2007 Service Pack 3",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10155,
+	"releaseDate": "2016-08-09T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

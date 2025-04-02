@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-3f2d-000079fa5e38",
+	"architectureId": 0,
+	"baseScore": "5.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1194",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2020-06-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4561602",
+			"articleUrl": "https://support.microsoft.com/help/4561602",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4561602",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4556812"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1709 for ARM64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11583,
+	"releaseDate": "2020-06-09T07:00:00Z",
+	"releaseNumber": "2020-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-2911-00007ffaf61e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0152",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-05-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3141083",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3141083",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3141083",
+			"ordinal": 1,
+			"supercedence": "982666"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Vista Service Pack 2",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 4393,
+	"releaseDate": "2016-05-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

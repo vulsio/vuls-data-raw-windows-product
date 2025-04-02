@@ -1,0 +1,35 @@
+{
+	"id": "00000000-2ceb-0000-f92c-000056beb8f3",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0613",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-02-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4487017",
+			"articleUrl": "https://support.microsoft.com/help/4487017",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4487017",
+			"knownIssuesName": "4487017",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4487017",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4480966"
+		}
+	],
+	"platform": "Windows Server, version 1803  (Server Core Installation)",
+	"platformId": 11499,
+	"product": "Microsoft .NET Framework 4.7.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11513,
+	"releaseDate": "2019-02-12T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

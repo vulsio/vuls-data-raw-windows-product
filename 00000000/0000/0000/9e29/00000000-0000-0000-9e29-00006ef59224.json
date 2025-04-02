@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-9e29-00006ef59224",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft Excel 2013 Service Pack 1",
+	"baseProductVersion": "15.0.0.0",
+	"cpe": "cpe:2.3:a:microsoft:excel:2013:sp1:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3381",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3118284",
+			"articleUrl": "http://support.microsoft.com/kb/3118284",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=33f27a25-c07a-4f12-aa00-8bf507697b64",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3115262"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2013 Service Pack 1 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10654,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

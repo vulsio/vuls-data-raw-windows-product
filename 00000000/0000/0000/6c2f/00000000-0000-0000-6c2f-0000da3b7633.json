@@ -1,0 +1,64 @@
+{
+	"id": "00000000-0000-0000-6c2f-0000da3b7633",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "CBL Mariner 2.0",
+	"baseProductVersion": "2.0",
+	"baseScore": "9.1",
+	"cpe": "cpe:2.3:o:microsoft:cbl_mariner:2.0:*:*:*:*:*:*:arm",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-5535",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-1395: Dependency on Vulnerable Third-Party Component",
+				"https://cwe.mitre.org/data/definitions/1395.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-1395: Dependency on Vulnerable Third-Party Component"
+	],
+	"impactId": 0,
+	"initialReleaseDate": "2024-11-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "OpenSSL",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "cloud-hypervisor-cvm",
+			"articleUrl": "https://nvd.nist.gov/vuln/detail/CVE-2024-5535",
+			"downloadName": "CBL-Mariner",
+			"fixedBuildNumber": "38.0.72.2-3",
+			"ordinal": 0
+		},
+		{
+			"affectedBinaries": [
+				"openssl-1.1.1k-35.cm2.x86_64.rpm",
+				"openssl-libs-1.1.1k-35.cm2.x86_64.rpm",
+				"openssl-devel-1.1.1k-35.cm2.x86_64.rpm",
+				"openssl-static-1.1.1k-35.cm2.x86_64.rpm",
+				"openssl-perl-1.1.1k-35.cm2.x86_64.rpm"
+			],
+			"articleName": "openssl",
+			"articleUrl": "https://nvd.nist.gov/vuln/detail/CVE-2024-5535",
+			"downloadName": "CBL-Mariner",
+			"fixedBuildNumber": "1.1.1k-35",
+			"ordinal": 0
+		}
+	],
+	"platformId": 0,
+	"product": "CBL Mariner 2.0 ARM",
+	"productFamily": "Mariner",
+	"productFamilyId": 100000014,
+	"productId": 12140,
+	"releaseDate": "2024-11-12T08:00:00Z",
+	"releaseNumber": "2024-Nov",
+	"severityId": 0,
+	"temporalScore": "8.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:H/RL:O/RC:C"
+}

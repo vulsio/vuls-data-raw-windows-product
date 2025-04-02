@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-272a-0000db544634",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0197",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "2589382",
+			"articleUrl": "https://support.microsoft.com/kb/2589382",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=2798b533-c982-494f-a805-dd7e727a977f",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft OneNote 2010 Service Pack 2 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10791,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,21 @@
+{
+	"id": "00000000-0000-0000-a82c-00001b066c96",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8539",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2017-05-25T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Microsoft System Center Endpoint Protection",
+	"productFamily": "System Center",
+	"productFamilyId": 100000009,
+	"productId": 11432,
+	"releaseDate": "2017-05-25T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

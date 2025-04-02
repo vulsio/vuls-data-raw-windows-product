@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-ff28-0000ad27c1ad",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1451",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2020-07-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484460",
+			"articleUrl": "https://support.microsoft.com/kb/4484460",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=b4e4a624-a324-45ea-ad72-86c73dd1b457",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484414"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server 2010 Service Pack 2",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10495,
+	"releaseDate": "2020-07-14T07:00:00Z",
+	"releaseNumber": "2020-Jul",
+	"severity": "Important",
+	"severityId": 100000001
+}

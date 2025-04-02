@@ -1,0 +1,69 @@
+{
+	"id": "00000000-0000-0000-6024-0000d7aaf0a3",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows Server 2008 Service Pack 2",
+	"baseProductVersion": "6.0.6003.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_sp2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-38231",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-285: Improper Authorization",
+				"https://cwe.mitre.org/data/definitions/285.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-285: Improper Authorization"
+	],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2024-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5043135",
+			"articleUrl": "https://support.microsoft.com/help/5043135",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5043135",
+			"fixedBuildNumber": "6.0.6003.22870",
+			"knownIssuesName": "5043135",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5043135",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5041850"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5043087",
+			"articleUrl": "https://support.microsoft.com/help/5043087",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5043087",
+			"fixedBuildNumber": "6.0.6003.22870",
+			"knownIssuesName": "5043087",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5043087",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for 32-bit Systems Service Pack 2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9312,
+	"releaseDate": "2024-09-10T07:00:00Z",
+	"releaseNumber": "2024-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

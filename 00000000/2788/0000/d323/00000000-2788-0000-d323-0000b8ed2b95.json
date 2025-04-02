@@ -1,0 +1,38 @@
+{
+	"id": "00000000-2788-0000-d323-0000b8ed2b95",
+	"architectureId": 0,
+	"baseProductName": "Excel Services",
+	"baseProductVersion": "15.0.0",
+	"cpe": "cpe:2.3:a:microsoft:excel_services:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1331",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-10-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4462176",
+			"articleUrl": "https://support.microsoft.com/kb/4462176",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=e4398485-0825-4166-95d2-bce7cea251ae",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4461569"
+		}
+	],
+	"platform": "Microsoft SharePoint Server 2010 Service Pack 2",
+	"platformId": 10120,
+	"product": "Excel Services",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 9171,
+	"releaseDate": "2019-10-08T07:00:00Z",
+	"releaseNumber": "2019-Oct",
+	"severity": "Important",
+	"severityId": 100000001
+}

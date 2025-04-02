@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-7f2d-0000f6f95e38",
+	"architectureId": 0,
+	"baseScore": "7.6",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1593",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-09-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4574727",
+			"articleUrl": "https://support.microsoft.com/help/4574727",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4574727",
+			"knownIssuesName": "4574727",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4574727",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4565351"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server, version 1903 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11647,
+	"releaseDate": "2020-09-08T07:00:00Z",
+	"releaseNumber": "2020-Sep",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:L/UI:R/S:C/C:H/I:L/A:N/E:P/RL:O/RC:C"
+}

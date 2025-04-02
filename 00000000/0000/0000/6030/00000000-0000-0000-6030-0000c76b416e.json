@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-6030-0000c76b416e",
+	"architectureId": 0,
+	"baseProductName": "GroupMe",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "8.1",
+	"cpe": "cpe:2.3:a:microsoft:groupme:*:*:*:*:*:*:*:*",
+	"customerActionRequired": false,
+	"cveNumber": "CVE-2024-38176",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-307: Improper Restriction of Excessive Authentication Attempts",
+				"https://cwe.mitre.org/data/definitions/307.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-307: Improper Restriction of Excessive Authentication Attempts"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-07-23T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "GroupMe",
+	"productFamily": "Apps",
+	"productFamilyId": 100000012,
+	"productId": 12384,
+	"releaseDate": "2024-07-23T07:00:00Z",
+	"releaseNumber": "2024-Jul",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.1",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

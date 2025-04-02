@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-8024-00003de09e91",
+	"architectureId": 0,
+	"baseScore": "5.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0184",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3217841",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3217841",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3217841",
+			"ordinal": 1,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9344,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.9",
+	"vectorString": "CVSS:3.0/AV:A/AC:H/PR:H/UI:N/S:C/C:N/I:N/A:H/E:P/RL:O/RC:C"
+}

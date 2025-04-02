@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-ee2e-0000b4de1d84",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Defender for Endpoint for Mac",
+	"baseProductVersion": "101.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:defender_for_endpoint:-:*:*:*:*:macos:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-35828",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2022-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleUrl": "https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/mac-updates?view=o365-worldwide",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "101.78.13",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Defender for Endpoint for Mac",
+	"productFamily": "System Center",
+	"productFamilyId": 100000009,
+	"productId": 12014,
+	"releaseDate": "2022-09-13T07:00:00Z",
+	"releaseNumber": "2022-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

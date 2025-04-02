@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-cf2d-0000403edff8",
+	"architectureId": 0,
+	"baseProductName": "Dynamics 365 Field Service (on-premises) v7 series",
+	"baseProductVersion": "0",
+	"baseScore": "9.0",
+	"cpe": "cpe:2.3:a:microsoft:dynamics_365:7.0:*:*:*:*:field_service:*:*",
+	"customerActionRequired": false,
+	"cveNumber": "CVE-2024-38182",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-1390: Weak Authentication",
+				"https://cwe.mitre.org/data/definitions/1390.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-1390: Weak Authentication"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-07-31T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Dynamics 365 Field Service (on-premises) v7 series",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 11727,
+	"releaseDate": "2024-07-31T07:00:00Z",
+	"releaseNumber": "2024-Jul",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.8",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

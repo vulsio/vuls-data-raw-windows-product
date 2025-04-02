@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-4d2f-0000fe10ab64",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Dynamics 365 Business Central 2022 Release Wave 2",
+	"baseProductVersion": "21.0.0",
+	"baseScore": "8.0",
+	"cpe": "cpe:2.3:a:microsoft:dynamics_365_business_central:2022:release_wave_2:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-21380",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-200: Exposure of Sensitive Information to an Unauthorized Actor",
+				"https://cwe.mitre.org/data/definitions/200.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-200: Exposure of Sensitive Information to an Unauthorized Actor"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2024-02-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5035205",
+			"articleUrl": "http://support.microsoft.com/kb/5035205",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/download/details.aspx?id=105805",
+			"fixedBuildNumber": "Application Build 21.16.63199, Platform Build 21.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Dynamics 365 Business Central 2022 Release Wave 2",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 12109,
+	"releaseDate": "2024-02-13T08:00:00Z",
+	"releaseNumber": "2024-Feb",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:L/UI:R/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

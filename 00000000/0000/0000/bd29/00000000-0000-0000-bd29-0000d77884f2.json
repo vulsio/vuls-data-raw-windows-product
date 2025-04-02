@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-bd29-0000d77884f2",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1105",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2019-06-20T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook for Android",
+	"productFamily": "Apps",
+	"productFamilyId": 100000012,
+	"productId": 10685,
+	"releaseDate": "2019-06-20T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

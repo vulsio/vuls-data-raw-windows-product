@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-c62e-0000c6b36ef6",
+	"architectureId": 0,
+	"baseProductName": "Visual Studio Code WSL Extension",
+	"baseProductVersion": "0",
+	"baseScore": "9.8",
+	"cpe": "cpe:2.3:a:microsoft:windows_subsystem_for_linux:*:*:*:*:*:visual_studio_code:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-43907",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-12-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/microsoft/vscode-docs/blob/main/remote-release-notes/v1_63.md",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl",
+			"fixedBuildNumber": "0.63.11",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Visual Studio Code WSL Extension",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11974,
+	"releaseDate": "2021-12-14T08:00:00Z",
+	"releaseNumber": "2021-Dec",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,68 @@
+{
+	"id": "00000000-0000-0000-352f-00008f785638",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Windows 11 version 22H2",
+	"baseProductVersion": "10.0.22621.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_11_22H2:{bv}:*:*:*:*:*:arm64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-24059",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-681: Incorrect Conversion between Numeric Types",
+				"https://cwe.mitre.org/data/definitions/681.html"
+			]
+		},
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-125: Out-of-bounds Read",
+				"https://cwe.mitre.org/data/definitions/125.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-681: Incorrect Conversion between Numeric Types",
+		"CWE-125: Out-of-bounds Read"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2025-03-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5053602",
+			"articleUrl": "https://support.microsoft.com/help/5053602",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5053602",
+			"fixedBuildNumber": "10.0.22621.5039",
+			"knownIssuesName": "5053602",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5053602",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5051989"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 11 Version 22H2 for ARM64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 12085,
+	"releaseDate": "2025-03-11T07:00:00Z",
+	"releaseNumber": "2025-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

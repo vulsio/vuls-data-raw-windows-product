@@ -1,0 +1,45 @@
+{
+	"id": "00000000-2741-0000-8c29-0000271d1d51",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8759",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-09-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4040977",
+			"articleUrl": "https://support.microsoft.com/help/4040977",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4041083",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4040977",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4019115, 4035039, 4014984, 4032116, 4019112, 4035036, 4014981, 4032113"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4040960",
+			"articleUrl": "https://support.microsoft.com/help/4040960",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4041090",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4040960",
+			"ordinal": 2,
+			"rebootRequired": "Maybe",
+			"supercedence": "2978128"
+		}
+	],
+	"platform": "Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)",
+	"platformId": 10049,
+	"product": "Microsoft .NET Framework 4.5.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10636,
+	"releaseDate": "2017-09-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

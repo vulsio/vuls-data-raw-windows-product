@@ -1,0 +1,36 @@
+{
+	"id": "00000000-2a40-0000-f628-0000e17a1339",
+	"architectureId": 0,
+	"baseScore": "3.1",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8607",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-07-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4025339",
+			"articleUrl": "https://support.microsoft.com/help/4025339",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4025339",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4022715"
+		}
+	],
+	"platform": "Windows Server 2016",
+	"platformId": 10816,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2017-07-11T07:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002,
+	"temporalScore": "2.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:H/UI:R/S:U/C:L/I:L/A:N/E:P/RL:O/RC:C"
+}

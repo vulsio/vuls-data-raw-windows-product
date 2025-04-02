@@ -1,0 +1,69 @@
+{
+	"id": "00000000-292f-0000-572e-00009af71b14",
+	"architectureId": 0,
+	"baseProductName": "Microsoft .NET Framework 4.6.2/4.7/4.7.1/4.7.2",
+	"baseProductVersion": "4.7.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:.net:4.7.2:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-21808",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-416: Use After Free",
+				"https://cwe.mitre.org/data/definitions/416.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-416: Use After Free"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-02-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5022733",
+			"articleUrl": "https://support.microsoft.com/help/5022733",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5022513",
+			"fixedBuildNumber": "4.7.04038.03",
+			"knownIssuesName": "5022733",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5022733",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5018549, 5021093"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5022785",
+			"articleUrl": "https://support.microsoft.com/help/5022785",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5022524",
+			"fixedBuildNumber": "4.7.04038.02",
+			"knownIssuesName": "5022785",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5022785",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2012 R2 (Server Core installation)",
+	"platformId": 10543,
+	"product": "Microsoft .NET Framework 4.6.2/4.7/4.7.1/4.7.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11863,
+	"releaseDate": "2023-02-14T08:00:00Z",
+	"releaseNumber": "2023-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

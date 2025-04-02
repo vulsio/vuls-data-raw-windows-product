@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-5f24-000006d6d723",
+	"architectureId": 0,
+	"baseScore": "8.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8682",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-09-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4039384",
+			"articleUrl": "https://support.microsoft.com/help/4039384",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4039384",
+			"ordinal": 1,
+			"supercedence": "4022887"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for Itanium-Based Systems Service Pack 2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9311,
+	"releaseDate": "2017-09-12T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.6",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

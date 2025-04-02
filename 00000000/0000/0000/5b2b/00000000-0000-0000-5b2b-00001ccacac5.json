@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-5b2b-00001ccacac5",
+	"architectureId": 0,
+	"baseScore": "5.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1227",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2020-09-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484515",
+			"articleUrl": "https://support.microsoft.com/kb/4484515",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=55d9924d-418f-40ef-9eb3-3fb461a4b517",
+			"knownIssuesName": "4484515",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4484515",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484479"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Enterprise Server 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11099,
+	"releaseDate": "2020-09-08T07:00:00Z",
+	"releaseNumber": "2020-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N/E:P/RL:O/RC:C"
+}

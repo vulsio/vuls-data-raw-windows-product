@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-e92e-0000a16bd35b",
+	"architectureId": 0,
+	"baseProductName": ".NET 6.0",
+	"baseProductVersion": "6.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:.net:6.0.0:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-28260",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-04-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5025915",
+			"articleUrl": "https://support.microsoft.com/help/5025915",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://dotnet.microsoft.com/download/dotnet/6.0",
+			"fixedBuildNumber": "6.0.16",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": ".NET 6.0",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12009,
+	"releaseDate": "2023-04-11T07:00:00Z",
+	"releaseNumber": "2023-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-a827-00006ef59224",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Excel 2007 Service Pack 3",
+	"baseProductVersion": "0",
+	"cpe": "cpe:2.3:a:microsoft:excel:2007:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3381",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115459",
+			"articleUrl": "https://support.microsoft.com/kb/3115459",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=a2d85409-5354-4fd2-ae8d-e6373a257601",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3115306"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2007 Service Pack 3",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10152,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

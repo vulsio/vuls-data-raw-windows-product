@@ -1,0 +1,35 @@
+{
+	"id": "00000000-2ac8-0000-822d-0000e4d348dd",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1083",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2019-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4506986",
+			"articleUrl": "https://support.microsoft.com/help/4506986",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4506986",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4495610; 4502560"
+		}
+	],
+	"platform": "Windows 10 Version 1703 for x64-based Systems",
+	"platformId": 10952,
+	"product": "Microsoft .NET Framework 4.8",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11650,
+	"releaseDate": "2019-07-09T07:00:00Z",
+	"releaseNumber": "2019-Jul",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,46 @@
+{
+	"id": "00000000-28f3-0000-092d-0000f4f888a9",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8421",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-09-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4457034",
+			"articleUrl": "https://support.microsoft.com/help/4457034",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4457920",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/help/4457034",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4345592, 4346082"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4457026",
+			"articleUrl": "https://support.microsoft.com/help/4457026",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4457916",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/help/4457026",
+			"ordinal": 2,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2012 R2",
+	"platformId": 10483,
+	"product": "Microsoft .NET Framework 4.6/4.6.1/4.6.2/4.7/4.7.1/4.7.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11529,
+	"releaseDate": "2018-09-11T07:00:00Z",
+	"releaseNumber": "2018-Sep",
+	"severity": "Critical",
+	"severityId": 100000000
+}

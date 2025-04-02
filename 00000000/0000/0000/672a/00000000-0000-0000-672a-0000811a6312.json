@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-672a-0000811a6312",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2016 (Server Core installation)",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2016:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-1696",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2021-01-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4598243",
+			"articleUrl": "https://support.microsoft.com/help/4598243",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4598243",
+			"knownIssuesName": "4598243",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4598243",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4593226"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2016 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10855,
+	"releaseDate": "2021-01-12T08:00:00Z",
+	"releaseNumber": "2021-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-6d29-0000dd49e2e8",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7193",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-10-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3118345",
+			"articleUrl": "https://support.microsoft.com/kb/3118345",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=442251d2-1722-4555-8b9d-cd05e3f96b79",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3115449"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2013 Service Pack 1 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10605,
+	"releaseDate": "2016-10-11T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

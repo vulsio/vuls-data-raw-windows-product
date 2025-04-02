@@ -1,0 +1,50 @@
+{
+	"id": "00000000-0000-0000-352d-0000f4b0e712",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft Office 2019",
+	"baseProductVersion": "19.0.0",
+	"cpe": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-27909",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-122: Heap-based Buffer Overflow",
+				"https://cwe.mitre.org/data/definitions/122.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-122: Heap-based Buffer Overflow"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-06-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "AutoDesk",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Click to Run",
+			"articleUrl": "https://docs.microsoft.com/en-us/officeupdates/microsoft365-apps-security-updates",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "https://aka.ms/OfficeSecurityReleases",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2019 for 32-bit editions",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11573,
+	"releaseDate": "2023-06-13T07:00:00Z",
+	"releaseNumber": "2023-Jun",
+	"severity": "Important",
+	"severityId": 100000001
+}

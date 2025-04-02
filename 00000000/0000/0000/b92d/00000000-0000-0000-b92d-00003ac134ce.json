@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-b92d-00003ac134ce",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0903",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2020-03-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4540123",
+			"articleUrl": "https://support.microsoft.com/help/4540123",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=1b3343d4-9e23-4d54-971a-7cb88735fb0e",
+			"knownIssuesName": "4540123",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4540123",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4536987"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2016 Cumulative Update 14",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11705,
+	"releaseDate": "2020-03-10T07:00:00Z",
+	"releaseNumber": "2020-Mar",
+	"severity": "Important",
+	"severityId": 100000001
+}

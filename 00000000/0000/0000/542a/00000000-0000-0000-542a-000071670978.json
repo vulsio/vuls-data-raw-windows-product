@@ -1,0 +1,54 @@
+{
+	"id": "00000000-0000-0000-542a-000071670978",
+	"architectureId": 0,
+	"baseProductName": "Office Online Server",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "8.4",
+	"cpe": "cpe:2.3:a:microsoft:office:2021:*:*:*:ltsc:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-21362",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-416: Use After Free",
+				"https://cwe.mitre.org/data/definitions/416.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-416: Use After Free"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2025-01-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002677",
+			"articleUrl": "https://support.microsoft.com/help/5002677",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=861661d1-b9e1-4ea3-aa23-0d1554e9afd5",
+			"fixedBuildNumber": "16.0.10416.20047",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002648"
+		}
+	],
+	"platformId": 0,
+	"product": "Office Online Server",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10836,
+	"releaseDate": "2025-01-14T08:00:00Z",
+	"releaseNumber": "2025-Jan",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RC:C"
+}

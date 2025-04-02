@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-f428-0000ec314332",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Windows 8.1",
+	"baseProductVersion": "6.3.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_rt_8.1:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-41045",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2022-11-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5020010",
+			"articleUrl": "https://support.microsoft.com/help/5020010",
+			"downloadName": "Security Only",
+			"fixedBuildNumber": "6.3.9600.20670",
+			"knownIssuesName": "5020010",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5020010",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows RT 8.1",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10484,
+	"releaseDate": "2022-11-08T08:00:00Z",
+	"releaseNumber": "2022-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

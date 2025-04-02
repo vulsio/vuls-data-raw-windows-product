@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-4027-0000267eb984",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 7 Service Pack 1",
+	"baseProductVersion": "6.1.0",
+	"baseScore": "7.3",
+	"cpe": "cpe:2.3:o:microsoft:windows_7:{bv}:sp1:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3345",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"srv.sys;srv2.sys;srvnet.sys"
+			],
+			"articleName": "3177186",
+			"articleUrl": "https://support.microsoft.com/kb/3177186",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=a1758d07-f328-4584-a87d-15448228fa14",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "2536275"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 7 for x64-based Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10048,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.1",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:R"
+}

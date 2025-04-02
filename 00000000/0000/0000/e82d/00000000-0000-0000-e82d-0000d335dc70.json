@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-e82d-0000d335dc70",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0935",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://support.office.com/en-us/article/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://support.office.com/en-us/article/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "OneDrive for Windows",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11752,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Important",
+	"severityId": 100000001
+}

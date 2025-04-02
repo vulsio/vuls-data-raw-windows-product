@@ -1,0 +1,50 @@
+{
+	"id": "00000000-0000-0000-3f27-0000251110f3",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1271",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-06-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4561643",
+			"articleUrl": "https://support.microsoft.com/help/4561643",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4561643",
+			"knownIssuesName": "4561643",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4561643",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4556836"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4561669",
+			"articleUrl": "https://support.microsoft.com/help/4561669",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4561669",
+			"knownIssuesName": "4561669",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4561669",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 7 for 32-bit Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10047,
+	"releaseDate": "2020-06-09T07:00:00Z",
+	"releaseNumber": "2020-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

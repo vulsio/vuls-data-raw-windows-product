@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-232d-0000df7a0128",
+	"architectureId": 0,
+	"baseProductName": "Microsoft SQL Server 2016 for x64-based Systems Service Pack 2 (GDR)",
+	"baseProductVersion": "13.0.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:sql_server:2016:sp2:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-29143",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2022-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5014365",
+			"articleUrl": "https://support.microsoft.com/help/5014365",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=8fc4928c-6957-4d19-8e57-e91a7137927d",
+			"fixedBuildNumber": "13.0.5108.50",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4583460"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2016 for x64-based Systems Service Pack 2 (GDR)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 11555,
+	"releaseDate": "2022-06-14T07:00:00Z",
+	"releaseNumber": "2022-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

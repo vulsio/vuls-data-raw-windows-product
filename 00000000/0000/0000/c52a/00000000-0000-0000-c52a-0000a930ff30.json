@@ -1,0 +1,30 @@
+{
+	"id": "00000000-0000-0000-c52a-0000a930ff30",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7300",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-12-13T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "MAU",
+			"articleUrl": "https://support.office.com/en-us/article/Check-for-Office-for-Mac-updates-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://go.microsoft.com/fwlink/p/?linkid=830196",
+			"ordinal": 1
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft AutoUpdate for Mac",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10949,
+	"releaseDate": "2016-12-13T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

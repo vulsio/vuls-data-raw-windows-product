@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-f329-0000a8577f91",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8375",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-08-14T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4032229",
+			"articleUrl": "https://support.microsoft.com/help/4032229",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=db7a31a3-4e97-4830-887a-bc82f2be2f97",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4022174"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2016 (32-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10739,
+	"releaseDate": "2018-08-14T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

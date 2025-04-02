@@ -1,0 +1,30 @@
+{
+	"id": "00000000-0000-0000-c62a-00003d96750f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV170008",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impactId": 0,
+	"initialReleaseDate": "2017-06-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3203432",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3203432",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=54cb363d-6280-4571-a66a-5685e5107b29",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3191880"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Enterprise Server 2016",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10950,
+	"releaseDate": "2017-06-13T07:00:00Z",
+	"severityId": 0
+}

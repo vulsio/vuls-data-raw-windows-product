@@ -1,0 +1,40 @@
+{
+	"id": "00000000-2d3f-0000-e429-0000b46d304c",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Edge (EdgeHTML-based)",
+	"baseProductVersion": "1.0..0",
+	"baseScore": "4.2",
+	"cpe": "cpe:2.3:a:microsoft:edge:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8555",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-11-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4467686",
+			"articleUrl": "https://support.microsoft.com/help/4467686",
+			"downloadName": "Security Update",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4462918"
+		}
+	],
+	"platform": "Windows 10 Version 1709 for ARM64-based Systems",
+	"platformId": 11583,
+	"product": "Microsoft Edge (EdgeHTML-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10724,
+	"releaseDate": "2018-11-13T08:00:00Z",
+	"releaseNumber": "2018-Nov",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "3.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:L/I:L/A:N/E:P/RL:O/RC:C"
+}

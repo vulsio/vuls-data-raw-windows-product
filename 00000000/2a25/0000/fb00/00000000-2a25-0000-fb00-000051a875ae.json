@@ -1,0 +1,22 @@
+{
+	"id": "00000000-2a25-0000-fb00-000051a875ae",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8540",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-05-25T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [],
+	"platform": "Windows 10 Version 1511 for 32-bit Systems",
+	"platformId": 10789,
+	"product": "Windows Defender",
+	"productFamily": "System Center",
+	"productFamilyId": 100000009,
+	"productId": 251,
+	"releaseDate": "2017-05-25T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

@@ -1,0 +1,40 @@
+{
+	"id": "00000000-29e9-0000-e429-00007350570f",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Edge (EdgeHTML-based)",
+	"baseProductVersion": "1.0..0",
+	"cpe": "cpe:2.3:a:microsoft:edge:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3203",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"gpsvc.dll;gpprefcl.dll;gpscript.dll;see;repro;steps;winhttp.dll;ws2_32.dll;netbt.sys;wow6432;mswsock.dll;shell32.dll;windows.storage.dll;ieframe.dll;mshtml.dll;edgehtml.dll;vbscript.dll;jscript9.dll;msfeeds.dll;emodel.dll;polstore.dll;srv.sys;srv2.sys;srvnet.sys;ksecpkg.sys;gdi32.dll;diagnosticshub.standardcollector.runtime.dll;win32kfull.sys;win32kbase.sys;vpcivsp.sys;atmfd.dll;fontdrvhost.exe;d3d10warp.dll;structuredquery.dll;windows.data.pdf.dll;chakra.dll"
+			],
+			"articleName": "3163017",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3163017",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3163017",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3156387"
+		}
+	],
+	"platform": "Windows 10 for 32-bit Systems",
+	"platformId": 10729,
+	"product": "Microsoft Edge (EdgeHTML-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10724,
+	"releaseDate": "2016-06-14T07:00:00Z",
+	"releaseNumber": "2016-Jun",
+	"severity": "Critical",
+	"severityId": 100000000
+}

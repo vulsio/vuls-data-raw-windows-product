@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-a827-0000314fea20",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0907",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2018-03-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011714",
+			"articleUrl": "https://support.microsoft.com/help/4011714",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=6fd1a1ce-868c-4d96-a874-a7b02a44b6fd",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011602"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2007 Service Pack 3",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10152,
+	"releaseDate": "2018-03-13T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-b42a-00008d77445e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7254",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-11-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3194724",
+			"articleUrl": "https://support.microsoft.com/kb/3194724",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3194724",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2012 for 32-bit Systems Service Pack 3 (CU)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 10932,
+	"releaseDate": "2016-11-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

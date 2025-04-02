@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-2c27-0000853b637c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0207",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3212218",
+			"articleUrl": "http://support.microsoft.com/kb/3212218",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=5d913b8a-1c31-497d-99a6-713992bcc650",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3198809"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook for Mac 2011",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10028,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002
+}

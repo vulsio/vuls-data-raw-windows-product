@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-f828-00005c85b795",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Access 2010 Service Pack 2",
+	"baseProductVersion": "13.0.0.0",
+	"cpe": "cpe:2.3:a:microsoft:access:2010:sp2:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1582",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-08-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484385",
+			"articleUrl": "https://support.microsoft.com/kb/4484385",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=da574e5d-5ef4-4eb4-bc1c-7ef1cca6c906",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4464527"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Access 2010 Service Pack 2 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10488,
+	"productVersion": "13.0.0.0",
+	"releaseDate": "2020-08-11T07:00:00Z",
+	"releaseNumber": "2020-Aug",
+	"severity": "Important",
+	"severityId": 100000001
+}

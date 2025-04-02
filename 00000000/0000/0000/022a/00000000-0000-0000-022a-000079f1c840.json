@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-022a-000079f1c840",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0991",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484287",
+			"articleUrl": "https://support.microsoft.com/kb/4484287",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=f616f11f-e3fb-42c9-a38a-4663b1842237",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484180"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10754,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Important",
+	"severityId": 100000001
+}

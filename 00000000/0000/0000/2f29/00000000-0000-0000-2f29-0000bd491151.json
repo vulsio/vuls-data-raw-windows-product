@@ -1,0 +1,47 @@
+{
+	"id": "00000000-0000-0000-2f29-0000bd491151",
+	"architectureId": 0,
+	"baseScore": "4.7",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0601",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-02-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4489881",
+			"articleUrl": "https://support.microsoft.com/help/4489881",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4489881",
+			"knownIssuesName": "4489881",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4489881",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4487000"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4489883",
+			"articleUrl": "https://support.microsoft.com/help/4489883",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4489883",
+			"knownIssuesName": "4489883",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4489883",
+			"ordinal": 2
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 R2 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10543,
+	"releaseDate": "2019-02-12T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.2",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

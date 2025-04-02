@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-a827-0000feac26ca",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV170021",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2017-12-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011602",
+			"articleUrl": "https://support.microsoft.com/help/4011602",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=f1afffcc-b6d4-4c0a-9961-e19a965d80c4",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011199"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2007 Service Pack 3",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10152,
+	"releaseDate": "2017-12-12T08:00:00Z",
+	"releaseNumber": "2017-Dec",
+	"severity": "None",
+	"severityId": 100000004
+}

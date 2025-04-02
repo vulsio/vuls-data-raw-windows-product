@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-f328-00002b505a9a",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2012 R2",
+	"baseProductVersion": "6.3.9600.0",
+	"baseScore": "6.7",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2012_R2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-20669",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-693: Protection Mechanism Failure",
+				"https://cwe.mitre.org/data/definitions/693.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-693: Protection Mechanism Failure"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2024-04-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5036960",
+			"articleUrl": "https://support.microsoft.com/help/5036960",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5036960",
+			"fixedBuildNumber": "6.3.9600.21924",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5035885"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 R2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10483,
+	"releaseDate": "2024-04-09T07:00:00Z",
+	"releaseNumber": "2024-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

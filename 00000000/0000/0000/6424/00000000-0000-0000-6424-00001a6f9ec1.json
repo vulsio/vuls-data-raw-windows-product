@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-6424-00001a6f9ec1",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0142",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-10-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3190847",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3190847",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=aa29a37e-c841-4ee9-8076-e09cde3af981",
+			"ordinal": 1,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Vista x64 Edition Service Pack 2",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 9316,
+	"releaseDate": "2016-10-11T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

@@ -1,0 +1,42 @@
+{
+	"id": "00000000-2743-0000-092d-00001094d258",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0646",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-01-14T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4535102",
+			"articleUrl": "https://support.microsoft.com/help/4535102",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4532932",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4524741; 4533095"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4534976",
+			"articleUrl": "https://support.microsoft.com/help/4534976",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4532971",
+			"ordinal": 2,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2008 R2 for x64-based Systems Service Pack 1",
+	"platformId": 10051,
+	"product": "Microsoft .NET Framework 4.6/4.6.1/4.6.2/4.7/4.7.1/4.7.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11529,
+	"releaseDate": "2020-01-14T08:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

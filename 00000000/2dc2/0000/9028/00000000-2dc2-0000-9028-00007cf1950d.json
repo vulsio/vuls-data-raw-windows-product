@@ -1,0 +1,35 @@
+{
+	"id": "00000000-2dc2-0000-9028-00007cf1950d",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV200010",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-06-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4561600",
+			"articleUrl": "https://support.microsoft.com/help/4561600",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4561600",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4537759"
+		}
+	],
+	"platform": "Windows 10 Version 1909 for ARM64-based Systems",
+	"platformId": 11714,
+	"product": "Adobe Flash Player",
+	"productFamily": "Other",
+	"productFamilyId": 100000000,
+	"productId": 10384,
+	"releaseDate": "2020-06-09T07:00:00Z",
+	"releaseNumber": "2020-Jun",
+	"severity": "Critical",
+	"severityId": 100000000
+}

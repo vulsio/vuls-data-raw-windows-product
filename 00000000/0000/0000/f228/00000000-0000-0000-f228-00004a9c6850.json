@@ -1,0 +1,59 @@
+{
+	"id": "00000000-0000-0000-f228-00004a9c6850",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 8.1",
+	"baseProductVersion": "6.3.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_8.1:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1467",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-08-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				";.\\srm\\bin\\srmsvc.dll;aaedge.dll;aatspp.dll;AppxDeploymentExtensions.dll;atmfd.dll;cmicomponents\\security-configuration-engine-client.man;cscsvc.dll;dnsapi.dll;dnsrslvr.dll;dwrite.dll;fdSSDP.dll;fntcache.dll;gdi32.dll;gdiplus.dll;ipmontr.dll;kerberos.dll;loc\\src\\bin\\netmsg.dll.mui;loc\\src\\bin\\wsecedit.dll.mui;localspl.dll;lsadb.dll;lsasrv.dll;mf3216.dll;mfmp4srcsnk.dll;mp4sdecd.dll;msisip.dll;msjet40.dll;msrd3x40.dll;msv1_0.dll;msxbde40.dll;netlogon.dll;nfssvr.sys;ntkrnlmp.exe;PrintBrmEngine.exe;RAMgmtPSProvider.dll;Rasapi32.dll;rasdlg.dll;rasgcw.dll;rasmans.dll;rasmxs.dll;rasplap.dll;rasser.dll;sdengin2.dll;tapisrv.dll;Upnphost.dll;wiaservc.dll;win32k.sys;Windows.Data.Pdf.dll;Windows.UI.Immersive.dll;wmadmod.dll;wmisvc.dll;workfolderssvc.dll;wsecedit.dll"
+			],
+			"articleName": "4571703",
+			"articleUrl": "https://support.microsoft.com/help/4571703",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4571703",
+			"knownIssuesName": "4571703",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4571703",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4565541"
+		},
+		{
+			"affectedBinaries": [
+				";.\\srm\\bin\\srmsvc.dll;aaedge.dll;aatspp.dll;AppxDeploymentExtensions.dll;atmfd.dll;cmicomponents\\security-configuration-engine-client.man;cscsvc.dll;dnsapi.dll;dnsrslvr.dll;dwrite.dll;fdSSDP.dll;fntcache.dll;gdi32.dll;gdiplus.dll;ipmontr.dll;kerberos.dll;loc\\src\\bin\\netmsg.dll.mui;loc\\src\\bin\\wsecedit.dll.mui;localspl.dll;lsadb.dll;lsasrv.dll;mf3216.dll;mfmp4srcsnk.dll;mp4sdecd.dll;msisip.dll;msjet40.dll;msrd3x40.dll;msv1_0.dll;msxbde40.dll;netlogon.dll;nfssvr.sys;ntkrnlmp.exe;PrintBrmEngine.exe;RAMgmtPSProvider.dll;Rasapi32.dll;rasdlg.dll;rasgcw.dll;rasmans.dll;rasmxs.dll;rasplap.dll;rasser.dll;sdengin2.dll;tapisrv.dll;Upnphost.dll;wiaservc.dll;win32k.sys;Windows.Data.Pdf.dll;Windows.UI.Immersive.dll;wmadmod.dll;wmisvc.dll;workfolderssvc.dll;wsecedit.dll"
+			],
+			"articleName": "4571723",
+			"articleUrl": "https://support.microsoft.com/help/4571723",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4571723",
+			"knownIssuesName": "4571723",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4571723",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 8.1 for x64-based systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10482,
+	"productVersion": "6.3.0",
+	"releaseDate": "2020-08-11T07:00:00Z",
+	"releaseNumber": "2020-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

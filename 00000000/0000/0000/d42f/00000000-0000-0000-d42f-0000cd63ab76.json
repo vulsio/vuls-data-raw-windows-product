@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-d42f-0000cd63ab76",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2022, 23H2 Edition (Server Core installation)",
+	"baseProductVersion": "10.0.25398.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_23h2:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-38244",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5043055",
+			"articleUrl": "https://support.microsoft.com/help/5043055",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5043055",
+			"fixedBuildNumber": "10.0.25398.1128",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5041573"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2022, 23H2 Edition (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 12244,
+	"releaseDate": "2024-09-10T07:00:00Z",
+	"releaseNumber": "2024-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

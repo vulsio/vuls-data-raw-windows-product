@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-bb2f-00007edb8416",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Dynamics 365 Business Central 2023 Release Wave 1",
+	"baseProductVersion": "22.0.0",
+	"baseScore": "7.3",
+	"cpe": "cpe:2.3:a:microsoft:dynamics_365_business_central:2023:release_wave_1:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-35248",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-1390: Weak Authentication",
+				"https://cwe.mitre.org/data/definitions/1390.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-1390: Weak Authentication"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-06-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5038529",
+			"articleUrl": "http://support.microsoft.com/kb/5038529",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/download/details.aspx?id=106031",
+			"fixedBuildNumber": "Application Build 22.13.64344, Platform Build 22.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Dynamics 365 Business Central 2023 Release Wave 1",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 12219,
+	"releaseDate": "2024-06-11T07:00:00Z",
+	"releaseNumber": "2024-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.4",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-8d2e-0000dbe1b22f",
+	"architectureId": 0,
+	"baseScore": "5.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-36946",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2021-08-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5005373",
+			"articleUrl": "https://support.microsoft.com/en-us/help/5005373",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/download/details.aspx?id=103355",
+			"fixedBuildNumber": "Application Build 16.15.28500, Platform Build 16.0",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "5004716"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Dynamics 365 Business Central 2020 Release Wave 1 - Update 16.15",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 11917,
+	"releaseDate": "2021-08-10T07:00:00Z",
+	"releaseNumber": "2021-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N/E:P/RL:O/RC:C"
+}

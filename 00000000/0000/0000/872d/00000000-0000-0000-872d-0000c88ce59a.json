@@ -1,0 +1,52 @@
+{
+	"id": "00000000-0000-0000-872d-0000c88ce59a",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Edge (Chromium-based)",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "5.4",
+	"cpe": "cpe:2.3:a:microsoft:edge_chromium:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-26643",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-449: The UI Performs the Wrong Action",
+				"https://cwe.mitre.org/data/definitions/449.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-449: The UI Performs the Wrong Action"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2025-03-07T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "134.0.3124.51",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Edge (Chromium-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 11655,
+	"releaseDate": "2025-03-07T08:00:00Z",
+	"releaseNumber": "2025-Mar",
+	"severity": "Low",
+	"severityId": 100000003,
+	"temporalScore": "4.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N/E:U/RL:O/RC:C"
+}

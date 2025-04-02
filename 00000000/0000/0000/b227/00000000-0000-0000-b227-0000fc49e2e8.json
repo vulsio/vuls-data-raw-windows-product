@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-b227-0000fc49e2e8",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7291",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-12-13T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3128025",
+			"articleUrl": "https://support.microsoft.com/kb/3128025",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=e4d2b808-616d-4583-b3b0-12417fe4789f",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3127949"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2007 Service Pack 3",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10162,
+	"releaseDate": "2016-12-13T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-d52d-00006e6670e3",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0688",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4536989",
+			"articleUrl": "https://support.microsoft.com/help/4536989",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=4d072d3e-153e-4a5a-859e-ad054fe24107",
+			"knownIssuesName": "4536989",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4536989",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4509410"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2010 Service Pack 3 Update Rollup 30",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11733,
+	"releaseDate": "2020-02-11T08:00:00Z",
+	"releaseNumber": "2020-Feb",
+	"severity": "Important",
+	"severityId": 100000001
+}

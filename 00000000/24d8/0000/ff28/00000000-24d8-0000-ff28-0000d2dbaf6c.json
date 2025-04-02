@@ -1,0 +1,33 @@
+{
+	"id": "00000000-24d8-0000-ff28-0000d2dbaf6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3279",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2016-07-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115312",
+			"articleUrl": "http://support.microsoft.com/kb/3115312",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=c4b4bb7a-30f8-4e58-8c0b-7e33342f7a1d",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3115196"
+		}
+	],
+	"platform": "Word Automation Services",
+	"platformId": 9432,
+	"product": "Microsoft SharePoint Server 2010 Service Pack 2",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10495,
+	"releaseDate": "2016-07-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

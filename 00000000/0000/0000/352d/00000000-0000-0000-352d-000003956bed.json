@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-352d-000003956bed",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft Office 2019",
+	"baseProductVersion": "19.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:office_2019:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-21386",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-416: Use After Free",
+				"https://cwe.mitre.org/data/definitions/416.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-416: Use After Free"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2025-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Click to Run",
+			"articleUrl": "https://docs.microsoft.com/en-us/officeupdates/microsoft365-apps-security-updates",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "https://aka.ms/OfficeSecurityReleases",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2019 for 32-bit editions",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11573,
+	"releaseDate": "2025-02-11T08:00:00Z",
+	"releaseNumber": "2025-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

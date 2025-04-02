@@ -1,0 +1,40 @@
+{
+	"id": "00000000-2df7-0000-9c2d-0000f0d4957e",
+	"architectureId": 0,
+	"baseScore": "4.7",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-16937",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2020-10-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4578968",
+			"articleUrl": "https://support.microsoft.com/help/4578968",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4578968",
+			"knownIssuesName": "4578968",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4578968",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4576478, 4576945\n"
+		}
+	],
+	"platform": "Windows 10 Version 2004 for ARM64-based Systems",
+	"platformId": 11767,
+	"product": "Microsoft .NET Framework 3.5 AND 4.8",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11676,
+	"releaseDate": "2020-10-13T07:00:00Z",
+	"releaseNumber": "2020-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.2",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

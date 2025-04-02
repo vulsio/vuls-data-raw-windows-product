@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-902d-0000e795e648",
+	"architectureId": 0,
+	"baseScore": "7.1",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-16862",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-09-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4574742",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4574742",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/download/details.aspx?id=102000",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Dynamics 365 (on-premises) version 9.0",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 11664,
+	"releaseDate": "2020-09-08T07:00:00Z",
+	"releaseNumber": "2020-Sep",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.4",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:L/E:P/RL:O/RC:C"
+}

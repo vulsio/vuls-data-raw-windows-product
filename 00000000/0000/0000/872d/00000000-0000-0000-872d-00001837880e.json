@@ -1,0 +1,52 @@
+{
+	"id": "00000000-0000-0000-872d-00001837880e",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Edge (Chromium-based)",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "8.2",
+	"cpe": "cpe:2.3:a:microsoft:edge_chromium:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-26192",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-359: Exposure of Private Personal Information to an Unauthorized Actor",
+				"https://cwe.mitre.org/data/definitions/359.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-359: Exposure of Private Personal Information to an Unauthorized Actor"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2024-02-23T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "122.0.2365.52",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Edge (Chromium-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 11655,
+	"releaseDate": "2024-02-23T08:00:00Z",
+	"releaseNumber": "2024-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.1",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:N/A:L/E:U/RL:O/RC:C"
+}

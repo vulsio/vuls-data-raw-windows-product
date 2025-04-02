@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-f329-00000adfbdd6",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft Excel 2016",
+	"baseProductVersion": "16.0.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:excel:2016:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-33133",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-122: Heap-based Buffer Overflow",
+				"https://cwe.mitre.org/data/definitions/122.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-122: Heap-based Buffer Overflow"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-06-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002405",
+			"articleUrl": "https://support.microsoft.com/help/5002405",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=0204046f-b4a1-47a1-a985-307c34e92ebe",
+			"fixedBuildNumber": "16.0.5400.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002386"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2016 (32-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10739,
+	"releaseDate": "2023-06-13T07:00:00Z",
+	"releaseNumber": "2023-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

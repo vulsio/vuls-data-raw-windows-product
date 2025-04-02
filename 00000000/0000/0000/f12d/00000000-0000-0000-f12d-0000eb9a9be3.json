@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-f12d-0000eb9a9be3",
+	"architectureId": 0,
+	"baseProductName": ".NET 5.0",
+	"baseProductVersion": "5.0.0",
+	"baseScore": "5.7",
+	"cpe": "cpe:2.3:a:microsoft:.net:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-41355",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2021-10-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/dotnet/announcements/issues/202",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://dotnet.microsoft.com/download/dotnet/5.0",
+			"fixedBuildNumber": "5.0.11",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": ".NET 5.0",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11761,
+	"releaseDate": "2021-10-12T07:00:00Z",
+	"releaseNumber": "2021-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.0",
+	"vectorString": "CVSS:3.1/AV:A/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

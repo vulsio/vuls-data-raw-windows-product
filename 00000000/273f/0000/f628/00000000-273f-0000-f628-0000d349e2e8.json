@@ -1,0 +1,46 @@
+{
+	"id": "00000000-273f-0000-f628-0000d349e2e8",
+	"architectureId": 0,
+	"baseScore": "4.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7199",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-11-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3197868",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3197868",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3197868",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/kb/3197868",
+			"ordinal": 1,
+			"supercedence": "3185330"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "3197867",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3197867",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3197867",
+			"ordinal": 2,
+			"rebootRequired": "Yes",
+			"supercedence": "3184122"
+		}
+	],
+	"platform": "Windows 7 for 32-bit Systems Service Pack 1",
+	"platformId": 10047,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2016-11-08T08:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002,
+	"temporalScore": "3.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N/E:P/RL:O/RC:C"
+}

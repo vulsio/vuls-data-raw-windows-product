@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-1d29-00002ff988a9",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8628",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-12-11T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "2965312",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/2965312",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=201ed47a-5a72-4668-8973-44410fc5b108",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4461527"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Web Apps 2010 Service Pack 2",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10525,
+	"releaseDate": "2018-12-11T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

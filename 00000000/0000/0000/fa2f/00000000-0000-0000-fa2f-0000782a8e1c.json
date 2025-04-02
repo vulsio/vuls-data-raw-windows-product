@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-fa2f-0000782a8e1c",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Identity Model v7.0.0",
+	"baseProductVersion": "0",
+	"baseScore": "6.8",
+	"cpe": "cpe:2.3:a:microsoft:identitymodel:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-21319",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation"
+	],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2024-01-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet",
+			"fixedBuildNumber": "7.1.2",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Identity Model v7.0.0",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12282,
+	"releaseDate": "2024-01-09T08:00:00Z",
+	"releaseNumber": "2024-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.9",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:C/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

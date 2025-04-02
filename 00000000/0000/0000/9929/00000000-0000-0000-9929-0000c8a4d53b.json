@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-9929-0000c8a4d53b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0585",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-01-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4461620",
+			"articleUrl": "https://support.microsoft.com/help/4461620",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=cd09326c-6f38-472d-91ba-00dd5a99a7ba",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "2965312"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Web Apps Server 2010 Service Pack 2",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10649,
+	"releaseDate": "2019-01-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

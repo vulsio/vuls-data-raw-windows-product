@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-6929-0000f1029dbb",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7245",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-11-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115153",
+			"articleUrl": "https://support.microsoft.com/kb/3115153",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=4c88ad0b-066a-43c8-82e6-79b7265144e4",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3039734"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2013 Service Pack 1 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10601,
+	"releaseDate": "2016-11-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

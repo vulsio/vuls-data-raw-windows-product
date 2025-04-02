@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-0001-00005f6708ca",
+	"architectureId": 0,
+	"baseProductName": "Microsoft PowerPoint Viewer",
+	"baseProductVersion": "0",
+	"cpe": "cpe:2.3:a:microsoft:powerpoint_viewer:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3360",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3054969",
+			"articleUrl": "http://support.microsoft.com/kb/3054969",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=6e15d728-e557-4a58-9379-256e239a17ac",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3054840"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft PowerPoint Viewer",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 256,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-f428-0000710f15a5",
+	"architectureId": 0,
+	"baseScore": "5.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-36962",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2021-09-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5005613",
+			"articleUrl": "https://support.microsoft.com/help/5005613",
+			"downloadName": "Monthly Rollup",
+			"fixedBuildNumber": "6.3.9600.20120",
+			"knownIssuesName": "5005613",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5005613",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5005076"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows RT 8.1",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10484,
+	"productVersion": "6.3.0",
+	"releaseDate": "2021-09-14T07:00:00Z",
+	"releaseNumber": "2021-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-1230-0000b5b3c5a8",
+	"architectureId": 0,
+	"baseProductName": "Azure Data Studio",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.3",
+	"cpe": "cpe:2.3:a:microsoft:azure_data_studio:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-26203",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-284: Improper Access Control",
+				"https://cwe.mitre.org/data/definitions/284.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-284: Improper Access Control"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-03-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/microsoft/azuredatastudio/releases/tag/1.48.0",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/microsoft/azuredatastudio/releases/tag/1.48.0",
+			"fixedBuildNumber": "1.48.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Data Studio",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12306,
+	"releaseDate": "2024-03-12T07:00:00Z",
+	"releaseNumber": "2024-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:H/RL:O/RC:C"
+}

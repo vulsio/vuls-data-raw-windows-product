@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-e92c-0000b6f988a9",
+	"architectureId": 0,
+	"baseScore": "8.1",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8225",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-06-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4284835",
+			"articleUrl": "https://support.microsoft.com/help/4284835",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4284835",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4103721"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1803 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11497,
+	"releaseDate": "2018-06-12T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.3",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

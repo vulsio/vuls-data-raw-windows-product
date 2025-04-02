@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-0e2a-00009b90567e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0559",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-01-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4461601",
+			"articleUrl": "https://support.microsoft.com/help/4461601",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=a34c5286-3019-4ae8-877c-5f91dc8eff09",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4461544"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10766,
+	"releaseDate": "2019-01-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

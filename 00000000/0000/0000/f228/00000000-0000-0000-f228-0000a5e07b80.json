@@ -1,0 +1,50 @@
+{
+	"id": "00000000-0000-0000-f228-0000a5e07b80",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1400",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-07-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4565541",
+			"articleUrl": "https://support.microsoft.com/help/4565541",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4565541",
+			"knownIssuesName": "4565541",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4565541",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4561666"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4565540",
+			"articleUrl": "https://support.microsoft.com/help/4565540",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4565540",
+			"knownIssuesName": "4565540",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4565540",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 8.1 for x64-based systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10482,
+	"releaseDate": "2020-07-14T07:00:00Z",
+	"releaseNumber": "2020-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

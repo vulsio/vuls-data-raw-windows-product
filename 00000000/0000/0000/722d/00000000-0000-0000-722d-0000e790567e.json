@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-722d-0000e790567e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0757",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Tampering",
+	"impactId": 100000009,
+	"initialReleaseDate": "2019-03-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/nuget/release-notes/nuget-4.3-rtm",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://dist.nuget.org/win-x86-commandline/v4.3.1/nuget.exe",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Nuget 4.3.1",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11634,
+	"releaseDate": "2019-03-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

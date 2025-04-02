@@ -1,0 +1,21 @@
+{
+	"id": "00000000-0000-0000-bf28-000027066c96",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8535",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2017-05-25T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2013",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 10431,
+	"releaseDate": "2017-05-25T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

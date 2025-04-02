@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-bf2e-0000ad57a984",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Defender for IoT",
+	"baseProductVersion": "22.0.0",
+	"cpe": "cpe:2.3:a:microsoft:defender_for_iot:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-44228",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-12-16T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Apache Software Foundation",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/azure/defender-for-iot/organizations/release-notes#october-2021",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://docs.microsoft.com/en-us/azure/defender-for-iot/organizations/how-to-manage-the-on-premises-management-console#update-the-software-version",
+			"fixedBuildNumber": "10.5.2",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Defender for IoT",
+	"productFamily": "System Center",
+	"productFamilyId": 100000009,
+	"productId": 11967,
+	"releaseDate": "2021-12-16T08:00:00Z",
+	"releaseNumber": "2021-Dec",
+	"severity": "Critical",
+	"severityId": 100000000
+}

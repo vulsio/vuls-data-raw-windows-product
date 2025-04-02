@@ -1,0 +1,30 @@
+{
+	"id": "00000000-0000-0000-6624-0000b2af750f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV190009",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2019-03-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4474419",
+			"articleUrl": "https://support.microsoft.com/help/4474419",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4474419",
+			"ordinal": 1,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for x64-based Systems Service Pack 2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9318,
+	"releaseDate": "2019-03-12T07:00:00Z",
+	"severityId": 0
+}

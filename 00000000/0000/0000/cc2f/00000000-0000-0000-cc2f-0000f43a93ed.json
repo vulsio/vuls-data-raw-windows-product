@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-cc2f-0000f43a93ed",
+	"architectureId": 0,
+	"baseProductName": "Azure Identity SDK for Java",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:azure_identity_sdk_for_java:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36415",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-77: Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+				"https://cwe.mitre.org/data/definitions/77.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-77: Improper Neutralization of Special Elements used in a Command ('Command Injection')"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-10-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "More Information",
+			"articleUrl": "https://github.com/Azure/azure-sdk-for-java",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://central.sonatype.com/artifact/com.azure/azure-identity/1.10.2",
+			"fixedBuildNumber": "1.10.2",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Identity SDK for Java",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12236,
+	"releaseDate": "2023-10-10T07:00:00Z",
+	"releaseNumber": "2023-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

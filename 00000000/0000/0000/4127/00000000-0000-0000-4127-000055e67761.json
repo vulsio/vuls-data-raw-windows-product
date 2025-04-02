@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-4127-000055e67761",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0189",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-05-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3155413",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3155413",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=2610643b-0a4f-4b2b-8b99-7038c10ce5cb",
+			"ordinal": 1,
+			"supercedence": "3124625"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10049,
+	"releaseDate": "2016-05-10T07:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002
+}

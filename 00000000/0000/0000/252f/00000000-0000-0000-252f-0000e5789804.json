@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-252f-0000e5789804",
+	"architectureId": 0,
+	"baseProductName": "Windows Subsystem for Linux (WSL2)",
+	"baseProductVersion": "5.0.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:windows_subsystem_for_linux:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-44689",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2022-12-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/microsoft/WSL/releases",
+			"downloadName": "App Store",
+			"downloadUrl": "https://apps.microsoft.com/store/detail/windows-subsystem-for-linux/9P9TQF7MRM4R",
+			"fixedBuildNumber": "1.0.3",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Subsystem for Linux (WSL2)",
+	"productFamily": "Open Source Software",
+	"productFamilyId": 100000003,
+	"productId": 12069,
+	"releaseDate": "2022-12-13T08:00:00Z",
+	"releaseNumber": "2022-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

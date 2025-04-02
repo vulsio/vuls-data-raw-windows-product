@@ -1,0 +1,50 @@
+{
+	"id": "00000000-0000-0000-2f28-0000a3552323",
+	"architectureId": 0,
+	"baseScore": "8.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1112",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-05-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4556860",
+			"articleUrl": "https://support.microsoft.com/help/4556860",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4556860",
+			"knownIssuesName": "4556860",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4556860",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4550951"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4556854",
+			"articleUrl": "https://support.microsoft.com/help/4556854",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4556854",
+			"knownIssuesName": "4556854",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4556854",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10287,
+	"releaseDate": "2020-05-12T07:00:00Z",
+	"releaseNumber": "2020-May",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.6",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

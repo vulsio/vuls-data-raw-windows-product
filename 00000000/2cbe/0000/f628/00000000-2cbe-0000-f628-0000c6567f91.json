@@ -1,0 +1,38 @@
+{
+	"id": "00000000-2cbe-0000-f628-0000c6567f91",
+	"architectureId": 0,
+	"baseScore": "4.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8470",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2018-09-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4457142",
+			"articleUrl": "https://support.microsoft.com/help/4457142",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4457142",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4343897"
+		}
+	],
+	"platform": "Windows 10 Version 1709 for x64-based Systems",
+	"platformId": 11454,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2018-09-11T07:00:00Z",
+	"releaseNumber": "2018-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "3.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N/E:P/RL:O/RC:C"
+}

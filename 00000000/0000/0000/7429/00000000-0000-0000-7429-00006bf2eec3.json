@@ -1,0 +1,52 @@
+{
+	"id": "00000000-0000-0000-7429-00006bf2eec3",
+	"architectureId": 0,
+	"baseScore": "5.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-34519",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2021-07-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5001992",
+			"articleUrl": "https://support.microsoft.com/kb/5001992",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=0f7b1092-d203-481b-b22e-b26aa369534e",
+			"fixedBuildNumber": "15.0.5363.1000",
+			"knownIssuesName": "5001992",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5001992",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5001962"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5001996",
+			"articleUrl": "https://support.microsoft.com/kb/5001996",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=717ccbdc-095d-4e1d-8b9c-708b9d6b0401",
+			"fixedBuildNumber": "15.0.5363.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5001939"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Foundation 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10612,
+	"productVersion": "15.0.0",
+	"releaseDate": "2021-07-13T07:00:00Z",
+	"releaseNumber": "2021-Jul",
+	"severity": "Moderate",
+	"severityId": 100000002,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

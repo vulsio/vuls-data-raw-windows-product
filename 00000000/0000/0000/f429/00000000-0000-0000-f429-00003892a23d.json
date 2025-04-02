@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-f429-00003892a23d",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Excel 2016",
+	"baseProductVersion": "16.0.0.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:a:microsoft:excel:2016:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-22716",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2022-02-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002137",
+			"articleUrl": "https://support.microsoft.com/kb/5002137",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=413d5865-3126-4552-97a3-27a967d01dba",
+			"fixedBuildNumber": "16.0.5278.1000",
+			"ordinal": 0,
+			"supercedence": "5002114"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10740,
+	"releaseDate": "2022-02-08T08:00:00Z",
+	"releaseNumber": "2022-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

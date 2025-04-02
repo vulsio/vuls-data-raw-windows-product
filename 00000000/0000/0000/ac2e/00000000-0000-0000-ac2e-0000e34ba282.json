@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-ac2e-0000e34ba282",
+	"architectureId": 0,
+	"baseScore": "9.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-38647",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-09-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agent-linux#upgrade-from-a-previous-release",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "OMS Agent for Linux GA v1.13.40-0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Security Center",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11948,
+	"releaseDate": "2021-09-14T07:00:00Z",
+	"releaseNumber": "2021-Sep",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.5",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

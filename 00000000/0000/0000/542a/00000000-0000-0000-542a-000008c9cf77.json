@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-542a-000008c9cf77",
+	"architectureId": 0,
+	"baseProductName": "Office Online Server",
+	"baseProductVersion": "https://aka.ms/OfficeSecurityReleases",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:office:2021:*:*:*:ltsc:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-31939",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-06-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5001943",
+			"articleUrl": "https://support.microsoft.com/kb/5001943",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=51625c15-0a84-483b-a42b-0e543fe5892c",
+			"fixedBuildNumber": "16.0.10375.20000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5001914"
+		}
+	],
+	"platformId": 0,
+	"product": "Office Online Server",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10836,
+	"releaseDate": "2021-06-08T07:00:00Z",
+	"releaseNumber": "2021-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

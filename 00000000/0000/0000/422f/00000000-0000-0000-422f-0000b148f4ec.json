@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-422f-0000b148f4ec",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Windows 10 Version 22H2",
+	"baseProductVersion": "10.0.19045.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_22H2:{bv}:*:*:*:*:*:arm64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-41097",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2022-11-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5019959",
+			"articleUrl": "https://support.microsoft.com/help/5019959",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5019959",
+			"fixedBuildNumber": "10.0.19045.2251",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5019959",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 22H2 for ARM64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 12098,
+	"releaseDate": "2022-11-08T08:00:00Z",
+	"releaseNumber": "2022-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

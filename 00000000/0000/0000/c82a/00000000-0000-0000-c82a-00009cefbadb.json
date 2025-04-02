@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-c82a-00009cefbadb",
+	"architectureId": 0,
+	"baseScore": "4.9",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8716",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2017-09-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4038788",
+			"articleUrl": "https://support.microsoft.com/help/4038788",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4038788",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4034674"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1703 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10952,
+	"releaseDate": "2017-09-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.4",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:L/E:P/RL:O/RC:C"
+}

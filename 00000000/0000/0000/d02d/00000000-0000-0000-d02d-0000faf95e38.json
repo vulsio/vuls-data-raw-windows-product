@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-d02d-0000faf95e38",
+	"architectureId": 0,
+	"baseProductName": "ASP.NET Core 3.1",
+	"baseProductVersion": "3.0",
+	"cpe": "cpe:2.3:a:microsoft:asp.net_core:3.1:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1597",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2020-08-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/dotnet/announcements/issues/162",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://dotnet.microsoft.com/download/dotnet-core/3.1",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "ASP.NET Core 3.1",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11728,
+	"productVersion": "3.0",
+	"releaseDate": "2020-08-11T07:00:00Z",
+	"releaseNumber": "2020-Aug",
+	"severity": "Important",
+	"severityId": 100000001
+}

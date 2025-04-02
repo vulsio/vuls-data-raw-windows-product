@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-df2d-00003bc134ce",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0902",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-03-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/Azure/service-fabric/blob/master/release_notes/Service-Fabric-70CU4-releasenotes.md",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Service Fabric",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11743,
+	"releaseDate": "2020-03-10T07:00:00Z",
+	"releaseNumber": "2020-Mar",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-8d2f-0000913c5015",
+	"architectureId": 0,
+	"baseProductName": "Snipping Tool",
+	"baseProductVersion": "11.0.0",
+	"baseScore": "3.3",
+	"cpe": "cpe:2.3:a:microsoft:snipping_tool:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-28303",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-359: Exposure of Private Personal Information to an Unauthorized Actor",
+				"https://cwe.mitre.org/data/definitions/359.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-359: Exposure of Private Personal Information to an Unauthorized Actor"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2023-03-24T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "App Store",
+			"articleUrl": "https://www.microsoft.com/store/productId/9MZ95KL8MR0L",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/store/productId/9MZ95KL8MR0L",
+			"fixedBuildNumber": "11.2302.20.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Snipping Tool",
+	"productFamily": "Apps",
+	"productFamilyId": 100000012,
+	"productId": 12173,
+	"releaseDate": "2023-03-24T07:00:00Z",
+	"releaseNumber": "2023-Mar",
+	"severity": "Low",
+	"severityId": 100000003,
+	"temporalScore": "3.0",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N/E:P/RL:O/RC:C"
+}

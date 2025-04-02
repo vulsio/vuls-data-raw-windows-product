@@ -1,0 +1,67 @@
+{
+	"id": "00000000-0000-0000-942e-0000d4bb1c93",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2022",
+	"baseProductVersion": "10.0.20348.0",
+	"baseScore": "6.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2022:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-30021",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-190: Integer Overflow or Wraparound",
+				"https://cwe.mitre.org/data/definitions/190.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-190: Integer Overflow or Wraparound"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-05-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5037782",
+			"articleUrl": "https://support.microsoft.com/help/5037782",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5037782",
+			"fixedBuildNumber": "10.0.20348.2461",
+			"knownIssuesName": "5037782",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5037782",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5036909"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5037848",
+			"articleUrl": "https://support.microsoft.com/help/5037848",
+			"downloadName": "SecurityHotpatchUpdate",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5037848",
+			"fixedBuildNumber": "10.0.20348.2458",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2022 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11924,
+	"releaseDate": "2024-05-14T07:00:00Z",
+	"releaseNumber": "2024-May",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.9",
+	"vectorString": "CVSS:3.1/AV:P/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

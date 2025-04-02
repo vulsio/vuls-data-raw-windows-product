@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-ac27-00003bbf2669",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8663",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-07-27T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3213643",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3213643",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=d2ae8131-a475-4c06-8508-bae1fc26a1e6",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3191898"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2007 Service Pack 3",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10156,
+	"releaseDate": "2017-07-27T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

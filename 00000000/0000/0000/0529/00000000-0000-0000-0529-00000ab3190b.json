@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-0529-00000ab3190b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1449",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-07-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484463",
+			"articleUrl": "https://support.microsoft.com/kb/4484463",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=a04af7b1-f94e-460d-8000-c5209de4b8b1",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484387"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Project 2010 Service Pack 2 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10501,
+	"releaseDate": "2020-07-14T07:00:00Z",
+	"releaseNumber": "2020-Jul",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-ef29-0000538ef518",
+	"architectureId": 0,
+	"baseScore": "6.6",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7238",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-11-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3198585",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3198585",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3198585",
+			"ordinal": 1,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10735,
+	"releaseDate": "2016-11-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.0/AV:P/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:R"
+}

@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-c62a-000052ed2b95",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1034",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-06-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4464594",
+			"articleUrl": "https://support.microsoft.com/help/4464594",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=1cd7d2b6-a880-4f7e-b175-081a91fbbdc0",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4464549"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Enterprise Server 2016",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10950,
+	"releaseDate": "2019-06-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

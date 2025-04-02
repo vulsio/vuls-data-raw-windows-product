@@ -1,0 +1,44 @@
+{
+	"id": "00000000-0000-0000-f328-000012e66c5d",
+	"architectureId": 0,
+	"baseScore": "4.7",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-11842",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-11-14T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4048958",
+			"articleUrl": "https://support.microsoft.com/help/4048958",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4048958",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4041693"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4048961",
+			"articleUrl": "https://support.microsoft.com/help/4048961",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4048961",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 R2",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10483,
+	"releaseDate": "2017-11-14T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.2",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

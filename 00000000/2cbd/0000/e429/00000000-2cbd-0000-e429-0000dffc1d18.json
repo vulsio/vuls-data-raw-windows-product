@@ -1,0 +1,36 @@
+{
+	"id": "00000000-2cbd-0000-e429-0000dffc1d18",
+	"architectureId": 0,
+	"baseScore": "3.1",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-11874",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2017-11-14T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4048955",
+			"articleUrl": "https://support.microsoft.com/help/4048955",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4048955",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4042198"
+		}
+	],
+	"platform": "Windows 10 Version 1709 for 32-bit Systems",
+	"platformId": 11453,
+	"product": "Microsoft Edge (EdgeHTML-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10724,
+	"releaseDate": "2017-11-14T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "2.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:N/I:L/A:N/E:P/RL:O/RC:C"
+}

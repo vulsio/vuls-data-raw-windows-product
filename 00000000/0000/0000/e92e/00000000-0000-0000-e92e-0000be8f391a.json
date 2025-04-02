@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-e92e-0000be8f391a",
+	"architectureId": 0,
+	"baseProductName": ".NET 6.0",
+	"baseProductVersion": "6.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:.net:6.0.0:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-41032",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2022-10-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5019351",
+			"articleUrl": "https://support.microsoft.com/help/5019351",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://dotnet.microsoft.com/download/dotnet/6.0",
+			"fixedBuildNumber": "6.0.10",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": ".NET 6.0",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12009,
+	"releaseDate": "2022-10-11T07:00:00Z",
+	"releaseNumber": "2022-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

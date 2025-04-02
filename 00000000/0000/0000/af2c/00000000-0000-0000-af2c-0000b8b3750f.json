@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-af2c-0000b8b3750f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV180002",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2018-01-03T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4057118",
+			"articleUrl": "https://support.microsoft.com/help/4057118",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=18a6ec6b-4d21-4de7-8aab-faf42971f9cf",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2016 for x64-based Systems Service Pack 1 (GDR)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 11439,
+	"releaseDate": "2018-01-03T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

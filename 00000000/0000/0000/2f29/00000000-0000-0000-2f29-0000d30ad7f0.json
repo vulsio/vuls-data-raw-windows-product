@@ -1,0 +1,44 @@
+{
+	"id": "00000000-0000-0000-2f29-0000d30ad7f0",
+	"architectureId": 0,
+	"baseScore": "5.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0967",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2018-04-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4093114",
+			"articleUrl": "https://support.microsoft.com/help/4093114",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4093114",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4088876"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4093115",
+			"articleUrl": "https://support.microsoft.com/help/4093115",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4093115",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 R2 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10543,
+	"releaseDate": "2018-04-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:L/UI:N/S:U/C:N/I:N/A:H/E:P/RL:O/RC:C"
+}

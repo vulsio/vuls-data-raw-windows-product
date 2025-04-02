@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-a02d-000095ed2b95",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Exchange Server 2019 Cumulative Update 2",
+	"baseProductVersion": "15.02.0",
+	"cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_2:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1233",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2019-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4515832",
+			"articleUrl": "https://support.microsoft.com/help/4515832",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=002926f8-2be9-4201-9ebf-c970c98cd2de",
+			"knownIssuesName": "4515832",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4515832",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4509408"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2019 Cumulative Update 2",
+	"productFamily": "Server Software",
+	"productFamilyId": 100000004,
+	"productId": 11680,
+	"releaseDate": "2019-09-10T07:00:00Z",
+	"releaseNumber": "2019-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-272f-00008f733d4f",
+	"architectureId": 0,
+	"baseProductName": "Azure StorSimple 8000 Series",
+	"baseProductVersion": "6.3.0.0",
+	"baseScore": "6.8",
+	"cpe": "cpe:2.3:o:microsoft:storsimple_8000_series:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-38017",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2022-10-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/azure/storsimple/storsimple-update52-release-notes",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "6.3.9600.17886",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure StorSimple 8000 Series",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12071,
+	"releaseDate": "2022-10-11T07:00:00Z",
+	"releaseNumber": "2022-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.9",
+	"vectorString": "CVSS:3.1/AV:P/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-252f-0000be154767",
+	"architectureId": 0,
+	"baseProductName": "Windows Subsystem for Linux (WSL2)",
+	"baseProductVersion": "5.0.0.0",
+	"baseScore": "7.0",
+	"cpe": "cpe:2.3:a:microsoft:windows_subsystem_for_linux:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-38014",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2022-11-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/windows/wsl/kernel-release-notes",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/microsoft/WSL2-Linux-Kernel",
+			"fixedBuildNumber": "5.15.62.1",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Subsystem for Linux (WSL2)",
+	"productFamily": "Open Source Software",
+	"productFamilyId": 100000003,
+	"productId": 12069,
+	"releaseDate": "2022-11-08T08:00:00Z",
+	"releaseNumber": "2022-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.1",
+	"vectorString": "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

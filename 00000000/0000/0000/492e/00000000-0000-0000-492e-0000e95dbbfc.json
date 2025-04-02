@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-492e-0000e95dbbfc",
+	"architectureId": 0,
+	"baseProductName": "Remote Desktop client for Windows Desktop",
+	"baseProductVersion": "1.2.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:remote_desktop:-:*:*:*:*:windows:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-21990",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2022-03-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew#updates-for-version-122925",
+			"fixedBuildNumber": "1.2.2925.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Remote Desktop client for Windows Desktop",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11849,
+	"releaseDate": "2022-03-08T08:00:00Z",
+	"releaseNumber": "2022-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.9",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

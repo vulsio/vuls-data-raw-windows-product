@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-3730-0000d4d85219",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Authentication Library",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:a:microsoft:microsoft_authentication_library_for_node.js:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-35255",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-362: Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')",
+				"https://cwe.mitre.org/data/definitions/362.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-362: Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-06-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/AzureAD/microsoft-authentication-library-for-js#readme",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.npmjs.com/package/@azure/msal-node",
+			"fixedBuildNumber": "2.9.2",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Authentication Library (MSAL) for Node.js",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12343,
+	"releaseDate": "2024-06-11T07:00:00Z",
+	"releaseNumber": "2024-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

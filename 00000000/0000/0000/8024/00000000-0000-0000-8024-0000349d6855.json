@@ -1,0 +1,69 @@
+{
+	"id": "00000000-0000-0000-8024-0000349d6855",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2008 Service Pack 2 (Server Core installation)",
+	"baseProductVersion": "6.0.6003.0",
+	"baseScore": "7.1",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_sp2:{bv}:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-24904",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-59: Improper Link Resolution Before File Access ('Link Following')",
+				"https://cwe.mitre.org/data/definitions/59.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-59: Improper Link Resolution Before File Access ('Link Following')"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2023-05-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5026408",
+			"articleUrl": "https://support.microsoft.com/help/5026408",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5026408",
+			"fixedBuildNumber": "6.0.6003.22070",
+			"knownIssuesName": "5026408",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5026408",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5025271"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5026427",
+			"articleUrl": "https://support.microsoft.com/help/5026427",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5026427",
+			"fixedBuildNumber": "6.0.6003.22070",
+			"knownIssuesName": "5026427",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5026427",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9344,
+	"releaseDate": "2023-05-09T07:00:00Z",
+	"releaseNumber": "2023-May",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.2",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:H/E:U/RL:O/RC:C"
+}

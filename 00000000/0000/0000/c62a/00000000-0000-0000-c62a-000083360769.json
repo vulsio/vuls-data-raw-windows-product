@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-c62a-000083360769",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0792",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-01-09T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011642",
+			"articleUrl": "https://support.microsoft.com/help/4011642",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=8aead024-423a-453e-b444-34b08aa6a255",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011576"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Enterprise Server 2016",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10950,
+	"releaseDate": "2018-01-09T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

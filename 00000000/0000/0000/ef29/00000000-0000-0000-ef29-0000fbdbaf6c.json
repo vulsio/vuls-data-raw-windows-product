@@ -1,0 +1,44 @@
+{
+	"id": "00000000-0000-0000-ef29-0000fbdbaf6c",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 10 Version 1507",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "6.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_1507:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3371",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"ntkrnlmp.exe;ntkrpamp.exe;securekernel.exe;winresume.exe;winresume.efi;ieframe.dll;emodel.dll;mshtml.dll;chakra.dll;wwanconn.dll;oleaut32.dll"
+			],
+			"articleName": "3185611",
+			"articleUrl": "https://support.microsoft.com/kb/3185611",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3193494",
+			"knownIssuesUrl": "https://support.microsoft.com/kb/3185611",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3176492"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10735,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.1",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:L/E:P/RL:O/RC:C"
+}

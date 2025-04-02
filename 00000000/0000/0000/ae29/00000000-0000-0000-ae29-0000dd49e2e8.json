@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-ae29-0000dd49e2e8",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7193",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-10-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3193438",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3193438",
+			"downloadName": "Security Update",
+			"downloadUrl": "http://go.microsoft.com/fwlink/?LinkId=827851",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3186807"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2016 for Mac",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10670,
+	"releaseDate": "2016-10-11T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

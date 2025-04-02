@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-a22d-0000fff7ffb4",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Exchange Server 2013 Cumulative Update 23",
+	"baseProductVersion": "15.00.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-30134",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2022-08-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5019076",
+			"articleUrl": "https://support.microsoft.com/help/5019076",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=15fb9b27-c3d4-4f23-9e39-a4f30444f3f1",
+			"fixedBuildNumber": "15.00.1497.042",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5015321"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2013 Cumulative Update 23",
+	"productFamily": "Server Software",
+	"productFamilyId": 100000004,
+	"productId": 11682,
+	"releaseDate": "2022-08-09T07:00:00Z",
+	"releaseNumber": "2022-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

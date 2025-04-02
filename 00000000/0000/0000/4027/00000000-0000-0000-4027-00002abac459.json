@@ -1,0 +1,50 @@
+{
+	"id": "00000000-0000-0000-4027-00002abac459",
+	"architectureId": 0,
+	"baseScore": "6.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-34480",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-08-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5005088",
+			"articleUrl": "https://support.microsoft.com/help/5005088",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5005088",
+			"fixedBuildNumber": "6.1.7601.25685",
+			"knownIssuesName": "5005088",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5005088",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "5004289"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5005036",
+			"articleUrl": "https://support.microsoft.com/help/5005036",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5005036",
+			"ordinal": 2,
+			"rebootRequired": "Yes",
+			"supercedence": "5004233"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 7 for x64-based Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10048,
+	"releaseDate": "2021-08-10T07:00:00Z",
+	"releaseNumber": "2021-Aug",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "5.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:N/E:U/RL:O/RC:C"
+}

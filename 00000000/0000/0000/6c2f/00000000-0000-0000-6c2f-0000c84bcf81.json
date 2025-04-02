@@ -1,0 +1,50 @@
+{
+	"id": "00000000-0000-0000-6c2f-0000c84bcf81",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "CBL Mariner 2.0",
+	"baseProductVersion": "2.0",
+	"cpe": "cpe:2.3:o:microsoft:cbl_mariner:2.0:*:*:*:*:*:*:arm",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-32002",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impactId": 0,
+	"initialReleaseDate": "2025-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "HackerOne",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"nodejs-16.20.2-2.cm2.aarch64.rpm",
+				"nodejs-devel-16.20.2-2.cm2.aarch64.rpm",
+				"nodejs-debuginfo-16.20.2-2.cm2.aarch64.rpm"
+			],
+			"articleName": "nodejs",
+			"articleUrl": "https://nvd.nist.gov/vuln/detail/CVE-2023-32002",
+			"downloadName": "CBL-Mariner",
+			"fixedBuildNumber": "16.20.2-2",
+			"ordinal": 0
+		},
+		{
+			"affectedBinaries": [
+				"nodejs18-18.17.1-2.cm2.aarch64.rpm",
+				"nodejs18-devel-18.17.1-2.cm2.aarch64.rpm",
+				"nodejs18-debuginfo-18.17.1-2.cm2.aarch64.rpm"
+			],
+			"articleName": "nodejs18",
+			"articleUrl": "https://nvd.nist.gov/vuln/detail/CVE-2023-32002",
+			"downloadName": "CBL-Mariner",
+			"fixedBuildNumber": "18.17.1-2",
+			"ordinal": 0
+		}
+	],
+	"platformId": 0,
+	"product": "CBL Mariner 2.0 ARM",
+	"productFamily": "Mariner",
+	"productFamilyId": 100000014,
+	"productId": 12140,
+	"releaseDate": "2025-02-11T08:00:00Z",
+	"releaseNumber": "2025-Feb",
+	"severityId": 0
+}

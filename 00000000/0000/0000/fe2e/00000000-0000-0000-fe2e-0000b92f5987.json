@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-fe2e-0000b92f5987",
+	"architectureId": 0,
+	"baseProductName": "YARP 1.1RC",
+	"baseProductVersion": "1.1.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:yet_another_reverse_proxy:1.1.0:rc1.22152.1:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-26924",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2022-04-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/microsoft/reverse-proxy/security/advisories/GHSA-8xc6-g8xw-h2c4",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.nuget.org/packages/Yarp.ReverseProxy/1.1.0-rc.1.22211.2",
+			"fixedBuildNumber": "1.1.0-rc.1.22211.2",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "YARP 1.1RC",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12030,
+	"releaseDate": "2022-04-12T08:00:00Z",
+	"releaseNumber": "2022-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

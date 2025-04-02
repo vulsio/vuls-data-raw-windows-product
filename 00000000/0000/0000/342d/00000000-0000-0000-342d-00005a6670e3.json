@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-342d-00005a6670e3",
+	"architectureId": 0,
+	"baseScore": "7.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0785",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-03-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4538461",
+			"articleUrl": "https://support.microsoft.com/help/4538461",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4538461",
+			"knownIssuesName": "4538461",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4538461",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4532691"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2019  (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11572,
+	"releaseDate": "2020-03-10T07:00:00Z",
+	"releaseNumber": "2020-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.3",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,45 @@
+{
+	"id": "00000000-0000-0000-eb2c-0000089c92c1",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8313",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2018-07-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4338819",
+			"articleUrl": "https://support.microsoft.com/help/4338819",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4338819",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4284835"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4345421",
+			"articleUrl": "https://support.microsoft.com/help/4345421",
+			"downloadName": "Alternate Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4345421",
+			"ordinal": 2,
+			"rebootRequired": "Yes",
+			"supercedence": "4284835"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server, version 1803  (Server Core Installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11499,
+	"releaseDate": "2018-07-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.1",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:T/RC:C"
+}

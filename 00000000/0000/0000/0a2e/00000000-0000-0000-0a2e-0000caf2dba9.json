@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-0a2e-0000caf2dba9",
+	"architectureId": 0,
+	"baseScore": "8.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17158",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-12-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/get-started/whats-new-platform-update-35",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/download-hotfix-lcs",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Dynamics 365 for Finance and Operations",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 11786,
+	"releaseDate": "2020-12-08T08:00:00Z",
+	"releaseNumber": "2020-Dec",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

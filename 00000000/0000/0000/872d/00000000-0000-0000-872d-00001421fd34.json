@@ -1,0 +1,22 @@
+{
+	"id": "00000000-0000-0000-872d-00001421fd34",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-21185",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impactId": 0,
+	"initialReleaseDate": "2021-03-04T20:04:16Z",
+	"isMariner": false,
+	"issuingCna": "Chrome",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Microsoft Edge (Chromium-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 11655,
+	"productVersion": "1.0.0",
+	"releaseDate": "2021-03-04T20:04:16Z",
+	"releaseNumber": "2021-Mar",
+	"severityId": 0
+}

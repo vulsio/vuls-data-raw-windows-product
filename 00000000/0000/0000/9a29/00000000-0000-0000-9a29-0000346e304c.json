@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-9a29-0000346e304c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8151",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2018-05-08T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4092041",
+			"articleUrl": "http://support.microsoft.com/kb/4092041",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=faff77cb-7532-40cf-ad6d-f43b06d7373c",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4073392"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2013 Service Pack 1",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 10650,
+	"releaseDate": "2018-05-08T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,44 @@
+{
+	"id": "00000000-0000-0000-f128-00009384e106",
+	"architectureId": 0,
+	"baseScore": "7.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8639",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2018-12-11T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4471320",
+			"articleUrl": "https://support.microsoft.com/help/4471320",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4471320",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4467697"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4471322",
+			"articleUrl": "https://support.microsoft.com/help/4471322",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4471322",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 8.1 for 32-bit systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10481,
+	"releaseDate": "2018-12-11T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.3",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-3f28-00006d50570f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3209",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-10-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3188397",
+			"articleUrl": "http://support.microsoft.com/kb/3188397",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=ed3e2f47-a13c-46d5-8a52-83398a3a4610",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3174301"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Lync 2010 (64-bit)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10303,
+	"releaseDate": "2016-10-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

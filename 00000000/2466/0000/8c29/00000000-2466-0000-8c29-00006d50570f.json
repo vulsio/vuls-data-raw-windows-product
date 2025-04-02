@@ -1,0 +1,42 @@
+{
+	"id": "00000000-2466-0000-8c29-00006d50570f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3209",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-10-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3189051",
+			"articleUrl": "https://support.microsoft.com/kb/3189051",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3189051",
+			"ordinal": 1,
+			"rebootRequired": "Yes"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "3189039",
+			"articleUrl": "http://support.microsoft.com/kb/3189039",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3189039",
+			"ordinal": 2,
+			"rebootRequired": "Maybe",
+			"supercedence": "3099869"
+		}
+	],
+	"platform": "Windows Server 2008 for x64-based Systems Service Pack 2",
+	"platformId": 9318,
+	"product": "Microsoft .NET Framework 4.5.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10636,
+	"releaseDate": "2016-10-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

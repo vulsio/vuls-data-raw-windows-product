@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-902d-000089066e81",
+	"architectureId": 0,
+	"baseScore": "8.1",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-34524",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-08-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4618795",
+			"articleUrl": "https://support.microsoft.com/en-us/topic/service-update-0-31-for-microsoft-dynamics-crm-on-premises-9-0-5bb7ff5b-8fbd-465c-8590-6e4522289913",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/download/details.aspx?id=103377",
+			"fixedBuildNumber": "9.0.31.7",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Dynamics 365 (on-premises) version 9.0",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 11664,
+	"releaseDate": "2021-08-10T07:00:00Z",
+	"releaseNumber": "2021-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.1",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:N/E:U/RL:O/RC:C"
+}

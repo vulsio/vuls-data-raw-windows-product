@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-f22e-0000155746d6",
+	"architectureId": 0,
+	"baseProductName": "Azure Site Recovery VMWare to Azure",
+	"baseProductVersion": "9.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:a:microsoft:azure_site_recovery:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-24519",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2022-03-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://support.microsoft.com/en-us/topic/update-rollup-60-for-azure-site-recovery-k5011122-883a93a7-57df-4b26-a1c4-847efb34a9e8",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://support.microsoft.com/en-us/topic/update-rollup-60-for-azure-site-recovery-k5011122-883a93a7-57df-4b26-a1c4-847efb34a9e8",
+			"fixedBuildNumber": "9.47",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Site Recovery VMWare to Azure",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12018,
+	"releaseDate": "2022-03-08T08:00:00Z",
+	"releaseNumber": "2022-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:H/E:U/RL:O/RC:C"
+}

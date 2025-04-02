@@ -1,0 +1,44 @@
+{
+	"id": "00000000-288a-0000-822d-000002e17b80",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1108",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2020-05-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4556400",
+			"articleUrl": "https://support.microsoft.com/help/4556400",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4552932",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4538123; 4538157"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4556404",
+			"articleUrl": "https://support.microsoft.com/help/4556404",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4552961",
+			"ordinal": 2,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2012",
+	"platformId": 10378,
+	"product": "Microsoft .NET Framework 4.8",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11650,
+	"releaseDate": "2020-05-12T07:00:00Z",
+	"releaseNumber": "2020-May",
+	"severity": "Important",
+	"severityId": 100000001
+}

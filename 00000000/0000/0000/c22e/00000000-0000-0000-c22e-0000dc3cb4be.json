@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-c22e-0000dc3cb4be",
+	"architectureId": 0,
+	"baseProductName": "PowerShell 7.2",
+	"baseProductVersion": "7.2.0",
+	"baseScore": "7.3",
+	"cpe": "cpe:2.3:a:microsoft:powershell:7.2:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-33126",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-06-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/PowerShell/Announcements/issues/46",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/PowerShell/Announcements/issues/46",
+			"fixedBuildNumber": "7.2.12",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "PowerShell 7.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11970,
+	"releaseDate": "2023-06-13T07:00:00Z",
+	"releaseNumber": "2023-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.6",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

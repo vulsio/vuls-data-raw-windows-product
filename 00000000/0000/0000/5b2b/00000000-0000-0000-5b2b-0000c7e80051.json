@@ -1,0 +1,67 @@
+{
+	"id": "00000000-0000-0000-5b2b-0000c7e80051",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Enterprise Server 2013 Service Pack 1",
+	"baseProductVersion": "15.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server:2013:sp1:*:*:enterprise:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-21744",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-502: Deserialization of Untrusted Data",
+				"https://cwe.mitre.org/data/definitions/502.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-502: Deserialization of Untrusted Data"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-01-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002335",
+			"articleUrl": "https://support.microsoft.com/help/5002335",
+			"downloadName": "Cumulative Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=d0da54d0-c23a-44b9-b1c0-c9b415c4a730",
+			"fixedBuildNumber": "15.0.5519.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5002336",
+			"articleUrl": "https://support.microsoft.com/help/5002336",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=bd2c7e27-525b-4970-a63e-3956d3848b20",
+			"fixedBuildNumber": "15.0.5519.1000",
+			"knownIssuesName": "5002336",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5002336",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002319"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Enterprise Server 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11099,
+	"releaseDate": "2023-01-10T08:00:00Z",
+	"releaseNumber": "2023-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

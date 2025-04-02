@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-0e2a-0000ede2d7ee",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8244",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2018-06-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4022160",
+			"articleUrl": "https://support.microsoft.com/help/4022160",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=b94f491e-613c-44d6-975c-ff980f43473f",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011682"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10766,
+	"releaseDate": "2018-06-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

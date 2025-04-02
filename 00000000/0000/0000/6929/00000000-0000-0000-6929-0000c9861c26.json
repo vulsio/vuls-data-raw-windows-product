@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-6929-0000c9861c26",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft Office 2013 Service Pack 1",
+	"baseProductVersion": "15.0.0",
+	"baseScore": "6.1",
+	"cpe": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-41368",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-11-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002038",
+			"articleUrl": "https://support.microsoft.com/help/5002038",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=6c134a3b-cea9-4287-a457-f4241d5d5988",
+			"fixedBuildNumber": "15.0.5397.1001",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5001958"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2013 Service Pack 1 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10601,
+	"releaseDate": "2021-11-09T08:00:00Z",
+	"releaseNumber": "2021-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.3",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:H/A:N/E:U/RL:O/RC:C"
+}

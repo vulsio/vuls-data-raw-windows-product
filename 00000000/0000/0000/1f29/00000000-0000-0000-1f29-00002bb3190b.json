@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-1f29-00002bb3190b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1349",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-07-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484382",
+			"articleUrl": "https://support.microsoft.com/kb/4484382",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=4fea5849-0926-43dd-bc89-f8bec6f689c5",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484284"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2010 Service Pack 2 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10527,
+	"releaseDate": "2020-07-14T07:00:00Z",
+	"releaseNumber": "2020-Jul",
+	"severity": "Critical",
+	"severityId": 100000000
+}

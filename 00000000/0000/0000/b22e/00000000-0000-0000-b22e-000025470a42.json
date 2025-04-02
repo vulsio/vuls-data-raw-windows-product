@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-b22e-000025470a42",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Dynamics 365 Customer Engagement V9.0",
+	"baseProductVersion": "9.0.0",
+	"baseScore": "7.6",
+	"cpe": "cpe:2.3:a:microsoft:dynamics_365:9.0:*:*:*:customer_engagement:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-21932",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2022-01-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5010574",
+			"articleUrl": "https://support.microsoft.com/help/5010574",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/download/details.aspx?id=103858",
+			"fixedBuildNumber": "9.0.34.12",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Dynamics 365 Customer Engagement V9.0",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 11954,
+	"releaseDate": "2022-01-11T08:00:00Z",
+	"releaseNumber": "2022-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.6",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:H/I:L/A:N/E:U/RL:O/RC:C"
+}

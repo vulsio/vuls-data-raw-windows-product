@@ -1,0 +1,21 @@
+{
+	"id": "00000000-0000-0000-332e-0000f54da094",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17160",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impactId": 0,
+	"initialReleaseDate": "2020-12-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "None affected",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11827,
+	"releaseDate": "2020-12-08T08:00:00Z",
+	"releaseNumber": "2020-Dec",
+	"severityId": 0
+}

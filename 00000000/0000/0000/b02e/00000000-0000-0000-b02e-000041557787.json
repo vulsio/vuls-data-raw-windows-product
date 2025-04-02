@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-b02e-000041557787",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Office LTSC 2021",
+	"baseProductVersion": "16.0.1",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:a:microsoft:office_long_term_servicing_channel:2021:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-42295",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2021-12-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Click to Run",
+			"articleUrl": "https://docs.microsoft.com/en-us/officeupdates/microsoft365-apps-security-updates",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "https://aka.ms/OfficeSecurityReleases",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office LTSC 2021 for 64-bit editions",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11952,
+	"releaseDate": "2021-12-14T08:00:00Z",
+	"releaseNumber": "2021-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

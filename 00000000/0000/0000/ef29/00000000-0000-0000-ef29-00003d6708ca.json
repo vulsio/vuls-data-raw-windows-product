@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-ef29-00003d6708ca",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3263",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-10-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3192440",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3192440",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3192440",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3185611"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10735,
+	"releaseDate": "2016-10-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

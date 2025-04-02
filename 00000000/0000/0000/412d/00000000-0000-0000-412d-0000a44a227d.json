@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-412d-0000a44a227d",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1443",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-11-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484142",
+			"articleUrl": "https://support.microsoft.com/help/4484142",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=fe4f85af-6da2-4c91-8be4-51d245dc70a8",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484110"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server 2019",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11585,
+	"releaseDate": "2019-11-12T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

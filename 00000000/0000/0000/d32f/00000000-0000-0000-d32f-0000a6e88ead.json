@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-d32f-0000a6e88ead",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 11 Version 23H2",
+	"baseProductVersion": "10.0.22631.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_11_23H2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-39684",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-190: Integer Overflow or Wraparound",
+				"https://cwe.mitre.org/data/definitions/190.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-190: Integer Overflow or Wraparound"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Github",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5040442",
+			"articleUrl": "https://support.microsoft.com/help/5040442",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5040442",
+			"fixedBuildNumber": "10.0.22631.3880",
+			"knownIssuesName": "5040442",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5040442",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5039212"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 11 Version 23H2 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 12243,
+	"releaseDate": "2024-07-09T07:00:00Z",
+	"releaseNumber": "2024-Jul",
+	"severity": "Moderate",
+	"severityId": 100000002,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,32 @@
+{
+	"id": "00000000-2dc1-0000-9c2d-00001094d258",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0646",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-01-14T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4532938",
+			"articleUrl": "https://support.microsoft.com/help/4532938",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4532938",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows 10 Version 1909 for x64-based Systems",
+	"platformId": 11713,
+	"product": "Microsoft .NET Framework 3.5 AND 4.8",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11676,
+	"releaseDate": "2020-01-14T08:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

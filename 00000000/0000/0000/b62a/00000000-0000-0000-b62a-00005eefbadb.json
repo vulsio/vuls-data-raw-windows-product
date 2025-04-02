@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-b62a-00005eefbadb",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8516",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-08-08T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4019092",
+			"articleUrl": "https://support.microsoft.com/help/4019092",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=b61e6f92-ffc6-4ff5-860a-677a24d02e28",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3194721"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2012 for x64-based Systems Service Pack 3 (GDR)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 10934,
+	"releaseDate": "2017-08-08T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

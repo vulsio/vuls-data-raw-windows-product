@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-a830-00000b246148",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Update Catalog",
+	"baseProductVersion": "1.0",
+	"baseScore": "9.3",
+	"cpe": "cpe:2.3:a:microsoft:.update_catalog:*:*:*:*:*:*:*:*",
+	"customerActionRequired": false,
+	"cveNumber": "CVE-2024-49147",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-502: Deserialization of Untrusted Data",
+				"https://cwe.mitre.org/data/definitions/502.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-502: Deserialization of Untrusted Data"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-12-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Microsoft Update Catalog",
+	"productFamily": "Apps",
+	"productFamilyId": 100000012,
+	"productId": 12456,
+	"releaseDate": "2024-12-12T08:00:00Z",
+	"releaseNumber": "2024-Dec",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.4",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:L/A:N/E:P/RL:O/RC:C"
+}

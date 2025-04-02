@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-4227-0000da854f7c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0168",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-05-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3156013",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3156013",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=7628f07b-765d-4696-a925-cf9be6868bcb",
+			"ordinal": 1,
+			"supercedence": "3124001"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10050,
+	"releaseDate": "2016-05-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

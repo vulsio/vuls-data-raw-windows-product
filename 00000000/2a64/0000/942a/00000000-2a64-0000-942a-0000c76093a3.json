@@ -1,0 +1,32 @@
+{
+	"id": "00000000-2a64-0000-942a-0000c76093a3",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7270",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-12-13T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3206632",
+			"articleUrl": "http://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3206632",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3206632",
+			"ordinal": 1,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platform": "Windows 10 Version 1607 for 32-bit Systems",
+	"platformId": 10852,
+	"product": "Microsoft .NET Framework 4.6.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10900,
+	"releaseDate": "2016-12-13T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

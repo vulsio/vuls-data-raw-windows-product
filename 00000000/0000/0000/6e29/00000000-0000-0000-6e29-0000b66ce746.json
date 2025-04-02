@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-6e29-0000b66ce746",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Microsoft Word 2013 Service Pack 1",
+	"baseProductVersion": "15.0.1",
+	"baseScore": "3.3",
+	"cpe": "cpe:2.3:a:microsoft:word:2013:sp1:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17020",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2020-11-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4486730",
+			"articleUrl": "https://support.microsoft.com/kb/4486730",
+			"downloadName": "Security Update",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4486692"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2013 RT Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10606,
+	"releaseDate": "2020-11-10T08:00:00Z",
+	"releaseNumber": "2020-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "2.9",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-fa2c-0000c49b92c1",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8115",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-05-02T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Note",
+			"articleUrl": "https://go.microsoft.com/fwlink/?linkid=873099",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://go.microsoft.com/fwlink/?linkid=873100",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Host Compute Service Shim",
+	"productFamily": "Open Source Software",
+	"productFamilyId": 100000003,
+	"productId": 11514,
+	"releaseDate": "2018-05-02T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

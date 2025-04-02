@@ -1,0 +1,45 @@
+{
+	"id": "00000000-0000-0000-4327-000061e09e91",
+	"architectureId": 0,
+	"baseScore": "8.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0283",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-06-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4022719",
+			"articleUrl": "https://support.microsoft.com/help/4022719",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4022719",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4022719",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4019264"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4022722",
+			"articleUrl": "https://support.microsoft.com/help/4022722",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4022722",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10051,
+	"releaseDate": "2017-06-13T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

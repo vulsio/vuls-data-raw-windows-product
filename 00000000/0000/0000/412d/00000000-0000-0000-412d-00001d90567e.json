@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-412d-00001d90567e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0957",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2019-05-14T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4464556",
+			"articleUrl": "https://support.microsoft.com/help/4464556",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=e4f93435-0703-4392-ad9b-c8e053c1b524",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4464518"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server 2019",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11585,
+	"releaseDate": "2019-05-14T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

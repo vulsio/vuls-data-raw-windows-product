@@ -1,0 +1,69 @@
+{
+	"id": "00000000-0000-0000-6024-0000ec1fc627",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows Server 2008 Service Pack 2",
+	"baseProductVersion": "6.0.6003.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_sp2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-20680",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-822: Untrusted Pointer Dereference",
+				"https://cwe.mitre.org/data/definitions/822.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-822: Untrusted Pointer Dereference"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2024-01-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5034173",
+			"articleUrl": "https://support.microsoft.com/help/5034173",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5034173",
+			"fixedBuildNumber": "6.0.6003.22464",
+			"knownIssuesName": "5034173",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5034173",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5033422"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5034176",
+			"articleUrl": "https://support.microsoft.com/help/5034176",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5034176",
+			"fixedBuildNumber": "6.0.6003.22464",
+			"knownIssuesName": "5034176",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5034176",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for 32-bit Systems Service Pack 2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9312,
+	"releaseDate": "2024-01-09T08:00:00Z",
+	"releaseNumber": "2024-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

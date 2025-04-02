@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-7c2d-0000223f85d1",
+	"architectureId": 0,
+	"baseProductName": "Windows 10 Version 1903 for 32-bit Systems",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_10:1903:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17024",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-11-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4586786",
+			"articleUrl": "https://support.microsoft.com/help/4586786",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4586786",
+			"knownIssuesName": "4586786",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4586786",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4577671"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1903 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11644,
+	"releaseDate": "2020-11-10T08:00:00Z",
+	"releaseNumber": "2020-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

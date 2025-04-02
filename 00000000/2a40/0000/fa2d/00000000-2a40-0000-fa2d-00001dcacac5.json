@@ -1,0 +1,40 @@
+{
+	"id": "00000000-2a40-0000-fa2d-00001dcacac5",
+	"architectureId": 0,
+	"baseScore": "3.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1220",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2020-06-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4561616",
+			"articleUrl": "https://support.microsoft.com/help/4561616",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4561616",
+			"knownIssuesName": "4561616",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4561616",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4556813"
+		}
+	],
+	"platform": "Windows Server 2016",
+	"platformId": 10816,
+	"product": "Microsoft Edge (Chromium-based) in IE Mode",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 11770,
+	"releaseDate": "2020-06-09T07:00:00Z",
+	"releaseNumber": "2020-Jun",
+	"severity": "Low",
+	"severityId": 100000003,
+	"temporalScore": "3.2",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:H/UI:R/S:U/C:L/I:L/A:N/E:P/RL:O/RC:C"
+}

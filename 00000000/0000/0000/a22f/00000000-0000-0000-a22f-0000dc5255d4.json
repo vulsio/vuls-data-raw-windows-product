@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-a22f-0000dc5255d4",
+	"architectureId": 0,
+	"baseProductName": "Microsoft ODBC Driver 17 for SQL Server on Linux",
+	"baseProductVersion": "17.0.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:odbc_driver_17_for_sql_server:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36785",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-191: Integer Underflow (Wrap or Wraparound)",
+				"https://cwe.mitre.org/data/definitions/191.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-191: Integer Underflow (Wrap or Wraparound)"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-10-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server#18",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://learn.microsoft.com/sql/connect/odbc/linux-mac/release-notes-odbc-sql-server-linux-mac#1832-october-2023",
+			"fixedBuildNumber": "17.10.5.1",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft ODBC Driver 17 for SQL Server on Linux",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 12194,
+	"releaseDate": "2023-10-10T07:00:00Z",
+	"releaseNumber": "2023-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

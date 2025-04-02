@@ -1,0 +1,52 @@
+{
+	"id": "00000000-0000-0000-6b2f-00004e74a09d",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "CBL Mariner 2.0",
+	"baseProductVersion": "2.0",
+	"baseScore": "8.1",
+	"cpe": "cpe:2.3:o:microsoft:cbl_mariner:2.0:*:*:*:*:*:*:x64",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-6387",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-364: Signal Handler Race Condition",
+				"https://cwe.mitre.org/data/definitions/364.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-364: Signal Handler Race Condition"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-07-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Red Hat, Inc.",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "openssh",
+			"articleUrl": "https://www.cve.org/CVERecord?id=CVE-2024-6387",
+			"downloadName": "CBL-Mariner",
+			"fixedBuildNumber": "8.9p1-6",
+			"ordinal": 0
+		}
+	],
+	"platformId": 0,
+	"product": "CBL Mariner 2.0 x64",
+	"productFamily": "Mariner",
+	"productFamilyId": 100000014,
+	"productId": 12139,
+	"releaseDate": "2024-07-11T07:00:00Z",
+	"releaseNumber": "2024-Jul",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.1",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H"
+}

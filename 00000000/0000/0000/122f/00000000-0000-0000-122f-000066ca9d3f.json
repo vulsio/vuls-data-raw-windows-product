@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-122f-000066ca9d3f",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Photos",
+	"baseProductVersion": "2022.0.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:photos:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-30168",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2022-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "More Information",
+			"articleUrl": "https://support.microsoft.com/en-us/account-billing/get-updates-for-apps-and-games-in-microsoft-store-a1fe19c0-532d-ec47-7035-d1c5a1dd464f#WindowsVersion=Windows_11",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://apps.microsoft.com/store/detail/microsoft-photos/9WZDNCRFJBH4",
+			"fixedBuildNumber": "2022.30050.31008.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Photos",
+	"productFamily": "Apps",
+	"productFamilyId": 100000012,
+	"productId": 12050,
+	"releaseDate": "2022-06-14T07:00:00Z",
+	"releaseNumber": "2022-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

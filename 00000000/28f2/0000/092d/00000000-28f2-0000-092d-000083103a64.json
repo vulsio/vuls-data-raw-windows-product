@@ -1,0 +1,42 @@
+{
+	"id": "00000000-28f2-0000-092d-000083103a64",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8202",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2018-07-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4344145",
+			"articleUrl": "https://support.microsoft.com/help/4344145",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4345592",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4291497; 4340558"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4344166",
+			"articleUrl": "https://support.microsoft.com/help/4344166",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4345681",
+			"ordinal": 2,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows 8.1 for x64-based systems",
+	"platformId": 10482,
+	"product": "Microsoft .NET Framework 4.6/4.6.1/4.6.2/4.7/4.7.1/4.7.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11529,
+	"releaseDate": "2018-07-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

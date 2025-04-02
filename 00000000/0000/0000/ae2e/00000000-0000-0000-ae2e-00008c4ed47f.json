@@ -1,0 +1,45 @@
+{
+	"id": "00000000-0000-0000-ae2e-00008c4ed47f",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-38648",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2021-09-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/azure-stack/operator/azure-stack-overview?view=azs-2102",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "Monitor, Update and Config Mgmnt 1.14.01",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/azure-stack/operator/azure-stack-download-azure-marketplace-item?view=azs-2102&tabs=az1%2Caz2&pivots=state-connected",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "3.1.135",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Stack Hub",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11950,
+	"releaseDate": "2021-09-14T07:00:00Z",
+	"releaseNumber": "2021-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

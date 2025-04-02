@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-f32d-0000fb593e49",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft 365 Apps for Enterprise",
+	"baseProductVersion": "16.0.1",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:a:microsoft:365_apps:-:*:*:*:enterprise:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-41764",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-347: Improper Verification of Cryptographic Signature",
+				"https://cwe.mitre.org/data/definitions/347.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-347: Improper Verification of Cryptographic Signature"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2023-09-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Click to Run",
+			"articleUrl": "https://docs.microsoft.com/en-us/officeupdates/office365-proplus-security-updates",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "https://aka.ms/OfficeSecurityReleases",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft 365 Apps for Enterprise for 64-bit Systems",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11763,
+	"releaseDate": "2023-09-12T07:00:00Z",
+	"releaseNumber": "2023-Sep",
+	"severity": "Moderate",
+	"severityId": 100000002,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:H/A:N/E:U/RL:O/RC:C"
+}

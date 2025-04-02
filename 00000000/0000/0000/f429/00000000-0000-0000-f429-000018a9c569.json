@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-f429-000018a9c569",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Excel 2016",
+	"baseProductVersion": "16.0.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:excel:2016:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36037",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2023-11-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002518",
+			"articleUrl": "https://support.microsoft.com/help/5002518",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=003f87de-8a7a-439d-905a-b534440265bb",
+			"fixedBuildNumber": "16.0.5422.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10740,
+	"releaseDate": "2023-11-14T08:00:00Z",
+	"releaseNumber": "2023-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,84 @@
+{
+	"id": "00000000-0000-0000-022a-0000f9d1fb2e",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Office 2016",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "9.8",
+	"cpe": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-21413",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-02-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002537",
+			"articleUrl": "https://support.microsoft.com/help/5002537",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=0754e80a-a661-4e4c-b876-7288e83d0e26",
+			"fixedBuildNumber": "16.0.5435.1001",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5002467",
+			"articleUrl": "https://support.microsoft.com/help/5002467",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=e80c5e98-5fd0-45d2-931c-4ebb126db870",
+			"fixedBuildNumber": "16.0.5435.1001",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5002522",
+			"articleUrl": "https://support.microsoft.com/help/5002522",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=2b476112-870d-451c-a7d7-e513e72ec383",
+			"fixedBuildNumber": "16.0.5435.1001",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5002519",
+			"articleUrl": "https://support.microsoft.com/help/5002519",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=96a56f04-fed0-4743-b518-23b904e9368e",
+			"fixedBuildNumber": "16.0.5435.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10754,
+	"releaseDate": "2024-02-13T08:00:00Z",
+	"releaseNumber": "2024-Feb",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-a029-0000eef7feb9",
+	"architectureId": 0,
+	"baseScore": "5.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-28456",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2021-04-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4504735",
+			"articleUrl": "https://support.microsoft.com/kb/4504735",
+			"downloadName": "Security Update",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4493239"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2013 RT Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10656,
+	"productVersion": "15.0.0.0",
+	"releaseDate": "2021-04-13T07:00:00Z",
+	"releaseNumber": "2021-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,50 @@
+{
+	"id": "00000000-0000-0000-8a28-0000dc7884f2",
+	"architectureId": 0,
+	"baseScore": "8.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1102",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4507462",
+			"articleUrl": "https://support.microsoft.com/help/4507462",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4507462",
+			"knownIssuesName": "4507462",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4507462",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4503285"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4507464",
+			"articleUrl": "https://support.microsoft.com/help/4507464",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4507464",
+			"knownIssuesName": "4507464",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4507464",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10378,
+	"releaseDate": "2019-07-09T07:00:00Z",
+	"releaseNumber": "2019-Jul",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.6",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-242a-000042e09e91",
+	"architectureId": 0,
+	"baseScore": "7.6",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0181",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4015219",
+			"articleUrl": "https://support.microsoft.com/help/4015219",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4015219",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4013198"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1511 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10788,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.0/AV:A/AC:H/PR:H/UI:N/S:C/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

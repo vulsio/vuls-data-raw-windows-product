@@ -1,0 +1,54 @@
+{
+	"id": "00000000-2fd4-0000-2f2f-0000c4984b4a",
+	"architectureId": 0,
+	"baseProductName": "Microsoft .NET Framework 3.5 AND 4.8.1",
+	"baseProductVersion": "4.8.1",
+	"baseScore": "9.1",
+	"cpe": "cpe:2.3:a:microsoft:.net:4.8.1:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-0057",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2024-01-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5034272",
+			"articleUrl": "https://support.microsoft.com/help/5034272",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5033922",
+			"fixedBuildNumber": "4.8.09214.01",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2022, 23H2 Edition (Server Core installation)",
+	"platformId": 12244,
+	"product": "Microsoft .NET Framework 3.5 AND 4.8.1",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12079,
+	"releaseDate": "2024-01-09T08:00:00Z",
+	"releaseNumber": "2024-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "8.2",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N/E:P/RL:O/RC:C"
+}

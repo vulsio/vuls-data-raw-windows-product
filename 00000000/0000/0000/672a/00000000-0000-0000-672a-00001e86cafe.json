@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-672a-00001e86cafe",
+	"architectureId": 0,
+	"baseScore": "6.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17099",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2020-12-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4593226",
+			"articleUrl": "https://support.microsoft.com/help/4593226",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4593226",
+			"knownIssuesName": "4593226",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4593226",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4586830"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2016 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10855,
+	"releaseDate": "2020-12-08T08:00:00Z",
+	"releaseNumber": "2020-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.9",
+	"vectorString": "CVSS:3.0/AV:P/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

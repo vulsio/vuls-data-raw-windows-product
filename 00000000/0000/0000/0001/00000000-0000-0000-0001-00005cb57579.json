@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-0001-00005cb57579",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8281",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-07-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011202",
+			"articleUrl": "https://support.microsoft.com/help/4011202",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=1dd9c1fd-596f-4969-a7a5-1ad444cedb98",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3213641"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft PowerPoint Viewer",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 256,
+	"releaseDate": "2018-07-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

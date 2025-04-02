@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-a627-0000d5544634",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0199",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3141529",
+			"articleUrl": "https://support.microsoft.com/kb/3141529",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=2277f4e4-4c1c-4104-b4b5-5f32f1e8c2da",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3128020"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2007 Service Pack 3",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10150,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

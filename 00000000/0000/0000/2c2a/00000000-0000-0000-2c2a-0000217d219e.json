@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-2c2a-0000217d219e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0760",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4462210",
+			"articleUrl": "https://support.microsoft.com/kb/4462210",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=62f2f0eb-2e59-4ad2-9ec7-00b7123f5f0a",
+			"knownIssuesName": "4462210",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4462210",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4018351"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Access 2013 Service Pack 1 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10796,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Important",
+	"severityId": 100000001
+}

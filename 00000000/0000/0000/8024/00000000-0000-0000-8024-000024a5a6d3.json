@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-8024-000024a5a6d3",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7211",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-10-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3191203",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3191203",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=4da722a9-e219-47a9-8108-2e0b04b5488d",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3177725"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9344,
+	"releaseDate": "2016-10-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

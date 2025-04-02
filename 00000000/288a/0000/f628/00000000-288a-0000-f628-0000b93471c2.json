@@ -1,0 +1,43 @@
+{
+	"id": "00000000-288a-0000-f628-0000b93471c2",
+	"architectureId": 0,
+	"baseProductName": "Internet Explorer 11",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "6.4",
+	"cpe": "cpe:2.3:a:microsoft:internet_explorer:11:-:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1367",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-09-23T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4519974",
+			"articleUrl": "https://support.microsoft.com/help/4519974",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4519974",
+			"knownIssuesName": "4519974",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4519974",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4524135"
+		}
+	],
+	"platform": "Windows Server 2012",
+	"platformId": 10378,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2019-09-23T07:00:00Z",
+	"releaseNumber": "2019-Sep",
+	"severity": "Moderate",
+	"severityId": 100000002,
+	"temporalScore": "5.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

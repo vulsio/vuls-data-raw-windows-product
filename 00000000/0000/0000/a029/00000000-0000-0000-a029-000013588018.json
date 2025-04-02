@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-a029-000013588018",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-1027",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-04-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4018350",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4018350",
+			"downloadName": "Security Update",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4018291"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2013 RT Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10656,
+	"releaseDate": "2018-04-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

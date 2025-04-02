@@ -1,0 +1,49 @@
+{
+	"id": "00000000-2743-0000-091c-000016521437",
+	"architectureId": 0,
+	"baseProductName": "Microsoft XML Core Services 3.0",
+	"baseProductVersion": "0",
+	"cpe": "cpe:2.3:a:microsoft:xml_core_services:3.0:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0022",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4012215",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4012215",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4012215",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3212646"
+		},
+		{
+			"affectedBinaries": [
+				"srv.sys;lang;imjppdmg.exe;quartz.dll;win32k.sys;gdiplus.dll;icm32.dll;gdi32.dll;usp10.dll;dwrite.dll;fntcache.dll;ntkrnlmp.exe;ntkrpamp.exe;msxml3.dll;custerr.dll;vmswitch.sys;dvdmaker.exe;helppane.exe"
+			],
+			"articleName": "4012212",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4012212",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4012212",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platform": "Windows Server 2008 R2 for x64-based Systems Service Pack 1",
+	"platformId": 10051,
+	"product": "Microsoft XML Core Services 3.0",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 7177,
+	"releaseDate": "2017-03-14T07:00:00Z",
+	"releaseNumber": "2017-Mar",
+	"severity": "Important",
+	"severityId": 100000001
+}

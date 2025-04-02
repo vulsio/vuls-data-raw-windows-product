@@ -1,0 +1,30 @@
+{
+	"id": "00000000-0000-0000-362d-0000c5a4d53b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0582",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-01-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Click to Run",
+			"articleUrl": "https://docs.microsoft.com/en-us/officeupdates/update-history-office-2019",
+			"downloadName": "Security Update",
+			"ordinal": 1,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2019 for 64-bit editions",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11574,
+	"releaseDate": "2019-01-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

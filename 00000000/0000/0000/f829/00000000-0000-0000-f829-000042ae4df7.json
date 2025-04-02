@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-f829-000042ae4df7",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Visio 2016",
+	"baseProductVersion": "16.0.1",
+	"cpe": "cpe:2.3:a:microsoft:visio:2016:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3235",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115041",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3115041",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=8c81bdb7-58cb-4a0c-aa21-6311babcf17d",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3114511"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visio 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10744,
+	"releaseDate": "2016-06-14T07:00:00Z",
+	"releaseNumber": "2016-Jun",
+	"severity": "Important",
+	"severityId": 100000001
+}

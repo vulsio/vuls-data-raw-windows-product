@@ -1,0 +1,55 @@
+{
+	"id": "00000000-28f3-0000-a809-0000133ca419",
+	"architectureId": 0,
+	"baseProductName": "Microsoft .NET Framework 3.5",
+	"baseProductVersion": "3.5.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:.net:3.5:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36793",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-122: Heap-based Buffer Overflow",
+				"https://cwe.mitre.org/data/definitions/122.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-122: Heap-based Buffer Overflow"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-09-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5030184",
+			"articleUrl": "https://support.microsoft.com/help/5030184",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5029915",
+			"fixedBuildNumber": "3.0.30729.8957",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5029653"
+		}
+	],
+	"platform": "Windows Server 2012 R2",
+	"platformId": 10483,
+	"product": "Microsoft .NET Framework 3.5",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 2472,
+	"releaseDate": "2023-09-12T07:00:00Z",
+	"releaseNumber": "2023-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,47 @@
+{
+	"id": "00000000-0000-0000-1229-00008402f8f3",
+	"architectureId": 0,
+	"baseScore": "7.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-16933",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2020-10-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4486703",
+			"articleUrl": "https://support.microsoft.com/kb/4486703",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=c9580b51-dd8f-4ce9-a571-9746c6aa071f",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4486660"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4486701",
+			"articleUrl": "https://support.microsoft.com/kb/4486701",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=7945d146-f86c-47c8-ba7d-7b472b647f63",
+			"ordinal": 2,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484533"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2010 Service Pack 2 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10514,
+	"releaseDate": "2020-10-13T07:00:00Z",
+	"releaseNumber": "2020-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.3",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

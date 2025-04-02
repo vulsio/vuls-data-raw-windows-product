@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-3228-0000156f9ec1",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0145",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-04-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3144432",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3144432",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://support.microsoft.com/en-us/kb/3144432",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3115875"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Live Meeting 2007 Console",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10290,
+	"releaseDate": "2016-04-12T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

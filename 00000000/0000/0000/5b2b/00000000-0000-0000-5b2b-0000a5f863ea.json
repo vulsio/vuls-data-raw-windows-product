@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-5b2b-0000a5f863ea",
+	"architectureId": 0,
+	"baseScore": "7.6",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-36940",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2021-08-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011600",
+			"articleUrl": "https://support.microsoft.com/kb/4011600",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=ffe86fcd-cc12-4bee-9d97-a48153597552",
+			"fixedBuildNumber": "15.0.5371.1000",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3178638"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Enterprise Server 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11099,
+	"releaseDate": "2021-08-10T07:00:00Z",
+	"releaseNumber": "2021-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.6",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:L/UI:R/S:C/C:H/I:L/A:N/E:U/RL:O/RC:C"
+}

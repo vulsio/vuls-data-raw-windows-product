@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-762e-0000a1ca9c44",
+	"architectureId": 0,
+	"baseProductName": "Skype for Business Server 2015 CU11",
+	"baseProductVersion": "2015 CU11",
+	"baseScore": "7.2",
+	"cpe": "cpe:2.3:a:microsoft:skype_for_business_server:2015:cumulative_update_11:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-26422",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-05-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5003729",
+			"articleUrl": "https://support.microsoft.com/help/5003729",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=0d08ed37-106a-456f-a5c6-61df22588bec",
+			"fixedBuildNumber": "9319.606",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Skype for Business Server 2015 CU11",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11894,
+	"productVersion": "2015 CU11",
+	"releaseDate": "2021-05-11T07:00:00Z",
+	"releaseNumber": "2021-May",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.3",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

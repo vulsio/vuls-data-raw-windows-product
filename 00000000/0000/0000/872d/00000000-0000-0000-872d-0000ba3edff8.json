@@ -1,0 +1,49 @@
+{
+	"id": "00000000-0000-0000-872d-0000ba3edff8",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Edge (Chromium-based)",
+	"baseProductVersion": "1.0.0",
+	"cpe": "cpe:2.3:a:microsoft:edge_chromium:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-34122",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-125: Out-of-bounds Read",
+				"https://cwe.mitre.org/data/definitions/125.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-125: Out-of-bounds Read"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-06-27T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Adobe",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "126.0.2592.8",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Edge (Chromium-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 11655,
+	"releaseDate": "2024-06-27T07:00:00Z",
+	"releaseNumber": "2024-Jun",
+	"severity": "Moderate",
+	"severityId": 100000002
+}

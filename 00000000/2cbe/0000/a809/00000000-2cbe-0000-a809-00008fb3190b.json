@@ -1,0 +1,39 @@
+{
+	"id": "00000000-2cbe-0000-a809-00008fb3190b",
+	"architectureId": 0,
+	"baseProductName": "Microsoft .NET Framework 3.5",
+	"baseProductVersion": "3.5.0",
+	"cpe": "cpe:2.3:a:microsoft:.net:3.5:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1046",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-08-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4571741",
+			"articleUrl": "https://support.microsoft.com/help/4571741",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4571741",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4565508"
+		}
+	],
+	"platform": "Windows 10 Version 1709 for x64-based Systems",
+	"platformId": 11454,
+	"product": "Microsoft .NET Framework 3.5",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 2472,
+	"productVersion": "3.5.0",
+	"releaseDate": "2020-08-11T07:00:00Z",
+	"releaseNumber": "2020-Aug",
+	"severity": "Critical",
+	"severityId": 100000000
+}

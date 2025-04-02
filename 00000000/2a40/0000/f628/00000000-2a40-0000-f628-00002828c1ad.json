@@ -1,0 +1,40 @@
+{
+	"id": "00000000-2a40-0000-f628-00002828c1ad",
+	"architectureId": 0,
+	"baseScore": "6.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1058",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-05-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4556813",
+			"articleUrl": "https://support.microsoft.com/help/4556813",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4556813",
+			"knownIssuesName": "4556813",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4556813",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4550929"
+		}
+	],
+	"platform": "Windows Server 2016",
+	"platformId": 10816,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2020-05-12T07:00:00Z",
+	"releaseNumber": "2020-May",
+	"severity": "Low",
+	"severityId": 100000003,
+	"temporalScore": "5.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

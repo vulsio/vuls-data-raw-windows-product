@@ -1,0 +1,39 @@
+{
+	"id": "00000000-2a64-0000-091c-000016521437",
+	"architectureId": 0,
+	"baseProductName": "Microsoft XML Core Services 3.0",
+	"baseProductVersion": "0",
+	"cpe": "cpe:2.3:a:microsoft:xml_core_services:3.0:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0022",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4013429",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/4013429",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4013429",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/help/4013429/windows-10-update-kb4013429",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3213986"
+		}
+	],
+	"platform": "Windows 10 Version 1607 for 32-bit Systems",
+	"platformId": 10852,
+	"product": "Microsoft XML Core Services 3.0",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 7177,
+	"releaseDate": "2017-03-14T07:00:00Z",
+	"releaseNumber": "2017-Mar",
+	"severity": "Important",
+	"severityId": 100000001
+}

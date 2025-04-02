@@ -1,0 +1,32 @@
+{
+	"id": "00000000-28f4-0000-f628-0000528ef518",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7239",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-11-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3197874",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3197874",
+			"downloadName": "Monthly Rollup",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/kb/3197874",
+			"ordinal": 1,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platform": "Windows RT 8.1",
+	"platformId": 10484,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2016-11-08T08:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002
+}

@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-a728-000086ca26ca",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV180026",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2018-10-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4092477",
+			"articleUrl": "https://support.microsoft.com/kb/4092477",
+			"downloadName": "Security Update",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4032240"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2013 RT Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10407,
+	"releaseDate": "2018-10-09T07:00:00Z",
+	"severity": "None",
+	"severityId": 100000004
+}

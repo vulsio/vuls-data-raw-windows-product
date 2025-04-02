@@ -1,0 +1,35 @@
+{
+	"id": "00000000-2a24-0000-e429-0000f649e2e8",
+	"architectureId": 0,
+	"baseScore": "4.2",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7297",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-12-13T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3205386",
+			"articleUrl": "http://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3205386",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3205386",
+			"ordinal": 1,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platform": "Windows 10 Version 1511 for x64-based Systems",
+	"platformId": 10788,
+	"product": "Microsoft Edge (EdgeHTML-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10724,
+	"releaseDate": "2016-12-13T08:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "3.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:L/I:L/A:N/E:P/RL:O"
+}

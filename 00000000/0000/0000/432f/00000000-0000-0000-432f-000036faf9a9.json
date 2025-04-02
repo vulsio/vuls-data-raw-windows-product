@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-432f-000036faf9a9",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows 10 Version 22H2",
+	"baseProductVersion": "10.0.19045.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_22H2:{bv}:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-21362",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-367: Time-of-check Time-of-use (TOCTOU) Race Condition",
+				"https://cwe.mitre.org/data/definitions/367.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-367: Time-of-check Time-of-use (TOCTOU) Race Condition"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2024-02-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5034763",
+			"articleUrl": "https://support.microsoft.com/help/5034763",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5034763",
+			"fixedBuildNumber": "10.0.19045.4046",
+			"knownIssuesName": "5034763",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5034763",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5034122"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 22H2 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 12099,
+	"releaseDate": "2024-02-13T08:00:00Z",
+	"releaseNumber": "2024-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:N/E:U/RL:O/RC:C"
+}

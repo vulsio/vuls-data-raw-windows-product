@@ -1,0 +1,47 @@
+{
+	"id": "00000000-2466-0000-6028-00007f552323",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1215",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-06-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4561670",
+			"articleUrl": "https://support.microsoft.com/help/4561670",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4561670",
+			"knownIssuesName": "4561670",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4561670",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4556860"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4561603",
+			"articleUrl": "https://support.microsoft.com/help/4561603",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4561603",
+			"ordinal": 2,
+			"rebootRequired": "Yes",
+			"supercedence": "4556798"
+		}
+	],
+	"platform": "Windows Server 2008 for x64-based Systems Service Pack 2",
+	"platformId": 9318,
+	"product": "Internet Explorer 9",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10336,
+	"releaseDate": "2020-06-09T07:00:00Z",
+	"releaseNumber": "2020-Jun",
+	"severity": "Low",
+	"severityId": 100000003
+}

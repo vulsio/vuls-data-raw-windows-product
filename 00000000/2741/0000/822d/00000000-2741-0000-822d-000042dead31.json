@@ -1,0 +1,55 @@
+{
+	"id": "00000000-2741-0000-822d-000042dead31",
+	"architectureId": 0,
+	"baseProductName": "Microsoft .NET Framework 4.8",
+	"baseProductVersion": "4.8.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:.net:4.8:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36794",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-191: Integer Underflow (Wrap or Wraparound)",
+				"https://cwe.mitre.org/data/definitions/191.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-191: Integer Underflow (Wrap or Wraparound)"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-09-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5030182",
+			"articleUrl": "https://support.microsoft.com/help/5030182",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5029929",
+			"fixedBuildNumber": "4.8.04667.02",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5029651"
+		}
+	],
+	"platform": "Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)",
+	"platformId": 10049,
+	"product": "Microsoft .NET Framework 4.8",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11650,
+	"releaseDate": "2023-09-12T07:00:00Z",
+	"releaseNumber": "2023-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

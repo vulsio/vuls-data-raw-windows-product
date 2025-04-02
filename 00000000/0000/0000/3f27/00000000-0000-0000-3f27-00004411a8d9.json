@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-3f27-00004411a8d9",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0175",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-05-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3153199",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3153199",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=ae0c2184-6d16-4e43-8d56-7a8c32f9156e",
+			"ordinal": 1,
+			"supercedence": "3139852"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 7 for 32-bit Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10047,
+	"releaseDate": "2016-05-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

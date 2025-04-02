@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-5f24-000002cc2634",
+	"architectureId": 0,
+	"baseScore": "7.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8166",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2018-05-08T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4131188",
+			"articleUrl": "https://support.microsoft.com/help/4131188",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4131188",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4093224"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for Itanium-Based Systems Service Pack 2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9311,
+	"releaseDate": "2018-05-08T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.3",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

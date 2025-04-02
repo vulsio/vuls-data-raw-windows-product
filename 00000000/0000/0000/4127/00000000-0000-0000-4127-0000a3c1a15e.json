@@ -1,0 +1,65 @@
+{
+	"id": "00000000-0000-0000-4127-0000a3c1a15e",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2008 R2 Service Pack 1 (Server Core installation)",
+	"baseProductVersion": "6.1.7601.0",
+	"baseScore": "5.4",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_R2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-38217",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-693: Protection Mechanism Failure",
+				"https://cwe.mitre.org/data/definitions/693.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-693: Protection Mechanism Failure"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2024-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5043129",
+			"articleUrl": "https://support.microsoft.com/help/5043129",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5043129",
+			"fixedBuildNumber": "6.1.7601.27320",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5041838"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5043092",
+			"articleUrl": "https://support.microsoft.com/help/5043092",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5043092",
+			"fixedBuildNumber": "6.1.7601.27320",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10049,
+	"releaseDate": "2024-09-10T07:00:00Z",
+	"releaseNumber": "2024-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.0",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:L/A:L/E:F/RL:O/RC:C"
+}

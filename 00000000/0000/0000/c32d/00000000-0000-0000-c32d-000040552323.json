@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-c32d-000040552323",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1410",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-07-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4565483",
+			"articleUrl": "https://support.microsoft.com/help/4565483",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4565483",
+			"knownIssuesName": "4565483",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4565483",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4560960"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server, version 1909 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11715,
+	"releaseDate": "2020-07-14T07:00:00Z",
+	"releaseNumber": "2020-Jul",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

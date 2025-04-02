@@ -1,0 +1,42 @@
+{
+	"id": "00000000-28f1-0000-8c29-0000a4c134ce",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0606",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-01-14T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4535104",
+			"articleUrl": "https://support.microsoft.com/help/4535104",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4532927",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4524743; 4533097"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4534978",
+			"articleUrl": "https://support.microsoft.com/help/4534978",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4532962",
+			"ordinal": 2,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows 8.1 for 32-bit systems",
+	"platformId": 10481,
+	"product": "Microsoft .NET Framework 4.5.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10636,
+	"releaseDate": "2020-01-14T08:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

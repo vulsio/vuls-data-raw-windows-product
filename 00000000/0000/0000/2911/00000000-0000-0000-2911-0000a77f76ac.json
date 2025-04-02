@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-2911-0000a77f76ac",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows Vista Service Pack 2",
+	"baseProductVersion": "5.0.0",
+	"baseScore": "4.7",
+	"cpe": "cpe:2.3:o:microsoft:windows_vista:{bv}:sp2:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0061",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"icm32.dll"
+			],
+			"articleName": "4012584",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/4012584",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4012584",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Vista Service Pack 2",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 4393,
+	"releaseDate": "2017-03-14T07:00:00Z",
+	"releaseNumber": "2017-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.2",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

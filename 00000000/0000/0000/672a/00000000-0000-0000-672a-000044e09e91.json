@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-672a-000044e09e91",
+	"architectureId": 0,
+	"baseScore": "5.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0183",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4015217",
+			"articleUrl": "https://support.microsoft.com/help/4015217",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4015217",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4013429"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2016  (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10855,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.2",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:H/UI:N/S:C/C:N/I:N/A:H/E:P/RL:O/RC:C"
+}

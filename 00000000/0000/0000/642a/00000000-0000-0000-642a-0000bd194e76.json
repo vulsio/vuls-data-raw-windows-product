@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-642a-0000bd194e76",
+	"architectureId": 0,
+	"baseScore": "6.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7223",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-11-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3200970",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3200970",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3200970",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/kb/3200970",
+			"ordinal": 1,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1607 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10852,
+	"releaseDate": "2016-11-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.1",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:L/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-f429-0000d4f261d5",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Excel 2016",
+	"baseProductVersion": "16.0.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:excel_2016:*:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-21383",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-125: Out-of-bounds Read",
+				"https://cwe.mitre.org/data/definitions/125.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-125: Out-of-bounds Read"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2025-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002179",
+			"articleUrl": "https://support.microsoft.com/kb/5002179",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=8a8589d6-c63a-4f1b-9f08-f8af2fce777f",
+			"fixedBuildNumber": "16.0.5487.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3118335"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10740,
+	"releaseDate": "2025-02-11T08:00:00Z",
+	"releaseNumber": "2025-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

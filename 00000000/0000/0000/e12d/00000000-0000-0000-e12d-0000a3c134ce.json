@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-e12d-0000a3c134ce",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0605",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-01-14T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/PowerShell/Announcements-Internal/issues/19",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/PowerShell/PowerShell#get-powershell",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "PowerShell 7.0",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11745,
+	"releaseDate": "2020-01-14T08:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

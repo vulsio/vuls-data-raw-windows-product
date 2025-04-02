@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-8b2e-0000accb0175",
+	"architectureId": 0,
+	"baseScore": "7.6",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-31984",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-07-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Details",
+			"articleUrl": "https://www.microsoft.com/en-us/download/details.aspx?id=58494",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/download/details.aspx?id=58494",
+			"fixedBuildNumber": "> 2.94.781.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Power BI Desktop",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 11915,
+	"productVersion": "2.0.0.0",
+	"releaseDate": "2021-07-13T07:00:00Z",
+	"releaseNumber": "2021-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.6",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:H/A:N/E:U/RL:O/RC:C"
+}

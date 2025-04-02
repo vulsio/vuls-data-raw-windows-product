@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-c730-0000c2bb4897",
+	"architectureId": 0,
+	"baseProductName": "Surface Laptop 4 with Intel Processor",
+	"baseProductVersion": "0",
+	"baseScore": "7.1",
+	"cpe": "cpe:2.3:h:microsoft:surface_laptop_4_intel_processor:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-21194",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2025-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Surface Laptop 4 with Intel Processor",
+	"productFamily": "Device",
+	"productFamilyId": 100000011,
+	"productId": 12487,
+	"releaseDate": "2025-02-11T08:00:00Z",
+	"releaseNumber": "2025-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.2",
+	"vectorString": "CVSS:3.1/AV:A/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,43 @@
+{
+	"id": "00000000-2460-0000-4c24-0000f0d4957e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-16937",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2020-10-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4579980",
+			"articleUrl": "https://support.microsoft.com/help/4579980",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4578951",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4580470",
+			"articleUrl": "https://support.microsoft.com/help/4580470",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4578979",
+			"ordinal": 2,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2008 for 32-bit Systems Service Pack 2",
+	"platformId": 9312,
+	"product": "Microsoft .NET Framework 2.0 Service Pack 2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 9292,
+	"releaseDate": "2020-10-13T07:00:00Z",
+	"releaseNumber": "2020-Oct",
+	"severity": "Important",
+	"severityId": 100000001
+}

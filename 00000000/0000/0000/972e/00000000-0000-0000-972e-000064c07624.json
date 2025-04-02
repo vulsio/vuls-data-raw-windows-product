@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-972e-000064c07624",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Windows 11 version 21H2",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "9.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_11_21H2:{bv}:*:*:*:*:*:arm64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-32015",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-06-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5027223",
+			"articleUrl": "https://support.microsoft.com/help/5027223",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5027223",
+			"fixedBuildNumber": "10.0.22000.2057",
+			"knownIssuesName": "5027223",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5027223",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5026368"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 11 version 21H2 for ARM64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11927,
+	"releaseDate": "2023-06-13T07:00:00Z",
+	"releaseNumber": "2023-Jun",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

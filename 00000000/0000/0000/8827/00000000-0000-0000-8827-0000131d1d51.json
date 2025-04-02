@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-8827-0000131d1d51",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8654",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2017-08-08T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "2956077",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/2956077",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=ae53d758-ab3a-4ef2-b5d6-cc1845649500",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "2837598"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server 2010 Service Pack 2",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10120,
+	"releaseDate": "2017-08-08T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

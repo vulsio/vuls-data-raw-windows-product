@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-612f-00002dca2e74",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Visual Studio 2022 version 17.4",
+	"baseProductVersion": "17.4.0",
+	"baseScore": "6.7",
+	"cpe": "cpe:2.3:a:microsoft:visual_studio_2022:17.4:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36759",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-822: Untrusted Pointer Dereference",
+				"https://cwe.mitre.org/data/definitions/822.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-822: Untrusted Pointer Dereference"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2023-09-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://my.visualstudio.com/Downloads?q=Visual Studio 2022 version 17.4",
+			"fixedBuildNumber": "17.4.11",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2022 version 17.4",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12129,
+	"releaseDate": "2023-09-12T07:00:00Z",
+	"releaseNumber": "2023-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:H/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

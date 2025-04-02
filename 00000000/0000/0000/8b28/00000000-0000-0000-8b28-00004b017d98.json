@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-8b28-00004b017d98",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2012 (Server Core installation)",
+	"baseProductVersion": "6.2.9200.0",
+	"baseScore": "4.3",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2012:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-24055",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-125: Out-of-bounds Read",
+				"https://cwe.mitre.org/data/definitions/125.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-125: Out-of-bounds Read"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2025-03-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5053886",
+			"articleUrl": "https://support.microsoft.com/help/5053886",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5053886",
+			"fixedBuildNumber": "6.2.9200.25368",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5052020"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10379,
+	"releaseDate": "2025-03-11T07:00:00Z",
+	"releaseNumber": "2025-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "3.8",
+	"vectorString": "CVSS:3.1/AV:P/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-3b2a-00009a25ce6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV160011",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2016-08-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115452",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3115452",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=f0a7a230-133e-4609-9697-e7dfea8dbc6e",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "MS16-099"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2013 Service Pack 1 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10811,
+	"releaseDate": "2016-08-09T07:00:00Z",
+	"severity": "None",
+	"severityId": 100000004
+}

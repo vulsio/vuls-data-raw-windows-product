@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-0929-000055ed2b95",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1031",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2019-06-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4464571",
+			"articleUrl": "https://support.microsoft.com/help/4464571",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=c3d2e4ef-35fe-4ccc-b382-3a0b25a8a660",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4464525"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Foundation 2010 Service Pack 2",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10505,
+	"releaseDate": "2019-06-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

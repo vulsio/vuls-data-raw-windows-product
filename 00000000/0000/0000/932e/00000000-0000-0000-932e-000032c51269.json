@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-932e-000032c51269",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2022",
+	"baseProductVersion": "10.0.20348.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2022:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-26158",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-59: Improper Link Resolution Before File Access ('Link Following')",
+				"https://cwe.mitre.org/data/definitions/59.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-59: Improper Link Resolution Before File Access ('Link Following')"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-04-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5036909",
+			"articleUrl": "https://support.microsoft.com/help/5036909",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5036909",
+			"fixedBuildNumber": "10.0.20348.2402",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5035857"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2022",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11923,
+	"releaseDate": "2024-04-09T07:00:00Z",
+	"releaseNumber": "2024-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

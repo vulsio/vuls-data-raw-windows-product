@@ -1,0 +1,65 @@
+{
+	"id": "00000000-0000-0000-942e-00007c1d5d67",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2022",
+	"baseProductVersion": "10.0.20348.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2022:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-35641",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-682: Incorrect Calculation",
+				"https://cwe.mitre.org/data/definitions/682.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-682: Incorrect Calculation"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-12-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5033118",
+			"articleUrl": "https://support.microsoft.com/help/5033118",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5033118",
+			"fixedBuildNumber": "10.0.20348.2159",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5032198"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5033464",
+			"articleUrl": "https://support.microsoft.com/help/5033464",
+			"downloadName": "Security Hotpatch Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5033464",
+			"fixedBuildNumber": "10.0.20348.2144",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2022 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11924,
+	"releaseDate": "2023-12-12T08:00:00Z",
+	"releaseNumber": "2023-Dec",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

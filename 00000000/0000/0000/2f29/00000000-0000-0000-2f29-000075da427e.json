@@ -1,0 +1,46 @@
+{
+	"id": "00000000-0000-0000-2f29-000075da427e",
+	"architectureId": 0,
+	"baseScore": "7.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0817",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2018-03-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4088876",
+			"articleUrl": "https://support.microsoft.com/help/4088876",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4088876",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4088876",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4074594"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4088879",
+			"articleUrl": "https://support.microsoft.com/help/4088879",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4088879",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4088879",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 R2 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10543,
+	"releaseDate": "2018-03-13T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.3",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

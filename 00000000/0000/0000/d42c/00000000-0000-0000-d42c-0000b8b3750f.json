@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-d42c-0000b8b3750f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV180002",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2018-01-03T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4057116",
+			"articleUrl": "https://support.microsoft.com/help/4057116",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=13608f59-f45b-4b15-ac1a-a8f6db748d4b",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4057116",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2012 for 32-bit Systems Service Pack 4 (QFE)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 11476,
+	"releaseDate": "2018-01-03T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

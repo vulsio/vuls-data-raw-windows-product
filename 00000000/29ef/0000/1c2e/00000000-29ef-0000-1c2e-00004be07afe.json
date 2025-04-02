@@ -1,0 +1,53 @@
+{
+	"id": "00000000-29ef-0000-1c2e-00004be07afe",
+	"architectureId": 0,
+	"baseProductName": "Raw Image Extension",
+	"baseProductVersion": "2.1.0.0",
+	"baseScore": "8.4",
+	"cpe": "cpe:2.3:a:microsoft:raw_image_extension:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-28291",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-04-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Update Information",
+			"articleUrl": "https://support.microsoft.com/en-us/account-billing/get-updates-for-apps-and-games-in-microsoft-store-a1fe19c0-532d-ec47-7035-d1c5a1dd464f",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "2.1.60611.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows 10 for x64-based Systems",
+	"platformId": 10735,
+	"product": "Raw Image Extension",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11804,
+	"releaseDate": "2023-04-11T07:00:00Z",
+	"releaseNumber": "2023-Apr",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.3",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

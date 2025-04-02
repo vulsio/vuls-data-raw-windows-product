@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-fa29-000094ffb10b",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft Word 2016",
+	"baseProductVersion": "16.0.1",
+	"baseScore": "9.8",
+	"cpe": "cpe:2.3:a:microsoft:word:2016:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-21716",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-190: Integer Overflow or Wraparound",
+				"https://cwe.mitre.org/data/definitions/190.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-190: Integer Overflow or Wraparound"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-02-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002323",
+			"articleUrl": "https://support.microsoft.com/kb/5002323",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=ce73ac0a-3564-4fc7-8a29-53a3e6d1c03a",
+			"fixedBuildNumber": "16.0.5383.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002223"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2016 (32-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10746,
+	"releaseDate": "2023-02-14T08:00:00Z",
+	"releaseNumber": "2023-Feb",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-fc29-0000be7a1339",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8501",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-07-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3213657",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3213657",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=f303cad7-3ab6-4a6a-b98e-d485380f422c",
+			"ordinal": 1,
+			"supercedence": "3203485"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Online Server 2016",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10748,
+	"releaseDate": "2017-07-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

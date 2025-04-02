@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-1f29-0000596708ca",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft Outlook 2010 Service Pack 2",
+	"baseProductVersion": "13.0.0.0",
+	"cpe": "cpe:2.3:a:microsoft:outlook:2010:sp2:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3366",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3118313",
+			"articleUrl": "https://support.microsoft.com/kb/3118313",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=9ab8897e-ec8d-47e8-b587-a96e45eeb2f3",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3115474"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2010 Service Pack 2 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10527,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,38 @@
+{
+	"id": "00000000-2d2b-0000-f628-00000a94d258",
+	"architectureId": 0,
+	"baseScore": "7.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0640",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-01-14T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4534293",
+			"articleUrl": "https://support.microsoft.com/help/4534293",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4534293",
+			"knownIssuesName": "4534293",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4534293",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4530717"
+		}
+	],
+	"platform": "Windows 10 Version 1803 for ARM64-based Systems",
+	"platformId": 11563,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2020-01-14T08:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.7",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-652a-0000410c7450",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 10 Version 1607",
+	"baseProductVersion": "10.0.14393.0",
+	"baseScore": "8.3",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_1607:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-40547",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-122: Heap-based Buffer Overflow",
+				"https://cwe.mitre.org/data/definitions/122.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-122: Heap-based Buffer Overflow"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2024-08-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Red Hat, Inc.",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5041773",
+			"articleUrl": "https://support.microsoft.com/help/5041773",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5041773",
+			"fixedBuildNumber": "10.0.14393.7259",
+			"knownIssuesName": "5041773",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5041773",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5040434"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1607 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10853,
+	"releaseDate": "2024-08-13T07:00:00Z",
+	"releaseNumber": "2024-Aug",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.3",
+	"vectorString": "CVSS:3.1/AV:A/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H"
+}

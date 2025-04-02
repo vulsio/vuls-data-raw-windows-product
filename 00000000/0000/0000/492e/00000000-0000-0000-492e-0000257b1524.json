@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-492e-0000257b1524",
+	"architectureId": 0,
+	"baseScore": "8.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-34535",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-08-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Remote Desktop client for Windows Desktop",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11849,
+	"releaseDate": "2021-08-10T07:00:00Z",
+	"releaseNumber": "2021-Aug",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

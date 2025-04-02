@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-e929-000025d448dd",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows 10 Version 1507",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "7.3",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_1507:{bv}:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1280",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4516070",
+			"articleUrl": "https://support.microsoft.com/help/4516070",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4516070",
+			"knownIssuesName": "4516070",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4516070",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4512497"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10729,
+	"releaseDate": "2019-09-10T07:00:00Z",
+	"releaseNumber": "2019-Sep",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.6",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

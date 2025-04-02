@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-7f30-00005f30f039",
+	"architectureId": 0,
+	"baseProductName": ".NET 8.0",
+	"baseProductVersion": "8.0.0",
+	"baseScore": "7.3",
+	"cpe": "cpe:2.3:a:microsoft:.net:8.0.0:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-21173",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-379: Creation of Temporary File in Directory with Insecure Permissions",
+				"https://cwe.mitre.org/data/definitions/379.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-379: Creation of Temporary File in Directory with Insecure Permissions"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2025-01-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5050525",
+			"articleUrl": "https://support.microsoft.com/help/5050525",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://dotnet.microsoft.com/en-us/download/dotnet/8.0",
+			"fixedBuildNumber": "8.0.12",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": ".NET 8.0 installed on Linux",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12415,
+	"releaseDate": "2025-01-14T08:00:00Z",
+	"releaseNumber": "2025-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.4",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

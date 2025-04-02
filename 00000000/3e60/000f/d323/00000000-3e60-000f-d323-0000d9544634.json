@@ -1,0 +1,33 @@
+{
+	"id": "00000000-3e60-000f-d323-0000d9544634",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0195",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3191840",
+			"articleUrl": "http://support.microsoft.com/kb/3191840",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=89b6fddc-61c8-4770-8bae-84ccad3260e2",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3178685"
+		}
+	],
+	"platform": "Microsoft Sharepoint Server 2010 Service Pack 2 Bad",
+	"platformId": 999008,
+	"product": "Excel Services",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 9171,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

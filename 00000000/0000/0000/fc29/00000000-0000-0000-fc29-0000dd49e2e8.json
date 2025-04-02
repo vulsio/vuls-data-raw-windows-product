@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-fc29-0000dd49e2e8",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7193",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-10-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3127897",
+			"articleUrl": "http://support.microsoft.com/kb/3127897",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=a2825872-8049-45e7-83f4-ddf03a15898b",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3118299"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Online Server 2016",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10748,
+	"releaseDate": "2016-10-11T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

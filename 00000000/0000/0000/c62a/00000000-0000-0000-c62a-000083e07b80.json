@@ -1,0 +1,48 @@
+{
+	"id": "00000000-0000-0000-c62a-000083e07b80",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Enterprise Server 2016",
+	"baseProductVersion": "16.0.0",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server:2016:*:*:*:enterprise:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1503",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2020-08-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484473",
+			"articleUrl": "https://support.microsoft.com/kb/4484473",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=e65219b6-d435-41b6-9621-1272f9587335",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484436"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4484476",
+			"articleUrl": "https://support.microsoft.com/kb/4484476",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=97fdeebf-1065-4df3-871c-11d037b9bb1c",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Enterprise Server 2016",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10950,
+	"productVersion": "16.0.0",
+	"releaseDate": "2020-08-11T07:00:00Z",
+	"releaseNumber": "2020-Aug",
+	"severity": "Important",
+	"severityId": 100000001
+}

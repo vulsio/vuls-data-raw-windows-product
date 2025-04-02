@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-652a-0000b2b32c74",
+	"architectureId": 0,
+	"baseScore": "8.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17095",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-12-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4593226",
+			"articleUrl": "https://support.microsoft.com/help/4593226",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4593226",
+			"knownIssuesName": "4593226",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4593226",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4586830"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1607 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10853,
+	"releaseDate": "2020-12-08T08:00:00Z",
+	"releaseNumber": "2020-Dec",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.4",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

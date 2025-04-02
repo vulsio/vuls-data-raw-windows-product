@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-402a-00008b577f91",
+	"architectureId": 0,
+	"baseScore": "2.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8271",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2018-09-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4457131",
+			"articleUrl": "https://support.microsoft.com/help/4457131",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4457131",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4343887"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2016",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10816,
+	"releaseDate": "2018-09-11T07:00:00Z",
+	"releaseNumber": "2018-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "2.5",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:L/I:N/A:N"
+}

@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-7530-000015e8d36a",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Configuration Manager",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "9.8",
+	"cpe": "cpe:2.3:a:microsoft:configuration_manager:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-43468",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-89: Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+				"https://cwe.mitre.org/data/definitions/89.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-89: Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-10-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "KB29166583",
+			"articleUrl": "https://learn.microsoft.com/en-us/mem/configmgr/hotfix/2303/29166583",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://learn.microsoft.com/en-us/mem/configmgr/core/servers/manage/install-in-console-updates",
+			"fixedBuildNumber": "5.00.9106",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Configuration Manager 2303",
+	"productFamily": "System Center",
+	"productFamilyId": 100000009,
+	"productId": 12405,
+	"releaseDate": "2024-10-08T07:00:00Z",
+	"releaseNumber": "2024-Oct",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

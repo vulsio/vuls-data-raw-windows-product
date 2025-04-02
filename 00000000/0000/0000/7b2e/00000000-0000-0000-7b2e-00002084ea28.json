@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-7b2e-00002084ea28",
+	"architectureId": 0,
+	"baseProductName": "Intune management extension",
+	"baseProductVersion": "1.0.0.0",
+	"baseScore": "4.2",
+	"cpe": "cpe:2.3:a:microsoft:intune_management_extension:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-41363",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2021-10-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "What's New?",
+			"articleUrl": "https://docs.microsoft.com/en-us/mem/intune/fundamentals/whats-new",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "1.45.204.0",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Intune management extension",
+	"productFamily": "Apps",
+	"productFamilyId": 100000012,
+	"productId": 11899,
+	"releaseDate": "2021-10-12T07:00:00Z",
+	"releaseNumber": "2021-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "3.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:L/I:L/A:N/E:P/RL:O/RC:C"
+}

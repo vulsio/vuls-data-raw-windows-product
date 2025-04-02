@@ -1,0 +1,54 @@
+{
+	"id": "00000000-0000-0000-552d-0000683f726d",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Office Online Server",
+	"baseProductVersion": "16.0.1",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:office_online_server:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-24953",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-416: Use After Free",
+				"https://cwe.mitre.org/data/definitions/416.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-416: Use After Free"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-05-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002372",
+			"articleUrl": "https://support.microsoft.com/help/5002372",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=878994f4-26ae-4aa7-89d7-450c0f588de5",
+			"fixedBuildNumber": "16.0.10398.20000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002356"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Online Server",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11605,
+	"releaseDate": "2023-05-09T07:00:00Z",
+	"releaseNumber": "2023-May",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

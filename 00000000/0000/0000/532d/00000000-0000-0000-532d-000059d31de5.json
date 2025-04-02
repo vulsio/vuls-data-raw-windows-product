@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-532d-000059d31de5",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Dynamics NAV 2017",
+	"baseProductVersion": "1.0",
+	"baseScore": "6.1",
+	"cpe": "cpe:2.3:a:microsoft:dynamics_nav:2017:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-1724",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2021-02-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4602915",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4602915",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/download/details.aspx?id=102674",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Dynamics NAV 2017",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 11603,
+	"productVersion": "1.0",
+	"releaseDate": "2021-02-09T08:00:00Z",
+	"releaseNumber": "2021-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.5",
+	"vectorString": "CVSS:3.1/AV:A/AC:L/PR:L/UI:R/S:C/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

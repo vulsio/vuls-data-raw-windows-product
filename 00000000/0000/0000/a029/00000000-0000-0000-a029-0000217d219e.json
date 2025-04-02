@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-a029-0000217d219e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0760",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484283",
+			"articleUrl": "https://support.microsoft.com/kb/4484283",
+			"downloadName": "Security Update",
+			"knownIssuesName": "4484283",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4484283",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484265"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2013 RT Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10656,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-7227-0000b9bfc91f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1079",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4506161",
+			"articleUrl": "https://support.microsoft.com/help/4506161",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://aka.ms/vs/10/release/4506161",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2010 Service Pack 1",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10098,
+	"releaseDate": "2019-07-09T07:00:00Z",
+	"releaseNumber": "2019-Jul",
+	"severity": "Important",
+	"severityId": 100000001
+}

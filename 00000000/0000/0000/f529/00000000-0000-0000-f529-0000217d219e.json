@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-f529-0000217d219e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0760",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484246",
+			"articleUrl": "https://support.microsoft.com/kb/4484246",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=7ef90470-6690-43c3-8acf-83ee9a0ff9ba",
+			"knownIssuesName": "4484246",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4484246",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484166"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft PowerPoint 2016 (32-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10741,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Important",
+	"severityId": 100000001
+}

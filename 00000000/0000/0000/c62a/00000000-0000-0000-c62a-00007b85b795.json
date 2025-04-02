@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-c62a-00007b85b795",
+	"architectureId": 0,
+	"baseScore": "6.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1482",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2020-09-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484506",
+			"articleUrl": "https://support.microsoft.com/kb/4484506",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=67aa298e-47b1-4aaa-8a1c-ebacea64a4da",
+			"knownIssuesName": "4484506",
+			"knownIssuesUrl": "https://support.microsoft.com/kb/4484506",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484473"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Enterprise Server 2016",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10950,
+	"releaseDate": "2020-09-08T07:00:00Z",
+	"releaseNumber": "2020-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L/E:P/RL:O/RC:C"
+}

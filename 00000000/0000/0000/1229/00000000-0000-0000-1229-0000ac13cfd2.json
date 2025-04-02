@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-1229-0000ac13cfd2",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-11826",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-10-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3213630",
+			"articleUrl": "https://support.microsoft.com/kb/3213630",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=2c6df8cd-4653-400f-97ad-e62d26dbadf7",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3203464"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "3213627",
+			"articleUrl": "https://support.microsoft.com/kb/3213627",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=fddb2800-0b4a-4a1e-8f88-cac1096da3b5",
+			"ordinal": 2,
+			"supercedence": "3203463"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2010 Service Pack 2 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10514,
+	"releaseDate": "2017-10-10T07:00:00Z",
+	"releaseNumber": "2017-Oct",
+	"severity": "Important",
+	"severityId": 100000001
+}

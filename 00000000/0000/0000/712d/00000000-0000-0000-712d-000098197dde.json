@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-712d-000098197dde",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0798",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2019-03-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "2809243",
+			"articleUrl": "https://support.microsoft.com/help/2809243",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=dac7c777-fe8a-45a2-9a82-07a2e15c298f",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Lync Server 2013 July 2018 Update",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11633,
+	"releaseDate": "2019-03-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

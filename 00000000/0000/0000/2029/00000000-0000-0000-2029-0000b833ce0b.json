@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-2029-0000b833ce0b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8572",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-07-27T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "2956078",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/2956078",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=23cbebff-46df-43c0-af9d-887636e6c348",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3203467"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2010 Service Pack 2 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10528,
+	"releaseDate": "2017-07-27T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

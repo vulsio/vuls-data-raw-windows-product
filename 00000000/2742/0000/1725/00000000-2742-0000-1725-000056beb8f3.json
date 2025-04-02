@@ -1,0 +1,42 @@
+{
+	"id": "00000000-2742-0000-1725-000056beb8f3",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0613",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-02-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4487078",
+			"articleUrl": "https://support.microsoft.com/help/4487078",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4483458",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4467224; 4481481"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4487121",
+			"articleUrl": "https://support.microsoft.com/help/4487121",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4483483",
+			"ordinal": 2,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1",
+	"platformId": 10050,
+	"product": "Microsoft .NET Framework 3.5.1",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 9495,
+	"releaseDate": "2019-02-12T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

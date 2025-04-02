@@ -1,0 +1,77 @@
+{
+	"id": "00000000-0000-0000-932e-000033377505",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2022",
+	"baseProductVersion": "10.0.20348.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2022:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-21375",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		},
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-122: Heap-based Buffer Overflow",
+				"https://cwe.mitre.org/data/definitions/122.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation",
+		"CWE-122: Heap-based Buffer Overflow"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2025-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5051979",
+			"articleUrl": "https://support.microsoft.com/help/5051979",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5051979",
+			"fixedBuildNumber": "10.0.20348.3207",
+			"knownIssuesName": "5051979",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5051979",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5049983"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5052106",
+			"articleUrl": "https://support.microsoft.com/help/5052106",
+			"downloadName": "SecurityHotpatchUpdate",
+			"fixedBuildNumber": "10.0.20348.3148",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2022",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11923,
+	"releaseDate": "2025-02-11T08:00:00Z",
+	"releaseNumber": "2025-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

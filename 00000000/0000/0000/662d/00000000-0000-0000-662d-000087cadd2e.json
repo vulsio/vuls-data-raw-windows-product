@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-662d-000087cadd2e",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17023",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-10-15T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://code.visualstudio.com/updates/v1_50",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://code.visualstudio.com/Download",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Visual Studio Code",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11622,
+	"releaseDate": "2020-10-15T07:00:00Z",
+	"releaseNumber": "2020-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

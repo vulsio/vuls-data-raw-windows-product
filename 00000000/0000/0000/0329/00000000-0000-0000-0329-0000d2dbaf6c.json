@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-0329-0000d2dbaf6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3279",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2016-07-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115118",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3115118",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=3f5dc3fc-ef45-49ab-be7a-36bd203a41dd",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3114396"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft PowerPoint 2010 Service Pack 2 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10499,
+	"releaseDate": "2016-07-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

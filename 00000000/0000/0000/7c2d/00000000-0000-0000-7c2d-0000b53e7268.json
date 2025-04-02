@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-7c2d-0000b53e7268",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1235",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-06-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4560960",
+			"articleUrl": "https://support.microsoft.com/help/4560960",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4560960",
+			"knownIssuesName": "4560960",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4560960",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4556799"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1903 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11644,
+	"releaseDate": "2020-06-09T07:00:00Z",
+	"releaseNumber": "2020-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

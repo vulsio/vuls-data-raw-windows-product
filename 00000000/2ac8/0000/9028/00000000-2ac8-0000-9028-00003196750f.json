@@ -1,0 +1,33 @@
+{
+	"id": "00000000-2ac8-0000-9028-00003196750f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV170004",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4018483",
+			"articleUrl": "https://support.microsoft.com/kb/4018483",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4018483",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4014329"
+		}
+	],
+	"platform": "Windows 10 Version 1703 for x64-based Systems",
+	"platformId": 10952,
+	"product": "Adobe Flash Player",
+	"productFamily": "Other",
+	"productFamilyId": 100000000,
+	"productId": 10384,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

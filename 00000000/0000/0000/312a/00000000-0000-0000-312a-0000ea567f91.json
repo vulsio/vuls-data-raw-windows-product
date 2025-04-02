@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-312a-0000ea567f91",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Project 2013 Service Pack 1",
+	"baseProductVersion": "15.0.0.0",
+	"cpe": "cpe:2.3:a:microsoft:project:2013:sp1:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8575",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-11-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4461489",
+			"articleUrl": "https://support.microsoft.com/help/4461489",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=8bb4cbc3-db94-4edb-b343-e22473ff64c5",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3101506"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Project 2013 Service Pack 1 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10801,
+	"releaseDate": "2018-11-13T08:00:00Z",
+	"releaseNumber": "2018-Nov",
+	"severity": "Important",
+	"severityId": 100000001
+}

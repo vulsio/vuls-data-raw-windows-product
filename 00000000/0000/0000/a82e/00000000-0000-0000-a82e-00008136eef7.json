@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-a82e-00008136eef7",
+	"architectureId": 0,
+	"baseProductName": "Azure Automation Update Management",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:azure_automation_update_management:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-29149",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2022-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agent-linux",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "OMS Agent for Linux GA v1.14.13",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Automation Update Management",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11944,
+	"releaseDate": "2022-06-14T07:00:00Z",
+	"releaseNumber": "2022-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

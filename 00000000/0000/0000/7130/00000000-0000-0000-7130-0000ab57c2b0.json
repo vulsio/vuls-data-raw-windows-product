@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-7130-0000ab57c2b0",
+	"architectureId": 0,
+	"baseProductName": "Azure Health Bot",
+	"baseProductVersion": "1.0",
+	"baseScore": "9.1",
+	"cpe": "cpe:2.3:a:microsoft:azure_health_bot:-:*:*:*:*:*:*:*",
+	"customerActionRequired": false,
+	"cveNumber": "CVE-2024-38109",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-918: Server-Side Request Forgery (SSRF)",
+				"https://cwe.mitre.org/data/definitions/918.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-918: Server-Side Request Forgery (SSRF)"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-08-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Azure Health Bot",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12401,
+	"releaseDate": "2024-08-13T07:00:00Z",
+	"releaseNumber": "2024-Aug",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.9",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:H/E:U/RL:O/RC:C"
+}

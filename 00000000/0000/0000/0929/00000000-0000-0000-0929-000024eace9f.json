@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-0929-000024eace9f",
+	"architectureId": 0,
+	"baseProductName": "Microsoft SharePoint Foundation 2010 Service Pack 2",
+	"baseProductVersion": "13.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server:2010:sp2:*:*:foundation:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-1707",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-01-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4493187",
+			"articleUrl": "https://support.microsoft.com/kb/4493187",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=5a23d645-68fc-4a13-9529-52b1a7f7419c",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4493149"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Foundation 2010 Service Pack 2",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10505,
+	"releaseDate": "2021-01-12T08:00:00Z",
+	"releaseNumber": "2021-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

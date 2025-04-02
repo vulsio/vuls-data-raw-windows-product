@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-c32d-0000173f85d1",
+	"architectureId": 0,
+	"baseScore": "5.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17094",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2020-12-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4592449",
+			"articleUrl": "https://support.microsoft.com/help/4592449",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4592449",
+			"knownIssuesName": "4592449",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4592449",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4586786"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server, version 1909 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11715,
+	"releaseDate": "2020-12-08T08:00:00Z",
+	"releaseNumber": "2020-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

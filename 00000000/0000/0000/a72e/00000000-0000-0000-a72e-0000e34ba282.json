@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-a72e-0000e34ba282",
+	"architectureId": 0,
+	"baseScore": "9.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-38647",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-09-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/microsoft/SCXcore-kits/tree/master/release",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "DSC Agent versions: 2.71.1.25, 2.70.0.30, 3.0.0.3",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Automation State Configuration, DSC Extension",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11943,
+	"releaseDate": "2021-09-14T07:00:00Z",
+	"releaseNumber": "2021-Sep",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.5",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

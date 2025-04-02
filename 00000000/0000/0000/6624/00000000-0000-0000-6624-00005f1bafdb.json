@@ -1,0 +1,48 @@
+{
+	"id": "00000000-0000-0000-6624-00005f1bafdb",
+	"architectureId": 0,
+	"baseScore": "7.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0845",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-04-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4493471",
+			"articleUrl": "https://support.microsoft.com/help/4493471",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4493471",
+			"knownIssuesName": "4493471",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4493471",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4489880"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4493458",
+			"articleUrl": "https://support.microsoft.com/help/4493458",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4493458",
+			"knownIssuesName": "4493458",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4493458",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for x64-based Systems Service Pack 2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9318,
+	"releaseDate": "2019-04-09T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.7",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

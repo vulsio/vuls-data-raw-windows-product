@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-a728-00007a16d89b",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Microsoft Outlook 2013 Service Pack 1",
+	"baseProductVersion": "15.0.0.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:a:microsoft:outlook:2013:*:*:*:rt:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36893",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2023-08-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002449",
+			"articleUrl": "https://support.microsoft.com/help/5002449",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "15.0.5579.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2013 RT Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10407,
+	"releaseDate": "2023-08-08T07:00:00Z",
+	"releaseNumber": "2023-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

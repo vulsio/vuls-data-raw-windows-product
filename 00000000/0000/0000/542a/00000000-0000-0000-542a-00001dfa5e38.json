@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-542a-00001dfa5e38",
+	"architectureId": 0,
+	"baseProductName": "Office Online Server",
+	"baseProductVersion": "https://aka.ms/OfficeSecurityReleases",
+	"cpe": "cpe:2.3:a:microsoft:office:2021:*:*:*:ltsc:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1495",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-08-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484470",
+			"articleUrl": "https://support.microsoft.com/kb/4484470",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=bac3dd4f-6033-4b4d-8675-d7d64b58cbcc",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484451"
+		}
+	],
+	"platformId": 0,
+	"product": "Office Online Server",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10836,
+	"productVersion": "https://aka.ms/OfficeSecurityReleases",
+	"releaseDate": "2020-08-11T07:00:00Z",
+	"releaseNumber": "2020-Aug",
+	"severity": "Important",
+	"severityId": 100000001
+}

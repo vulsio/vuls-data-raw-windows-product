@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-ef29-00009bd2cd4d",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 10 Version 1507",
+	"baseProductVersion": "10.0.10240.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_1507:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-30073",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-41: Improper Resolution of Path Equivalence",
+				"https://cwe.mitre.org/data/definitions/41.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-41: Improper Resolution of Path Equivalence"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2024-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5043083",
+			"articleUrl": "https://support.microsoft.com/help/5043083",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5043083",
+			"fixedBuildNumber": "10.0.10240.20766",
+			"knownIssuesName": "5043083",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5043083",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5041782"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10735,
+	"releaseDate": "2024-09-10T07:00:00Z",
+	"releaseNumber": "2024-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

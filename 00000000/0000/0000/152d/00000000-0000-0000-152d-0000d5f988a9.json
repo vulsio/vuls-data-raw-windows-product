@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-152d-0000d5f988a9",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8327",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-07-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/PowerShell/Announcements/issues/5",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/PowerShell/PowerShellEditorServices/releases/tag/v1.8.0",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "PowerShell Editor Services",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11541,
+	"releaseDate": "2018-07-10T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-492e-000072c9c943",
+	"architectureId": 0,
+	"baseProductName": "Remote Desktop client for Windows Desktop",
+	"baseProductVersion": "1.2.0.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:a:microsoft:remote_desktop:-:*:*:*:*:windows:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-28267",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-126: Buffer Over-read",
+				"https://cwe.mitre.org/data/definitions/126.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-126: Buffer Over-read"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2023-04-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-client-windows#updates-for-version-124157",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-client-windows#updates-for-version-124157",
+			"fixedBuildNumber": "1.2.4157.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Remote Desktop client for Windows Desktop",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11849,
+	"releaseDate": "2023-04-11T07:00:00Z",
+	"releaseNumber": "2023-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

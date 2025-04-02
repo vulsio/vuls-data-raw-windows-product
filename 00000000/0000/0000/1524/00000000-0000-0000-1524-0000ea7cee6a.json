@@ -1,0 +1,21 @@
+{
+	"id": "00000000-0000-0000-1524-0000ea7cee6a",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV200009",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impactId": 0,
+	"initialReleaseDate": "2020-05-19T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "None Available",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 9237,
+	"releaseDate": "2020-05-19T07:00:00Z",
+	"releaseNumber": "2020-May",
+	"severityId": 0
+}

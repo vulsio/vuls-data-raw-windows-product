@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-c62a-0000867527fd",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Enterprise Server 2016",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "8.0",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server:2016:*:*:*:enterprise:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-1712",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2021-01-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4493163",
+			"articleUrl": "https://support.microsoft.com/kb/4493163",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=394b03f5-8ebd-44e4-b219-d394b58abc4c",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4486753"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Enterprise Server 2016",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10950,
+	"releaseDate": "2021-01-12T08:00:00Z",
+	"releaseNumber": "2021-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

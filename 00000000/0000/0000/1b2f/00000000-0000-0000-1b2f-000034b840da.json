@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-1b2f-000034b840da",
+	"architectureId": 0,
+	"baseProductName": "Azure Batch",
+	"baseProductVersion": "1.9.0",
+	"baseScore": "7.0",
+	"cpe": "cpe:2.3:a:microsoft:azure_batch:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-33646",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2022-08-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/Azure/Batch/blob/master/changelogs/nodeagent/CHANGELOG.md#1927",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://docs.microsoft.com/en-us/azure/batch/best-practices#pool-lifetime-and-billing",
+			"fixedBuildNumber": "1.9.27",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Batch",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12059,
+	"releaseDate": "2022-08-09T07:00:00Z",
+	"releaseNumber": "2022-Aug",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.3",
+	"vectorString": "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

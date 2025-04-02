@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-e929-0000e1854f7c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0167",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-04-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3147461",
+			"articleUrl": "https://support.microsoft.com/kb/3147461",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3147461",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3140745"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10729,
+	"releaseDate": "2016-04-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

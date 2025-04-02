@@ -1,0 +1,64 @@
+{
+	"id": "00000000-0000-0000-8b28-0000f59c7bb9",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2012 (Server Core installation)",
+	"baseProductVersion": "6.2.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2012:*:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17047",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2020-11-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				";cdd.dll;fdssdp.dll;gdiplus.dll;ipmontr.dll;ks.sys;localspl.dll;mstscax.dll;ndis.sys;nfssvr.sys;nfssvr.sys",
+				"rpcxdr.sys;Portcls.sys;printconfig.dll;RAMgmtPSProvider.dll;Rasapi32.dll;rasdlg.dll;rasgcw.dll;rasplap.dll;rdp4vs.dll;rdpcore.dll;rdpcorets.dll;rdpwd.sys;rpcxdr.sys;tsmf.dll;unidrvui.dll",
+				"ps5ui.dll",
+				"pscript5.dll;win32k.sys;win32spl.dll;wintrust.dll"
+			],
+			"articleName": "4586834",
+			"articleUrl": "https://support.microsoft.com/help/4586834",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4586834",
+			"knownIssuesName": "4586834",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4586834",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4580382"
+		},
+		{
+			"affectedBinaries": [
+				";cdd.dll;fdssdp.dll;gdiplus.dll;ipmontr.dll;ks.sys;localspl.dll;mstscax.dll;ndis.sys;nfssvr.sys;nfssvr.sys",
+				"rpcxdr.sys;Portcls.sys;printconfig.dll;RAMgmtPSProvider.dll;Rasapi32.dll;rasdlg.dll;rasgcw.dll;rasplap.dll;rdp4vs.dll;rdpcore.dll;rdpcorets.dll;rdpwd.sys;rpcxdr.sys;tsmf.dll;unidrvui.dll",
+				"ps5ui.dll",
+				"pscript5.dll;win32k.sys;win32spl.dll;wintrust.dll"
+			],
+			"articleName": "4586808",
+			"articleUrl": "https://support.microsoft.com/help/4586808",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4586808",
+			"knownIssuesName": "4586808",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4586808",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10379,
+	"releaseDate": "2020-11-10T08:00:00Z",
+	"releaseNumber": "2020-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:P/RL:O/RC:C"
+}

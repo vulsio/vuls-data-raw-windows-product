@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-162e-0000456884d3",
+	"architectureId": 0,
+	"baseScore": "5.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-16886",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2020-10-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/PowerShell/Announcements/issues/21",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.powershellgallery.com/packages/PowerShellGet/2.2.5",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "PowerShellGet 2.2.5",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11798,
+	"releaseDate": "2020-10-13T07:00:00Z",
+	"releaseNumber": "2020-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L/E:P/RL:O/RC:C"
+}

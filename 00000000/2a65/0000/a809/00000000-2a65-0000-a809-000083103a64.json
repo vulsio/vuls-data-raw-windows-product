@@ -1,0 +1,43 @@
+{
+	"id": "00000000-2a65-0000-a809-000083103a64",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8202",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2018-07-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4343887",
+			"articleUrl": "https://support.microsoft.com/help/4343887",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4343887",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4338814"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4346877",
+			"articleUrl": "https://support.microsoft.com/help/4346877",
+			"downloadName": "Alternate Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4346877",
+			"ordinal": 2,
+			"rebootRequired": "Yes",
+			"supercedence": "4345418"
+		}
+	],
+	"platform": "Windows 10 Version 1607 for x64-based Systems",
+	"platformId": 10853,
+	"product": "Microsoft .NET Framework 3.5",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 2472,
+	"releaseDate": "2018-07-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

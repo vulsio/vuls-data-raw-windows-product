@@ -1,0 +1,69 @@
+{
+	"id": "00000000-0000-0000-4127-00007a341ec7",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2008 R2 Service Pack 1 (Server Core installation)",
+	"baseProductVersion": "6.1.7601.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_R2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36004",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-287: Improper Authentication",
+				"https://cwe.mitre.org/data/definitions/287.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-287: Improper Authentication"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2023-12-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5033433",
+			"articleUrl": "https://support.microsoft.com/help/5033433",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5033433",
+			"fixedBuildNumber": "6.1.7601.26864",
+			"knownIssuesName": "5033433",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5033433",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5032252"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5033424",
+			"articleUrl": "https://support.microsoft.com/help/5033424",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5033424",
+			"fixedBuildNumber": "6.1.7601.26864",
+			"knownIssuesName": "5033424",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5033424",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10049,
+	"releaseDate": "2023-12-12T08:00:00Z",
+	"releaseNumber": "2023-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

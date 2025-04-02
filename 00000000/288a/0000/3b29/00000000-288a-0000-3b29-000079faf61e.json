@@ -1,0 +1,33 @@
+{
+	"id": "00000000-288a-0000-3b29-000079faf61e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0154",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-04-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3148198",
+			"articleUrl": "https://support.microsoft.com/kb/3148198",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=102e5c6e-857c-4e5b-bb9b-d143e2355db3",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3139929"
+		}
+	],
+	"platform": "Windows Server 2012",
+	"platformId": 10378,
+	"product": "Internet Explorer 10",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10555,
+	"releaseDate": "2016-04-12T07:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002
+}

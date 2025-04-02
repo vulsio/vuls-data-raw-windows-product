@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-f92d-0000a4ac9703",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-16890",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-10-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4579311",
+			"articleUrl": "https://support.microsoft.com/help/4579311",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4579311",
+			"knownIssuesName": "4579311",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4579311",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4571756"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server, version 2004 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11769,
+	"releaseDate": "2020-10-13T07:00:00Z",
+	"releaseNumber": "2020-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

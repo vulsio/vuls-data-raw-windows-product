@@ -1,0 +1,33 @@
+{
+	"id": "00000000-2a64-0000-9028-0000b8af750f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV190003",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-02-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4487038",
+			"articleUrl": "https://support.microsoft.com/help/4487038",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4487038",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4471331"
+		}
+	],
+	"platform": "Windows 10 Version 1607 for 32-bit Systems",
+	"platformId": 10852,
+	"product": "Adobe Flash Player",
+	"productFamily": "Other",
+	"productFamilyId": 100000000,
+	"productId": 10384,
+	"releaseDate": "2019-02-12T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

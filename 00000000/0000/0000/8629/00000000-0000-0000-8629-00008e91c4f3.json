@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-8629-00008e91c4f3",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8527",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-06-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3191939",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3191939",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=babfc563-3236-4249-ac11-992540e90edd",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3172539"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Lync 2013 Service Pack 1 (64-bit)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10630,
+	"releaseDate": "2017-06-13T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

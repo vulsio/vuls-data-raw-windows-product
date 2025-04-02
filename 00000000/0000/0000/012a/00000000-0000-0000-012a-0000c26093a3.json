@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-012a-0000c26093a3",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7275",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-12-13T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3127986",
+			"articleUrl": "https://support.microsoft.com/kb/3127986",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=d799340c-0786-4b19-a301-17998a5b1960",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3118292"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2016 (32-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10753,
+	"releaseDate": "2016-12-13T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

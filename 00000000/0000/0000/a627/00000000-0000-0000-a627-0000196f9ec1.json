@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-a627-0000196f9ec1",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Office 2007 Service Pack 3",
+	"baseProductVersion": "0",
+	"cpe": "cpe:2.3:a:microsoft:office:2007:sp3:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0141",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3118300",
+			"articleUrl": "http://support.microsoft.com/kb/3118300",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=32311a8f-aa2f-4cf2-b63c-f3911cba8eed",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3114893"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2007 Service Pack 3",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10150,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

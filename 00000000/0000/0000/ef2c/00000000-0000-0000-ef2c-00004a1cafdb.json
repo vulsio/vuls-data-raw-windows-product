@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-ef2c-00004a1cafdb",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0741",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-02-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/Azure/azure-iot-sdk-java/releases",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/Azure/azure-iot-sdk-java/releases",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Java SDK for Azure IoT",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11503,
+	"releaseDate": "2019-02-12T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

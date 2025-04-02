@@ -1,0 +1,33 @@
+{
+	"id": "00000000-2788-0000-d824-0000a3577f91",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8378",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2018-08-14T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4032215",
+			"articleUrl": "https://support.microsoft.com/kb/4032215",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=84b3d660-41cc-4f62-8ca8-92edbee4bea3",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4022197"
+		}
+	],
+	"platform": "Microsoft SharePoint Server 2010 Service Pack 2",
+	"platformId": 10120,
+	"product": "Word Automation Services",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 9432,
+	"releaseDate": "2018-08-14T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

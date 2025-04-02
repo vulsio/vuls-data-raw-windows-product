@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-0929-0000b6b47579",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8580",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2018-12-11T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4461580",
+			"articleUrl": "https://support.microsoft.com/help/4461580",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=20fa582a-6794-4576-a755-2316d7aee16f",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3141547"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Foundation 2010 Service Pack 2",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10505,
+	"releaseDate": "2018-12-11T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

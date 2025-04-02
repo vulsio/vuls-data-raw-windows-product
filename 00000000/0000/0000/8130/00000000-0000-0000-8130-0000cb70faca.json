@@ -1,0 +1,64 @@
+{
+	"id": "00000000-0000-0000-8130-0000cb70faca",
+	"architectureId": 0,
+	"baseProductName": ".NET 6.0",
+	"baseProductVersion": "6.0.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:.net:6.0.0:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-43484",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-407: Inefficient Algorithmic Complexity",
+				"https://cwe.mitre.org/data/definitions/407.html"
+			]
+		},
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-789: Memory Allocation with Excessive Size Value",
+				"https://cwe.mitre.org/data/definitions/789.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-407: Inefficient Algorithmic Complexity",
+		"CWE-789: Memory Allocation with Excessive Size Value"
+	],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2024-10-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5045998",
+			"articleUrl": "https://support.microsoft.com/help/5045998",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://dotnet.microsoft.com/download/dotnet/6.0",
+			"fixedBuildNumber": "6.0.35",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": ".NET 6.0 installed on Windows",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12417,
+	"releaseDate": "2024-10-08T07:00:00Z",
+	"releaseNumber": "2024-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

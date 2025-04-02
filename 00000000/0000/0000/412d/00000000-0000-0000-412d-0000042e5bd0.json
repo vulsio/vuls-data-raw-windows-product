@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-412d-0000042e5bd0",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Server 2019",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "4.1",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server:2019:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-31171",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2021-05-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5001916",
+			"articleUrl": "https://support.microsoft.com/kb/5001916",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=0036da36-a42a-47e3-855d-9485daf73539",
+			"fixedBuildNumber": "16.0.10374.20000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4504716"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server 2019",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11585,
+	"productVersion": "16.0.0",
+	"releaseDate": "2021-05-11T07:00:00Z",
+	"releaseNumber": "2021-May",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "3.6",
+	"vectorString": "CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

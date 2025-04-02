@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-412d-0000cb74d765",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Server 2019",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "7.2",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server:2019:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-30044",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-502: Deserialization of Untrusted Data",
+				"https://cwe.mitre.org/data/definitions/502.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-502: Deserialization of Untrusted Data"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-05-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002596",
+			"articleUrl": "https://support.microsoft.com/help/5002596",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=b2979480-9728-409f-bce4-c2e574dc83ce",
+			"fixedBuildNumber": "16.0.10409.20047",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002580"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server 2019",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11585,
+	"releaseDate": "2024-05-14T07:00:00Z",
+	"releaseNumber": "2024-May",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.3",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

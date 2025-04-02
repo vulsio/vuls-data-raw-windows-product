@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-1d29-0000d2dbaf6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3279",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2016-07-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115318",
+			"articleUrl": "https://support.microsoft.com/kb/3115318",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=dc9fa885-7fbb-42e8-afcd-c240f25c3161",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3115244"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Web Apps 2010 Service Pack 2",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10525,
+	"releaseDate": "2016-07-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

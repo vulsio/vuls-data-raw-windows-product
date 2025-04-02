@@ -1,0 +1,47 @@
+{
+	"id": "00000000-28f1-0000-f628-0000e17a1339",
+	"architectureId": 0,
+	"baseScore": "4.2",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8607",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-07-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4025336",
+			"articleUrl": "https://support.microsoft.com/help/4025336",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4025336",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/help/4025336",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4022726"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4025252",
+			"articleUrl": "http://support.microsoft.com/help/4025252",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4025252",
+			"ordinal": 2,
+			"rebootRequired": "Yes",
+			"supercedence": "4021558"
+		}
+	],
+	"platform": "Windows 8.1 for 32-bit systems",
+	"platformId": 10481,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2017-07-11T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "3.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:L/I:L/A:N/E:P/RL:O/RC:C"
+}

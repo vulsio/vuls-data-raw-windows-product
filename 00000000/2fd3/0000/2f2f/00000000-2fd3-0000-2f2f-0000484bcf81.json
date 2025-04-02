@@ -1,0 +1,54 @@
+{
+	"id": "00000000-2fd3-0000-2f2f-0000484bcf81",
+	"architectureId": 0,
+	"baseProductName": "Microsoft .NET Framework 3.5 AND 4.8.1",
+	"baseProductVersion": "4.8.1",
+	"baseScore": "6.2",
+	"cpe": "cpe:2.3:a:microsoft:.net:4.8.1:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36042",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-122: Heap-based Buffer Overflow",
+				"https://cwe.mitre.org/data/definitions/122.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-122: Heap-based Buffer Overflow"
+	],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2023-11-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5033920",
+			"articleUrl": "https://support.microsoft.com/help/5033920",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5033920",
+			"fixedBuildNumber": "4.8.09214.01",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows 11 Version 23H2 for x64-based Systems",
+	"platformId": 12243,
+	"product": "Microsoft .NET Framework 3.5 AND 4.8.1",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12079,
+	"releaseDate": "2023-11-14T08:00:00Z",
+	"releaseNumber": "2023-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.4",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-4530-0000da3b7633",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Azure Linux 3.0",
+	"baseProductVersion": "3.0",
+	"baseScore": "9.1",
+	"cpe": "cpe:2.3:o:microsoft:azure_linux:3.0:*:*:*:*:*:*:arm",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-5535",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-1395: Dependency on Vulnerable Third-Party Component",
+				"https://cwe.mitre.org/data/definitions/1395.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-1395: Dependency on Vulnerable Third-Party Component"
+	],
+	"impactId": 0,
+	"initialReleaseDate": "2024-11-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "OpenSSL",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"openssl-3.3.0-2.azl3.aarch64.rpm",
+				"openssl-libs-3.3.0-2.azl3.aarch64.rpm",
+				"openssl-devel-3.3.0-2.azl3.aarch64.rpm",
+				"openssl-static-3.3.0-2.azl3.aarch64.rpm",
+				"openssl-perl-3.3.0-2.azl3.aarch64.rpm",
+				"openssl-debuginfo-3.3.0-2.azl3.aarch64.rpm"
+			],
+			"articleName": "openssl",
+			"articleUrl": "https://nvd.nist.gov/vuln/detail/CVE-2024-5535",
+			"downloadName": "CBL-Mariner",
+			"fixedBuildNumber": "3.3.0-2",
+			"ordinal": 0
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Linux 3.0 ARM",
+	"productFamily": "Mariner",
+	"productFamilyId": 100000014,
+	"productId": 12357,
+	"releaseDate": "2024-11-12T08:00:00Z",
+	"releaseNumber": "2024-Nov",
+	"severityId": 0,
+	"temporalScore": "8.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:H/RL:O/RC:C"
+}

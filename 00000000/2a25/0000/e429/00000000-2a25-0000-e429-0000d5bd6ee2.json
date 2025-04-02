@@ -1,0 +1,38 @@
+{
+	"id": "00000000-2a25-0000-e429-0000d5bd6ee2",
+	"architectureId": 0,
+	"baseScore": "4.2",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-11919",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-12-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4053578",
+			"articleUrl": "https://support.microsoft.com/help/4053578",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4053578",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4048952"
+		}
+	],
+	"platform": "Windows 10 Version 1511 for 32-bit Systems",
+	"platformId": 10789,
+	"product": "Microsoft Edge (EdgeHTML-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10724,
+	"releaseDate": "2017-12-12T08:00:00Z",
+	"releaseNumber": "2017-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "3.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:L/I:L/A:N/E:P/RL:O/RC:C"
+}

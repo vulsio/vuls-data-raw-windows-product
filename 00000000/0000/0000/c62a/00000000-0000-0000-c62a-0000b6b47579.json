@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-c62a-0000b6b47579",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8580",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2018-12-11T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4461541",
+			"articleUrl": "https://support.microsoft.com/help/4461541",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=1d2333ca-bd80-46e6-8c88-cbc9a81d4ced",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4461501"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Enterprise Server 2016",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10950,
+	"releaseDate": "2018-12-11T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

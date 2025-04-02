@@ -1,0 +1,33 @@
+{
+	"id": "00000000-2b5b-0000-d323-00000e588018",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-1028",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-04-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4018343",
+			"articleUrl": "https://support.microsoft.com/help/4018343",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=77c62bb1-bcef-4871-8836-c0c52fddaa33",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3213559"
+		}
+	],
+	"platform": "Microsoft SharePoint Enterprise Server 2013 Service Pack 1",
+	"platformId": 11099,
+	"product": "Excel Services",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 9171,
+	"releaseDate": "2018-04-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

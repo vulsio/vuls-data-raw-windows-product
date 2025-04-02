@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-1330-00007fca7663",
+	"architectureId": 0,
+	"baseProductName": "Intune Company Portal for Android",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "6.6",
+	"cpe": "cpe:2.3:a:microsoft:intune_company_portal:-:*:*:*:*:android_os:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-26201",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-284: Improper Access Control",
+				"https://cwe.mitre.org/data/definitions/284.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-284: Improper Access Control"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-03-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/mem/intune/fundamentals/whats-new",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://learn.microsoft.com/en-us/mem/intune/user-help/microsoft-intune-app-linux#update-intune-app",
+			"fixedBuildNumber": "1.2402.12",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Intune Company Portal for Android",
+	"productFamily": "Apps",
+	"productFamilyId": 100000012,
+	"productId": 12307,
+	"releaseDate": "2024-03-12T07:00:00Z",
+	"releaseNumber": "2024-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.9",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:N/E:P/RL:O/RC:C"
+}

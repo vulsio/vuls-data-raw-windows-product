@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-0030-0000fad1fb2e",
+	"architectureId": 0,
+	"baseProductName": "Azure Kubernetes Service",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "9.0",
+	"cpe": "cpe:2.3:a:microsoft:azure_kubernetes_service_confidential_containers:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-21403",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-552: Files or Directories Accessible to External Parties",
+				"https://cwe.mitre.org/data/definitions/552.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-552: Files or Directories Accessible to External Parties"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-02-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/cli/azure/release-notes-azure-cli",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://learn.microsoft.com/en-us/cli/azure/extension?view=azure-cli-latest#az-extension-update.",
+			"fixedBuildNumber": "0.3.3",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Kubernetes Service Confidential Containers",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12288,
+	"releaseDate": "2024-02-13T08:00:00Z",
+	"releaseNumber": "2024-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "8.1",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

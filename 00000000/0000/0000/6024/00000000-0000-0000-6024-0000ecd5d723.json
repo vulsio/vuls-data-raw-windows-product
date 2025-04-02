@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-6024-0000ecd5d723",
+	"architectureId": 0,
+	"baseScore": "6.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8587",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2017-07-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4025674",
+			"articleUrl": "https://support.microsoft.com/help/4025674",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4025674",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "2840149"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for 32-bit Systems Service Pack 2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9312,
+	"releaseDate": "2017-07-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.0",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H/E:F/RL:O/RC:C"
+}

@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-702e-00005a646469",
+	"architectureId": 0,
+	"baseScore": "9.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-34523",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2021-07-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5001779",
+			"articleUrl": "https://support.microsoft.com/help/5001779",
+			"downloadName": "Security Update",
+			"downloadUrl": "http://www.microsoft.com/download/details.aspx?familyid=b13f23a9-5603-4b13-8e16-6d35b5b33524",
+			"fixedBuildNumber": "15.01.2242.008",
+			"knownIssuesName": "5001779",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5001779",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2016 Cumulative Update 20",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11888,
+	"productVersion": "15.01.0.0",
+	"releaseDate": "2021-07-13T07:00:00Z",
+	"releaseNumber": "2021-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.8",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N/E:U/RL:O/RC:C"
+}

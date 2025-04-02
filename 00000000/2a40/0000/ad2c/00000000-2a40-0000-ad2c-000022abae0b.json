@@ -1,0 +1,34 @@
+{
+	"id": "00000000-2a40-0000-ad2c-000022abae0b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0786",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2018-01-09T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4056890",
+			"articleUrl": "https://support.microsoft.com/help/4056890",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4056890",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/help/4056890",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4053579"
+		}
+	],
+	"platform": "Windows Server 2016",
+	"platformId": 10816,
+	"product": "Microsoft .NET Framework 4.6.2/4.7",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11437,
+	"releaseDate": "2018-01-09T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

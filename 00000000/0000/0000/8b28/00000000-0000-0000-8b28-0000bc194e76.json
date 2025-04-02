@@ -1,0 +1,44 @@
+{
+	"id": "00000000-0000-0000-8b28-0000bc194e76",
+	"architectureId": 0,
+	"baseScore": "6.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7224",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-11-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3197877",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3197877",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3197877",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/kb/3197877",
+			"ordinal": 1,
+			"supercedence": "3197876"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "3197876",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3197876",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3197876",
+			"ordinal": 2,
+			"supercedence": "MS16-051, 3154070; MS16-063, 3160005; MS16-073, 3161664; MS16-074, 3164033; MS16-084, 3170106; MS16-090, 3168965; MS16-092, 3170377; MS16-094, 3172727; MS16-095, 3175443; MS16-098, 3177725; MS16-101, 3177108; MS16-104, 3185319; MS16-110, 3187754"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10379,
+	"releaseDate": "2016-11-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.1",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:L/E:P/RL:O/RC:C"
+}

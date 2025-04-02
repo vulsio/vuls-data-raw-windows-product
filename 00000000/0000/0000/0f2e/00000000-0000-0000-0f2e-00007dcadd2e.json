@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-0f2e-00007dcadd2e",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Exchange Server 2016 Cumulative Update 17",
+	"baseProductVersion": "15.01.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_17:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17083",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-11-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4588741",
+			"articleUrl": "https://support.microsoft.com/help/4588741",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=a8b61f90-8e24-4b5b-9551-195bcaa450e5",
+			"knownIssuesName": "4588741",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4588741",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4581424"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2016 Cumulative Update 17",
+	"productFamily": "Server Software",
+	"productFamilyId": 100000004,
+	"productId": 11791,
+	"releaseDate": "2020-11-10T08:00:00Z",
+	"releaseNumber": "2020-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:L/UI:R/S:C/C:L/I:L/A:L/E:U/RL:O/RC:C"
+}

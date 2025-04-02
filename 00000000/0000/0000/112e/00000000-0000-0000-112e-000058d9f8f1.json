@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-112e-000058d9f8f1",
+	"architectureId": 0,
+	"baseScore": "8.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17141",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-12-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4593465",
+			"articleUrl": "https://support.microsoft.com/help/4593465",
+			"downloadName": "Security Update",
+			"downloadUrl": "http://www.microsoft.com/download/details.aspx?familyid=ecb4860d-8981-43e0-99b9-27c4fa0f336b",
+			"knownIssuesName": "4593465",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4593465",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4588741"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2016 Cumulative Update 18",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11793,
+	"releaseDate": "2020-12-08T08:00:00Z",
+	"releaseNumber": "2020-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.6",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:H/UI:R/S:C/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

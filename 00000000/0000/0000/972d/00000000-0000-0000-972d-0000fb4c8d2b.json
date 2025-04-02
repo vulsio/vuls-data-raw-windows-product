@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-972d-0000fb4c8d2b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0618",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4532095",
+			"articleUrl": "https://support.microsoft.com/help/4532095",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://download.microsoft.com/download/2/d/d/2ddc7094-0c7a-40b0-accf-07a5f57e0040/SQLServer2014-KB4532095-x86.exe",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4505218"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2014 Service Pack 3 for 32-bit Systems (GDR)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 11671,
+	"releaseDate": "2020-02-11T08:00:00Z",
+	"releaseNumber": "2020-Feb",
+	"severity": "Important",
+	"severityId": 100000001
+}

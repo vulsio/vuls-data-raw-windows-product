@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-ae29-0000578ef518",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7234",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-11-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3198798",
+			"articleUrl": "https://support.microsoft.com/kb/3198798",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://go.microsoft.com/fwlink/?LinkId=831159",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3193438"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2016 for Mac",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10670,
+	"releaseDate": "2016-11-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

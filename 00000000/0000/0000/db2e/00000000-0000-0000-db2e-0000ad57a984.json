@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-db2e-0000ad57a984",
+	"architectureId": 0,
+	"baseProductName": "Azure VMware Solution",
+	"baseProductVersion": "0",
+	"cpe": "cpe:2.3:o:microsoft:azure_vmware_solution:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-44228",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-12-16T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Apache Software Foundation",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Additional Information",
+			"articleUrl": "https://core.vmware.com/vmsa-2021-0028-questions-answers-faq#",
+			"downloadName": "Security Update",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure VMware Solution",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11995,
+	"releaseDate": "2021-12-16T08:00:00Z",
+	"releaseNumber": "2021-Dec",
+	"severity": "Critical",
+	"severityId": 100000000
+}

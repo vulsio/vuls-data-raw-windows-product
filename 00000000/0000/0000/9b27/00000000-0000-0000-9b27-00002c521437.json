@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-9b27-00002c521437",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Lync for Mac 2011",
+	"baseProductVersion": "0",
+	"cpe": "cpe:2.3:a:microsoft:lync_for_mac:2011:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0129",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2017-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4012487",
+			"articleUrl": "https://support.microsoft.com/help/4012487",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://support.microsoft.com/help/4012487",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Lync for Mac 2011",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10139,
+	"releaseDate": "2017-03-14T07:00:00Z",
+	"releaseNumber": "2017-Mar",
+	"severity": "Important",
+	"severityId": 100000001
+}

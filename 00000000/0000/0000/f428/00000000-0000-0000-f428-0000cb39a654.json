@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-f428-0000cb39a654",
+	"architectureId": 0,
+	"baseScore": "6.6",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3320",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2016-08-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3172729",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3172729",
+			"downloadName": "Security Update",
+			"ordinal": 1,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows RT 8.1",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10484,
+	"releaseDate": "2016-08-09T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.9",
+	"vectorString": "CVSS:3.0/AV:P/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

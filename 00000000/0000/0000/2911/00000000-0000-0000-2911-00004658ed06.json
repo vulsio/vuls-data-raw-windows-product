@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-2911-00004658ed06",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0128",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-04-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3149090",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3149090",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=9d913104-d0e7-4f5d-b48b-0fce91c97388",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3121918"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Vista Service Pack 2",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 4393,
+	"releaseDate": "2016-04-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

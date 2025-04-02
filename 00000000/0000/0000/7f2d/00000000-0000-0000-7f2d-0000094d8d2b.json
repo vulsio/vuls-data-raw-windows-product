@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-7f2d-0000094d8d2b",
+	"architectureId": 0,
+	"baseScore": "5.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0616",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2020-01-14T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4528760",
+			"articleUrl": "https://support.microsoft.com/help/4528760",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4528760",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4530684"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server, version 1903 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11647,
+	"releaseDate": "2020-01-14T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H/E:P/RL:O/RC:C"
+}

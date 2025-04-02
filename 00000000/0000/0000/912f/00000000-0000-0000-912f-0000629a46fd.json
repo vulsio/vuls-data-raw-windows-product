@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-912f-0000629a46fd",
+	"architectureId": 0,
+	"baseProductName": "Azure Service Connector",
+	"baseProductVersion": "0.0.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:azure_service_connector:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-28300",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-284: Improper Access Control",
+				"https://cwe.mitre.org/data/definitions/284.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-284: Improper Access Control"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2023-04-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/Azure/azure-cli-extensions/pull/5952",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://learn.microsoft.com/en-us/cli/azure/update-azure-cli#manual-update",
+			"fixedBuildNumber": "0.3.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Service Connector",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12177,
+	"releaseDate": "2023-04-11T07:00:00Z",
+	"releaseNumber": "2023-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

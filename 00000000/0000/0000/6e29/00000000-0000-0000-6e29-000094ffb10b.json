@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-6e29-000094ffb10b",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Microsoft Word 2013 Service Pack 1",
+	"baseProductVersion": "15.0.1",
+	"baseScore": "9.8",
+	"cpe": "cpe:2.3:a:microsoft:word:2013:sp1:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-21716",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-190: Integer Overflow or Wraparound",
+				"https://cwe.mitre.org/data/definitions/190.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-190: Integer Overflow or Wraparound"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-02-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002316",
+			"articleUrl": "https://support.microsoft.com/help/5002316",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "15.0.5529.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2013 RT Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10606,
+	"releaseDate": "2023-02-14T08:00:00Z",
+	"releaseNumber": "2023-Feb",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

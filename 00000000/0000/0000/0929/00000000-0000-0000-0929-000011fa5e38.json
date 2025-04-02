@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-0929-000011fa5e38",
+	"architectureId": 0,
+	"baseProductName": "Microsoft SharePoint Foundation 2010 Service Pack 2",
+	"baseProductVersion": "13.0.0",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server:2010:sp2:*:*:foundation:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1499",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2020-08-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484462",
+			"articleUrl": "https://support.microsoft.com/kb/4484462",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=b84df4cb-45f1-454e-9625-b3dff22f16c9",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484391"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Foundation 2010 Service Pack 2",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10505,
+	"productVersion": "13.0.0",
+	"releaseDate": "2020-08-11T07:00:00Z",
+	"releaseNumber": "2020-Aug",
+	"severity": "Important",
+	"severityId": 100000001
+}

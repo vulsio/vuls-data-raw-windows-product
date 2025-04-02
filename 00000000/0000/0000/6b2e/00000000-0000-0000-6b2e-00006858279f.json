@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-6b2e-00006858279f",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-28458",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2021-04-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/Azure/ms-rest-nodeauth/pull/117",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/Azure/ms-rest-nodeauth/#readme",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "@azure/ms-rest-nodeauth",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11883,
+	"releaseDate": "2021-04-13T07:00:00Z",
+	"releaseNumber": "2021-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

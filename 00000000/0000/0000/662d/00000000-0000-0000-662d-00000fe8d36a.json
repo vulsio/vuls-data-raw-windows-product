@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-662d-00000fe8d36a",
+	"architectureId": 0,
+	"baseProductName": "Visual Studio Code",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:visual_studio_code:*:*:*:*:*:*:*:*",
+	"customerActionRequired": false,
+	"cveNumber": "CVE-2024-43488",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-306: Missing Authentication for Critical Function",
+				"https://cwe.mitre.org/data/definitions/306.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-306: Missing Authentication for Critical Function"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-10-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Visual Studio Code",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11622,
+	"releaseDate": "2024-10-08T07:00:00Z",
+	"releaseNumber": "2024-Oct",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

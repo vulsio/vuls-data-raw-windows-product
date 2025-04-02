@@ -1,0 +1,35 @@
+{
+	"id": "00000000-2a25-0000-e429-00004c3b637c",
+	"architectureId": 0,
+	"baseScore": "5.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0002",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2017-01-10T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3210721",
+			"articleUrl": "https://support.microsoft.com/kb/3210721",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3210721",
+			"ordinal": 1,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platform": "Windows 10 Version 1511 for 32-bit Systems",
+	"platformId": 10789,
+	"product": "Microsoft Edge (EdgeHTML-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10724,
+	"releaseDate": "2017-01-10T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N/E:P/RL:O/RC:C"
+}

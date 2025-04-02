@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-9f29-0000c1b32c74",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Excel 2013 Service Pack 1",
+	"baseProductVersion": "15.0.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:excel:2013:sp1:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17065",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-11-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4486734",
+			"articleUrl": "https://support.microsoft.com/kb/4486734",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=f9905c21-8aa5-49c6-8431-4e52f32981e5",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4486695"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2013 Service Pack 1 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10655,
+	"releaseDate": "2020-11-10T08:00:00Z",
+	"releaseNumber": "2020-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

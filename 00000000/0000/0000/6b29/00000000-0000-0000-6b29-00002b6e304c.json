@@ -1,0 +1,30 @@
+{
+	"id": "00000000-0000-0000-6b29-00002b6e304c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8158",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-05-08T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3172436",
+			"articleUrl": "https://support.microsoft.com/help/3172436",
+			"downloadName": "Security Update",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2013 RT Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10603,
+	"releaseDate": "2018-05-08T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

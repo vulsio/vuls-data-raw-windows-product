@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-242a-0000c57f76ac",
+	"architectureId": 0,
+	"baseScore": "8.1",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0166",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4015219",
+			"articleUrl": "https://support.microsoft.com/help/4015219",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4015219",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4013198"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1511 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10788,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.3",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

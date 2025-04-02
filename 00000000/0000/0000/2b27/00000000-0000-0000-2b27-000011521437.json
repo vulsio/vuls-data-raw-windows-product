@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-2b27-000011521437",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Excel for Mac 2011",
+	"baseProductVersion": "0",
+	"cpe": "cpe:2.3:a:microsoft:excel_for_mac:2011:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0027",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3198809",
+			"articleUrl": "https://support.microsoft.com/help/3198809",
+			"downloadName": "Security Update",
+			"downloadUrl": "http://go.microsoft.com/fwlink/?LinkId=837729",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3198808"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel for Mac 2011",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10027,
+	"releaseDate": "2017-03-14T07:00:00Z",
+	"releaseNumber": "2017-Mar",
+	"severity": "Important",
+	"severityId": 100000001
+}

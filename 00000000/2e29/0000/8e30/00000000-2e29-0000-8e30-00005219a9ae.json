@@ -1,0 +1,41 @@
+{
+	"id": "00000000-2e29-0000-8e30-00005219a9ae",
+	"architectureId": 0,
+	"baseProductName": "Azure SDK",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.4",
+	"cpe": "cpe:2.3:a:microsoft:azure_core_amqp:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-16971",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-12-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://azure.github.io/azure-sdk/releases/2020-10/java.html",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://mvnrepository.com/artifact/com.azure/azure-core-amqp/1.6.0",
+			"fixedBuildNumber": "1.6.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Azure SDK for Java",
+	"platformId": 11817,
+	"product": "azure-core-amqp",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12430,
+	"releaseDate": "2020-12-08T08:00:00Z",
+	"releaseNumber": "2020-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.4",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:N/E:U/RL:O/RC:C"
+}

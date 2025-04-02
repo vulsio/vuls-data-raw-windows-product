@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-7029-00002ff988a9",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8628",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-12-11T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4461551",
+			"articleUrl": "https://support.microsoft.com/help/4461551",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=0a984f01-1d89-4cae-9af8-31bb8cd99d6a",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4092473"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Web Apps 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10608,
+	"releaseDate": "2018-12-11T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

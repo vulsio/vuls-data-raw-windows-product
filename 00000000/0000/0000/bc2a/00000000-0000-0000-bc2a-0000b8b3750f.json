@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-bc2a-0000b8b3750f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV180002",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2018-01-03T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4057120",
+			"articleUrl": "https://support.microsoft.com/help/4057120",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=4a5ea1b2-818c-4099-9fb7-1c12d693d631",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2014 Service Pack 2 for 32-bit Systems (GDR)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 10940,
+	"releaseDate": "2018-01-03T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

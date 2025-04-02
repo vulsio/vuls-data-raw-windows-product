@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-462d-000001103a64",
+	"architectureId": 0,
+	"baseProductName": "Azure App Service on Azure Stack",
+	"baseProductVersion": "78.0.0.0",
+	"cpe": "cpe:2.3:a:microsoft:azure_app_service_on_azure_stack:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8600",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2018-11-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://go.microsoft.com/fwlink/?linkid=2038814",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://go.microsoft.com/fwlink/?linkid=2038808",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure App Service on Azure Stack",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11590,
+	"releaseDate": "2018-11-13T08:00:00Z",
+	"releaseNumber": "2018-Nov",
+	"severity": "Important",
+	"severityId": 100000001
+}

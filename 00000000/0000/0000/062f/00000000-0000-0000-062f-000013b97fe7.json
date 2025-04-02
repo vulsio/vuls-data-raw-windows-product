@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-062f-000013b97fe7",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Exchange Server 2019 Cumulative Update 12",
+	"baseProductVersion": "15.02.0",
+	"baseScore": "8.2",
+	"cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_12:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-21978",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2022-05-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5014261",
+			"articleUrl": "https://support.microsoft.com/help/5014261",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/download/details.aspx?familyID=11b71eb1-8e6f-47e5-a58c-74aa94be1ea6",
+			"fixedBuildNumber": "15.02.1118.009",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5012698"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2019 Cumulative Update 12",
+	"productFamily": "Server Software",
+	"productFamilyId": 100000004,
+	"productId": 12038,
+	"releaseDate": "2022-05-10T07:00:00Z",
+	"releaseNumber": "2022-May",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.1",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

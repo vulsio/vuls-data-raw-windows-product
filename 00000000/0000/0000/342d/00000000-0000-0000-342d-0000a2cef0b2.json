@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-342d-0000a2cef0b2",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2019 (Server Core installation)",
+	"baseProductVersion": "10.0.17763.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2019:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-43461",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-451: User Interface (UI) Misrepresentation of Critical Information",
+				"https://cwe.mitre.org/data/definitions/451.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-451: User Interface (UI) Misrepresentation of Critical Information"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2024-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5043050",
+			"articleUrl": "https://support.microsoft.com/help/5043050",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5043050",
+			"fixedBuildNumber": "10.0.17763.6293",
+			"knownIssuesName": "5043050",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5043050",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5041578"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2019 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11572,
+	"releaseDate": "2024-09-10T07:00:00Z",
+	"releaseNumber": "2024-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "8.2",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:F/RL:O/RC:C"
+}

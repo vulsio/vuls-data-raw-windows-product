@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-f428-00009650570f",
+	"architectureId": 0,
+	"baseScore": "8.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3301",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-08-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3178034",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3178034",
+			"downloadName": "Security Update",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3087135"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows RT 8.1",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10484,
+	"releaseDate": "2016-08-09T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

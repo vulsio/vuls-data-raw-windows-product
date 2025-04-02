@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-2f2a-00006c577f91",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8173",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2018-05-08T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3162075",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3162075",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=042a4f41-acb4-4784-b822-e41b0438fb40",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Infopath 2013 Service Pack 1 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10799,
+	"releaseDate": "2018-05-08T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

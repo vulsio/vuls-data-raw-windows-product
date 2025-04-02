@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-602d-0000167984f2",
+	"architectureId": 0,
+	"baseProductName": "Team Foundation Server 2018 Update 3.2",
+	"baseProductVersion": "3.0",
+	"cpe": "cpe:2.3:a:microsoft:team_foundation_server:2018:3.2:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1306",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/visualstudio/releasenotes/tfs2018-update3",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://aka.ms/tfs2018.3.2patch",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Team Foundation Server 2018 Update 3.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11616,
+	"releaseDate": "2019-09-10T07:00:00Z",
+	"releaseNumber": "2019-Sep",
+	"severity": "Critical",
+	"severityId": 100000000
+}

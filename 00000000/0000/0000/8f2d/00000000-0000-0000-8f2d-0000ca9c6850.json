@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-8f2d-0000ca9c6850",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1063",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2020-05-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4551998",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4551998",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/download/details.aspx?id=101255",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Dynamics 365 (on-premises) version 8.2",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 11663,
+	"releaseDate": "2020-05-12T07:00:00Z",
+	"releaseNumber": "2020-May",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,38 @@
+{
+	"id": "00000000-296f-0000-922a-00005d6708ca",
+	"architectureId": 0,
+	"baseProductName": "Excel Automation Services",
+	"baseProductVersion": "0",
+	"cpe": "cpe:2.3:a:microsoft:excel_automation_services:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3362",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115169",
+			"articleUrl": "https://support.microsoft.com/kb/3115169",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=133561e7-90dc-429c-bf78-89cb75259b74",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3114335"
+		}
+	],
+	"platform": "Microsoft SharePoint Server 2013 Service Pack 1",
+	"platformId": 10607,
+	"product": "Excel Automation Services",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10898,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

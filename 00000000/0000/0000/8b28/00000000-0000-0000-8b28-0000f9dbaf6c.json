@@ -1,0 +1,44 @@
+{
+	"id": "00000000-0000-0000-8b28-0000f9dbaf6c",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2012 (Server Core installation)",
+	"baseProductVersion": "6.2.0",
+	"baseScore": "6.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2012:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3373",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"ntkrnlmp.exe;ntkrpamp.exe;csrsrv.dll"
+			],
+			"articleName": "3175024",
+			"articleUrl": "https://support.microsoft.com/kb/3175024",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3175024",
+			"knownIssuesUrl": "https://support.microsoft.com/kb/3175024",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3170377"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10379,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.1",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:L/E:P/RL:O/RC:C"
+}

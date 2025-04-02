@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-ae29-00004ef59224",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3280",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-07-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3170460",
+			"articleUrl": "https://support.microsoft.com/kb/3170460",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB808251",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3165798"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2016 for Mac",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10670,
+	"releaseDate": "2016-07-12T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

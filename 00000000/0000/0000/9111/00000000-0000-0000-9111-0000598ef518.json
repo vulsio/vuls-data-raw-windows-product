@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-9111-0000598ef518",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7232",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-11-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3127948",
+			"articleUrl": "https://support.microsoft.com/kb/3127948",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=ff5a87e3-4994-4285-ba24-5557f674397f",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3118307"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Compatibility Pack Service Pack 3",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 4497,
+	"releaseDate": "2016-11-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

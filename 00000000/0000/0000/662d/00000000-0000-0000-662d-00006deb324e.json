@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-662d-00006deb324e",
+	"architectureId": 0,
+	"baseProductName": "Visual Studio Code",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:visual_studio_code:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-21779",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-502: Deserialization of Untrusted Data",
+				"https://cwe.mitre.org/data/definitions/502.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-502: Deserialization of Untrusted Data"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-01-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://code.visualstudio.com/updates/v1_74",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://code.visualstudio.com/Download",
+			"fixedBuildNumber": "1.74.3",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Visual Studio Code",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11622,
+	"releaseDate": "2023-01-10T08:00:00Z",
+	"releaseNumber": "2023-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

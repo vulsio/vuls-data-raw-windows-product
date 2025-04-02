@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-1c2d-000023e2d7ee",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8448",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2018-10-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4459266",
+			"articleUrl": "https://support.microsoft.com/help/4459266",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=6a0341ae-7de5-4e5f-bdb6-94658f9e0148",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/help/4459266",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4340731"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2016 Cumulative Update 10",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11548,
+	"releaseDate": "2018-10-09T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

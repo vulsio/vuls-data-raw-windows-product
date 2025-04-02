@@ -1,0 +1,67 @@
+{
+	"id": "00000000-0000-0000-932e-000012f83ce5",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2022",
+	"baseProductVersion": "10.0.20348.0",
+	"baseScore": "8.1",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2022:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-29325",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-416: Use After Free",
+				"https://cwe.mitre.org/data/definitions/416.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-416: Use After Free"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-05-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5026370",
+			"articleUrl": "https://support.microsoft.com/help/5026370",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5026370",
+			"fixedBuildNumber": "10.0.20348.1726",
+			"knownIssuesName": "5026370",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5026370",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5025230"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5026456",
+			"articleUrl": "https://support.microsoft.com/help/5026456",
+			"downloadName": "Security Hotpatch Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5026456",
+			"fixedBuildNumber": "10.0.20348.1724",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2022",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11923,
+	"releaseDate": "2023-05-09T07:00:00Z",
+	"releaseNumber": "2023-May",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.3",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

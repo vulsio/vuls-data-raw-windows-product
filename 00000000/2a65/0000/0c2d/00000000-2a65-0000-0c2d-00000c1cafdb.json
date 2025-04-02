@@ -1,0 +1,35 @@
+{
+	"id": "00000000-2a65-0000-0c2d-00000c1cafdb",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0545",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-01-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4480961",
+			"articleUrl": "https://support.microsoft.com/help/4480961",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4480961",
+			"knownIssuesName": "4480961",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4480961",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4471321"
+		}
+	],
+	"platform": "Windows 10 Version 1607 for x64-based Systems",
+	"platformId": 10853,
+	"product": "Microsoft .NET Framework 4.6.2/4.7/4.7.1/4.7.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11532,
+	"releaseDate": "2019-01-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

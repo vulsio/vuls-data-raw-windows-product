@@ -1,0 +1,42 @@
+{
+	"id": "00000000-2740-0000-8c29-0000a8cc27bb",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-1039",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2018-05-08T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4096495",
+			"articleUrl": "https://support.microsoft.com/help/4096495",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4099633",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4076492, 4055532"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4095519",
+			"articleUrl": "https://support.microsoft.com/help/4095519",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4099637",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platform": "Windows 7 for x64-based Systems Service Pack 1",
+	"platformId": 10048,
+	"product": "Microsoft .NET Framework 4.5.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10636,
+	"releaseDate": "2018-05-08T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

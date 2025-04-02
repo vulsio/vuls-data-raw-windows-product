@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-412d-0000cdcacaca",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Server 2019",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server:2019:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-24950",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2023-05-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002389",
+			"articleUrl": "https://support.microsoft.com/help/5002389",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=c9190144-e85b-4ded-9b6f-cc9b295054f3",
+			"fixedBuildNumber": "16.0.10398.20000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002373"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server 2019",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11585,
+	"releaseDate": "2023-05-09T07:00:00Z",
+	"releaseNumber": "2023-May",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

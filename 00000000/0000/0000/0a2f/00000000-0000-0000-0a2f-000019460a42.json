@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-0a2f-000019460a42",
+	"architectureId": 0,
+	"baseProductName": "Self-hosted Integration Runtime",
+	"baseProductVersion": "5.0.0.0",
+	"cpe": "cpe:2.3:a:microsoft:self_hosted_integration_runtime:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-29972",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2022-05-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "MITRE",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://download.microsoft.com/download/E/4/7/E4771905-1079-445B-8BF9-8A1A075D8A10/Release%20Notes.doc",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?id=39717",
+			"fixedBuildNumber": "5.17.8131.1",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Self-hosted Integration Runtime",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12042,
+	"releaseDate": "2022-05-09T07:00:00Z",
+	"releaseNumber": "2022-May",
+	"severity": "Critical",
+	"severityId": 100000000
+}

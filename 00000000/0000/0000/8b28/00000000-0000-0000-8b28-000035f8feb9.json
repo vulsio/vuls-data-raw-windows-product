@@ -1,0 +1,52 @@
+{
+	"id": "00000000-0000-0000-8b28-000035f8feb9",
+	"architectureId": 0,
+	"baseScore": "7.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-26426",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2021-08-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5005099",
+			"articleUrl": "https://support.microsoft.com/help/5005099",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5005099",
+			"fixedBuildNumber": "6.2.9200.23435",
+			"knownIssuesName": "5005099",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5005099",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "5004294"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5005094",
+			"articleUrl": "https://support.microsoft.com/help/5005094",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5005094",
+			"fixedBuildNumber": "6.2.9200.23435",
+			"knownIssuesName": "5005094",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5005094",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10379,
+	"releaseDate": "2021-08-10T07:00:00Z",
+	"releaseNumber": "2021-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.1",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

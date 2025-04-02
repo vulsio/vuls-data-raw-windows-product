@@ -1,0 +1,37 @@
+{
+	"id": "00000000-2a25-0000-f628-0000c939a654",
+	"architectureId": 0,
+	"baseScore": "7.1",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3322",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-08-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3176493",
+			"articleUrl": "https://support.microsoft.com/kb/3176493",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3176493",
+			"knownIssuesUrl": "https://support.microsoft.com/kb/3176493",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3172985"
+		}
+	],
+	"platform": "Windows 10 Version 1511 for 32-bit Systems",
+	"platformId": 10789,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2016-08-09T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.4",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:L/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,56 @@
+{
+	"id": "00000000-0000-0000-102f-0000682099cd",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SQL Server 2016 Service Pack 3 (GDR)",
+	"baseProductVersion": "13.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:sql_server:2016:sp3:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-37965",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5042207",
+			"articleUrl": "https://support.microsoft.com/help/5042207",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=bcaa232a-0e0c-4ae9-b4d8-7a27d8453595",
+			"fixedBuildNumber": "13.0.6445.1",
+			"knownIssuesName": "5042207",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5042207",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2016 for x64-based Systems Service Pack 3 (GDR)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 12048,
+	"releaseDate": "2024-09-10T07:00:00Z",
+	"releaseNumber": "2024-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

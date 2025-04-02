@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-6a29-0000b8ed2b95",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Office 2013 Service Pack 1",
+	"baseProductVersion": "15.0.0",
+	"cpe": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1331",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-10-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4475558",
+			"articleUrl": "https://support.microsoft.com/help/4475558",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=08a8e9fc-121a-4d25-9267-5b14061b8784",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4464543"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2013 Service Pack 1 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10602,
+	"releaseDate": "2019-10-08T07:00:00Z",
+	"releaseNumber": "2019-Oct",
+	"severity": "Important",
+	"severityId": 100000001
+}

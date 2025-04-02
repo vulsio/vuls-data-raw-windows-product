@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-a22d-000073ed2b95",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1136",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2019-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4509409",
+			"articleUrl": "https://support.microsoft.com/help/4509409",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=ff7bfd64-fd88-4e95-bc8c-8eedffbf633c",
+			"knownIssuesName": "4509409",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4509409",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2013 Cumulative Update 23",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11682,
+	"releaseDate": "2019-07-09T07:00:00Z",
+	"releaseNumber": "2019-Jul",
+	"severity": "Important",
+	"severityId": 100000001
+}

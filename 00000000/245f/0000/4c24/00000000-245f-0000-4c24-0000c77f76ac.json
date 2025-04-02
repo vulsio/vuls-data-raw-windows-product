@@ -1,0 +1,41 @@
+{
+	"id": "00000000-245f-0000-4c24-0000c77f76ac",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0160",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4014984",
+			"articleUrl": "https://support.microsoft.com/help/4014984",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4014984",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4014988",
+			"articleUrl": "https://support.microsoft.com/help/4014988",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4014988",
+			"ordinal": 2,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2008 for Itanium-Based Systems Service Pack 2",
+	"platformId": 9311,
+	"product": "Microsoft .NET Framework 2.0 Service Pack 2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 9292,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

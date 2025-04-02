@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-c92d-000065d348dd",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1486",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2019-12-10T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://aka.ms/vsls-releases",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsls-vs",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio Live Share extension",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11721,
+	"releaseDate": "2019-12-10T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

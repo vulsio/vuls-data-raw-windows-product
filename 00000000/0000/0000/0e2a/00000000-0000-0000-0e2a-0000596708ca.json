@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-0e2a-0000596708ca",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Outlook 2016",
+	"baseProductVersion": "16.0.0.0",
+	"cpe": "cpe:2.3:a:microsoft:outlook:2016:*:*:*:*:x64:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3366",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3118293",
+			"articleUrl": "https://support.microsoft.com/kb/3118293",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=51dc76b2-d841-4f91-b164-e76cab385355",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10766,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

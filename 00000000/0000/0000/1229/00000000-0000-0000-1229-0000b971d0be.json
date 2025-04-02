@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-1229-0000b971d0be",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0198",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-05-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115123",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3115123",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=164dabd4-7638-4c9d-ae88-5eaa801139c4",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3114993"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2010 Service Pack 2 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10514,
+	"releaseDate": "2016-05-10T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

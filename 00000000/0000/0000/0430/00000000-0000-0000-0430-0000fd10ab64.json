@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-0430-0000fd10ab64",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Authenticator",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.1",
+	"cpe": "cpe:2.3:a:microsoft:authenticator:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-21390",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-287: Improper Authentication",
+				"https://cwe.mitre.org/data/definitions/287.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-287: Improper Authentication"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-03-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/entra/fundamentals/whats-new",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/security/mobile-authenticator-app",
+			"fixedBuildNumber": "6.2401.0617",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Authenticator",
+	"productFamily": "Apps",
+	"productFamilyId": 100000012,
+	"productId": 12292,
+	"releaseDate": "2024-03-12T07:00:00Z",
+	"releaseNumber": "2024-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.2",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:N/E:U/RL:O/RC:C"
+}

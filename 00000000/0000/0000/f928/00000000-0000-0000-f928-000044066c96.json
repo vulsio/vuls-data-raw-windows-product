@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-f928-000044066c96",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8631",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-09-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011061",
+			"articleUrl": "https://support.microsoft.com/help/4011061",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=76792e87-6d32-4992-b2bd-678a2b4592c6",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3191907"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2010 Service Pack 2 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10489,
+	"releaseDate": "2017-09-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

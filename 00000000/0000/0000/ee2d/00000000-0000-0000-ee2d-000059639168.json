@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-ee2d-000059639168",
+	"architectureId": 0,
+	"baseProductName": "Paint 3D",
+	"baseProductVersion": "6.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:paint_3d:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-35374",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-122: Heap-based Buffer Overflow",
+				"https://cwe.mitre.org/data/definitions/122.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-122: Heap-based Buffer Overflow"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-07-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99#activetab=pivot:overviewtab",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99#activetab=pivot:overviewtab",
+			"fixedBuildNumber": "6.2305.16087.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Paint 3D",
+	"productFamily": "Apps",
+	"productFamilyId": 100000012,
+	"productId": 11758,
+	"releaseDate": "2023-07-11T07:00:00Z",
+	"releaseNumber": "2023-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

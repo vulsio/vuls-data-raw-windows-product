@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-7429-0000e7567f91",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Foundation 2013 Service Pack 1",
+	"baseProductVersion": "15.0.0",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_foundation:2013:sp1:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8572",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2018-11-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4461511",
+			"articleUrl": "https://support.microsoft.com/help/4461511",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=929a31d3-97f6-4a16-90ce-e3b693d63b4a",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4022243"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Foundation 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10612,
+	"releaseDate": "2018-11-13T08:00:00Z",
+	"releaseNumber": "2018-Nov",
+	"severity": "Important",
+	"severityId": 100000001
+}

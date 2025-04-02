@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-6929-0000dd3371c2",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1464",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-12-10T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484184",
+			"articleUrl": "https://support.microsoft.com/kb/4484184",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=8ab5990d-5faa-49fc-a833-16405ed06645",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484152"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2013 Service Pack 1 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10601,
+	"releaseDate": "2019-12-10T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

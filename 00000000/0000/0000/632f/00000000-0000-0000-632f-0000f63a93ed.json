@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-632f-0000f63a93ed",
+	"architectureId": 0,
+	"baseProductName": "PowerShell 7.3",
+	"baseProductVersion": "7.3.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:powershell:7.3:-:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36435",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-400: Uncontrolled Resource Consumption",
+				"https://cwe.mitre.org/data/definitions/400.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-400: Uncontrolled Resource Consumption"
+	],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2023-10-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/PowerShell/Announcements/issues/52",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/PowerShell/Announcements/issues/52",
+			"fixedBuildNumber": "7.3.9",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "PowerShell 7.3",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12131,
+	"releaseDate": "2023-10-10T07:00:00Z",
+	"releaseNumber": "2023-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

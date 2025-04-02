@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-5e2e-00000ab1f7b7",
+	"architectureId": 0,
+	"baseProductName": "Azure Kubernetes Service",
+	"baseProductVersion": "1.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:azure_kubernetes_service:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-29332",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-330: Use of Insufficiently Random Values",
+				"https://cwe.mitre.org/data/definitions/330.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-330: Use of Insufficiently Random Values"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2023-09-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/Azure/AKS/releases",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://learn.microsoft.com/en-us/azure/aks/node-image-upgrade",
+			"fixedBuildNumber": "VHD 202308",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Kubernetes Service",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11870,
+	"releaseDate": "2023-09-12T07:00:00Z",
+	"releaseNumber": "2023-Sep",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

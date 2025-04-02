@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-f82e-0000888d4f6f",
+	"architectureId": 0,
+	"baseProductName": "Azure SDK for .Net",
+	"baseProductVersion": "2.0.0",
+	"baseScore": "5.3",
+	"cpe": "cpe:2.3:a:microsoft:azure_sdk_for_.net:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-26907",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2022-04-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://www.nuget.org/packages/Microsoft.Rest.ClientRuntime",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.nuget.org/packages/Microsoft.Rest.ClientRuntime",
+			"fixedBuildNumber": "2.3.24",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure SDK for .Net",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12024,
+	"releaseDate": "2022-04-12T08:00:00Z",
+	"releaseNumber": "2022-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

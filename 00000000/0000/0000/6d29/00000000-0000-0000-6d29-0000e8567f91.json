@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-6d29-0000e8567f91",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Word 2013 Service Pack 1 ",
+	"baseProductVersion": "15.0.1",
+	"cpe": "cpe:2.3:a:microsoft:word:2013:sp1:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8573",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-11-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4461485",
+			"articleUrl": "https://support.microsoft.com/help/4461485",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=2cd6f32e-cb63-40e0-bdfe-cf140846da11",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4461457"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2013 Service Pack 1 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10605,
+	"releaseDate": "2018-11-13T08:00:00Z",
+	"releaseNumber": "2018-Nov",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-c62a-0000986ca757",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Enterprise Server 2016",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server:2016:*:*:*:enterprise:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-30157",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2022-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002222",
+			"articleUrl": "https://support.microsoft.com/kb/5002222",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=5006232d-1dab-4ba4-ba54-d0f4964bdfc2",
+			"fixedBuildNumber": "16.0.5332.1001",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002195"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Enterprise Server 2016",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10950,
+	"releaseDate": "2022-06-14T07:00:00Z",
+	"releaseNumber": "2022-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

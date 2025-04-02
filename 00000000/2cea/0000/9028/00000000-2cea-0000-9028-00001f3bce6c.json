@@ -1,0 +1,33 @@
+{
+	"id": "00000000-2cea-0000-9028-00001f3bce6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV190011",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-04-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4493478",
+			"articleUrl": "https://support.microsoft.com/help/4493478",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4493478",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4489907"
+		}
+	],
+	"platform": "Windows 10 Version 1803 for x64-based Systems",
+	"platformId": 11498,
+	"product": "Adobe Flash Player",
+	"productFamily": "Other",
+	"productFamilyId": 100000000,
+	"productId": 10384,
+	"releaseDate": "2019-04-09T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

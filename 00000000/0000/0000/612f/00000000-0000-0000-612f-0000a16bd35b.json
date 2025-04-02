@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-612f-0000a16bd35b",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Visual Studio 2022 version 17.4",
+	"baseProductVersion": "17.4.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:visual_studio_2022:17.4:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-28260",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-04-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://my.visualstudio.com/Downloads?q=Visual Studio 2022 version 17.4",
+			"fixedBuildNumber": "17.4.7",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2022 version 17.4",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12129,
+	"releaseDate": "2023-04-11T07:00:00Z",
+	"releaseNumber": "2023-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

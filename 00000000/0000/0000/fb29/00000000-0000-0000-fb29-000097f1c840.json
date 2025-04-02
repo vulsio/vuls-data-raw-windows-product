@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-fb29-000097f1c840",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0892",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-03-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484268",
+			"articleUrl": "https://support.microsoft.com/kb/4484268",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=44d799e1-c9cf-4781-b51d-19ee9938d28f",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484169"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10747,
+	"releaseDate": "2020-03-10T07:00:00Z",
+	"releaseNumber": "2020-Mar",
+	"severity": "Important",
+	"severityId": 100000001
+}

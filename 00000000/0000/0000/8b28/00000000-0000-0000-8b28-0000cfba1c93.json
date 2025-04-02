@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-8b28-0000cfba1c93",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2012 (Server Core installation)",
+	"baseProductVersion": "6.2.9200.0",
+	"baseScore": "8.0",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2012:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-38011",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-130: Improper Handling of Length Parameter Inconsistency",
+				"https://cwe.mitre.org/data/definitions/130.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-130: Improper Handling of Length Parameter Inconsistency"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2024-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5040485",
+			"articleUrl": "https://support.microsoft.com/help/5040485",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5040485",
+			"fixedBuildNumber": "6.2.9200.24975",
+			"knownIssuesName": "5040485",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5040485",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5039260"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10379,
+	"releaseDate": "2024-07-09T07:00:00Z",
+	"releaseNumber": "2024-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.1/AV:A/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

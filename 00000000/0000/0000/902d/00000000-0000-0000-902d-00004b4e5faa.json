@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-902d-00004b4e5faa",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Dynamics 365 (on-premises) version 9.0",
+	"baseProductVersion": "9.0.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:a:microsoft:dynamics_365:9.0:*:*:*:on-premises:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-24101",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2021-02-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4595460",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4595460",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/download/details.aspx?id=102586",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Dynamics 365 (on-premises) version 9.0",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 11664,
+	"productVersion": "9.0.0",
+	"releaseDate": "2021-02-09T08:00:00Z",
+	"releaseNumber": "2021-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.9",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

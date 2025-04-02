@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-552d-0000a94a227d",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1446",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-11-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484141",
+			"articleUrl": "https://support.microsoft.com/help/4484141",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=1efc7ce6-fc0d-46d5-9cd1-1e5ee9a7241d",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4475595"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Online Server",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11605,
+	"releaseDate": "2019-11-12T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

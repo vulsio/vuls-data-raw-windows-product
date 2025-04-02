@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-b130-0000397eba32",
+	"architectureId": 0,
+	"baseProductName": "Marketplace SaaS",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:marketplace_saas:*:*:*:*:*:*:*:*",
+	"customerActionRequired": false,
+	"cveNumber": "CVE-2025-21380",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-284: Improper Access Control",
+				"https://cwe.mitre.org/data/definitions/284.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-284: Improper Access Control"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2025-01-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Marketplace SaaS",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12465,
+	"releaseDate": "2025-01-09T08:00:00Z",
+	"releaseNumber": "2025-Jan",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.9",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

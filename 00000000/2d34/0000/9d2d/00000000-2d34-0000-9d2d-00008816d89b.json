@@ -1,0 +1,54 @@
+{
+	"id": "00000000-2d34-0000-9d2d-00008816d89b",
+	"architectureId": 0,
+	"baseProductName": "Microsoft .NET Framework 3.5 AND 4.7.2",
+	"baseProductVersion": "4.7.0",
+	"baseScore": "7.4",
+	"cpe": "cpe:2.3:a:microsoft:.net:4.7.2:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36873",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2023-08-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5029647",
+			"articleUrl": "https://support.microsoft.com/help/5029647",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5028960",
+			"fixedBuildNumber": "3.5.04057.05",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2019 (Server Core installation)",
+	"platformId": 11572,
+	"product": "Microsoft .NET Framework 3.5 AND 4.7.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11677,
+	"releaseDate": "2023-08-08T07:00:00Z",
+	"releaseNumber": "2023-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:N/E:P/RL:O/RC:C"
+}

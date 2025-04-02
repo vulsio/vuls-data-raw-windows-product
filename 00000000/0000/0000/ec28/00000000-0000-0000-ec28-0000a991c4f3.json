@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-ec28-0000a991c4f3",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8621",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2017-07-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4018588",
+			"articleUrl": "http://support.microsoft.com/help/4018588",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=9820e2fb-891f-43ef-a9e2-c56ca79ea1ff",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011326"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2010 Service Pack 3",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 10476,
+	"releaseDate": "2017-07-11T07:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002
+}

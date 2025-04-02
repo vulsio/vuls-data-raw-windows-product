@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-312d-00000036dc70",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0839",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-09-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4570333",
+			"articleUrl": "https://support.microsoft.com/help/4570333",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4570333",
+			"knownIssuesName": "4570333",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4570333",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4565349"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1809 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11569,
+	"releaseDate": "2020-09-08T07:00:00Z",
+	"releaseNumber": "2020-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-622f-00000cf55eec",
+	"architectureId": 0,
+	"baseProductName": ".NET 7.0",
+	"baseProductVersion": "7.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:.net:7.0.0:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36796",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-191: Integer Underflow (Wrap or Wraparound)",
+				"https://cwe.mitre.org/data/definitions/191.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-191: Integer Underflow (Wrap or Wraparound)"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-09-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5032875",
+			"articleUrl": "https://support.microsoft.com/help/5032875",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://dotnet.microsoft.com/en-us/download/dotnet/7.0",
+			"fixedBuildNumber": "7.0.13",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": ".NET 7.0",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12130,
+	"releaseDate": "2023-09-12T07:00:00Z",
+	"releaseNumber": "2023-Sep",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

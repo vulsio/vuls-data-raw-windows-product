@@ -1,0 +1,38 @@
+{
+	"id": "00000000-2843-0000-d323-00005c6708ca",
+	"architectureId": 0,
+	"baseProductName": "Excel Services",
+	"baseProductVersion": "15.0.0",
+	"cpe": "cpe:2.3:a:microsoft:excel_services:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3365",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115112",
+			"articleUrl": "https://support.microsoft.com/kb/3115112",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=4a17e450-b50b-4858-b924-1d5e26dc8910",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3114897"
+		}
+	],
+	"platform": "Microsoft SharePoint Server 2007 Service Pack 3 (64-bit editions)",
+	"platformId": 10307,
+	"product": "Excel Services",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 9171,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

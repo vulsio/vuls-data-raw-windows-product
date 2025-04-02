@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-582e-000054d31de5",
+	"architectureId": 0,
+	"baseProductName": "PowerShell Core 7.1",
+	"baseProductVersion": "7.1.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:a:microsoft:powershell_core:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-1721",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2021-02-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/PowerShell/Announcements/issues/22",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/PowerShell/PowerShell#get-powershell",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "PowerShell Core 7.1",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11864,
+	"productVersion": "7.1.0",
+	"releaseDate": "2021-02-09T08:00:00Z",
+	"releaseNumber": "2021-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.9",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H/E:P/RL:O/RC:C"
+}

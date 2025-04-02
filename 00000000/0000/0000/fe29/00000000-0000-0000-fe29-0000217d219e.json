@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-fe29-0000217d219e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0760",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011097",
+			"articleUrl": "https://support.microsoft.com/kb/4011097",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=ce8969ee-49dd-4d58-9bb6-191180456c5f",
+			"knownIssuesName": "4011097",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4011097",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "2920680"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Publisher 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10750,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-1c28-00009450570f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3303",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-08-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3174304",
+			"articleUrl": "http://support.microsoft.com/kb/3174304",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=4883aa02-8507-4457-a4d8-9e93bedde3fd",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3144429"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Lync 2010 Attendee (admin level install)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10268,
+	"releaseDate": "2016-08-09T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

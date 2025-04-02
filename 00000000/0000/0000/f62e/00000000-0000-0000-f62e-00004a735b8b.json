@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-f62e-00004a735b8b",
+	"architectureId": 0,
+	"baseProductName": "Microsoft On-Premises Data Gateway",
+	"baseProductVersion": "3000.0.0",
+	"baseScore": "3.7",
+	"cpe": "cpe:2.3:a:microsoft:on-premises_data_gateway:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-23292",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2022-04-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-march-2022-update-is-now-available/",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-march-2022-update-is-now-available/",
+			"fixedBuildNumber": "3000.118.2",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft On-Premises Data Gateway",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 12022,
+	"releaseDate": "2022-04-12T08:00:00Z",
+	"releaseNumber": "2022-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "3.2",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:L/UI:R/S:U/C:L/I:L/A:N/E:U/RL:O/RC:C"
+}

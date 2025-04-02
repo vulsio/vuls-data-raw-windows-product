@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-5129-00001e7f358e",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-16874",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-09-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4571481",
+			"articleUrl": "https://support.microsoft.com/help/4571481",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://aka.ms/vs/14/release/4571481",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2015 Update 3",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10577,
+	"releaseDate": "2020-09-08T07:00:00Z",
+	"releaseNumber": "2020-Sep",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

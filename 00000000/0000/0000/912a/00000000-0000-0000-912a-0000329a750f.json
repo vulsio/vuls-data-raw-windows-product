@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-912a-0000329a750f",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Exchange Server 2016 Cumulative Update 2",
+	"baseProductVersion": "15.01.0",
+	"cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_2:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "ADV160006",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3184736",
+			"articleUrl": "https://support.microsoft.com/kb/3184736",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=6b407e49-79b7-450c-9278-315cfec23c1b",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3150501"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2016 Cumulative Update 2",
+	"productFamily": "Server Software",
+	"productFamilyId": 100000004,
+	"productId": 10897,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Critical",
+	"severityId": 100000000
+}

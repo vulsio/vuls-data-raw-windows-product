@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-dc2d-000061087afb",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0872",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-03-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/microsoft/ApplicationInspector/releases/tag/v1.0.24",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/microsoft/ApplicationInspector/releases/tag/v1.0.24",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Application Inspector",
+	"productFamily": "Open Source Software",
+	"productFamilyId": 100000003,
+	"productId": 11740,
+	"releaseDate": "2020-03-10T07:00:00Z",
+	"releaseNumber": "2020-Mar",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-b92c-000000ad26ca",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV170023",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2017-12-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4045655",
+			"articleUrl": "https://support.microsoft.com/help/4045655",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=0fc11c77-5442-4a64-92c4-bce25675ad32",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4045655",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4036108"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2013 Cumulative Update 17",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11449,
+	"releaseDate": "2017-12-12T08:00:00Z",
+	"releaseNumber": "2017-Dec",
+	"severity": "None",
+	"severityId": 100000004
+}

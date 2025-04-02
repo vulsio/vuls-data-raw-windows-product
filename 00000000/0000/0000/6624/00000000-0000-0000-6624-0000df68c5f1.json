@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-6624-0000df68c5f1",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2008  Service Pack 2",
+	"baseProductVersion": "6.0.0",
+	"baseScore": "4.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_sp2:{bv}:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0043",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3217882",
+			"articleUrl": "https://support.microsoft.com/kb/3217882",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3217882",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for x64-based Systems Service Pack 2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9318,
+	"releaseDate": "2017-03-14T07:00:00Z",
+	"releaseNumber": "2017-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.3",
+	"vectorString": "CVSS:3.0/AV:A/AC:H/PR:N/UI:R/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-1a29-0000ddfc1d18",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-11854",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-11-14T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011268",
+			"articleUrl": "https://support.microsoft.com/kb/4011268",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=cf401973-73a2-4e6f-9590-12e8dc3fdfbb",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3213627"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2010 Service Pack 2 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10522,
+	"releaseDate": "2017-11-14T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

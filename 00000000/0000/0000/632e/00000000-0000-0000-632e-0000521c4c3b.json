@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-632e-0000521c4c3b",
+	"architectureId": 0,
+	"baseProductName": "Mono 6.12.0",
+	"baseProductVersion": "6.12.0",
+	"baseScore": "5.3",
+	"cpe": "cpe:2.3:a:microsoft:mono:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-35373",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-347: Improper Verification of Cryptographic Signature",
+				"https://cwe.mitre.org/data/definitions/347.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-347: Improper Verification of Cryptographic Signature"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2023-07-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://mono-project.com/docs/about-mono/releases/6.12.0.200/",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.mono-project.com/download/stable/",
+			"fixedBuildNumber": "6.12.0.200",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Mono 6.12.0",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11875,
+	"releaseDate": "2023-07-11T07:00:00Z",
+	"releaseNumber": "2023-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

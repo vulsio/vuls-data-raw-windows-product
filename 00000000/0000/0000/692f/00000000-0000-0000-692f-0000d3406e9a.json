@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-692f-0000d3406e9a",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "CBL Mariner 1.0",
+	"baseProductVersion": "1.0",
+	"baseScore": "5.9",
+	"cpe": "cpe:2.3:o:microsoft:cbl_mariner:1.0:*:*:*:*:*:*:x64",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-43552",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impactId": 0,
+	"initialReleaseDate": "2023-02-10T00:00:00Z",
+	"isMariner": false,
+	"issuingCna": "HackerOne",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"curl-7.86.0-3.cm1.x86_64.rpm",
+				"curl-devel-7.86.0-3.cm1.x86_64.rpm",
+				"curl-libs-7.86.0-3.cm1.x86_64.rpm",
+				"curl-debuginfo-7.86.0-3.cm1.x86_64.rpm"
+			],
+			"articleName": "curl",
+			"articleUrl": "https://nvd.nist.gov/vuln/detail/CVE-2022-43552",
+			"downloadName": "CBL-Mariner",
+			"fixedBuildNumber": "7.86.0-3",
+			"ordinal": 0
+		}
+	],
+	"platformId": 0,
+	"product": "CBL Mariner 1.0 x64",
+	"productFamily": "Mariner",
+	"productFamilyId": 100000014,
+	"productId": 12137,
+	"releaseDate": "2023-02-10T00:00:00Z",
+	"releaseNumber": "2023-Feb",
+	"severityId": 0,
+	"temporalScore": "5.9",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H"
+}

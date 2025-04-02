@@ -1,0 +1,45 @@
+{
+	"id": "00000000-0000-0000-8b28-00000cd67ada",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1454",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2019-11-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4520007",
+			"articleUrl": "https://support.microsoft.com/help/4520007",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4520007",
+			"knownIssuesName": "4520007",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4520007",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4524154"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4519985",
+			"articleUrl": "https://support.microsoft.com/help/4519985",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4519985",
+			"knownIssuesName": "4519985",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4519985",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10379,
+	"releaseDate": "2019-11-12T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

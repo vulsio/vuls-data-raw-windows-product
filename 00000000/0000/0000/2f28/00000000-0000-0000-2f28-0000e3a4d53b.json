@@ -1,0 +1,44 @@
+{
+	"id": "00000000-0000-0000-2f28-0000e3a4d53b",
+	"architectureId": 0,
+	"baseScore": "4.9",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0683",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2019-03-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4507452",
+			"articleUrl": "https://support.microsoft.com/help/4507452",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4507452",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4503273"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4507461",
+			"articleUrl": "https://support.microsoft.com/help/4507461",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4507461",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10287,
+	"releaseDate": "2019-03-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.4",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:H/A:N/E:P/RL:O/RC:C"
+}

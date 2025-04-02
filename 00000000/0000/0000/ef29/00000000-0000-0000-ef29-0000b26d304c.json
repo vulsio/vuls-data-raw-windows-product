@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-ef29-0000b26d304c",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 10 Version 1507",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "7.4",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_1507:*:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8553",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-11-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4467680",
+			"articleUrl": "https://support.microsoft.com/help/4467680",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4467680",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4462922"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10735,
+	"releaseDate": "2018-11-13T08:00:00Z",
+	"releaseNumber": "2018-Nov",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.7",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O"
+}

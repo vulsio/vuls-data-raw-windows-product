@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-be2c-0000427d219e",
+	"architectureId": 0,
+	"baseScore": "8.6",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0662",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4537789",
+			"articleUrl": "https://support.microsoft.com/help/4537789",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4537789",
+			"knownIssuesName": "4537789",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4537789",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4534276"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1709 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11454,
+	"releaseDate": "2020-02-11T08:00:00Z",
+	"releaseNumber": "2020-Feb",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:H/E:P/RL:O/RC:C"
+}

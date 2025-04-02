@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-9111-000087360769",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0796",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-01-09T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011605",
+			"articleUrl": "https://support.microsoft.com/help/4011605",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=b2552319-092b-4f63-9baa-c4175a8815d2",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011205"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Compatibility Pack Service Pack 3",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 4497,
+	"releaseDate": "2018-01-09T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

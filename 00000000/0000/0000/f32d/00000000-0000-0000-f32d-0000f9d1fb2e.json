@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-f32d-0000f9d1fb2e",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft 365 Apps for Enterprise",
+	"baseProductVersion": "16.0.1",
+	"baseScore": "9.8",
+	"cpe": "cpe:2.3:a:microsoft:365_apps:-:*:*:*:enterprise:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-21413",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-02-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Click to Run",
+			"articleUrl": "https://docs.microsoft.com/en-us/officeupdates/office365-proplus-security-updates",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "https://aka.ms/OfficeSecurityReleases",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft 365 Apps for Enterprise for 64-bit Systems",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11763,
+	"releaseDate": "2024-02-13T08:00:00Z",
+	"releaseNumber": "2024-Feb",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

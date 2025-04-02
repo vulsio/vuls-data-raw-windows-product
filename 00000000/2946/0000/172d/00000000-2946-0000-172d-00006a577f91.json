@@ -1,0 +1,32 @@
+{
+	"id": "00000000-2946-0000-172d-00006a577f91",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8171",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2018-07-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4339279",
+			"articleUrl": "https://support.microsoft.com/help/4339279",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://download.microsoft.com/download/1/A/7/1A7678D6-40B9-4D34-9716-06357B2F436F/AspNetWebFrameworksToolsVS2013-KB4339279.exe",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Microsoft Visual Studio 2013 Update 5",
+	"platformId": 10566,
+	"product": "ASP.NET MVC 5.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11543,
+	"releaseDate": "2018-07-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

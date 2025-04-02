@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-022a-0000dd3371c2",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1464",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-12-10T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484182",
+			"articleUrl": "https://support.microsoft.com/help/4484182",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=854f97ce-9ae4-42bb-af15-51202a93b134",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484148"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10754,
+	"releaseDate": "2019-12-10T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

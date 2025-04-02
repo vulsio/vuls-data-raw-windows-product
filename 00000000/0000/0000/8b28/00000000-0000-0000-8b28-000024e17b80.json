@@ -1,0 +1,50 @@
+{
+	"id": "00000000-0000-0000-8b28-000024e17b80",
+	"architectureId": 0,
+	"baseScore": "5.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1007",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4550917",
+			"articleUrl": "https://support.microsoft.com/help/4550917",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4550917",
+			"knownIssuesName": "4550917",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4550917",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4541510"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4550971",
+			"articleUrl": "https://support.microsoft.com/help/4550971",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4550971",
+			"knownIssuesName": "4550971",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4550971",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10379,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

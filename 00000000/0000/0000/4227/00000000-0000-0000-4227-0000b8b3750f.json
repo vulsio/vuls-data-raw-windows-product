@@ -1,0 +1,45 @@
+{
+	"id": "00000000-0000-0000-4227-0000b8b3750f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV180002",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2018-01-03T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4493472",
+			"articleUrl": "https://support.microsoft.com/help/4493472",
+			"downloadName": "VIA Processors Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4493472",
+			"knownIssuesName": "4493472",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4493472",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4489878"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4493448",
+			"articleUrl": "https://support.microsoft.com/help/4493448",
+			"downloadName": "VIA Processors Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4493448",
+			"knownIssuesName": "4493448",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4493448",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10050,
+	"releaseDate": "2018-01-03T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

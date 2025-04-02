@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-1429-0000d9544634",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0195",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3101522",
+			"articleUrl": "http://support.microsoft.com/kb/3101522",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=0ad23a04-4a3a-4ee0-84ad-15642aa1bbd1",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3085595"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel Web App 2010 Service Pack 2",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10516,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-bb2d-0000ac3fa917",
+	"architectureId": 0,
+	"baseScore": "7.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-36945",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2021-08-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4023814",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4023814/some-versions-of-windows-10-display-a-notification-to-install-the-late",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/software-download/windows10",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Update Assistant",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11707,
+	"releaseDate": "2021-08-10T07:00:00Z",
+	"releaseNumber": "2021-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.4",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

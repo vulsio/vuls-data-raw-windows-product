@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-2b27-0000568ef518",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7235",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-11-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3198807",
+			"articleUrl": "https://support.microsoft.com/kb/3198807",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://go.microsoft.com/fwlink/?LinkId=831164",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3193442"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel for Mac 2011",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10027,
+	"releaseDate": "2016-11-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

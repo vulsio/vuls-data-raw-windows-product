@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-ac27-0000e4ace008",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0850",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2018-02-13T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011200",
+			"articleUrl": "https://support.microsoft.com/help/4011200",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=734d6c5d-c1f5-4f58-a7c4-dcd8da6c33ac",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011213"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2007 Service Pack 3",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10156,
+	"releaseDate": "2018-02-13T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

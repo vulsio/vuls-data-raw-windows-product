@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-672a-000041f41d4f",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2016 (Server Core installation)",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "2.6",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2016:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0076",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2017-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4013429",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/4013429",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4013429",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/help/4013429/windows-10-update-kb4013429",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3213986"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2016 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10855,
+	"releaseDate": "2017-03-14T07:00:00Z",
+	"releaseNumber": "2017-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "2.4",
+	"vectorString": "CVSS:3.0/AV:A/AC:H/PR:H/UI:N/S:C/C:L/I:N/A:N/E:P/RL:O/RC:C"
+}

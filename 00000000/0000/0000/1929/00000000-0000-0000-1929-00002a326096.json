@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-1929-00002a326096",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0824",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-04-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4464520",
+			"articleUrl": "https://support.microsoft.com/help/4464520",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=c50d78a0-bc94-48a4-91bd-c4d5916c1708",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4462226"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2010 Service Pack 2 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10521,
+	"releaseDate": "2019-04-09T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

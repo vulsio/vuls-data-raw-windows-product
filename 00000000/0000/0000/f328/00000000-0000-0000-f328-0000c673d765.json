@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-f328-0000c673d765",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2012 R2",
+	"baseProductVersion": "6.3.9600.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2012_R2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-38034",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-190: Integer Overflow or Wraparound",
+				"https://cwe.mitre.org/data/definitions/190.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-190: Integer Overflow or Wraparound"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5040456",
+			"articleUrl": "https://support.microsoft.com/help/5040456",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5040456",
+			"fixedBuildNumber": "6.3.9600.22074",
+			"knownIssuesName": "5040456",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5040456",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5039294"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 R2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10483,
+	"releaseDate": "2024-07-09T07:00:00Z",
+	"releaseNumber": "2024-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

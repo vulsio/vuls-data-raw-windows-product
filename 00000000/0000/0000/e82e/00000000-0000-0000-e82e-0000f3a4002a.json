@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-e82e-0000f3a4002a",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Teams Admin Center",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:teams:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-21965",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2022-02-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/microsoftteams/teams-client-update",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://docs.microsoft.com/en-us/microsoftteams/teams-client-update",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Teams Admin Center",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 12008,
+	"releaseDate": "2022-02-08T08:00:00Z",
+	"releaseNumber": "2022-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

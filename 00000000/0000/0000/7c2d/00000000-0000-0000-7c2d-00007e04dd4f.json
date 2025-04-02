@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-7c2d-00007e04dd4f",
+	"architectureId": 0,
+	"baseProductName": "Windows 10 Version 1903 for 32-bit Systems",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_10:1903:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1315",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2019-10-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4517389",
+			"articleUrl": "https://support.microsoft.com/help/4517389",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4517389",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4524147"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1903 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11644,
+	"releaseDate": "2019-10-08T07:00:00Z",
+	"releaseNumber": "2019-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

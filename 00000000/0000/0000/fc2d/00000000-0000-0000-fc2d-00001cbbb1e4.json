@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-fc2d-00001cbbb1e4",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Word for Android",
+	"baseProductVersion": "16.0.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:word:-:*:*:*:*:android:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-26903",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2022-04-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://play.google.com/store/apps/details?id=com.microsoft.office.word&hl=en_US",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://play.google.com/store/apps/details?id=com.microsoft.office.word&hl=en_US",
+			"fixedBuildNumber": "16.0.15028.20116",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word for Android",
+	"productFamily": "Apps",
+	"productFamilyId": 100000012,
+	"productId": 11772,
+	"releaseDate": "2022-04-12T07:00:00Z",
+	"releaseNumber": "2022-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,33 @@
+{
+	"id": "00000000-29e9-0000-e429-00007cfaf61e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0157",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-04-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3147461",
+			"articleUrl": "https://support.microsoft.com/kb/3147461",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3147461",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3140745"
+		}
+	],
+	"platform": "Windows 10 for 32-bit Systems",
+	"platformId": 10729,
+	"product": "Microsoft Edge (EdgeHTML-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10724,
+	"releaseDate": "2016-04-12T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

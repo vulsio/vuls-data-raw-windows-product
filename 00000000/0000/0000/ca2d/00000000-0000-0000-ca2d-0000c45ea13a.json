@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-ca2d-0000c45ea13a",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1490",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2019-12-10T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4534761",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4534761/",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/download/details.aspx?id=58347",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Skype for Business Server 2019  CU2",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11722,
+	"releaseDate": "2019-12-10T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

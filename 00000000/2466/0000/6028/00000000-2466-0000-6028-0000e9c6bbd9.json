@@ -1,0 +1,36 @@
+{
+	"id": "00000000-2466-0000-6028-0000e9c6bbd9",
+	"architectureId": 0,
+	"baseScore": "6.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0238",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-05-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4018271",
+			"articleUrl": "https://support.microsoft.com/help/4018271",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4018271",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4014661"
+		}
+	],
+	"platform": "Windows Server 2008 for x64-based Systems Service Pack 2",
+	"platformId": 9318,
+	"product": "Internet Explorer 9",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10336,
+	"releaseDate": "2017-05-09T07:00:00Z",
+	"severity": "Low",
+	"severityId": 100000003,
+	"temporalScore": "5.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

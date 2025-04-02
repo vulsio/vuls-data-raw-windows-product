@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-6424-0000463b637c",
+	"architectureId": 0,
+	"baseScore": "6.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0004",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2017-01-10T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3216775",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3216775",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3216775",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3198483"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Vista x64 Edition Service Pack 2",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 9316,
+	"releaseDate": "2017-01-10T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.6",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H/E:P/RL:O/RC:R"
+}

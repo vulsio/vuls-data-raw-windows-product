@@ -1,0 +1,69 @@
+{
+	"id": "00000000-0000-0000-6624-000035faf9a9",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2008  Service Pack 2",
+	"baseProductVersion": "6.0.6003.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_sp2:{bv}:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-21372",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-190: Integer Overflow or Wraparound",
+				"https://cwe.mitre.org/data/definitions/190.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-190: Integer Overflow or Wraparound"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-02-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5034795",
+			"articleUrl": "https://support.microsoft.com/help/5034795",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5034795",
+			"fixedBuildNumber": "6.0.6003.22511",
+			"knownIssuesName": "5034795",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5034795",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5034173"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5034833",
+			"articleUrl": "https://support.microsoft.com/help/5034833",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5034833",
+			"fixedBuildNumber": "6.0.6003.22511",
+			"knownIssuesName": "5034833",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5034833",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for x64-based Systems Service Pack 2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9318,
+	"releaseDate": "2024-02-13T08:00:00Z",
+	"releaseNumber": "2024-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-9b2f-0000b47638cb",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Visual Studio 2022 version 17.6",
+	"baseProductVersion": "17.6.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:visual_studio:2022:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-28932",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-122: Heap-based Buffer Overflow",
+				"https://cwe.mitre.org/data/definitions/122.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-122: Heap-based Buffer Overflow"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-04-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://my.visualstudio.com/Downloads?q=Visual Studio 2022 version 17.6",
+			"fixedBuildNumber": "17.6.14",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2022 version 17.6",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12187,
+	"releaseDate": "2024-04-09T07:00:00Z",
+	"releaseNumber": "2024-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

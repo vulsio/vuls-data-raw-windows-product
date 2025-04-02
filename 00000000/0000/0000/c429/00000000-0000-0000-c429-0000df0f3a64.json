@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-c429-0000df0f3a64",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8501",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-10-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4092453",
+			"articleUrl": "https://support.microsoft.com/help/4092453",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=4c152aea-781c-4275-a2a1-17d8df65032a",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011069"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft PowerPoint 2013 Service Pack 1 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10692,
+	"releaseDate": "2018-10-09T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

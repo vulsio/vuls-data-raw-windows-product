@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-c72a-000040f41d4f",
+	"architectureId": 0,
+	"baseScore": "4.7",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0077",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2017-05-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4016871",
+			"articleUrl": "https://support.microsoft.com/help/4016871",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4016871",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4015583"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1703 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10951,
+	"releaseDate": "2017-05-09T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.7",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:N/I:N/A:H"
+}

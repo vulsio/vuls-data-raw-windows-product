@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-722f-0000307459ae",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SQL Server 2019 (CU 18)",
+	"baseProductVersion": "15.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:sql_server:2019:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-21705",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-321: Use of Hard-coded Cryptographic Key",
+				"https://cwe.mitre.org/data/definitions/321.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-321: Use of Hard-coded Cryptographic Key"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-02-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5021124",
+			"articleUrl": "https://support.microsoft.com/help/5021124",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=32db4259-905f-4462-a2de-b0a0c4b5162b",
+			"fixedBuildNumber": "15.0.4280.7",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5014353"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2019 for x64-based Systems (CU 18)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 12146,
+	"releaseDate": "2023-02-14T08:00:00Z",
+	"releaseNumber": "2023-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

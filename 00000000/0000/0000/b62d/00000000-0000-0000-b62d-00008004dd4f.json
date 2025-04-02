@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-b62d-00008004dd4f",
+	"architectureId": 0,
+	"baseProductName": "SQL Server Management Studio 18.3",
+	"baseProductVersion": "18.0",
+	"cpe": "cpe:2.3:a:microsoft:sql_server_management_studio:18.3:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1313",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-10-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://go.microsoft.com/fwlink/?linkid=2105412",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "SQL Server Management Studio 18.3",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 11702,
+	"releaseDate": "2019-10-08T07:00:00Z",
+	"releaseNumber": "2019-Oct",
+	"severity": "Important",
+	"severityId": 100000001
+}

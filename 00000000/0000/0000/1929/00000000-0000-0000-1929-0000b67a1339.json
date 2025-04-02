@@ -1,0 +1,62 @@
+{
+	"id": "00000000-0000-0000-1929-0000b67a1339",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8509",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-06-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3203463",
+			"articleUrl": "https://support.microsoft.com/en-us/help/3203463",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=01839676-e210-49ba-a840-395334cd3c92",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3191841"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "3118389",
+			"articleUrl": "https://support.microsoft.com/en-us/help/3118389",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=9775293b-4135-4758-bd12-a75b48bb89ba",
+			"ordinal": 2,
+			"rebootRequired": "Maybe",
+			"supercedence": "2553432"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "3203460",
+			"articleUrl": "https://support.microsoft.com/en-us/help/3203460",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=4e7db596-3ce6-41e9-94aa-f76957095314",
+			"ordinal": 3,
+			"rebootRequired": "Maybe",
+			"supercedence": "3191899"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "3191908",
+			"articleUrl": "https://support.microsoft.com/en-us/help/3191908",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=1a342821-ac2f-4ad1-a03a-9d42ff929da7",
+			"ordinal": 4,
+			"rebootRequired": "Maybe",
+			"supercedence": "2589382"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2010 Service Pack 2 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10521,
+	"releaseDate": "2017-06-13T07:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002
+}

@@ -1,0 +1,66 @@
+{
+	"id": "00000000-0000-0000-7429-0000d1f83ce5",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Foundation 2013 Service Pack 1",
+	"baseProductVersion": "15.0.0",
+	"baseScore": "3.1",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_foundation:2013:sp1:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-23395",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-601: URL Redirection to Untrusted Site ('Open Redirect')",
+				"https://cwe.mitre.org/data/definitions/601.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-601: URL Redirection to Untrusted Site ('Open Redirect')"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2023-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002367",
+			"articleUrl": "https://support.microsoft.com/help/5002367",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=fd719e76-a9ce-478a-a373-5f4f07011ace",
+			"fixedBuildNumber": "15.0.5537.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002347"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5002168",
+			"articleUrl": "https://support.microsoft.com/help/5002168",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=25c32eb5-da81-463f-b577-0b360ae33156",
+			"fixedBuildNumber": "15.0.5537.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002147"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Foundation 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10612,
+	"releaseDate": "2023-03-14T07:00:00Z",
+	"releaseNumber": "2023-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "2.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:N/I:L/A:N/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,52 @@
+{
+	"id": "00000000-0000-0000-4227-0000fdaf0a1f",
+	"architecture": "IA64",
+	"architectureId": 3,
+	"baseProductName": "Windows Server 2008 R2 Systems Service Pack 1",
+	"baseProductVersion": "6.1.0",
+	"baseScore": "4.4",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_R2:{bv}:*:*:*:*:*:itanium:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0119",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4012215",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4012215",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4012215",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3212646"
+		},
+		{
+			"affectedBinaries": [
+				"srv.sys;lang;imjppdmg.exe;quartz.dll;win32k.sys;gdiplus.dll;icm32.dll;gdi32.dll;usp10.dll;dwrite.dll;fntcache.dll;ntkrnlmp.exe;ntkrpamp.exe;custerr.dll;vmswitch.sys;msxml3.dll;dvdmaker.exe;helppane.exe"
+			],
+			"articleName": "4012212",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4012212",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4012212",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10050,
+	"releaseDate": "2017-03-14T07:00:00Z",
+	"releaseNumber": "2017-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:N/E:P/RL:O/RC:C"
+}

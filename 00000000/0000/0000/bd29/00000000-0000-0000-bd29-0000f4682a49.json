@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-bd29-0000f4682a49",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Outlook for Android",
+	"baseProductVersion": "1.0",
+	"baseScore": "5.3",
+	"cpe": "cpe:2.3:a:microsoft:outlook:2016:*:*:*:*:android:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-21259",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-451: User Interface (UI) Misrepresentation of Critical Information",
+				"https://cwe.mitre.org/data/definitions/451.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-451: User Interface (UI) Misrepresentation of Critical Information"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2025-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/officeupdates/release-notes-outlook-mobile",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://play.google.com/store/apps/details/Microsoft_Outlook?id=com.microsoft.office.outlook&hl=en_US&pli=1",
+			"fixedBuildNumber": "4.2501.1",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook for Android",
+	"productFamily": "Apps",
+	"productFamilyId": 100000012,
+	"productId": 10685,
+	"releaseDate": "2025-02-11T08:00:00Z",
+	"releaseNumber": "2025-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.6",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N/E:U/RL:O/RC:C"
+}

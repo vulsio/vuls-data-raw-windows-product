@@ -1,0 +1,46 @@
+{
+	"id": "00000000-0000-0000-6b29-0000217d219e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0760",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011104",
+			"articleUrl": "https://support.microsoft.com/kb/4011104",
+			"downloadName": "Security Update",
+			"knownIssuesName": "4011104",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4011104",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3115153"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4484117",
+			"articleUrl": "https://support.microsoft.com/kb/4484117",
+			"downloadName": "Security Update",
+			"knownIssuesName": "4484117",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4484117",
+			"ordinal": 2,
+			"rebootRequired": "Maybe",
+			"supercedence": "4475607"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2013 RT Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10603,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Important",
+	"severityId": 100000001
+}

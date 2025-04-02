@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-6430-0000c66b416e",
+	"architectureId": 0,
+	"baseProductName": "Dynamics CRM Service Portal Web Resource",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "8.2",
+	"cpe": "cpe:2.3:a:microsoft:dynamics_crm_service_portal_web_resource:*:*:*:*:*:*:*:*",
+	"customerActionRequired": false,
+	"cveNumber": "CVE-2024-38166",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+				"https://cwe.mitre.org/data/definitions/79.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2024-08-06T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Dynamics CRM Service Portal Web Resource",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 12388,
+	"releaseDate": "2024-08-06T07:00:00Z",
+	"releaseNumber": "2024-Aug",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.1",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:L/A:N/E:U/RL:O/RC:C"
+}

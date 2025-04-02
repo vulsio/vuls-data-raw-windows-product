@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-bc2a-00005eefbadb",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8516",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-08-08T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4019093",
+			"articleUrl": "https://support.microsoft.com/help/4019093",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=bd6c8391-9a51-4847-99b4-d6fff2e48749",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3194714"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2014 Service Pack 2 for 32-bit Systems (GDR)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 10940,
+	"releaseDate": "2017-08-08T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

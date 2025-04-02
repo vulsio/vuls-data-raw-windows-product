@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-f629-000091a875ae",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8742",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-09-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011041",
+			"articleUrl": "https://support.microsoft.com/kb/4011041",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=52d9987c-046e-4011-838b-0f869b22239f",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3114518"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft PowerPoint 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10742,
+	"releaseDate": "2017-09-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

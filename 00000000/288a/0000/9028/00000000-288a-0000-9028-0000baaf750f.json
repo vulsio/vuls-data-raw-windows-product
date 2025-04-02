@@ -1,0 +1,31 @@
+{
+	"id": "00000000-288a-0000-9028-0000baaf750f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV190001",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impactId": 0,
+	"initialReleaseDate": "2019-01-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4480979",
+			"articleUrl": "https://support.microsoft.com/help/4480979",
+			"downloadName": "Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4480979",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4471331"
+		}
+	],
+	"platform": "Windows Server 2012",
+	"platformId": 10378,
+	"product": "Adobe Flash Player",
+	"productFamily": "Other",
+	"productFamilyId": 100000000,
+	"productId": 10384,
+	"releaseDate": "2019-01-08T08:00:00Z",
+	"severityId": 0
+}

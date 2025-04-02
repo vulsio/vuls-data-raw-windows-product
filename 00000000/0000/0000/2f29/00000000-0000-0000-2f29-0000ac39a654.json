@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-2f29-0000ac39a654",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2012 R2 (Server Core installation)",
+	"baseProductVersion": "6.3.0",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2012_R2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3220",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"atmfd.dll"
+			],
+			"articleName": "3164033",
+			"articleUrl": "https://support.microsoft.com/kb/3164033",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3164033",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3140735"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 R2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10543,
+	"releaseDate": "2016-06-14T07:00:00Z",
+	"releaseNumber": "2016-Jun",
+	"severity": "Important",
+	"severityId": 100000001
+}

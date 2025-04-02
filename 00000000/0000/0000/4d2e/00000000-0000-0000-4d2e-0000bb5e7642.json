@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-4d2e-0000bb5e7642",
+	"architectureId": 0,
+	"baseProductName": "PsExec",
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-1733",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2021-02-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/sysinternals/downloads/psexec",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://docs.microsoft.com/en-us/sysinternals/downloads/psexec",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "PsExec",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11853,
+	"releaseDate": "2021-02-09T08:00:00Z",
+	"releaseNumber": "2021-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-ac2c-0000e51c1d51",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8559",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2017-07-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4018588",
+			"articleUrl": "http://support.microsoft.com/help/4018588",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=1cdd77a9-61cd-4174-b96a-cc3dd169e3dd",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2016 Cumulative Update 5",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11436,
+	"releaseDate": "2017-07-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

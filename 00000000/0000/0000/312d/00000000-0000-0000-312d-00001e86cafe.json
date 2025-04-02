@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-312d-00001e86cafe",
+	"architectureId": 0,
+	"baseScore": "6.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17099",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2020-12-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4592440",
+			"articleUrl": "https://support.microsoft.com/help/4592440",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4592440",
+			"knownIssuesName": "4592440",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4592440",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4586793"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1809 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11569,
+	"releaseDate": "2020-12-08T08:00:00Z",
+	"releaseNumber": "2020-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.9",
+	"vectorString": "CVSS:3.0/AV:P/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

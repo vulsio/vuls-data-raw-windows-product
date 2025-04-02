@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-342d-0000acbc6c2a",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2019 (Server Core installation)",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2019:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-1642",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2021-01-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4598230",
+			"articleUrl": "https://support.microsoft.com/help/4598230",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4598230",
+			"knownIssuesName": "4598230",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4598230",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4592440"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2019 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11572,
+	"releaseDate": "2021-01-12T08:00:00Z",
+	"releaseNumber": "2021-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

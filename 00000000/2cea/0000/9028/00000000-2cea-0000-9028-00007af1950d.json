@@ -1,0 +1,35 @@
+{
+	"id": "00000000-2cea-0000-9028-00007af1950d",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV200012",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-10-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4580325",
+			"articleUrl": "https://support.microsoft.com/help/4580325",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4580325",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4561600"
+		}
+	],
+	"platform": "Windows 10 Version 1803 for x64-based Systems",
+	"platformId": 11498,
+	"product": "Adobe Flash Player",
+	"productFamily": "Other",
+	"productFamilyId": 100000000,
+	"productId": 10384,
+	"releaseDate": "2020-10-13T07:00:00Z",
+	"releaseNumber": "2020-Oct",
+	"severity": "Critical",
+	"severityId": 100000000
+}

@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-672a-0000812188ab",
+	"architectureId": 0,
+	"baseScore": "6.7",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0842",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2018-02-13T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4074590",
+			"articleUrl": "https://support.microsoft.com/help/4074590",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4074590",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4056890"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2016  (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10855,
+	"releaseDate": "2018-02-13T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,48 @@
+{
+	"id": "00000000-0000-0000-5e2e-000075dbb2f7",
+	"architectureId": 0,
+	"baseProductName": "Azure Kubernetes Service",
+	"baseProductVersion": "1.0",
+	"cpe": "cpe:2.3:a:microsoft:azure_kubernetes_service:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-21626",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-1104: Use of Unmaintained Third Party Components",
+				"https://cwe.mitre.org/data/definitions/1104.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-1104: Use of Unmaintained Third Party Components"
+	],
+	"impactId": 0,
+	"initialReleaseDate": "2024-02-28T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "GitHub",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/Azure/AKS/issues/4080",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/Azure/AKS/issues/4080",
+			"fixedBuildNumber": "202401.17.2",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Kubernetes Service",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11870,
+	"releaseDate": "2024-02-28T08:00:00Z",
+	"releaseNumber": "2024-Feb",
+	"severityId": 0
+}

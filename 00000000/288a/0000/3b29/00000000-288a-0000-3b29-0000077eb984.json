@@ -1,0 +1,36 @@
+{
+	"id": "00000000-288a-0000-3b29-0000077eb984",
+	"architectureId": 0,
+	"baseScore": "6.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3243",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-07-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3170106",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3170106",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3170106",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3160005"
+		}
+	],
+	"platform": "Windows Server 2012",
+	"platformId": 10378,
+	"product": "Internet Explorer 10",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10555,
+	"releaseDate": "2016-07-12T07:00:00Z",
+	"severity": "Low",
+	"severityId": 100000003,
+	"temporalScore": "5.4",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:L/E:P/RL:O/RC:C"
+}

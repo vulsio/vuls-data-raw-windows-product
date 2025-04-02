@@ -1,0 +1,48 @@
+{
+	"id": "00000000-0000-0000-412d-000082552323",
+	"architectureId": 0,
+	"baseScore": "9.9",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1210",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-09-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484505",
+			"articleUrl": "https://support.microsoft.com/kb/4484505",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=96f3322f-2160-43d8-8370-df405446eab2",
+			"knownIssuesName": "4484505",
+			"knownIssuesUrl": "https://support.microsoft.com/kb/4484505",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484472"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4484504",
+			"articleUrl": "https://support.microsoft.com/kb/4484504",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=a21a8462-90ec-46a4-be99-258a85978e6e",
+			"ordinal": 2,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server 2019",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11585,
+	"releaseDate": "2020-09-08T07:00:00Z",
+	"releaseNumber": "2020-Sep",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

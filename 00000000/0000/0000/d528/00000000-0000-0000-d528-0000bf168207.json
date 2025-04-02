@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-d528-0000bf168207",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2013-6629",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4017094",
+			"articleUrl": "http://support.microsoft.com/help/4017094",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=85a68d98-0244-4e9a-8c81-df6d3281a9eb",
+			"ordinal": 1,
+			"supercedence": "4013867"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Silverlight 5 Developer Runtime when installed on Microsoft Windows (32-bit)",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10453,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

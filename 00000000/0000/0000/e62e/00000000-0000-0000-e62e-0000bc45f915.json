@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-e62e-0000bc45f915",
+	"architectureId": 0,
+	"baseProductName": "SQL Server 2019 for Linux Containers",
+	"baseProductVersion": "15.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:sql_server:2019:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-23276",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2022-02-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5010657",
+			"articleUrl": "https://support.microsoft.com/help/5010657",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-change-repo?view=sql-server-ver15&pivots=ld2-rhel",
+			"fixedBuildNumber": "15.0.2090.38",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "SQL Server 2019 for Linux Containers",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 12006,
+	"releaseDate": "2022-02-08T08:00:00Z",
+	"releaseNumber": "2022-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

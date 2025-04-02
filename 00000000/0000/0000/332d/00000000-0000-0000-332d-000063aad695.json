@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-332d-000063aad695",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2019",
+	"baseProductVersion": "10.0.17763.0",
+	"baseScore": "9.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2019:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-35349",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-10-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5031361",
+			"articleUrl": "https://support.microsoft.com/help/5031361",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5031361",
+			"fixedBuildNumber": "10.0.17763.4974",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5030214"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2019",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11571,
+	"releaseDate": "2023-10-10T07:00:00Z",
+	"releaseNumber": "2023-Oct",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

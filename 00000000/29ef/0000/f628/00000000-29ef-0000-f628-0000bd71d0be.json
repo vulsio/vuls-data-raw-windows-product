@@ -1,0 +1,32 @@
+{
+	"id": "00000000-29ef-0000-f628-0000bd71d0be",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0194",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-05-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3156387",
+			"articleUrl": "https://support.microsoft.com/kb/3155533",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3156387",
+			"ordinal": 1,
+			"supercedence": "3147461"
+		}
+	],
+	"platform": "Windows 10 for x64-based Systems",
+	"platformId": 10735,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2016-05-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

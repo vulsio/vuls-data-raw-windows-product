@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-2728-00007bdd6c94",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Excel Viewer 2007 Service Pack 3",
+	"baseProductVersion": "0",
+	"cpe": "cpe:2.3:a:microsoft:excel_viewer:2007:sp3:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0052",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3178680",
+			"articleUrl": "https://support.microsoft.com/kb/3178680",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=79e5a329-a688-4c1e-894e-f9ce942c52bb",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3128023"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel Viewer 2007 Service Pack 3",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10279,
+	"releaseDate": "2017-03-14T07:00:00Z",
+	"releaseNumber": "2017-Mar",
+	"severity": "Important",
+	"severityId": 100000001
+}

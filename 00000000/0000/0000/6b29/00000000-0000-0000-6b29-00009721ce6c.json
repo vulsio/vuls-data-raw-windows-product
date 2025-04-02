@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-6b29-00009721ce6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV170017",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2017-10-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4022188",
+			"articleUrl": "https://support.microsoft.com/help/4022188",
+			"downloadName": "Security Update",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011253"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4022189",
+			"articleUrl": "https://support.microsoft.com/help/4022189",
+			"downloadName": "Security Update",
+			"ordinal": 2,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011254"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2013 RT Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10603,
+	"releaseDate": "2017-10-10T07:00:00Z",
+	"releaseNumber": "2017-Oct",
+	"severity": "None",
+	"severityId": 100000004
+}

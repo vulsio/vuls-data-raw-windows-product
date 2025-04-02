@@ -1,0 +1,64 @@
+{
+	"id": "00000000-0000-0000-9b2f-000073732cc8",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Visual Studio 2022 version 17.6",
+	"baseProductVersion": "17.6.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:visual_studio:2022:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-43499",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-409: Improper Handling of Highly Compressed Data (Data Amplification)",
+				"https://cwe.mitre.org/data/definitions/409.html"
+			]
+		},
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-606: Unchecked Input for Loop Condition",
+				"https://cwe.mitre.org/data/definitions/606.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-409: Improper Handling of Highly Compressed Data (Data Amplification)",
+		"CWE-606: Unchecked Input for Loop Condition"
+	],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2024-11-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://my.visualstudio.com/Downloads?q=Visual Studio 2022 version 17.6",
+			"fixedBuildNumber": "17.6.21",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2022 version 17.6",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12187,
+	"releaseDate": "2024-11-12T08:00:00Z",
+	"releaseNumber": "2024-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

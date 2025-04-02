@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-6e2f-000095b00d31",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Edge (Chromium-based) Extended Stable",
+	"baseProductVersion": "1.0.0",
+	"cpe": "cpe:2.3:a:microsoft:edge_chromium:*:*:*:*:extended_stable:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-3156",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impactId": 0,
+	"initialReleaseDate": "2024-04-04T16:11:24Z",
+	"isMariner": false,
+	"issuingCna": "Chrome",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "122.0.2365.120",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Edge (Chromium-based) Extended Stable",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 12142,
+	"releaseDate": "2024-04-04T16:11:24Z",
+	"releaseNumber": "2024-Apr",
+	"severityId": 0
+}

@@ -1,0 +1,46 @@
+{
+	"id": "00000000-0000-0000-f428-00002b37efd9",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Windows 8.1",
+	"baseProductVersion": "6.3.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_rt_8.1:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17162",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2021-02-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				";.\\ole32.dll;atmfd.dll;clfs.sys;combase.dll;dhcpcore.dll;dhcpcore6.dll;dhcpcsvc.dll;dhcpcsvc6.dll;dns.exe;dwrite.dll;fdSSDP.dll",
+				"fdWSD.dll;fntcache.dll;FXSUI.dll;gdi32.dll;gdiplus.dll;localspl.dll;lsasrv.dll;mf3216.dll;msi.dll;msjet40.dll;msrpc.sys;mstext40.dll;ntfs.sys;ntkrnlmp.exe;ntkrpamp.exe;Pnrpsvc.dll;Printconfig.dll;rpcrt4.dll;rsopprov.exe;rtutils.dll;schannel.dll;securekernel.exe;see repro steps;shell32.dll;ssdpsrv.dll;upnphost.dll;win32k.sys;WindowsUpdate.adml;windowsupdate.admx;wmadmod.dll;wuaueng.dll"
+			],
+			"articleName": "4577066",
+			"articleUrl": "https://support.microsoft.com/help/4577066",
+			"downloadName": "Monthly Rollup",
+			"knownIssuesName": "4577066",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4577066",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4571703"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows RT 8.1",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10484,
+	"productVersion": "6.3.0",
+	"releaseDate": "2021-02-09T08:00:00Z",
+	"releaseNumber": "2021-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

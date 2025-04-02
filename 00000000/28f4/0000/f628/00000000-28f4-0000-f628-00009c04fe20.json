@@ -1,0 +1,34 @@
+{
+	"id": "00000000-28f4-0000-f628-00009c04fe20",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0862",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-04-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4493446",
+			"articleUrl": "https://support.microsoft.com/help/4493446",
+			"downloadName": "Monthly Rollup",
+			"knownIssuesName": "4493446",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4493446",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4489881"
+		}
+	],
+	"platform": "Windows RT 8.1",
+	"platformId": 10484,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2019-04-09T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-402a-0000e274bdbc",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2016",
+	"baseProductVersion": "10.0.14393.0",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2016:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "ADV990001",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2018-11-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5054006",
+			"articleUrl": "https://support.microsoft.com/help/5054006",
+			"downloadName": "ServicingStackUpdate",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5054006",
+			"fixedBuildNumber": "10.0.14393.7870",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2016",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10816,
+	"releaseDate": "2018-11-13T08:00:00Z",
+	"releaseNumber": "2018-Nov",
+	"severity": "Critical",
+	"severityId": 100000000
+}

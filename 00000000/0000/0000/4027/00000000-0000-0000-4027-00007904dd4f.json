@@ -1,0 +1,50 @@
+{
+	"id": "00000000-0000-0000-4027-00007904dd4f",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 7 Service Pack 1",
+	"baseProductVersion": "6.1.0",
+	"baseScore": "7.7",
+	"cpe": "cpe:2.3:o:microsoft:windows_7:*:sp1:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1318",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2019-10-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4519976",
+			"articleUrl": "https://support.microsoft.com/help/4519976",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4519976",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4524157"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4520003",
+			"articleUrl": "https://support.microsoft.com/help/4520003",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4520003",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 7 for x64-based Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10048,
+	"releaseDate": "2019-10-08T07:00:00Z",
+	"releaseNumber": "2019-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.9",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:L/E:P/RL:O/RC:C"
+}

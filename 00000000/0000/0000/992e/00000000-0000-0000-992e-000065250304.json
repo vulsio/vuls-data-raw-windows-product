@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-992e-000065250304",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows 10 Version 21H2",
+	"baseProductVersion": "10.0.19043.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_21H2:{bv}:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-38148",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-121: Stack-based Buffer Overflow",
+				"https://cwe.mitre.org/data/definitions/121.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-121: Stack-based Buffer Overflow"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-09-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5030211",
+			"articleUrl": "https://support.microsoft.com/help/5030211",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5030211",
+			"fixedBuildNumber": "10.0.19044.3448",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5029244"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 21H2 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11929,
+	"releaseDate": "2023-09-12T07:00:00Z",
+	"releaseNumber": "2023-Sep",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

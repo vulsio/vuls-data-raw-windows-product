@@ -1,0 +1,33 @@
+{
+	"id": "00000000-28ff-0000-d824-0000c8a4d53b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0585",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-01-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4461612",
+			"articleUrl": "https://support.microsoft.com/help/4461612",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=3b5cb1a1-1e82-4584-a22e-60d5d5834495",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4461520"
+		}
+	],
+	"platform": "Microsoft SharePoint Server 2010 Service Pack 2",
+	"platformId": 10495,
+	"product": "Word Automation Services",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 9432,
+	"releaseDate": "2019-01-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

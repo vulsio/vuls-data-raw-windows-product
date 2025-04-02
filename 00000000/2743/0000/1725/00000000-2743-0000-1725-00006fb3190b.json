@@ -1,0 +1,46 @@
+{
+	"id": "00000000-2743-0000-1725-00006fb3190b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1147",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-07-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4579977",
+			"articleUrl": "https://support.microsoft.com/help/4579977",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4578952",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4576628"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4566466",
+			"articleUrl": "https://support.microsoft.com/help/4566466",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4565579",
+			"knownIssuesName": "4566466",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4566466",
+			"ordinal": 2,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2008 R2 for x64-based Systems Service Pack 1",
+	"platformId": 10051,
+	"product": "Microsoft .NET Framework 3.5.1",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 9495,
+	"releaseDate": "2020-07-14T07:00:00Z",
+	"releaseNumber": "2020-Jul",
+	"severity": "Critical",
+	"severityId": 100000000
+}

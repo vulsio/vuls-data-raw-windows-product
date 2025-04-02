@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-332d-000054e18ee9",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2019",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2019:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17071",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2020-11-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4586793",
+			"articleUrl": "https://support.microsoft.com/help/4586793",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4586793",
+			"knownIssuesName": "4586793",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4586793",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4577668"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2019",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11571,
+	"releaseDate": "2020-11-10T08:00:00Z",
+	"releaseNumber": "2020-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

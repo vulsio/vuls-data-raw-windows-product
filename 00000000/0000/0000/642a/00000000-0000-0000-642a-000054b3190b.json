@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-642a-000054b3190b",
+	"architectureId": 0,
+	"baseScore": "5.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1241",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2020-06-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4561616",
+			"articleUrl": "https://support.microsoft.com/help/4561616",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4561616",
+			"knownIssuesName": "4561616",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4561616",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4556813"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1607 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10852,
+	"releaseDate": "2020-06-09T07:00:00Z",
+	"releaseNumber": "2020-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L/E:P/RL:O/RC:C"
+}

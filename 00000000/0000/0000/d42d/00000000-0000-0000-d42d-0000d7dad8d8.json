@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-d42d-0000d7dad8d8",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-27065",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-03-02T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5000871",
+			"articleUrl": "https://support.microsoft.com/help/5000871",
+			"downloadName": "Security Update",
+			"downloadUrl": "http://www.microsoft.com/download/details.aspx?familyid=101995fc-65a6-47af-a580-5467c5e8c94a",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2016 Cumulative Update 15",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11732,
+	"productVersion": "2016 Cumulative Update 15",
+	"releaseDate": "2021-03-02T08:00:00Z",
+	"releaseNumber": "2021-Mar",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.2",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:F/RL:O/RC:C"
+}

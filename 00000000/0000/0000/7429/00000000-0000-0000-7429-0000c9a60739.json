@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-7429-0000c9a60739",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0830",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2019-04-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4464515",
+			"articleUrl": "https://support.microsoft.com/help/4464515",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=c3ccd934-34cf-4171-8269-b4f0b0e3e695",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4462208"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Foundation 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10612,
+	"releaseDate": "2019-04-09T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-082e-0000b127c1ad",
+	"architectureId": 0,
+	"baseProductName": "SQL Server Management Studio 18.6",
+	"baseProductVersion": "18.0",
+	"cpe": "cpe:2.3:a:microsoft:sql_server_management_studio:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1455",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2020-08-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/sql/ssms/sql-server-management-studio-changelog-ssms?view=sqlallproducts-allversions",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://aka.ms/ssmsfullsetup",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "SQL Server Management Studio 18.6",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 11784,
+	"productVersion": "18.0",
+	"releaseDate": "2020-08-11T07:00:00Z",
+	"releaseNumber": "2020-Aug",
+	"severity": "Important",
+	"severityId": 100000001
+}

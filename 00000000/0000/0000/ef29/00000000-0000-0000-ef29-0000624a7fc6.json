@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-ef29-0000624a7fc6",
+	"architectureId": 0,
+	"baseScore": "5.6",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8493",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2017-06-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4022727",
+			"articleUrl": "https://support.microsoft.com/help/4022727",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4022727",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4022727",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4019474"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10735,
+	"releaseDate": "2017-06-13T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.1",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:C/C:N/I:H/A:N/E:P/RL:O/RC:C"
+}

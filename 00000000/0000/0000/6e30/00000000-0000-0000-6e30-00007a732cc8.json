@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-6e30-00007a732cc8",
+	"architectureId": 0,
+	"baseProductName": "Azure CycleCloud",
+	"baseProductVersion": "8.6.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:azure_cyclecloud:8.6.2:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-43469",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-94: Improper Control of Generation of Code ('Code Injection')",
+				"https://cwe.mitre.org/data/definitions/94.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-94: Improper Control of Generation of Code ('Code Injection')"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/azure/cyclecloud/release-notes?view=cyclecloud-8",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://learn.microsoft.com/en-us/azure/cyclecloud/how-to/upgrade-and-migrate?view=cyclecloud-8",
+			"fixedBuildNumber": "8.6.4",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure CycleCloud 8.6.2",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12398,
+	"releaseDate": "2024-09-10T07:00:00Z",
+	"releaseNumber": "2024-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,43 @@
+{
+	"id": "00000000-28f1-0000-f628-0000096a3ac7",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3391",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-10-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3185331",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3185331",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3185331",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3185319"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "3192392",
+			"articleUrl": "https://support.microsoft.com/kb/3192392",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3192392",
+			"knownIssuesUrl": "https://support.microsoft.com/kb/3192392",
+			"ordinal": 2,
+			"supercedence": "MS16-016, 3124280; MS16-097, 3178034; MS16-104, 3185319"
+		}
+	],
+	"platform": "Windows 8.1 for 32-bit systems",
+	"platformId": 10481,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2016-10-11T07:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002
+}

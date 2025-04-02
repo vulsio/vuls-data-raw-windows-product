@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-092e-0000db3e7268",
+	"architectureId": 0,
+	"baseScore": "6.6",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1130",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-09-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes-v16.7",
+			"downloadName": "Security Update",
+			"downloadUrl": "http://aka.ms/vs/16/release/latest",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2019 version 16.7 (includes 16.0 – 16.6)",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11785,
+	"releaseDate": "2020-09-08T07:00:00Z",
+	"releaseNumber": "2020-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.9",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:L/A:L/E:P/RL:O/RC:C"
+}

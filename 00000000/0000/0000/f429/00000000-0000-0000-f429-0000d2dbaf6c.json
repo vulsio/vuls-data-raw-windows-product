@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-f429-0000d2dbaf6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3279",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2016-07-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115272",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3115272",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=69faf882-4062-418c-a2c3-3022c9fd1321",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3114964"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10740,
+	"releaseDate": "2016-07-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

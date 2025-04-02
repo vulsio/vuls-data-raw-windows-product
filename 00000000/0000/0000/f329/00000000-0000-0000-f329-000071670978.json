@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-f329-000071670978",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft Excel 2016",
+	"baseProductVersion": "16.0.0.0",
+	"baseScore": "8.4",
+	"cpe": "cpe:2.3:a:microsoft:excel_2016:*:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-21362",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-416: Use After Free",
+				"https://cwe.mitre.org/data/definitions/416.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-416: Use After Free"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2025-01-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002673",
+			"articleUrl": "https://support.microsoft.com/help/5002673",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=0a38538f-0acd-426d-9ca0-10c60a4ae315",
+			"fixedBuildNumber": "16.0.5483.1001",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002660"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2016 (32-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10739,
+	"releaseDate": "2025-01-14T08:00:00Z",
+	"releaseNumber": "2025-Jan",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RC:C"
+}

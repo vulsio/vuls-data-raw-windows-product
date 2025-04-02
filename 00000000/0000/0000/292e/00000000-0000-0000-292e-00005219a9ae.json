@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-292e-00005219a9ae",
+	"architectureId": 0,
+	"baseProductName": "Azure SDK for Java",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.4",
+	"cpe": "cpe:2.3:a:microsoft:azure_sdk_for_java:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-16971",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2020-12-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/Azure/azure-sdk-for-java",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/Azure/azure-sdk-for-java",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure SDK for Java",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11817,
+	"releaseDate": "2020-12-08T08:00:00Z",
+	"releaseNumber": "2020-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.4",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:N/E:U/RL:O/RC:C"
+}

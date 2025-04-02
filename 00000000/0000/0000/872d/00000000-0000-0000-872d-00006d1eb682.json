@@ -1,0 +1,52 @@
+{
+	"id": "00000000-0000-0000-872d-00006d1eb682",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Edge (Chromium-based)",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "4.3",
+	"cpe": "cpe:2.3:a:microsoft:edge_chromium:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-29057",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-357: Insufficient UI Warning of Dangerous Operations",
+				"https://cwe.mitre.org/data/definitions/357.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-357: Insufficient UI Warning of Dangerous Operations"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2024-03-22T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "123.0.2420.53",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Edge (Chromium-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 11655,
+	"releaseDate": "2024-03-22T07:00:00Z",
+	"releaseNumber": "2024-Mar",
+	"severity": "Low",
+	"severityId": 100000003,
+	"temporalScore": "3.8",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:L/A:N/E:U/RL:O/RC:C"
+}

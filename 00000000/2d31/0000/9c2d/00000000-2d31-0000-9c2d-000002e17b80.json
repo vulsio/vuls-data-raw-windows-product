@@ -1,0 +1,35 @@
+{
+	"id": "00000000-2d31-0000-9c2d-000002e17b80",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1108",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2020-05-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4556441",
+			"articleUrl": "https://support.microsoft.com/help/4556441",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4552930",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4538156"
+		}
+	],
+	"platform": "Windows 10 Version 1809 for x64-based Systems",
+	"platformId": 11569,
+	"product": "Microsoft .NET Framework 3.5 AND 4.8",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11676,
+	"releaseDate": "2020-05-12T07:00:00Z",
+	"releaseNumber": "2020-May",
+	"severity": "Important",
+	"severityId": 100000001
+}

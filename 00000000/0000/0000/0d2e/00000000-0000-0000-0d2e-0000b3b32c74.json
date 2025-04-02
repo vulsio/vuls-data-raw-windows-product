@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-0d2e-0000b3b32c74",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Exchange Server 2019 Cumulative Update 6",
+	"baseProductVersion": "15.02.0",
+	"baseScore": "6.2",
+	"cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17085",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2020-11-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4588741",
+			"articleUrl": "https://support.microsoft.com/help/4588741",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=8f6aa8a7-c4ff-49cc-b949-beda01d3653a",
+			"knownIssuesName": "4588741",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4588741",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4581424"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2019 Cumulative Update 6",
+	"productFamily": "Server Software",
+	"productFamilyId": 100000004,
+	"productId": 11789,
+	"releaseDate": "2020-11-10T08:00:00Z",
+	"releaseNumber": "2020-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.4",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:L/E:U/RL:O/RC:C"
+}

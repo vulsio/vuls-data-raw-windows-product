@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-5b2b-0000fc7884f2",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Enterprise Server 2013 Service Pack 1",
+	"baseProductVersion": "15.0.0",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server:2013:sp1:*:*:enterprise:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1201",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-08-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4462137",
+			"articleUrl": "https://support.microsoft.com/kb/4462137",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?id=100089",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4461589"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Enterprise Server 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11099,
+	"productVersion": "15.0.0",
+	"releaseDate": "2019-08-13T07:00:00Z",
+	"releaseNumber": "2019-Aug",
+	"severity": "Critical",
+	"severityId": 100000000
+}

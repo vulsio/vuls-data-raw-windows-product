@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-542f-0000e283397b",
+	"architectureId": 0,
+	"baseProductName": "vcpkg",
+	"baseProductVersion": "1.0.0",
+	"cpe": "cpe:2.3:a:microsoft:vcpkg:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-3786",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impactId": 0,
+	"initialReleaseDate": "2022-11-02T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "OpenSSL Software Foundation",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://devblogs.microsoft.com/cppblog/fix-for-high-risk-openssl-security-vulnerabilities-announced-guidance-for-vcpkg-users/",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://devblogs.microsoft.com/cppblog/fix-for-high-risk-openssl-security-vulnerabilities-announced-guidance-for-vcpkg-users/",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "vcpkg",
+	"productFamily": "Open Source Software",
+	"productFamilyId": 100000003,
+	"productId": 12116,
+	"releaseDate": "2022-11-02T07:00:00Z",
+	"releaseNumber": "2022-Nov",
+	"severityId": 0
+}

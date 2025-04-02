@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-f62d-0000e78d5051",
+	"architectureId": 0,
+	"baseScore": "6.2",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-16910",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2020-10-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4579311",
+			"articleUrl": "https://support.microsoft.com/help/4579311",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4579311",
+			"knownIssuesName": "4579311",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4579311",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4571756"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 2004 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11766,
+	"releaseDate": "2020-10-13T07:00:00Z",
+	"releaseNumber": "2020-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.6",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N/E:P/RL:O/RC:C"
+}

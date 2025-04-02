@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-102a-000056a875ae",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8545",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2017-06-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://go.microsoft.com/fwlink/p/?linkid=831049",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://go.microsoft.com/fwlink/p/?linkid=831049",
+			"ordinal": 1,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2016 for Mac",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10768,
+	"releaseDate": "2017-06-13T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

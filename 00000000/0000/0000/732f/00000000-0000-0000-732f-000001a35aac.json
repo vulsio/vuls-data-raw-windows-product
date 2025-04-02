@@ -1,0 +1,54 @@
+{
+	"id": "00000000-0000-0000-732f-000001a35aac",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SQL Server 2022 (GDR)",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:sql_server:2022:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-37331",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-122: Heap-based Buffer Overflow",
+				"https://cwe.mitre.org/data/definitions/122.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-122: Heap-based Buffer Overflow"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5040936",
+			"articleUrl": "https://support.microsoft.com/help/5040936",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=7aa8e5e5-86f3-45d9-a539-af03e1ea1f63",
+			"fixedBuildNumber": "16.0.1121.4",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2022 for x64-based Systems (GDR)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 12147,
+	"releaseDate": "2024-07-09T07:00:00Z",
+	"releaseNumber": "2024-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

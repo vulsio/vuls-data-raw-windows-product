@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-0b2e-0000830a8eeb",
+	"architectureId": 0,
+	"baseScore": "4.7",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-16873",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2020-09-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://www.nuget.org/packages/Xamarin.Forms",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.nuget.org/packages/Xamarin.Forms",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "xamarin.forms",
+	"productFamily": "Open Source Software",
+	"productFamilyId": 100000003,
+	"productId": 11787,
+	"releaseDate": "2020-09-08T07:00:00Z",
+	"releaseNumber": "2020-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.4",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:N/A:N/E:F/RL:O/RC:C/CR:M/MAV:N/MAC:L/MPR:N/MUI:R/MS:C"
+}

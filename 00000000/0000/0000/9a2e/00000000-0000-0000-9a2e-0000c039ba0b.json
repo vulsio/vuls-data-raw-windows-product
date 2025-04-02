@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-9a2e-0000c039ba0b",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Windows 10 Version 21H2",
+	"baseProductVersion": "10.0.19043.0",
+	"baseScore": "8.0",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_21H2:{bv}:*:*:*:*:*:arm64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-26189",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2024-04-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5036892",
+			"articleUrl": "https://support.microsoft.com/help/5036892",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5036892",
+			"fixedBuildNumber": "10.0.19044.4291",
+			"knownIssuesName": "5036892",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5036892",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5035845"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 21H2 for ARM64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11930,
+	"releaseDate": "2024-04-09T07:00:00Z",
+	"releaseNumber": "2024-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.1/AV:A/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

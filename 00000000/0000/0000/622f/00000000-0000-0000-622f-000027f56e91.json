@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-622f-000027f56e91",
+	"architectureId": 0,
+	"baseProductName": ".NET 7.0",
+	"baseProductVersion": "7.0.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:.net:7.0.0:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-38171",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-476: NULL Pointer Dereference",
+				"https://cwe.mitre.org/data/definitions/476.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-476: NULL Pointer Dereference"
+	],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2023-10-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5032875",
+			"articleUrl": "https://support.microsoft.com/help/5032875",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://dotnet.microsoft.com/en-us/download/dotnet/7.0",
+			"fixedBuildNumber": "7.0.13",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": ".NET 7.0",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12130,
+	"releaseDate": "2023-10-10T07:00:00Z",
+	"releaseNumber": "2023-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

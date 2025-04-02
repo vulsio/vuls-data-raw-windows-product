@@ -1,0 +1,32 @@
+{
+	"id": "00000000-28f4-0000-9028-0000b3af750f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV190008",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2019-03-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4489907",
+			"articleUrl": "https://support.microsoft.com/help/4489907",
+			"downloadName": "Security Update",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4480979"
+		}
+	],
+	"platform": "Windows RT 8.1",
+	"platformId": 10484,
+	"product": "Adobe Flash Player",
+	"productFamily": "Other",
+	"productFamilyId": 100000000,
+	"productId": 10384,
+	"releaseDate": "2019-03-12T07:00:00Z",
+	"severity": "Low",
+	"severityId": 100000003
+}

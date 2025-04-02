@@ -1,0 +1,51 @@
+{
+	"id": "00000000-0000-0000-f128-00002d5f9cc5",
+	"architectureId": 0,
+	"baseScore": "7.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-26873",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2021-03-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5000848",
+			"articleUrl": "https://support.microsoft.com/help/5000848",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5000848",
+			"knownIssuesName": "5000848",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5000848",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4601384"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5000853",
+			"articleUrl": "https://support.microsoft.com/help/5000853",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5000853",
+			"knownIssuesName": "5000853",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5000853",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 8.1 for 32-bit systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10481,
+	"productVersion": "6.3.0",
+	"releaseDate": "2021-03-09T08:00:00Z",
+	"releaseNumber": "2021-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.1",
+	"vectorString": "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

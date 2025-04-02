@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-fe2d-0000983e7268",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1331",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2020-06-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4566040",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4566040",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://download.microsoft.com/download/2/c/2/2c24ee98-49b3-48d1-81ad-d741ca81be10/SCOM2016HotfixKB4563076.EXE",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "System Center 2016 Operations Manager",
+	"productFamily": "System Center",
+	"productFamilyId": 100000009,
+	"productId": 11774,
+	"releaseDate": "2020-06-09T07:00:00Z",
+	"releaseNumber": "2020-Jun",
+	"severity": "Important",
+	"severityId": 100000001
+}

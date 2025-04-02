@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-c32d-000042bfc91f",
+	"architectureId": 0,
+	"baseScore": "5.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1474",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-12-10T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4530684",
+			"articleUrl": "https://support.microsoft.com/help/4530684",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4530684",
+			"knownIssuesName": "4530684",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4530684",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4524570"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server, version 1909 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11715,
+	"releaseDate": "2019-12-10T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

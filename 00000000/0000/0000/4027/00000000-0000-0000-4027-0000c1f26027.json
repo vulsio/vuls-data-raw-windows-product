@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-4027-0000c1f26027",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 7 Service Pack 1",
+	"baseProductVersion": "6.1.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_7:{bv}:sp1:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3355",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"win32k.sys;user32.dll"
+			],
+			"articleName": "3185911",
+			"articleUrl": "https://support.microsoft.com/kb/3185911",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3185911",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3177725"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 7 for x64-based Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10048,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

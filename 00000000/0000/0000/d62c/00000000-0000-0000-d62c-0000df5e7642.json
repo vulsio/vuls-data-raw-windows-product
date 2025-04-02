@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-d62c-0000df5e7642",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SQL Server 2017 (GDR)",
+	"baseProductVersion": "14.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:sql_server:2017:-:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-1636",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2021-01-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4583456",
+			"articleUrl": "https://support.microsoft.com/help/4583456",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=715ae9f3-4e0d-4175-8c9e-c7bacc2ab991",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2017 for x64-based Systems (GDR)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 11478,
+	"releaseDate": "2021-01-12T08:00:00Z",
+	"releaseNumber": "2021-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-8b2f-000014fdf4e3",
+	"architectureId": 0,
+	"baseProductName": "Azure Service Fabric 9.1 for Windows",
+	"baseProductVersion": "9.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:a:microsoft:azure_service_fabric:9.1:-:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36868",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2023-07-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/microsoft/service-fabric/blob/master/release_notes/Service_Fabric_ReleaseNotes_91CU4.md",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://learn.microsoft.com/en-us/azure/service-fabric/service-fabric-cluster-upgrade-windows-server",
+			"fixedBuildNumber": "9.1.1799.9590",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Service Fabric 9.1 for Windows",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12171,
+	"releaseDate": "2023-07-11T07:00:00Z",
+	"releaseNumber": "2023-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

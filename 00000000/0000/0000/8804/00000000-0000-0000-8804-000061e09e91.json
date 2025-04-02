@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-8804-000061e09e91",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0283",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-06-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3203427",
+			"articleUrl": "https://support.microsoft.com/help/3203427",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=36bbc778-7643-4020-b0e8-4397fe5b6eb4",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3178653"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Word Viewer",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 1160,
+	"releaseDate": "2017-06-13T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

@@ -1,0 +1,52 @@
+{
+	"id": "00000000-0000-0000-2f29-0000f9edd899",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2012 R2 (Server Core installation)",
+	"baseProductVersion": "6.3.9600.0",
+	"baseScore": "7.1",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2012_R2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-32021",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2023-06-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5027271",
+			"articleUrl": "https://support.microsoft.com/help/5027271",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5027271",
+			"fixedBuildNumber": "6.3.9600.21013",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5026415"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5027282",
+			"articleUrl": "https://support.microsoft.com/help/5027282",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5027282",
+			"fixedBuildNumber": "6.3.9600.21013",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 R2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10543,
+	"releaseDate": "2023-06-13T07:00:00Z",
+	"releaseNumber": "2023-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.2",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:L/A:H/E:U/RL:O/RC:C"
+}

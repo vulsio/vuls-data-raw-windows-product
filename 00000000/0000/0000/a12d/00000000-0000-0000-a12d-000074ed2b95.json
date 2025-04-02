@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-a12d-000074ed2b95",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1137",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2019-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4509409",
+			"articleUrl": "https://support.microsoft.com/help/4509409",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=dc21508f-0f68-42ab-a0a0-c830743a3c2f",
+			"knownIssuesName": "4509409",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4509409",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2016 Cumulative Update 13",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11681,
+	"releaseDate": "2019-07-09T07:00:00Z",
+	"releaseNumber": "2019-Jul",
+	"severity": "Important",
+	"severityId": 100000001
+}

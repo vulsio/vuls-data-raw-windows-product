@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-a530-00002397e719",
+	"architectureId": 0,
+	"baseProductName": "Dynamics 365 Sales for iOS",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.6",
+	"cpe": "cpe:2.3:a:microsoft:dynamics_365_sales:*:*:*:*:*:ios:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-49053",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+				"https://cwe.mitre.org/data/definitions/79.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2024-11-26T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://apps.apple.com/us/app/dynamics-365-sales/id1485578688?platform=iphone",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://apps.apple.com/us/app/dynamics-365-sales/id1485578688?platform=iphone",
+			"fixedBuildNumber": "3.24104.15",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Dynamics 365 Sales for iOS",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 12453,
+	"releaseDate": "2024-11-26T08:00:00Z",
+	"releaseNumber": "2024-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.6",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:H/I:L/A:N/E:U/RL:O/RC:C"
+}

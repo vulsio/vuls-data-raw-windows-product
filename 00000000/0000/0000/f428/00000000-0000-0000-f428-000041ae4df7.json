@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-f428-000041ae4df7",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Windows 8.1",
+	"baseProductVersion": "6.3.0",
+	"cpe": "cpe:2.3:o:microsoft:windows_rt_8.1:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3236",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"winhttp.dll;ws2_32.dll;mswsock.dll;netbt.sys"
+			],
+			"articleName": "3161949",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3161949",
+			"downloadName": "Security Update",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows RT 8.1",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10484,
+	"releaseDate": "2016-06-14T07:00:00Z",
+	"releaseNumber": "2016-Jun",
+	"severity": "Important",
+	"severityId": 100000001
+}

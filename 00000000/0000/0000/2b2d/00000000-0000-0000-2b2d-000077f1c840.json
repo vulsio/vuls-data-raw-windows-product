@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-2b2d-000077f1c840",
+	"architectureId": 0,
+	"baseScore": "6.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0993",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4550922",
+			"articleUrl": "https://support.microsoft.com/help/4550922",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4550922",
+			"knownIssuesName": "4550922",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4550922",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4540689"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1803 for ARM64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11563,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H/E:P/RL:O/RC:C"
+}

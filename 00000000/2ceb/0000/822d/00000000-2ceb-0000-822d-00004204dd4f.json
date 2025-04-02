@@ -1,0 +1,35 @@
+{
+	"id": "00000000-2ceb-0000-822d-00004204dd4f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1113",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4506989",
+			"articleUrl": "https://support.microsoft.com/help/4506989",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4506989",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4495616; 4502563"
+		}
+	],
+	"platform": "Windows Server, version 1803  (Server Core Installation)",
+	"platformId": 11499,
+	"product": "Microsoft .NET Framework 4.8",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11650,
+	"releaseDate": "2019-07-09T07:00:00Z",
+	"releaseNumber": "2019-Jul",
+	"severity": "Critical",
+	"severityId": 100000000
+}

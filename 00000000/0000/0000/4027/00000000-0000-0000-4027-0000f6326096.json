@@ -1,0 +1,48 @@
+{
+	"id": "00000000-0000-0000-4027-0000f6326096",
+	"architectureId": 0,
+	"baseScore": "9.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0626",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-02-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4486563",
+			"articleUrl": "https://support.microsoft.com/help/4486563",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4486563",
+			"knownIssuesName": "4486563",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4486563",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4480970"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4486564",
+			"articleUrl": "https://support.microsoft.com/help/4486564",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4486564",
+			"knownIssuesName": "4486564",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4486564",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 7 for x64-based Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10048,
+	"releaseDate": "2019-02-12T08:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

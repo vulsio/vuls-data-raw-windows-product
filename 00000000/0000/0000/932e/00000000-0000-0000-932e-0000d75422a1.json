@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-932e-0000d75422a1",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2022",
+	"baseProductVersion": "10.0.20348.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2022:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-28266",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-126: Buffer Over-read",
+				"https://cwe.mitre.org/data/definitions/126.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-126: Buffer Over-read"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2023-04-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5025230",
+			"articleUrl": "https://support.microsoft.com/help/5025230",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5025230",
+			"fixedBuildNumber": "10.0.20348.1668",
+			"knownIssuesName": "5025230",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5025230",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5023705"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2022",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11923,
+	"releaseDate": "2023-04-11T07:00:00Z",
+	"releaseNumber": "2023-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

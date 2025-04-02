@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-d22d-000023a19fc4",
+	"architectureId": 0,
+	"baseProductName": ".NET Core 3.1",
+	"baseProductVersion": "3.1",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:.net_core:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-38013",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2022-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5017903",
+			"articleUrl": "https://support.microsoft.com/help/5017903",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://dotnet.microsoft.com/en-us/download/dotnet/3.1",
+			"fixedBuildNumber": "3.1.29",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": ".NET Core 3.1",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11730,
+	"releaseDate": "2022-09-13T07:00:00Z",
+	"releaseNumber": "2022-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

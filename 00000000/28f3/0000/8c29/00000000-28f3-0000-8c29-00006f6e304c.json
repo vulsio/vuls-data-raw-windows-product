@@ -1,0 +1,43 @@
+{
+	"id": "00000000-28f3-0000-8c29-00006f6e304c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8356",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2018-07-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4338415",
+			"articleUrl": "https://support.microsoft.com/help/4338415",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4340558",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4099635; 4291497"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4338600",
+			"articleUrl": "https://support.microsoft.com/help/4338600",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4340006",
+			"ordinal": 2,
+			"rebootRequired": "Maybe",
+			"supercedence": "2898871"
+		}
+	],
+	"platform": "Windows Server 2012 R2",
+	"platformId": 10483,
+	"product": "Microsoft .NET Framework 4.5.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10636,
+	"releaseDate": "2018-07-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

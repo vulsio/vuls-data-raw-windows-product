@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-9111-000043ae4df7",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Office Compatibility Pack Service Pack 3",
+	"baseProductVersion": "0",
+	"cpe": "cpe:2.3:a:microsoft:office_compatibility_pack:-:sp3:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3234",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115194",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3115194",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=0283d351-1a65-4825-a0d8-6470321b7c64",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3115115"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Compatibility Pack Service Pack 3",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 4497,
+	"releaseDate": "2016-06-14T07:00:00Z",
+	"releaseNumber": "2016-Jun",
+	"severity": "Important",
+	"severityId": 100000001
+}

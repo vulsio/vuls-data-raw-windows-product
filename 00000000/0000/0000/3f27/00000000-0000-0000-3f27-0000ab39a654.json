@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-3f27-0000ab39a654",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows 7",
+	"baseProductVersion": "6.1.0",
+	"cpe": "cpe:2.3:o:microsoft:windows_7:{bv}:sp1:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3221",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3161664",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3161664",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=cb857c3c-6f74-45b9-9535-cb843a420424",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3153199"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 7 for 32-bit Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10047,
+	"releaseDate": "2016-06-14T07:00:00Z",
+	"releaseNumber": "2016-Jun",
+	"severity": "Important",
+	"severityId": 100000001
+}

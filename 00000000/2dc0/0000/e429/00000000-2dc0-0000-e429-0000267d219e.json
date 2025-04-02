@@ -1,0 +1,38 @@
+{
+	"id": "00000000-2dc0-0000-e429-0000267d219e",
+	"architectureId": 0,
+	"baseScore": "4.2",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0767",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4532693",
+			"articleUrl": "https://support.microsoft.com/help/4532693",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4532693",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4528760"
+		}
+	],
+	"platform": "Windows 10 Version 1909 for 32-bit Systems",
+	"platformId": 11712,
+	"product": "Microsoft Edge (EdgeHTML-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10724,
+	"releaseDate": "2020-02-11T08:00:00Z",
+	"releaseNumber": "2020-Feb",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "3.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:L/I:L/A:N/E:P/RL:O"
+}

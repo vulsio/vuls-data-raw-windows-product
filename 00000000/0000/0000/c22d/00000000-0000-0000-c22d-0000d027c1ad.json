@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-c22d-0000d027c1ad",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1353",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-07-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4565483",
+			"articleUrl": "https://support.microsoft.com/help/4565483",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4565483",
+			"knownIssuesName": "4565483",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4565483",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4560960"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1909 for ARM64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11714,
+	"releaseDate": "2020-07-14T07:00:00Z",
+	"releaseNumber": "2020-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

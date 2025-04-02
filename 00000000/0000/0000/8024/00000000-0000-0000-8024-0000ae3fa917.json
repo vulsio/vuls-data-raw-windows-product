@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-8024-0000ae3fa917",
+	"architectureId": 0,
+	"baseScore": "8.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-36965",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-09-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5005606",
+			"articleUrl": "https://support.microsoft.com/help/5005606",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5005606",
+			"fixedBuildNumber": "6.0.6003.21218",
+			"knownIssuesName": "5005606",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5005606",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5005090"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5005618",
+			"articleUrl": "https://support.microsoft.com/help/5005618",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5005618",
+			"fixedBuildNumber": "6.0.6003.21218",
+			"knownIssuesName": "5005618",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5005618",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9344,
+	"productVersion": "6.0.0",
+	"releaseDate": "2021-09-14T07:00:00Z",
+	"releaseNumber": "2021-Sep",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.0/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,51 @@
+{
+	"id": "00000000-0000-0000-2f28-0000e155872c",
+	"architectureId": 0,
+	"baseScore": "8.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-40444",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-09-07T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5005606",
+			"articleUrl": "https://support.microsoft.com/help/5005606",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5005606",
+			"fixedBuildNumber": "6.0.6003.21218",
+			"knownIssuesName": "5005606",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5005606",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5005090"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5005563",
+			"articleUrl": "https://support.microsoft.com/help/5005563",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5005563",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5005036"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10287,
+	"productVersion": "6.0.0",
+	"releaseDate": "2021-09-07T07:00:00Z",
+	"releaseNumber": "2021-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:H/A:L/E:P/RL:O/RC:C"
+}

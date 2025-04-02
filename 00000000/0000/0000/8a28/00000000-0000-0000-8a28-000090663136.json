@@ -1,0 +1,59 @@
+{
+	"id": "00000000-0000-0000-8a28-000090663136",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2012",
+	"baseProductVersion": "6.2.0",
+	"baseScore": "9.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2012:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-24094",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-02-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				";dns.exe;fhcfg.dll;fxssvc.exe;localspl.dll;msi.dll;netlogon.dll;ntkrnlmp.exe;ntkrpamp.exe;oleaut32.dll;pku2u.dll;tcpip.sys;vmswitch.sys;wab32.dll;wintrust.dll"
+			],
+			"articleName": "4601348",
+			"articleUrl": "https://support.microsoft.com/help/4601348",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4601348",
+			"knownIssuesName": "4601348",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4601348",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4598278"
+		},
+		{
+			"affectedBinaries": [
+				";dns.exe;fhcfg.dll;fxssvc.exe;localspl.dll;msi.dll;netlogon.dll;ntkrnlmp.exe;ntkrpamp.exe;oleaut32.dll;pku2u.dll;tcpip.sys;vmswitch.sys;wab32.dll;wintrust.dll"
+			],
+			"articleName": "4601357",
+			"articleUrl": "https://support.microsoft.com/help/4601357",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4601357",
+			"knownIssuesName": "4601357",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4601357",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10378,
+	"productVersion": "6.2.0",
+	"releaseDate": "2021-02-09T08:00:00Z",
+	"releaseNumber": "2021-Feb",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-e72f-0000a4364901",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Power Platform",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "8.0",
+	"cpe": "cpe:2.3:a:microsoft:power_platform:*:*:*:*:*:*:*:*",
+	"customerActionRequired": false,
+	"cveNumber": "CVE-2024-35260",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-426: Untrusted Search Path",
+				"https://cwe.mitre.org/data/definitions/426.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-426: Untrusted Search Path"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-06-27T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Microsoft Power Platform",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 12263,
+	"releaseDate": "2024-06-27T07:00:00Z",
+	"releaseNumber": "2024-Jun",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

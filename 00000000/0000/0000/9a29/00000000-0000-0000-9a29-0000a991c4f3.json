@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-9a29-0000a991c4f3",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8621",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2017-07-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4018588",
+			"articleUrl": "http://support.microsoft.com/help/4018588",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=7167b81d-a351-427f-80dc-b864a4fb0576",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4012178"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2013 Service Pack 1",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 10650,
+	"releaseDate": "2017-07-11T07:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002
+}

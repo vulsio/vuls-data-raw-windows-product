@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-c62c-00007371c5ba",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-11883",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2017-11-14T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Commit",
+			"articleUrl": "https://github.com/aspnet/announcements/issues/278",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/aspnet/announcements/issues/278",
+			"ordinal": 1,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "ASP.NET Core 1.0",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11462,
+	"releaseDate": "2017-11-14T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

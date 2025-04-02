@@ -1,0 +1,52 @@
+{
+	"id": "00000000-2740-0000-f628-0000f635dc70",
+	"architectureId": 0,
+	"baseScore": "7.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0833",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-03-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4540688",
+			"articleUrl": "https://support.microsoft.com/help/4540688",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4540688",
+			"knownIssuesName": "4540688",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4540688",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4537820"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4540671",
+			"articleUrl": "https://support.microsoft.com/help/4540671",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4540671",
+			"knownIssuesName": "4540671",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4540671",
+			"ordinal": 2,
+			"rebootRequired": "Yes",
+			"supercedence": "4537767"
+		}
+	],
+	"platform": "Windows 7 for x64-based Systems Service Pack 1",
+	"platformId": 10048,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2020-03-10T07:00:00Z",
+	"releaseNumber": "2020-Mar",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.7",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

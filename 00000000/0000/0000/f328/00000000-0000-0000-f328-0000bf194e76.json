@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-f328-0000bf194e76",
+	"architectureId": 0,
+	"baseScore": "6.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7221",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-11-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3197874",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3197874",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3197874",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/kb/3197874",
+			"ordinal": 1,
+			"rebootRequired": "Yes"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "3197873",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3197873",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3197873",
+			"ordinal": 2
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 R2",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10483,
+	"releaseDate": "2016-11-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.9",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:L/E:P/RL:O/RC:C"
+}

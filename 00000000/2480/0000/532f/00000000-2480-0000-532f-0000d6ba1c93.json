@@ -1,0 +1,64 @@
+{
+	"id": "00000000-2480-0000-532f-0000d6ba1c93",
+	"architectureId": 0,
+	"baseProductName": "Microsoft .NET Framework 4.6.2",
+	"baseProductVersion": "4.7.0",
+	"baseScore": "7.3",
+	"cpe": "cpe:2.3:a:microsoft:.net:4.6.2:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-38081",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-59: Improper Link Resolution Before File Access ('Link Following')",
+				"https://cwe.mitre.org/data/definitions/59.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-59: Improper Link Resolution Before File Access ('Link Following')"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5041024",
+			"articleUrl": "https://support.microsoft.com/help/5041024",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5039882",
+			"fixedBuildNumber": "4.7.4101.01",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5041027",
+			"articleUrl": "https://support.microsoft.com/help/5041027",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5040122",
+			"fixedBuildNumber": "4.7.4101.01",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation)",
+	"platformId": 9344,
+	"product": "Microsoft .NET Framework 4.6.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12115,
+	"releaseDate": "2024-07-09T07:00:00Z",
+	"releaseNumber": "2024-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.4",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

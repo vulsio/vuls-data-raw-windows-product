@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-3d2d-00002ef799cb",
+	"architectureId": 0,
+	"baseProductName": "Azure IoT Hub Device Client SDK",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.0",
+	"cpe": "cpe:2.3:a:microsoft:csharp_software_development_kit:*:*:*:*:*:azure_internet_of_things:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-38157",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-415: Double Free",
+				"https://cwe.mitre.org/data/definitions/415.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-415: Double Free"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-08-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/Azure/azure-iot-sdk-c/releases",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/Azure/azure-iot-sdk-c/releases/tag/LTS_03_2024_Ref02",
+			"fixedBuildNumber": "1.12.1",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure IoT Hub Device Client SDK",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11581,
+	"releaseDate": "2024-08-13T07:00:00Z",
+	"releaseNumber": "2024-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.1",
+	"vectorString": "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

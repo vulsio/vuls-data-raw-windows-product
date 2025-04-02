@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-fa28-0000dd3371c2",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1464",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-12-10T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484196",
+			"articleUrl": "https://support.microsoft.com/help/4484196",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=241919b7-f07a-496c-9a71-58a676444ca1",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484164"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2010 Service Pack 2 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10490,
+	"releaseDate": "2019-12-10T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-552d-0000c50eb16f",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Office Online Server",
+	"baseProductVersion": "16.0.1",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:a:microsoft:office_online_server:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-30172",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2022-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002210",
+			"articleUrl": "https://support.microsoft.com/kb/5002210",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=4868400f-0b6b-46f0-98cb-4ce6d44d2fc0",
+			"fixedBuildNumber": "16.0.14931.20612",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002205"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Online Server",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11605,
+	"releaseDate": "2022-06-14T07:00:00Z",
+	"releaseNumber": "2022-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

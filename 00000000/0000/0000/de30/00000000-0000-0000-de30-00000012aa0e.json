@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-de30-00000012aa0e",
+	"architectureId": 0,
+	"baseProductName": "Azure promptflow-tools",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:a:microsoft:azure_promptflow_tools:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-24986",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-653: Improper Isolation or Compartmentalization",
+				"https://cwe.mitre.org/data/definitions/653.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-653: Improper Isolation or Compartmentalization"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2025-03-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://pypi.org/project/promptflow-tools/1.6.0/",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://pypi.org/project/promptflow-tools/1.6.0/",
+			"fixedBuildNumber": "1.6.0",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure promptflow-tools",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12510,
+	"releaseDate": "2025-03-11T07:00:00Z",
+	"releaseNumber": "2025-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N/E:U/RL:O/RC:C"
+}

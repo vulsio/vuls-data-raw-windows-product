@@ -1,0 +1,45 @@
+{
+	"id": "00000000-288a-0000-3b29-00005ed53a46",
+	"architectureId": 0,
+	"baseScore": "4.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7284",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-12-13T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3205409",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3205409",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3205409",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3197877"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "3205408",
+			"articleUrl": "http://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3205408",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3205408",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platform": "Windows Server 2012",
+	"platformId": 10378,
+	"product": "Internet Explorer 10",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10555,
+	"releaseDate": "2016-12-13T08:00:00Z",
+	"severity": "Low",
+	"severityId": 100000003,
+	"temporalScore": "3.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N/E:P/RL:O/RC:C"
+}

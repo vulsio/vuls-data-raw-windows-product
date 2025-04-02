@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-9929-000004cc2634",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8160",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2018-05-08T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4022142",
+			"articleUrl": "https://support.microsoft.com/help/4022142",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=3d97c427-d685-4028-bd20-2156be83b490",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4018360"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Web Apps Server 2010 Service Pack 2",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10649,
+	"releaseDate": "2018-05-08T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

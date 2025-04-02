@@ -1,0 +1,45 @@
+{
+	"id": "00000000-0000-0000-f428-0000a1ad7663",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Windows 8.1",
+	"baseProductVersion": "6.3.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_rt_8.1:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-24079",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2021-02-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				";dns.exe;fhcfg.dll;fxssvc.exe;localspl.dll;msi.dll;netlogon.dll;ntkrnlmp.exe;ntkrpamp.exe;oleaut32.dll;pku2u.dll;tcpip.sys;vmswitch.sys;wab32.dll;wintrust.dll"
+			],
+			"articleName": "4601384",
+			"articleUrl": "https://support.microsoft.com/help/4601384",
+			"downloadName": "Monthly Rollup",
+			"knownIssuesName": "4601384",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4601384",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4598285"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows RT 8.1",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10484,
+	"productVersion": "6.3.0",
+	"releaseDate": "2021-02-09T08:00:00Z",
+	"releaseNumber": "2021-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-2d2a-0000354fea20",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0903",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-03-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011234",
+			"articleUrl": "https://support.microsoft.com/help/4011234",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=d18d5d53-0349-447f-86d2-e445a7e46159",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3085584"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Access 2013 Service Pack 1 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10797,
+	"releaseDate": "2018-03-13T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-1d29-0000dd49e2e8",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7193",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-10-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3118384",
+			"articleUrl": "https://support.microsoft.com/kb/3118384",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=038db3d0-6f83-4a95-bcb5-b3971890d03e",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3115472"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Web Apps 2010 Service Pack 2",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10525,
+	"releaseDate": "2016-10-11T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

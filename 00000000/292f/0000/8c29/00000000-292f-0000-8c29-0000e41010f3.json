@@ -1,0 +1,48 @@
+{
+	"id": "00000000-292f-0000-8c29-0000e41010f3",
+	"architectureId": 0,
+	"baseProductName": "Microsoft .NET Framework 4.5.2",
+	"baseProductVersion": "4.0.0.0",
+	"cpe": "cpe:2.3:a:microsoft:.net_framework:4.5.2:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1476",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-08-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4570508",
+			"articleUrl": "https://support.microsoft.com/help/4570508",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4569778",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4566519"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4570502",
+			"articleUrl": "https://support.microsoft.com/help/4570502",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4569741",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2012 R2 (Server Core installation)",
+	"platformId": 10543,
+	"product": "Microsoft .NET Framework 4.5.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10636,
+	"productVersion": "4.0.0.0",
+	"releaseDate": "2020-08-11T07:00:00Z",
+	"releaseNumber": "2020-Aug",
+	"severity": "Important",
+	"severityId": 100000001
+}

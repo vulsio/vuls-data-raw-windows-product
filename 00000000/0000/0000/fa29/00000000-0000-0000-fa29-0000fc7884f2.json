@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-fa29-0000fc7884f2",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft Word 2016",
+	"baseProductVersion": "16.0.1",
+	"cpe": "cpe:2.3:a:microsoft:word:2016:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1201",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-08-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4475540",
+			"articleUrl": "https://support.microsoft.com/help/4475540",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?id=100073",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4464596"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2016 (32-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10746,
+	"productVersion": "16.0.1",
+	"releaseDate": "2019-08-13T07:00:00Z",
+	"releaseNumber": "2019-Aug",
+	"severity": "Critical",
+	"severityId": 100000000
+}

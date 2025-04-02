@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-012a-0000e97f76ac",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0261",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-05-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3114375",
+			"articleUrl": "https://support.microsoft.com/kb/3114375",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=74822856-463c-4fec-9e60-f4f827deaa42",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3085635"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2016 (32-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10753,
+	"releaseDate": "2017-05-09T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

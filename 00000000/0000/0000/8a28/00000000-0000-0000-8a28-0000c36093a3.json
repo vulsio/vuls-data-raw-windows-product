@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-8a28-0000c36093a3",
+	"architectureId": 0,
+	"baseScore": "6.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7274",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-12-13T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3205409",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3205409",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3205409",
+			"ordinal": 1,
+			"supercedence": "3205408"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "3205408",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3205408",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3205408",
+			"ordinal": 2,
+			"supercedence": "MS15-074, 3072630; MS15-132, 3108347; MS16-074, 3164035; MS16-084, 3170106; MS16-090, 3168965; MS16-095, 3175443; MS16-098, 3177725; MS16-101, 3177108; MS16-104, 3185319; MS16-106, 3185911; MS16-110, 3187754"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10378,
+	"releaseDate": "2016-12-13T08:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "5.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O"
+}

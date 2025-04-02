@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-d62d-000035b3190b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1343",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2020-06-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://marketplace.visualstudio.com/items/MS-vsliveshare.vsliveshare/changelog",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio Code Live Share extension",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11734,
+	"releaseDate": "2020-06-09T07:00:00Z",
+	"releaseNumber": "2020-Jun",
+	"severity": "Important",
+	"severityId": 100000001
+}

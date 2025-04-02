@@ -1,0 +1,54 @@
+{
+	"id": "00000000-0000-0000-992e-000097db065f",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows 10 Version 21H2",
+	"baseProductVersion": "10.0.19043.0",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_21H2:{bv}:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-20569",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-1037:  Processor Optimization Removal or Modification of Security-critical Code",
+				"https://cwe.mitre.org/data/definitions/1037.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-1037:  Processor Optimization Removal or Modification of Security-critical Code"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2023-08-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Advanced Micro Devices Inc.",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5029244",
+			"articleUrl": "https://support.microsoft.com/help/5029244",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5029244",
+			"fixedBuildNumber": "10.0.19044.3324",
+			"knownIssuesName": "5029244",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5029244",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5028166"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 21H2 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11929,
+	"releaseDate": "2023-08-08T07:00:00Z",
+	"releaseNumber": "2023-Aug",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-402a-00002284ea28",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2016",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2016:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-41343",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2021-10-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5006669",
+			"articleUrl": "https://support.microsoft.com/help/5006669",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5006669",
+			"fixedBuildNumber": "10.0.14393.4704",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5005573"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2016",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10816,
+	"releaseDate": "2021-10-12T07:00:00Z",
+	"releaseNumber": "2021-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

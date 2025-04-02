@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-a22d-00009da20273",
+	"architectureId": 0,
+	"baseScore": "7.2",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-31196",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-07-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5004778",
+			"articleUrl": "https://support.microsoft.com/help/5004778",
+			"downloadName": "Security Update",
+			"downloadUrl": "http://www.microsoft.com/download/details.aspx?familyid=cae731a5-0d00-4f76-b2c6-84bd511e529f",
+			"fixedBuildNumber": "15.00.1497.023",
+			"knownIssuesName": "5004778",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5004778",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5003435"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2013 Cumulative Update 23",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11682,
+	"productVersion": "15.00.0",
+	"releaseDate": "2021-07-13T07:00:00Z",
+	"releaseNumber": "2021-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.3",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

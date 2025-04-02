@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-e52f-000015a9c569",
+	"architectureId": 0,
+	"baseProductName": "Send Customer Voice survey from Dynamics 365 app",
+	"baseProductVersion": "1.0.0.0",
+	"baseScore": "7.6",
+	"cpe": "cpe:2.3:a:microsoft:customer_voice_survey_from_dynamics_365:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36007",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+				"https://cwe.mitre.org/data/definitions/79.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2023-11-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://appsource.microsoft.com/en-US/product/DynamicsCE/msfp.customervoicedistribution",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://appsource.microsoft.com/en-US/product/DynamicsCE/msfp.customervoicedistribution",
+			"fixedBuildNumber": "9.0.0.8",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Send Customer Voice survey from Dynamics 365 app",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 12261,
+	"releaseDate": "2023-11-14T08:00:00Z",
+	"releaseNumber": "2023-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.6",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:H/I:L/A:N/E:U/RL:O/RC:C"
+}

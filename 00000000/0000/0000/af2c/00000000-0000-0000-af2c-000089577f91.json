@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-af2c-000089577f91",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8273",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-08-14T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4458842",
+			"articleUrl": "https://support.microsoft.com/help/4458842",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=6b64e682-0dfb-4d82-8937-ae22eb8d49b2",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4293801"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2016 for x64-based Systems Service Pack 1 (GDR)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 11439,
+	"releaseDate": "2018-08-14T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

@@ -1,0 +1,33 @@
+{
+	"id": "00000000-1129-0000-c624-00007250570f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3204",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-07-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3169659",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3169659",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3169659",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3158364"
+		}
+	],
+	"platform": "Windows Vista Service Pack 2",
+	"platformId": 4393,
+	"product": "VBScript 5.7",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 9414,
+	"releaseDate": "2016-07-12T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

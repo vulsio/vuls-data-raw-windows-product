@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-7527-000042ae4df7",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft Visio Viewer 2010",
+	"baseProductVersion": "0",
+	"cpe": "cpe:2.3:a:microsoft:visio_viewer:2010:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3235",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "2999465",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/2999465",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=b6ba875f-21cd-4992-98cd-5fbfc9fedd29",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "2687505"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visio Viewer 2010 (32-bit Edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10101,
+	"releaseDate": "2016-06-14T07:00:00Z",
+	"releaseNumber": "2016-Jun",
+	"severity": "Important",
+	"severityId": 100000001
+}

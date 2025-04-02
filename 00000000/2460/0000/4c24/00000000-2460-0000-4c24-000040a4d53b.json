@@ -1,0 +1,42 @@
+{
+	"id": "00000000-2460-0000-4c24-000040a4d53b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0981",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2019-05-14T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4499409",
+			"articleUrl": "https://support.microsoft.com/help/4499409",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4495604",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4487081; 4487259"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4498964",
+			"articleUrl": "https://support.microsoft.com/help/4498964",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4495609",
+			"ordinal": 2,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2008 for 32-bit Systems Service Pack 2",
+	"platformId": 9312,
+	"product": "Microsoft .NET Framework 2.0 Service Pack 2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 9292,
+	"releaseDate": "2019-05-14T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

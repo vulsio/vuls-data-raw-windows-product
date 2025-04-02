@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-8d30-00005b80365f",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Partner Center",
+	"baseProductVersion": "1.0",
+	"baseScore": "8.7",
+	"cpe": "cpe:2.3:a:microsoft:partner_center:*:*:*:*:*:*:*:*",
+	"customerActionRequired": false,
+	"cveNumber": "CVE-2024-49035",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-269: Improper Privilege Management",
+				"https://cwe.mitre.org/data/definitions/269.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-269: Improper Privilege Management"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-11-26T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Microsoft Partner Center",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12429,
+	"releaseDate": "2024-11-26T08:00:00Z",
+	"releaseNumber": "2024-Nov",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.6",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:H/I:H/A:N/E:U/RL:O/RC:C"
+}

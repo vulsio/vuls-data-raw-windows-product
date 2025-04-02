@@ -1,0 +1,43 @@
+{
+	"id": "00000000-288b-0000-bb2c-0000271d1d51",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8759",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-09-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4040971",
+			"articleUrl": "https://support.microsoft.com/help/4040971",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4041084",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4040971",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4019113, 4035037, 4014982, 4032114"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4040955",
+			"articleUrl": "https://support.microsoft.com/help/4040955",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4041091",
+			"ordinal": 2,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2012 (Server Core installation)",
+	"platformId": 10379,
+	"product": "Microsoft .NET Framework 4.6/4.6.1/4.6.2/4.7",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11451,
+	"releaseDate": "2017-09-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

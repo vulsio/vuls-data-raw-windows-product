@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-862e-0000f88930e7",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-34477",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2021-07-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/dotnet/vscode-dotnet-runtime/security/advisories",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-sdk",
+			"fixedBuildNumber": "0.7.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": ".NET Install Tool for Extension Authors",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11910,
+	"productVersion": "1.0.0",
+	"releaseDate": "2021-07-13T07:00:00Z",
+	"releaseNumber": "2021-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

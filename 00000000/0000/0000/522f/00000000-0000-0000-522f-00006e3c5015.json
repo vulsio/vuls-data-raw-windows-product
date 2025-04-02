@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-522f-00006e3c5015",
+	"architectureId": 0,
+	"baseProductName": "Windows Sysmon",
+	"baseProductVersion": "1.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:windows_sysmon:14.16:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-29343",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-59: Improper Link Resolution Before File Access ('Link Following')",
+				"https://cwe.mitre.org/data/definitions/59.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-59: Improper Link Resolution Before File Access ('Link Following')"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2023-05-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Information",
+			"articleUrl": "https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon",
+			"fixedBuildNumber": "14.16",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Sysmon",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12114,
+	"releaseDate": "2023-05-09T07:00:00Z",
+	"releaseNumber": "2023-May",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-632f-000008608689",
+	"architectureId": 0,
+	"baseProductName": "PowerShell 7.3",
+	"baseProductVersion": "7.3.0",
+	"baseScore": "7.3",
+	"cpe": "cpe:2.3:a:microsoft:powershell:7.3:-:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-21409",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-416: Use After Free",
+				"https://cwe.mitre.org/data/definitions/416.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-416: Use After Free"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-04-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/PowerShell/Announcements/issues/75",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/PowerShell/Announcements/issues/75",
+			"fixedBuildNumber": "7.3.12",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "PowerShell 7.3",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12131,
+	"releaseDate": "2024-04-09T07:00:00Z",
+	"releaseNumber": "2024-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.4",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

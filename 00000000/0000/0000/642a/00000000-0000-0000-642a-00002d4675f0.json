@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-642a-00002d4675f0",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows 10 Version 1607",
+	"baseProductVersion": "10.0.14393.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_1607:{bv}:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-38060",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-122: Heap-based Buffer Overflow",
+				"https://cwe.mitre.org/data/definitions/122.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-122: Heap-based Buffer Overflow"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5040434",
+			"articleUrl": "https://support.microsoft.com/help/5040434",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5040434",
+			"fixedBuildNumber": "10.0.14393.7159",
+			"knownIssuesName": "5040434",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5040434",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5039214"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1607 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10852,
+	"releaseDate": "2024-07-09T07:00:00Z",
+	"releaseNumber": "2024-Jul",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

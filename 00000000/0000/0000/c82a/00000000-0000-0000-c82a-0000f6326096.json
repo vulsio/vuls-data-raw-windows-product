@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-c82a-0000f6326096",
+	"architectureId": 0,
+	"baseScore": "9.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0626",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-02-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4487020",
+			"articleUrl": "https://support.microsoft.com/help/4487020",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4487020",
+			"knownIssuesName": "4487020",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4487020",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4480973"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1703 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10952,
+	"releaseDate": "2019-02-12T08:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

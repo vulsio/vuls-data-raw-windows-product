@@ -1,0 +1,69 @@
+{
+	"id": "00000000-0000-0000-4127-0000dcb2869b",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2008 R2 Service Pack 1 (Server Core installation)",
+	"baseProductVersion": "6.1.7601.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_R2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-38191",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-362: Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')",
+				"https://cwe.mitre.org/data/definitions/362.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-362: Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-08-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5040497",
+			"articleUrl": "https://support.microsoft.com/help/5040497",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5040497",
+			"fixedBuildNumber": "6.1.7601.27219",
+			"knownIssuesName": "5040497",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5040497",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5039289"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5040498",
+			"articleUrl": "https://support.microsoft.com/help/5040498",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5040498",
+			"fixedBuildNumber": "6.1.7601.27219",
+			"knownIssuesName": "5040498",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5040498",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10049,
+	"releaseDate": "2024-08-13T07:00:00Z",
+	"releaseNumber": "2024-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

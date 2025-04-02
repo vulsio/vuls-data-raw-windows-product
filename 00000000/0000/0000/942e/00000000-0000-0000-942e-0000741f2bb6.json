@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-942e-0000741f2bb6",
+	"architectureId": 0,
+	"baseScore": "8.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0655",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5008223",
+			"articleUrl": "https://support.microsoft.com/help/5008223",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5008223",
+			"fixedBuildNumber": "10.0.20348.405",
+			"knownIssuesName": "5008223",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5008223",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "5007205"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2022 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11924,
+	"releaseDate": "2020-02-11T08:00:00Z",
+	"releaseNumber": "2020-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

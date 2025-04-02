@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-552d-00000fb3190b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1442",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2020-07-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484451",
+			"articleUrl": "https://support.microsoft.com/kb/4484451",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=0a2e42b9-c8d2-453a-bed5-f38870cd5ea5",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484290"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Online Server",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11605,
+	"releaseDate": "2020-07-14T07:00:00Z",
+	"releaseNumber": "2020-Jul",
+	"severity": "Important",
+	"severityId": 100000001
+}

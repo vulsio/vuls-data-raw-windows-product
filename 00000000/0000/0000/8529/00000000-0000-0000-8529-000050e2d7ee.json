@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-8529-000050e2d7ee",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft Lync Basic 2013 Service Pack 1",
+	"baseProductVersion": "0",
+	"cpe": "cpe:2.3:a:microsoft:lync_basic:2013:sp1:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8546",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2018-11-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4461487",
+			"articleUrl": "https://support.microsoft.com/help/4461487",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=16ca59b2-53e8-4acb-a166-27e0651cee0f",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4022225"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Lync Basic 2013 Service Pack 1 (32-bit)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10629,
+	"releaseDate": "2018-11-13T08:00:00Z",
+	"releaseNumber": "2018-Nov",
+	"severity": "Low",
+	"severityId": 100000003
+}

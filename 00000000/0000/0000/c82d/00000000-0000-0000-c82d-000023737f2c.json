@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-c82d-000023737f2c",
+	"architectureId": 0,
+	"baseScore": "5.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-34485",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2021-08-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes-v16.4",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://my.visualstudio.com/Downloads?q=Visual Studio 2019 version 16.4",
+			"fixedBuildNumber": "16.4.25",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2019 version 16.4 (includes 16.0 - 16.3)",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11720,
+	"releaseDate": "2021-08-10T07:00:00Z",
+	"releaseNumber": "2021-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.4",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

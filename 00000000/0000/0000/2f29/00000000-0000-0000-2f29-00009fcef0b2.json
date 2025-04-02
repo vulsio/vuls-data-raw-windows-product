@@ -1,0 +1,65 @@
+{
+	"id": "00000000-0000-0000-2f29-00009fcef0b2",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2012 R2 (Server Core installation)",
+	"baseProductVersion": "6.3.9600.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2012_R2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-43451",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-73: External Control of File Name or Path",
+				"https://cwe.mitre.org/data/definitions/73.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-73: External Control of File Name or Path"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2024-11-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5046682",
+			"articleUrl": "https://support.microsoft.com/help/5046682",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5046682",
+			"fixedBuildNumber": "6.3.9600.22267",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5044343"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5046630",
+			"articleUrl": "https://support.microsoft.com/help/5046630",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5046630",
+			"fixedBuildNumber": "1.001",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 R2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10543,
+	"releaseDate": "2024-11-12T08:00:00Z",
+	"releaseNumber": "2024-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.0",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:F/RL:O/RC:C"
+}

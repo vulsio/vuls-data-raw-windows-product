@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-5129-000016336096",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0727",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2019-05-14T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4489639",
+			"articleUrl": "https://support.microsoft.com/help/4489639",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://aka.ms/vs/14/release/4489639",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2015 Update 3",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10577,
+	"releaseDate": "2019-05-14T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

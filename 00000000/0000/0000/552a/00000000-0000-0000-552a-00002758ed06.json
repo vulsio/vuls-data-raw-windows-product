@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-552a-00002758ed06",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Exchange Server 2013 Cumulative Update 12",
+	"baseProductVersion": "15.00.0",
+	"cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_12:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0028",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3150501",
+			"articleUrl": "http://support.microsoft.com/kb/3150501",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=b737f3a4-4884-4437-ace2-ca2916f92f4a",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2013 Cumulative Update 12",
+	"productFamily": "Server Software",
+	"productFamilyId": 100000004,
+	"productId": 10837,
+	"releaseDate": "2016-06-14T07:00:00Z",
+	"releaseNumber": "2016-Jun",
+	"severity": "Important",
+	"severityId": 100000001
+}

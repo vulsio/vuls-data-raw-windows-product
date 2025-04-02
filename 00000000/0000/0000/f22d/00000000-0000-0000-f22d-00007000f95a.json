@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-f22d-00007000f95a",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft 365 Apps for Enterprise",
+	"baseProductVersion": "16.0.1",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:365_apps:-:*:*:*:enterprise:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-31175",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-05-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Click to Run",
+			"articleUrl": "https://docs.microsoft.com/en-us/officeupdates/office365-proplus-security-updates",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "https://aka.ms/OfficeSecurityReleases",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft 365 Apps for Enterprise for 32-bit Systems",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11762,
+	"productVersion": "16.0.1",
+	"releaseDate": "2021-05-11T07:00:00Z",
+	"releaseNumber": "2021-May",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "00000000-2464-0000-6028-0000c639a654",
+	"architectureId": 0,
+	"baseScore": "4.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3327",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-08-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3175443",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3175443",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=7aabe7e8-405e-403e-ab8f-2d49ed59af1a",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3170106"
+		}
+	],
+	"platform": "Windows Vista x64 Edition Service Pack 2",
+	"platformId": 9316,
+	"product": "Internet Explorer 9",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10336,
+	"releaseDate": "2016-08-09T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "3.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N/E:P/RL:O/RC:C"
+}

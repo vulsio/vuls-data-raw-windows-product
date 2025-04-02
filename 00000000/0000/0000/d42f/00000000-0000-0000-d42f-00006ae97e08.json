@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-d42f-00006ae97e08",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2022, 23H2 Edition (Server Core installation)",
+	"baseProductVersion": "10.0.25398.0",
+	"baseScore": "6.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_23h2:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-30005",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-190: Integer Overflow or Wraparound",
+				"https://cwe.mitre.org/data/definitions/190.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-190: Integer Overflow or Wraparound"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-05-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5037781",
+			"articleUrl": "https://support.microsoft.com/help/5037781",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5037781",
+			"fixedBuildNumber": "10.0.25398.887",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5036910"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2022, 23H2 Edition (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 12244,
+	"releaseDate": "2024-05-14T07:00:00Z",
+	"releaseNumber": "2024-May",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.9",
+	"vectorString": "CVSS:3.1/AV:P/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

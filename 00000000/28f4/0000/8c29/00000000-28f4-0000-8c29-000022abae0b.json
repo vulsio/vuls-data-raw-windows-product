@@ -1,0 +1,32 @@
+{
+	"id": "00000000-28f4-0000-8c29-000022abae0b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0786",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2018-01-09T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4054993",
+			"articleUrl": "https://support.microsoft.com/help/4054993",
+			"downloadName": "Monthly Rollup",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4049017, 4041085"
+		}
+	],
+	"platform": "Windows RT 8.1",
+	"platformId": 10484,
+	"product": "Microsoft .NET Framework 4.5.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10636,
+	"releaseDate": "2018-01-09T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

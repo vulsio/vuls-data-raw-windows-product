@@ -1,0 +1,32 @@
+{
+	"id": "00000000-29e9-0000-e829-0000116f9ec1",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0149",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-05-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3156387",
+			"articleUrl": "https://support.microsoft.com/kb/3156387",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3156387",
+			"ordinal": 1,
+			"supercedence": "3147461"
+		}
+	],
+	"platform": "Windows 10 for 32-bit Systems",
+	"platformId": 10729,
+	"product": "Microsoft .NET Framework 4.6",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10728,
+	"releaseDate": "2016-05-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

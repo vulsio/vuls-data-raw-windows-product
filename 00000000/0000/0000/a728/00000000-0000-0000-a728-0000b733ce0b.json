@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-a728-0000b733ce0b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8571",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2017-07-27T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011078",
+			"articleUrl": "https://support.microsoft.com/help/4011078",
+			"downloadName": "Security Update",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3191938"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2013 RT Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10407,
+	"releaseDate": "2017-07-27T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

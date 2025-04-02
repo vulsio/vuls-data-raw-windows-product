@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-6024-000080faf61e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0153",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-04-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3146706",
+			"articleUrl": "https://support.microsoft.com/kb/3146706",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=7de1ca80-5bbc-4509-a0dc-e126835e03a5",
+			"knownIssuesUrl": "https://support.microsoft.com/kb/3146706",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3140410"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for 32-bit Systems Service Pack 2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9312,
+	"releaseDate": "2016-04-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,33 @@
+{
+	"id": "00000000-28ff-0000-d323-0000558ef518",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7236",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-11-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3118381",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3118381",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=f0adc7b9-49a7-4a06-a57f-cbc148162bda",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3115119"
+		}
+	],
+	"platform": "Microsoft SharePoint Server 2010 Service Pack 2",
+	"platformId": 10495,
+	"product": "Excel Services",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 9171,
+	"releaseDate": "2016-11-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

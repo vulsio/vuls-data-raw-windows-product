@@ -1,0 +1,51 @@
+{
+	"id": "00000000-0000-0000-2f28-000074f91f8b",
+	"architectureId": 0,
+	"baseScore": "5.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-28317",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2021-04-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5001389",
+			"articleUrl": "https://support.microsoft.com/help/5001389",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5001389",
+			"knownIssuesName": "5001389",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5001389",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5000844"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5001332",
+			"articleUrl": "https://support.microsoft.com/help/5001332",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5001332",
+			"knownIssuesName": "5001332",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5001332",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10287,
+	"productVersion": "6.0.0",
+	"releaseDate": "2021-04-13T07:00:00Z",
+	"releaseNumber": "2021-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

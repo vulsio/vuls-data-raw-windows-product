@@ -1,0 +1,65 @@
+{
+	"id": "00000000-0000-0000-932e-000064a499b9",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2022",
+	"baseProductVersion": "10.0.20348.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2022:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-21427",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-287: Improper Authentication",
+				"https://cwe.mitre.org/data/definitions/287.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-287: Improper Authentication"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2024-03-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5036909",
+			"articleUrl": "https://support.microsoft.com/help/5036909",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5036909",
+			"fixedBuildNumber": "10.0.20348.2402",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5035959",
+			"articleUrl": "https://support.microsoft.com/help/5035959",
+			"downloadName": "SecurityHotpatchUpdate",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5035959",
+			"fixedBuildNumber": "10.0.20348.2333",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5034860"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2022",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11923,
+	"releaseDate": "2024-03-12T07:00:00Z",
+	"releaseNumber": "2024-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

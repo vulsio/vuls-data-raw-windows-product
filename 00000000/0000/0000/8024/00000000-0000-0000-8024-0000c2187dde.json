@@ -1,0 +1,46 @@
+{
+	"id": "00000000-0000-0000-8024-0000c2187dde",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0899",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-05-14T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4499149",
+			"articleUrl": "https://support.microsoft.com/help/4499149",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4499149",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4493471"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4499180",
+			"articleUrl": "https://support.microsoft.com/help/4499180",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4499180",
+			"knownIssuesName": "4499180",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4499180",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9344,
+	"releaseDate": "2019-05-14T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

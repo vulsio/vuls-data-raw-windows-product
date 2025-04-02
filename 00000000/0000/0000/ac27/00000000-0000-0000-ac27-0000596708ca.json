@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-ac27-0000596708ca",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Outlook 2007 Service Pack 3",
+	"baseProductVersion": "0",
+	"cpe": "cpe:2.3:a:microsoft:outlook:2007:sp3:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3366",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3118303",
+			"articleUrl": "https://support.microsoft.com/kb/3118303",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=ccb90af6-3a7f-4bd1-826f-dedb44c0bf0c",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3114981"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2007 Service Pack 3",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10156,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

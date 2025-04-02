@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-2530-0000e51842e3",
+	"architectureId": 0,
+	"baseProductName": "Azure Arc Extension",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "6.2",
+	"cpe": "cpe:2.3:a:microsoft:azure_arc_extension_microsoft.iotoperations.mq:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-28917",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-284: Improper Access Control",
+				"https://cwe.mitre.org/data/definitions/284.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-284: Improper Access Control"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-04-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/azure/azure-arc/data/release-notes",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://learn.microsoft.com/en-us/azure/azure-arc/kubernetes/extensions#update-extension-instance",
+			"fixedBuildNumber": "0.3.0-preview",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Arc Cluster microsoft.iotoperations.mq Extension",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12325,
+	"releaseDate": "2024-04-09T07:00:00Z",
+	"releaseNumber": "2024-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.4",
+	"vectorString": "CVSS:3.1/AV:A/AC:L/PR:H/UI:N/S:C/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-5f24-0000c071d0be",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0197",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-05-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3156017",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3156017",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=c5fcabbd-2176-416a-a2b7-efdeb94c7b6d",
+			"ordinal": 1,
+			"supercedence": "2976897"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for Itanium-Based Systems Service Pack 2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9311,
+	"releaseDate": "2016-05-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

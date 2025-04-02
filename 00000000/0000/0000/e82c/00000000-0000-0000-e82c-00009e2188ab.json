@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-e82c-00009e2188ab",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0940",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2018-03-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4073537",
+			"articleUrl": "https://support.microsoft.com/kb/4073537",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=378403b9-93be-4c01-b850-adf8a04684ec",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4035162"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2010 Service Pack 3 Update Rollup 20",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11496,
+	"releaseDate": "2018-03-13T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

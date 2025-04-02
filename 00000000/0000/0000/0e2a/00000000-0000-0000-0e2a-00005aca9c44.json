@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-0e2a-00005aca9c44",
+	"architectureId": 0,
+	"baseScore": "7.1",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-28452",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-04-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4504712",
+			"articleUrl": "https://support.microsoft.com/kb/4504712",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=f2e50154-9de0-48d8-bfd0-c34c0bb34c80",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4486748"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10766,
+	"productVersion": "16.0.0.0",
+	"releaseDate": "2021-04-13T07:00:00Z",
+	"releaseNumber": "2021-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.2",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:L/E:U/RL:O/RC:C"
+}

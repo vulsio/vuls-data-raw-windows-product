@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-7e2d-0000223bce6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV190016",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2019-06-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4503293",
+			"articleUrl": "https://support.microsoft.com/help/4503293",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4503293",
+			"knownIssuesName": "4503293",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4503293",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4497936"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1903 for ARM64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11646,
+	"releaseDate": "2019-06-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

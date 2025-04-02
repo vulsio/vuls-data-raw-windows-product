@@ -1,0 +1,52 @@
+{
+	"id": "00000000-0000-0000-f32e-00008f6985a4",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Defender for Endpoint for Android",
+	"baseProductVersion": "1.0.0.0",
+	"baseScore": "8.1",
+	"cpe": "cpe:2.3:a:microsoft:defender_for_endpoint:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-49057",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2024-12-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/mtd?view=o365-worldwide",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "1.0.7128.0101",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Defender for Endpoint for Android",
+	"productFamily": "System Center",
+	"productFamilyId": 100000009,
+	"productId": 12019,
+	"releaseDate": "2024-12-10T08:00:00Z",
+	"releaseNumber": "2024-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.1",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:N/E:U/RL:O/RC:C"
+}

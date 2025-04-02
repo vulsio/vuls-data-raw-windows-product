@@ -1,0 +1,47 @@
+{
+	"id": "00000000-2466-0000-6028-000087d67ada",
+	"architectureId": 0,
+	"baseScore": "6.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1055",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-06-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4503287",
+			"articleUrl": "https://support.microsoft.com/help/4503287",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4503287",
+			"ordinal": 1,
+			"rebootRequired": "Yes"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4503259",
+			"articleUrl": "https://support.microsoft.com/help/4503259",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4503259",
+			"knownIssuesName": "4503259",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4503259",
+			"ordinal": 2,
+			"rebootRequired": "Yes",
+			"supercedence": "4498206"
+		}
+	],
+	"platform": "Windows Server 2008 for x64-based Systems Service Pack 2",
+	"platformId": 9318,
+	"product": "Internet Explorer 9",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10336,
+	"releaseDate": "2019-06-11T07:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002,
+	"temporalScore": "5.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

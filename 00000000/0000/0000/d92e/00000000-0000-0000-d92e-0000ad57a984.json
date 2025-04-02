@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-d92e-0000ad57a984",
+	"architectureId": 0,
+	"baseProductName": "Azure Arc-enabled Data Services",
+	"baseProductVersion": "0",
+	"cpe": "cpe:2.3:o:microsoft:azure_arc_enabled_data_services:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-44228",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-12-16T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Apache Software Foundation",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/azure/azure-arc/data/release-notes#december-2021",
+			"downloadName": "Security Update",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Arc-enabled Data Services",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11993,
+	"releaseDate": "2021-12-16T08:00:00Z",
+	"releaseNumber": "2021-Dec",
+	"severity": "Critical",
+	"severityId": 100000000
+}

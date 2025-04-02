@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-fc29-000088360769",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0797",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-01-09T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011022",
+			"articleUrl": "https://support.microsoft.com/help/4011022",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=ec6462a7-5165-4610-90c4-9c846f90fa02",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011021"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Online Server 2016",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10748,
+	"releaseDate": "2018-01-09T08:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-ff29-00005c85b795",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Access 2016 (32-bit edition)",
+	"baseProductVersion": "16.0.0",
+	"cpe": "cpe:2.3:a:microsoft:access:2016:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1582",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-08-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484340",
+			"articleUrl": "https://support.microsoft.com/kb/4484340",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=751254c6-04da-4673-ae90-f9a72d36b84f",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484167"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Access 2016 (32-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10751,
+	"productVersion": "16.0.0",
+	"releaseDate": "2020-08-11T07:00:00Z",
+	"releaseNumber": "2020-Aug",
+	"severity": "Important",
+	"severityId": 100000001
+}

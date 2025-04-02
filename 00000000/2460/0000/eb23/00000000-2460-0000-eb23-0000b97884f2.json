@@ -1,0 +1,44 @@
+{
+	"id": "00000000-2460-0000-eb23-0000b97884f2",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1006",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2019-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4507423",
+			"articleUrl": "https://support.microsoft.com/help/4507423",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4507003",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4499409; 4503868"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4507414",
+			"articleUrl": "https://support.microsoft.com/help/4507414",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4506975",
+			"ordinal": 2,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2008 for 32-bit Systems Service Pack 2",
+	"platformId": 9312,
+	"product": "Microsoft .NET Framework 3.0 Service Pack 2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 9195,
+	"releaseDate": "2019-07-09T07:00:00Z",
+	"releaseNumber": "2019-Jul",
+	"severity": "Important",
+	"severityId": 100000001
+}

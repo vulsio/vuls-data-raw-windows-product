@@ -1,0 +1,33 @@
+{
+	"id": "00000000-273f-0000-f628-0000cc39a654",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3321",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-08-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3175443",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3175443",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=693dcdd8-0bc1-4940-817d-72e6769f9919",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3170106"
+		}
+	],
+	"platform": "Windows 7 for 32-bit Systems Service Pack 1",
+	"platformId": 10047,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2016-08-09T07:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002
+}

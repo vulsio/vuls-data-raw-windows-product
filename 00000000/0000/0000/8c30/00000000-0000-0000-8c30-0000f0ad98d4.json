@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-8c30-0000f0ad98d4",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SQL Server 2022 for (CU 15)",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:sql_server:2022:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-49021",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-416: Use After Free",
+				"https://cwe.mitre.org/data/definitions/416.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-416: Use After Free"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-11-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5046862",
+			"articleUrl": "https://support.microsoft.com/help/5046862",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=e6aca7fc-403a-45b1-a04a-d013715e3624",
+			"fixedBuildNumber": "16.0.4155.4",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5046059"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2022 for x64-based Systems (CU 15)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 12428,
+	"releaseDate": "2024-11-12T08:00:00Z",
+	"releaseNumber": "2024-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,68 @@
+{
+	"id": "00000000-0000-0000-8a28-0000a2cef0b2",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2012",
+	"baseProductVersion": "6.2.9200.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2012:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-43461",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-451: User Interface (UI) Misrepresentation of Critical Information",
+				"https://cwe.mitre.org/data/definitions/451.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-451: User Interface (UI) Misrepresentation of Critical Information"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2024-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5043125",
+			"articleUrl": "https://support.microsoft.com/help/5043125",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5043125",
+			"fixedBuildNumber": "6.2.9200.25073",
+			"knownIssuesName": "5043125",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5043125",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5041851"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5043049",
+			"articleUrl": "https://support.microsoft.com/help/5043049",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5043049",
+			"fixedBuildNumber": "1.001",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5041770"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10378,
+	"releaseDate": "2024-09-10T07:00:00Z",
+	"releaseNumber": "2024-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "8.2",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:F/RL:O/RC:C"
+}

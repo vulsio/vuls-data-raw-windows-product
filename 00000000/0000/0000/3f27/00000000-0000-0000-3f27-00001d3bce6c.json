@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-3f27-00001d3bce6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV190013",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-05-14T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4516065",
+			"articleUrl": "https://support.microsoft.com/help/4516065",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4516065",
+			"knownIssuesName": "4516065",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4516065",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4512506"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4516033",
+			"articleUrl": "https://support.microsoft.com/help/4516033",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4516033",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 7 for 32-bit Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10047,
+	"releaseDate": "2019-05-14T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

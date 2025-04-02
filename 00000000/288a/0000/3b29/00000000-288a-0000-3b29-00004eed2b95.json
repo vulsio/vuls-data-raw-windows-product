@@ -1,0 +1,50 @@
+{
+	"id": "00000000-288a-0000-3b29-00004eed2b95",
+	"architectureId": 0,
+	"baseScore": "6.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1038",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-06-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4503285",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4503285",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4503285",
+			"knownIssuesName": "4503285",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4503285",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4499171"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4503259",
+			"articleUrl": "https://support.microsoft.com/help/4503259",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4503259",
+			"knownIssuesName": "4503259",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4503259",
+			"ordinal": 2,
+			"rebootRequired": "Yes",
+			"supercedence": "4498206"
+		}
+	],
+	"platform": "Windows Server 2012",
+	"platformId": 10378,
+	"product": "Internet Explorer 10",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10555,
+	"releaseDate": "2019-06-11T07:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002,
+	"temporalScore": "5.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-562d-0000bba4d53b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0588",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-01-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4468742",
+			"articleUrl": "https://support.microsoft.com/help/4468742",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=5d92eec0-5607-4ec0-9222-b79129a95c16",
+			"knownIssuesName": "4468742",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4468742",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4458321"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2010 Service Pack 3 Update Rollup 25",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11606,
+	"releaseDate": "2019-01-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

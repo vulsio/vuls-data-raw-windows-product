@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-982d-0000df5e7642",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft SQL Server 2014 Service Pack 3 (CU 4)",
+	"baseProductVersion": "12.0.0",
+	"baseScore": "8.8",
+	"cpe": " cpe:2.3:a:microsoft:sql_server:2014:sp3:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-1636",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2021-01-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4583462",
+			"articleUrl": "https://support.microsoft.com/help/4583462",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=265b2dc0-b705-4466-bb7b-d2433c4263ab",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4535288"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2014 Service Pack 3 for 32-bit Systems (CU 4)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 11672,
+	"releaseDate": "2021-01-12T08:00:00Z",
+	"releaseNumber": "2021-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

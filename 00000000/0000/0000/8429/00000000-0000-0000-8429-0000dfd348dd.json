@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-8429-0000dfd348dd",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1084",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4475519",
+			"articleUrl": "https://support.microsoft.com/help/4475519",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=99654d65-bfd3-4ae7-b294-86d443b8ecbb",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4461487"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Lync 2013 Service Pack 1 (32-bit)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10628,
+	"releaseDate": "2019-07-09T07:00:00Z",
+	"releaseNumber": "2019-Jul",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,45 @@
+{
+	"id": "00000000-0000-0000-c72a-00005bb57579",
+	"architectureId": 0,
+	"baseScore": "8.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8282",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2018-07-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4338826",
+			"articleUrl": "https://support.microsoft.com/help/4338826",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4338826",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4284874"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4345419",
+			"articleUrl": "https://support.microsoft.com/help/4345419",
+			"downloadName": "Alternate Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4345419",
+			"ordinal": 2,
+			"rebootRequired": "Yes",
+			"supercedence": "4284874"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1703 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10951,
+	"releaseDate": "2018-07-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "8.8",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H"
+}

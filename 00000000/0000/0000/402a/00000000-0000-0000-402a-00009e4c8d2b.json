@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-402a-00009e4c8d2b",
+	"architectureId": 0,
+	"baseScore": "5.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0914",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2020-09-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4577015",
+			"articleUrl": "https://support.microsoft.com/help/4577015",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4577015",
+			"knownIssuesName": "4577015",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4577015",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4571694"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2016",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10816,
+	"releaseDate": "2020-09-08T07:00:00Z",
+	"releaseNumber": "2020-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

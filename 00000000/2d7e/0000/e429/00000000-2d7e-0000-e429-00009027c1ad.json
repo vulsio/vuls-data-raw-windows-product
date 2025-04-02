@@ -1,0 +1,39 @@
+{
+	"id": "00000000-2d7e-0000-e429-00009027c1ad",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Edge (EdgeHTML-based)",
+	"baseProductVersion": "1.0..0",
+	"cpe": "cpe:2.3:a:microsoft:edge:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1555",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-08-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4565351",
+			"articleUrl": "https://support.microsoft.com/help/4565351",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4565351",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4565483"
+		}
+	],
+	"platform": "Windows 10 Version 1903 for ARM64-based Systems",
+	"platformId": 11646,
+	"product": "Microsoft Edge (EdgeHTML-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10724,
+	"productVersion": "1.0..0",
+	"releaseDate": "2020-08-11T07:00:00Z",
+	"releaseNumber": "2020-Aug",
+	"severity": "Critical",
+	"severityId": 100000000
+}

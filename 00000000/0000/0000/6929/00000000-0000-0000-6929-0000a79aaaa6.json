@@ -1,0 +1,66 @@
+{
+	"id": "00000000-0000-0000-6929-0000a79aaaa6",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft Office 2013 Service Pack 1",
+	"baseProductVersion": "15.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-33149",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-416: Use After Free",
+				"https://cwe.mitre.org/data/definitions/416.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-416: Use After Free"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-07-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002400",
+			"articleUrl": "https://support.microsoft.com/help/5002400",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=11240aa6-efa8-405a-bc94-b21d63fd3f58",
+			"fixedBuildNumber": "15.0.5571.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002279"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5001952",
+			"articleUrl": "https://support.microsoft.com/help/5001952",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=39ddb11c-326a-41cf-9e4f-53aec3e84f1b",
+			"fixedBuildNumber": "15.0.5571.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4464542"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2013 Service Pack 1 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10601,
+	"releaseDate": "2023-07-11T07:00:00Z",
+	"releaseNumber": "2023-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

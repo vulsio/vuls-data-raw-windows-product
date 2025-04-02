@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-5b2b-0000a98c2e9e",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Enterprise Server 2013 Service Pack 1",
+	"baseProductVersion": "15.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server:2013:sp1:*:*:enterprise:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-21840",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2022-01-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5001995",
+			"articleUrl": "https://support.microsoft.com/help/5001995",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=14ba7146-aff3-4cf9-9031-7fd97dede2dc",
+			"fixedBuildNumber": "15.0.5415.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011599"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5002102",
+			"articleUrl": "https://support.microsoft.com/kb/5002102",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=fa024a31-43b2-4c30-9203-922d5e23ae72",
+			"fixedBuildNumber": "15.0.5415.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002063"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Enterprise Server 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11099,
+	"releaseDate": "2022-01-11T08:00:00Z",
+	"releaseNumber": "2022-Jan",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

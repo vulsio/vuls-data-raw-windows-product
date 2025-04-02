@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-922e-000068c8cf77",
+	"architectureId": 0,
+	"baseScore": "7.1",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-36949",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2021-08-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/azure/active-directory/app-provisioning/provisioning-agent-release-version-history#115820",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://download.msappproxy.net/Subscription/d3c8b69d-6bf7-42be-a529-3fe9c2e70c90/Connector/provisioningAgentInstaller",
+			"fixedBuildNumber": "1.1.582.0",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Active Directory Connect Provisioning Agent",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11922,
+	"releaseDate": "2021-08-10T07:00:00Z",
+	"releaseNumber": "2021-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.4",
+	"vectorString": "CVSS:3.0/AV:A/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

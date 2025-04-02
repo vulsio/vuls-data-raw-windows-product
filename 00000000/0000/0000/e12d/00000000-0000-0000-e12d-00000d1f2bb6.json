@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-e12d-00000d1f2bb6",
+	"architectureId": 0,
+	"baseScore": "6.7",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0951",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2020-09-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/PowerShell/Announcements/issues/27",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/PowerShell/PowerShell#get-powershell",
+			"fixedBuildNumber": "7.0.8",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "PowerShell 7.0",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11745,
+	"releaseDate": "2020-09-08T07:00:00Z",
+	"releaseNumber": "2020-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

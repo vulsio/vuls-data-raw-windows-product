@@ -1,0 +1,38 @@
+{
+	"id": "00000000-2a40-0000-f628-0000e2d348dd",
+	"architectureId": 0,
+	"baseScore": "4.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1081",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-06-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4503267",
+			"articleUrl": "https://support.microsoft.com/help/4503267",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4503267",
+			"knownIssuesName": "4503267",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/help/4503267",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4494440"
+		}
+	],
+	"platform": "Windows Server 2016",
+	"platformId": 10816,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2019-06-11T07:00:00Z",
+	"severity": "Low",
+	"severityId": 100000003,
+	"temporalScore": "3.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N/E:P/RL:O"
+}

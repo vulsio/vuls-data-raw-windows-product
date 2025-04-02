@@ -1,0 +1,42 @@
+{
+	"id": "00000000-2d31-0000-9d2d-00008cd2629f",
+	"architectureId": 0,
+	"baseProductName": "Microsoft .NET Framework 3.5 AND 4.7.2",
+	"baseProductVersion": "4.7.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:.net:4.7.2:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-21911",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2022-01-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5009718",
+			"articleUrl": "https://support.microsoft.com/help/5009718",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5008873",
+			"fixedBuildNumber": "4.7.3905.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4579976"
+		}
+	],
+	"platform": "Windows 10 Version 1809 for x64-based Systems",
+	"platformId": 11569,
+	"product": "Microsoft .NET Framework 3.5 AND 4.7.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11677,
+	"releaseDate": "2022-01-11T08:00:00Z",
+	"releaseNumber": "2022-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

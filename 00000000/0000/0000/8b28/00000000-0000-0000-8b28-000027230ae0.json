@@ -1,0 +1,44 @@
+{
+	"id": "00000000-0000-0000-8b28-000027230ae0",
+	"architectureId": 0,
+	"baseScore": "5.9",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-11788",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2017-11-14T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4048959",
+			"articleUrl": "https://support.microsoft.com/help/4048959",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4048959",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4041690"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4048962",
+			"articleUrl": "https://support.microsoft.com/help/4048962",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4048962",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10379,
+	"releaseDate": "2017-11-14T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.3",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H/E:P/RL:O/RC:C"
+}

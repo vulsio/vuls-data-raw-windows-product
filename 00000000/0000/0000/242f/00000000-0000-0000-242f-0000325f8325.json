@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-242f-0000325f8325",
+	"architectureId": 0,
+	"baseProductName": "Azure ARC",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.0",
+	"cpe": "cpe:2.3:a:microsoft:azure_arc:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-26627",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-77: Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+				"https://cwe.mitre.org/data/definitions/77.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-77: Improper Neutralization of Special Elements used in a Command ('Command Injection')"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2025-03-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "What's new",
+			"articleUrl": "https://github.com/Azure/ArcEnabledServersGroupPolicy/releases/tag/1.0.10",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://docs.microsoft.com/en-us/azure/azure-arc/servers/agent-release-notes",
+			"fixedBuildNumber": "1.0.10",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure ARC",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12068,
+	"releaseDate": "2025-03-11T07:00:00Z",
+	"releaseNumber": "2025-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.1",
+	"vectorString": "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

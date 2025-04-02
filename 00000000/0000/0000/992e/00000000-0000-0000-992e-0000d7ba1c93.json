@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-992e-0000d7ba1c93",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows 10 Version 21H2",
+	"baseProductVersion": "10.0.19043.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_21H2:{bv}:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-38091",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-166: Improper Handling of Missing Special Element",
+				"https://cwe.mitre.org/data/definitions/166.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-166: Improper Handling of Missing Special Element"
+	],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2024-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5040427",
+			"articleUrl": "https://support.microsoft.com/help/5040427",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5040427",
+			"fixedBuildNumber": "10.0.19044.4651",
+			"knownIssuesName": "5040427",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5040427",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5039211"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 21H2 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11929,
+	"releaseDate": "2024-07-09T07:00:00Z",
+	"releaseNumber": "2024-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

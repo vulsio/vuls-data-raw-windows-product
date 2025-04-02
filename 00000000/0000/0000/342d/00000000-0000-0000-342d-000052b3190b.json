@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-342d-000052b3190b",
+	"architectureId": 0,
+	"baseScore": "7.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1247",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-06-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4561608",
+			"articleUrl": "https://support.microsoft.com/help/4561608",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4561608",
+			"knownIssuesName": "4561608",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4561608",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4551853"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2019  (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11572,
+	"releaseDate": "2020-06-09T07:00:00Z",
+	"releaseNumber": "2020-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.3",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

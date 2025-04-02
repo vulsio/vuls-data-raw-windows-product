@@ -1,0 +1,54 @@
+{
+	"id": "00000000-0000-0000-d42c-0000655da8f3",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft SQL Server 2012 Service Pack 4 (QFE)",
+	"baseProductVersion": "11.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:sql_server:2012:sp4:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-21713",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-502: Deserialization of Untrusted Data",
+				"https://cwe.mitre.org/data/definitions/502.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-502: Deserialization of Untrusted Data"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-02-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5021123",
+			"articleUrl": "https://support.microsoft.com/help/5021123",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "11.0.7512.11",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4583465"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2012 for 32-bit Systems Service Pack 4 (QFE)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 11476,
+	"releaseDate": "2023-02-14T08:00:00Z",
+	"releaseNumber": "2023-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

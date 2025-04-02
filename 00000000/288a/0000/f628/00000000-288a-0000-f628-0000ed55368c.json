@@ -1,0 +1,60 @@
+{
+	"id": "00000000-288a-0000-f628-0000ed55368c",
+	"architectureId": 0,
+	"baseProductName": "Internet Explorer 11",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "6.4",
+	"cpe": "cpe:2.3:a:microsoft:internet_explorer:11:-:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17052",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-11-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				";cdd.dll;fdssdp.dll;gdiplus.dll;ipmontr.dll;ks.sys;localspl.dll;mstscax.dll;ndis.sys;nfssvr.sys;nfssvr.sys",
+				"rpcxdr.sys;Portcls.sys;printconfig.dll;RAMgmtPSProvider.dll;Rasapi32.dll;rasdlg.dll;rasgcw.dll;rasplap.dll;rdp4vs.dll;rdpcore.dll;rdpcorets.dll;rdpwd.sys;rpcxdr.sys;tsmf.dll;unidrvui.dll",
+				"ps5ui.dll",
+				"pscript5.dll;win32k.sys;win32spl.dll;wintrust.dll"
+			],
+			"articleName": "4586834",
+			"articleUrl": "https://support.microsoft.com/help/4586834",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4586834",
+			"knownIssuesName": "4586834",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4586834",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4580382"
+		},
+		{
+			"affectedBinaries": [
+				"iertutil.dll;jscript9.dll"
+			],
+			"articleName": "4586768",
+			"articleUrl": "https://support.microsoft.com/help/4586768",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4586768",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4580326"
+		}
+	],
+	"platform": "Windows Server 2012",
+	"platformId": 10378,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2020-11-10T08:00:00Z",
+	"releaseNumber": "2020-Nov",
+	"severity": "Moderate",
+	"severityId": 100000002,
+	"temporalScore": "5.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

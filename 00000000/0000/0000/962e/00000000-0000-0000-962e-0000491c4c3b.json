@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-962e-0000491c4c3b",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 11 version 21H2",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_11_21H2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-35383",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-190: Integer Overflow or Wraparound",
+				"https://cwe.mitre.org/data/definitions/190.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-190: Integer Overflow or Wraparound"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2023-08-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5029253",
+			"articleUrl": "https://support.microsoft.com/help/5029253",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5029253",
+			"fixedBuildNumber": "10.0.22000.2295",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5028182"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 11 version 21H2 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11926,
+	"releaseDate": "2023-08-08T07:00:00Z",
+	"releaseNumber": "2023-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

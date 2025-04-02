@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-d62c-0000553471c2",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1068",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4505224",
+			"articleUrl": "https://support.microsoft.com/help/4505224",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=e000ffcd-7e78-4de2-be07-14e5bc10eec2",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4494351"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2017 for x64-based Systems (GDR)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 11478,
+	"releaseDate": "2019-07-09T07:00:00Z",
+	"releaseNumber": "2019-Jul",
+	"severity": "Important",
+	"severityId": 100000001
+}

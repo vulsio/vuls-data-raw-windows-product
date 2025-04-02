@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-a22d-00006e6670e3",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0688",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4536988",
+			"articleUrl": "https://support.microsoft.com/help/4536988",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=ddba43d0-f66d-410d-a421-bb26e45d64b7",
+			"knownIssuesName": "4536988",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4536988",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4523171"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2013 Cumulative Update 23",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11682,
+	"releaseDate": "2020-02-11T08:00:00Z",
+	"releaseNumber": "2020-Feb",
+	"severity": "Important",
+	"severityId": 100000001
+}

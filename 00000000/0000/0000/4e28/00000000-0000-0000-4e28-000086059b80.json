@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-4e28-000086059b80",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Outlook 2013",
+	"baseProductVersion": "14.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:outlook:2013:-:-:*:-:-:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-35311",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-367: Time-of-check Time-of-use (TOCTOU) Race Condition",
+				"https://cwe.mitre.org/data/definitions/367.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-367: Time-of-check Time-of-use (TOCTOU) Race Condition"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2023-07-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002432",
+			"articleUrl": "https://support.microsoft.com/help/5002432",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=91d8c005-a747-4a7d-906d-bb046ef85020",
+			"fixedBuildNumber": "15.0.5571.1000",
+			"knownIssuesName": "5029827",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5029827",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002382"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2013 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10318,
+	"releaseDate": "2023-07-11T07:00:00Z",
+	"releaseNumber": "2023-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "8.2",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:F/RL:O/RC:C"
+}

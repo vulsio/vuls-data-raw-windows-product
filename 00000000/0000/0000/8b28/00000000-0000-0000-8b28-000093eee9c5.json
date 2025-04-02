@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-8b28-000093eee9c5",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2012 (Server Core installation)",
+	"baseProductVersion": "6.2.9200.0",
+	"baseScore": "9.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2012:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36397",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-126: Buffer Over-read",
+				"https://cwe.mitre.org/data/definitions/126.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-126: Buffer Over-read"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-11-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5032247",
+			"articleUrl": "https://support.microsoft.com/help/5032247",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5032247",
+			"fixedBuildNumber": "6.2.9200.24569",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5031442"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10379,
+	"releaseDate": "2023-11-14T08:00:00Z",
+	"releaseNumber": "2023-Nov",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

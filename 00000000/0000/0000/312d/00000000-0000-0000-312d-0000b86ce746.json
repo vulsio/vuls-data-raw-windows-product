@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-312d-0000b86ce746",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 10 Version 1809",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_1809:*:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17040",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2020-11-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4586793",
+			"articleUrl": "https://support.microsoft.com/help/4586793",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4586793",
+			"knownIssuesName": "4586793",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4586793",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4577668"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1809 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11569,
+	"releaseDate": "2020-11-10T08:00:00Z",
+	"releaseNumber": "2020-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:L/E:U/RL:O/RC:C"
+}

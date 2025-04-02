@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-ba30-000002956bed",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Account",
+	"baseProductVersion": "1.0",
+	"baseScore": "8.2",
+	"cpe": "cpe:2.3:a:microsoft:micrososft_account:*:*:*:*:*:*:*:*",
+	"customerActionRequired": false,
+	"cveNumber": "CVE-2025-21396",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-862: Missing Authorization",
+				"https://cwe.mitre.org/data/definitions/862.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-862: Missing Authorization"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2025-01-29T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Microsoft Account",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12474,
+	"releaseDate": "2025-01-29T08:00:00Z",
+	"releaseNumber": "2025-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.1",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:H/E:U/RL:O/RC:C"
+}

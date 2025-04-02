@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-3f27-00003a6708ca",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3266",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-10-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3185330",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3185330",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3185330",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3175024"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "3192391",
+			"articleUrl": "https://support.microsoft.com/kb/3192391",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3192391",
+			"knownIssuesUrl": "https://support.microsoft.com/kb/3192391",
+			"ordinal": 2,
+			"rebootRequired": "Yes",
+			"supercedence": "3175024"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 7 for 32-bit Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10047,
+	"releaseDate": "2016-10-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

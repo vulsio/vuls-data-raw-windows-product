@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-1229-0000156670e3",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0980",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484295",
+			"articleUrl": "https://support.microsoft.com/kb/4484295",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=a7fbe569-c0d8-4826-a15c-be40f174873c",
+			"knownIssuesName": "4484295",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4484295",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484240"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2010 Service Pack 2 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10514,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Important",
+	"severityId": 100000001
+}

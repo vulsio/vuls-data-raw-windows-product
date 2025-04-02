@@ -1,0 +1,42 @@
+{
+	"id": "00000000-2741-0000-942a-0000c77f76ac",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0160",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4014981",
+			"articleUrl": "https://support.microsoft.com/help/4014981",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4014981",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3205402"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4014985",
+			"articleUrl": "https://support.microsoft.com/help/4014985",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4014985",
+			"ordinal": 2,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)",
+	"platformId": 10049,
+	"product": "Microsoft .NET Framework 4.6.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10900,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

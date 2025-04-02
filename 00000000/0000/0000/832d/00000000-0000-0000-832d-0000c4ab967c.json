@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-832d-0000c4ab967c",
+	"architectureId": 0,
+	"baseScore": "5.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17145",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2020-12-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/visualstudio/releasenotes/tfs2015-update4-vs",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://aka.ms/tfs2015.4.2patch",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Team Foundation Server 2015 Update 4.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11651,
+	"releaseDate": "2020-12-08T08:00:00Z",
+	"releaseNumber": "2020-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.7",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N/E:U/RL:O/RC:C"
+}

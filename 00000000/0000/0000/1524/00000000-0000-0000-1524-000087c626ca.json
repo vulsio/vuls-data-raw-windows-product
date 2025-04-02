@@ -1,0 +1,19 @@
+{
+	"id": "00000000-0000-0000-1524-000087c626ca",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV190026",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impactId": 0,
+	"initialReleaseDate": "2019-12-03T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "None Available",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 9237,
+	"releaseDate": "2019-12-03T08:00:00Z",
+	"severityId": 0
+}

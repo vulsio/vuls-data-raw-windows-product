@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-972f-00000f62803c",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Malware Protection Platform",
+	"baseProductVersion": "4.0.0.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:malware_protection_platform:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36010",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2023-12-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://www.microsoft.com/en-us/wdsi/defenderupdates",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "4.18.23110.3",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Malware Protection Platform",
+	"productFamily": "System Center",
+	"productFamilyId": 100000009,
+	"productId": 12183,
+	"releaseDate": "2023-12-12T08:00:00Z",
+	"releaseNumber": "2023-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

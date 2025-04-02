@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-0d2a-00009521ce6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV170015",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2017-09-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011091",
+			"articleUrl": "https://support.microsoft.com/help/4011091",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=d959bb1e-5d99-40b9-8429-728e929eeb2d",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011052"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2016 (32-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10765,
+	"releaseDate": "2017-09-12T07:00:00Z",
+	"severity": "None",
+	"severityId": 100000004
+}

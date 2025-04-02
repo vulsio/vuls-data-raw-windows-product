@@ -1,0 +1,48 @@
+{
+	"id": "00000000-0000-0000-4127-0000a690567e",
+	"architectureId": 0,
+	"baseScore": "4.7",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0554",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-01-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4480970",
+			"articleUrl": "https://support.microsoft.com/help/4480970",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4480970",
+			"knownIssuesName": "4480970",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4480970",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4471318"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4480960",
+			"articleUrl": "https://support.microsoft.com/help/4480960",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4480960",
+			"knownIssuesName": "4480960",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4480960",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10049,
+	"releaseDate": "2019-01-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.2",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

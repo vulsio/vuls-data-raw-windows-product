@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-e72f-00004c9214af",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Power Platform",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "9.6",
+	"cpe": "cpe:2.3:a:microsoft:power_platform:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36019",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-73: External Control of File Name or Path",
+				"https://cwe.mitre.org/data/definitions/73.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-73: External Control of File Name or Path"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2023-12-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/connectors/custom-connectors/#21-oauth-20",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://learn.microsoft.com/en-us/connectors/custom-connectors/#21-oauth-20",
+			"fixedBuildNumber": "3.23113",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Power Platform",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 12263,
+	"releaseDate": "2023-12-12T08:00:00Z",
+	"releaseNumber": "2023-Dec",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.3",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

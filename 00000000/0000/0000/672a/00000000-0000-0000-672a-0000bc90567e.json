@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-672a-0000bc90567e",
+	"architectureId": 0,
+	"baseScore": "7.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0659",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2019-02-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4487026",
+			"articleUrl": "https://support.microsoft.com/help/4487026",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4487026",
+			"knownIssuesName": "4487026",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4487026",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4480961"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2016  (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10855,
+	"releaseDate": "2019-02-12T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.3",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

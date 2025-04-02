@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-bc2e-0000943e0dda",
+	"architectureId": 0,
+	"baseProductName": "Azure Site Recovery",
+	"baseProductVersion": "2021",
+	"baseScore": "9.3",
+	"cpe": "cpe:2.3:a:microsoft:azure_active_site_recovery:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-21364",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-284: Improper Access Control",
+				"https://cwe.mitre.org/data/definitions/284.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-284: Improper Access Control"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-02-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5034599",
+			"articleUrl": "https://support.microsoft.com/en-us/topic/update-rollup-70-for-azure-site-recovery-kb5034599-e94901f6-7624-4bb4-8d43-12483d2e1d50",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://learn.microsoft.com/en-us/azure/site-recovery/service-updates-how-to?source=recommendations",
+			"fixedBuildNumber": "9.57",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Site Recovery",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11964,
+	"releaseDate": "2024-02-13T08:00:00Z",
+	"releaseNumber": "2024-Feb",
+	"severity": "Moderate",
+	"severityId": 100000002,
+	"temporalScore": "8.4",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

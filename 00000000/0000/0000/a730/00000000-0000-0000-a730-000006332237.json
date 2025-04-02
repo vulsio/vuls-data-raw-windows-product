@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-a730-000006332237",
+	"architectureId": 0,
+	"baseProductName": "Microsoft HPC Pack 2019",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "9.0",
+	"cpe": "cpe:2.3:a:microsoft:microsoft_hpc_pack_2019:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-21198",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-306: Missing Authentication for Critical Function",
+				"https://cwe.mitre.org/data/definitions/306.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-306: Missing Authentication for Critical Function"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2025-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/powershell/high-performance-computing/release-notes-for-hpc-pack-2019-update-3?view=hpc19-ps",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://go.microsoft.com/fwlink/?linkid=2303840",
+			"fixedBuildNumber": "6.3.8328.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft HPC Pack 2019",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12455,
+	"releaseDate": "2025-02-11T08:00:00Z",
+	"releaseNumber": "2025-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.8",
+	"vectorString": "CVSS:3.1/AV:A/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

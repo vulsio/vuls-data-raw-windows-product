@@ -1,0 +1,79 @@
+{
+	"id": "00000000-0000-0000-2f29-000079e39c56",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2012 R2 (Server Core installation)",
+	"baseProductVersion": "6.3.9600.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2012_R2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-21805",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-77: Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+				"https://cwe.mitre.org/data/definitions/77.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-77: Improper Neutralization of Special Elements used in a Command ('Command Injection')"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-02-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5022899",
+			"articleUrl": "https://support.microsoft.com/help/5022899",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5022899",
+			"fixedBuildNumber": "6.3.9600.20821",
+			"knownIssuesName": "5022899",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5022899",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5022352"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5022894",
+			"articleUrl": "https://support.microsoft.com/help/5022894",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5022894",
+			"fixedBuildNumber": "6.3.9600.20821",
+			"knownIssuesName": "5022894",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5022894",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5022835",
+			"articleUrl": "https://support.microsoft.com/help/5022835",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5022835",
+			"fixedBuildNumber": "6.3.9600.20818",
+			"ordinal": 0,
+			"supercedence": "5019958"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 R2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10543,
+	"releaseDate": "2023-02-14T08:00:00Z",
+	"releaseNumber": "2023-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

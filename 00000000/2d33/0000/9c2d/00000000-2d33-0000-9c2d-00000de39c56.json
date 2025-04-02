@@ -1,0 +1,42 @@
+{
+	"id": "00000000-2d33-0000-9c2d-00000de39c56",
+	"architectureId": 0,
+	"baseProductName": "Microsoft .NET Framework 3.5 AND 4.8",
+	"baseProductVersion": "4.8.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:.net:4.8:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-24895",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-06-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5027536",
+			"articleUrl": "https://support.microsoft.com/help/5027536",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5027124",
+			"fixedBuildNumber": "4.8.4644.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5022782"
+		}
+	],
+	"platform": "Windows Server 2019",
+	"platformId": 11571,
+	"product": "Microsoft .NET Framework 3.5 AND 4.8",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11676,
+	"releaseDate": "2023-06-13T07:00:00Z",
+	"releaseNumber": "2023-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

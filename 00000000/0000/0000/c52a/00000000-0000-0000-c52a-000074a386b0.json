@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-c52a-000074a386b0",
+	"architectureId": 0,
+	"baseProductName": "Microsoft AutoUpdate for Mac",
+	"baseProductVersion": "0",
+	"baseScore": "7.0",
+	"cpe": "cpe:2.3:a:microsoft:autoupdate:-:*:*:*:*:macos:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-24036",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-367: Time-of-check Time-of-use (TOCTOU) Race Condition",
+				"https://cwe.mitre.org/data/definitions/367.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-367: Time-of-check Time-of-use (TOCTOU) Race Condition"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2025-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/officeupdates/release-history-microsoft-autoupdate",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.78.25022527_Updater.pkg",
+			"fixedBuildNumber": "4.78.25022527",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft AutoUpdate for Mac",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10949,
+	"releaseDate": "2025-02-11T08:00:00Z",
+	"releaseNumber": "2025-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.1",
+	"vectorString": "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

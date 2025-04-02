@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-842d-00003379a5c3",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0876",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-04-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/Microsoft/openenclave/commit/d07769bcf73bb8a1b29374be1a50f93bae549f58",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/Microsoft/openenclave/commit/d07769bcf73bb8a1b29374be1a50f93bae549f58",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Open Enclave SDK",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11652,
+	"releaseDate": "2019-04-09T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

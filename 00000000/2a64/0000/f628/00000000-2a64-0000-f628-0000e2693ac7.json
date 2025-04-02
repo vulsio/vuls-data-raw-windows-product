@@ -1,0 +1,40 @@
+{
+	"id": "00000000-2a64-0000-f628-0000e2693ac7",
+	"architectureId": 0,
+	"baseProductName": "Internet Explorer 11",
+	"baseProductVersion": "1.0.0",
+	"cpe": "cpe:2.3:a:microsoft:internet_explorer:11:-:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3297",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"ntkrnlmp.exe;ntkrpamp.exe;pnidui.dll;win32kbase.sys;win32kfull.sys;ntdsai.dll;inputservice.dll;srv.sys;mshtml.dll;windowscodecs.dll;chakra.dll;ieinstal.exe;edgehtml.dll;vbscript.dll;oleaut32.dll;wininet.dll;lsasrv.dll;lsass.exe;wow6432;sspicli.dll;msv1_0.dll;ksecdd.sys;mrxsmb.sys;mrxsmb10.sys;mrxsmb20.sys;ieframe.dll;windows.data.pdf.dll"
+			],
+			"articleName": "3189866",
+			"articleUrl": "https://support.microsoft.com/kb/3189866",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3189866",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3176495"
+		}
+	],
+	"platform": "Windows 10 Version 1607 for 32-bit Systems",
+	"platformId": 10852,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

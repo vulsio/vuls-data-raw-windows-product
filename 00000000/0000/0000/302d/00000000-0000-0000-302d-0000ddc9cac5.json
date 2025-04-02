@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-302d-0000ddc9cac5",
+	"architectureId": 0,
+	"baseScore": "5.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1426",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2020-07-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4558998",
+			"articleUrl": "https://support.microsoft.com/help/4558998",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4558998",
+			"knownIssuesName": "4558998",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4558998",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4561608"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1809 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11568,
+	"releaseDate": "2020-07-14T07:00:00Z",
+	"releaseNumber": "2020-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

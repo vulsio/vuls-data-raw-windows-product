@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-992e-0000dee1b22f",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows 10 Version 21H2",
+	"baseProductVersion": "10.0.19043.0",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_21H2:{bv}:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-36976",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2022-01-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "MITRE Corporation",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5009543",
+			"articleUrl": "https://support.microsoft.com/help/5009543",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5009543",
+			"fixedBuildNumber": "10.0.19044.1466",
+			"knownIssuesName": "5009543",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5009543",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5008212"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 21H2 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11929,
+	"releaseDate": "2022-01-11T08:00:00Z",
+	"releaseNumber": "2022-Jan",
+	"severity": "Important",
+	"severityId": 100000001
+}

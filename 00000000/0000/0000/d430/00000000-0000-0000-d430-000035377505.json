@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-d430-000035377505",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Bing",
+	"baseScore": "8.6",
+	"cpe": "cpe:2.3:a:microsoft:bing:*:*:*:*:*:*:*:*",
+	"customerActionRequired": false,
+	"cveNumber": "CVE-2025-21355",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-306: Missing Authentication for Critical Function",
+				"https://cwe.mitre.org/data/definitions/306.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-306: Missing Authentication for Critical Function"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2025-02-19T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Microsoft Bing",
+	"productFamily": "Apps",
+	"productFamilyId": 100000012,
+	"productId": 12500,
+	"releaseDate": "2025-02-19T08:00:00Z",
+	"releaseNumber": "2025-Feb",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

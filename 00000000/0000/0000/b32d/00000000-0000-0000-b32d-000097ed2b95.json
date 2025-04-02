@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-b32d-000097ed2b95",
+	"architectureId": 0,
+	"baseProductName": "Rome SDK 1.4.1",
+	"baseProductVersion": "1.0.0",
+	"cpe": "cpe:2.3:a:microsoft:project_rome:1.4.1:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1231",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/microsoft/project-rome/releases/tag/1.4.1",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://bintray.com/connecteddevices/maven/com.microsoft.connecteddevices%3Aconnecteddevices-sdk/1.4.1",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Rome SDK 1.4.1",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11699,
+	"releaseDate": "2019-09-10T07:00:00Z",
+	"releaseNumber": "2019-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

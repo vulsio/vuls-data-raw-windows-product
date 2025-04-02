@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-f228-0000d9dbaf6c",
+	"architectureId": 0,
+	"baseScore": "3.1",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3272",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-07-18T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3169704",
+			"articleUrl": "https://support.microsoft.com/kb/3169704",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=6a43d6df-23e8-45bb-a3c0-1df141ed84f1",
+			"ordinal": 1,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 8.1 for x64-based systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10482,
+	"releaseDate": "2016-07-18T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "2.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:L/I:N/A:N/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-972a-0000ace34564",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0139",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-04-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3114898",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3114898",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=dea1232c-b966-4144-b362-d060b765fb81",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3114747"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel Viewer",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10903,
+	"releaseDate": "2016-04-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

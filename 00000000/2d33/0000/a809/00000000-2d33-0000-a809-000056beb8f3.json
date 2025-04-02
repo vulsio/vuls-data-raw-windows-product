@@ -1,0 +1,33 @@
+{
+	"id": "00000000-2d33-0000-a809-000056beb8f3",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0613",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-02-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4483452",
+			"articleUrl": "https://support.microsoft.com/help/4483452",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4483452",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4480056; 4481031"
+		}
+	],
+	"platform": "Windows Server 2019",
+	"platformId": 11571,
+	"product": "Microsoft .NET Framework 3.5",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 2472,
+	"releaseDate": "2019-02-12T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

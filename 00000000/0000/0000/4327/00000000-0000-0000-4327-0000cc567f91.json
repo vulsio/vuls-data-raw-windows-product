@@ -1,0 +1,50 @@
+{
+	"id": "00000000-0000-0000-4327-0000cc567f91",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2008 R2 Service Pack 1",
+	"baseProductVersion": "6.1.0",
+	"baseScore": "8.1",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_R2:*:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8476",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-11-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4467107",
+			"articleUrl": "https://support.microsoft.com/help/4467107",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4467107",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4462923"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4467106",
+			"articleUrl": "https://support.microsoft.com/help/4467106",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4467106",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10051,
+	"releaseDate": "2018-11-13T08:00:00Z",
+	"releaseNumber": "2018-Nov",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.1",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H"
+}

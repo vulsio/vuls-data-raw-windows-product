@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-642a-0000ba3b4e85",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows 10 Version 1607",
+	"baseProductVersion": "10.0.14393.0",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_1607:{bv}:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2013-3900",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-347: Improper Verification of Cryptographic Signature",
+				"https://cwe.mitre.org/data/definitions/347.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-347: Improper Verification of Cryptographic Signature"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2022-01-21T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Windows 10 Version 1607 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10852,
+	"releaseDate": "2022-01-21T08:00:00Z",
+	"releaseNumber": "2022-Jan",
+	"severity": "Moderate",
+	"severityId": 100000002
+}

@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-6a29-0000b70ad7f0",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0862",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-01-19T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011651",
+			"articleUrl": "https://support.microsoft.com/help/4011651",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=3e5b5dc2-cff0-48ae-9955-b1e0abc7e57c",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011590"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2013 Service Pack 1 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10602,
+	"releaseDate": "2018-01-19T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-662d-00007bfa5e38",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1192",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-05-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/microsoft/vscode-python/blob/master/CHANGELOG.md",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ms-python.python",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Visual Studio Code",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11622,
+	"releaseDate": "2020-05-12T07:00:00Z",
+	"releaseNumber": "2020-May",
+	"severity": "Critical",
+	"severityId": 100000000
+}

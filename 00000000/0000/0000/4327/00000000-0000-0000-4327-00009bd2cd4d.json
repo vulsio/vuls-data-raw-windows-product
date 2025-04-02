@@ -1,0 +1,76 @@
+{
+	"id": "00000000-0000-0000-4327-00009bd2cd4d",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2008 R2 Service Pack 1",
+	"baseProductVersion": "6.1.7601.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_R2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-30073",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-41: Improper Resolution of Path Equivalence",
+				"https://cwe.mitre.org/data/definitions/41.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-41: Improper Resolution of Path Equivalence"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2024-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5043129",
+			"articleUrl": "https://support.microsoft.com/help/5043129",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5043129",
+			"fixedBuildNumber": "6.1.7601.27320",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5041838"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5043092",
+			"articleUrl": "https://support.microsoft.com/help/5043092",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5043092",
+			"fixedBuildNumber": "6.1.7601.27320",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5043049",
+			"articleUrl": "https://support.microsoft.com/help/5043049",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5043049",
+			"fixedBuildNumber": "1.001",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5041770"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10051,
+	"releaseDate": "2024-09-10T07:00:00Z",
+	"releaseNumber": "2024-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

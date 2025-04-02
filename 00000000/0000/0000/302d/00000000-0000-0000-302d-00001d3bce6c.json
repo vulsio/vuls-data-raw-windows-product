@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-302d-00001d3bce6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV190013",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-05-14T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4512578",
+			"articleUrl": "https://support.microsoft.com/help/4512578",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4512578",
+			"knownIssuesName": "4512578",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4512578",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4511553"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1809 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11568,
+	"releaseDate": "2019-05-14T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

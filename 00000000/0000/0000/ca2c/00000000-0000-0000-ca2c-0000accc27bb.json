@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-ca2c-0000accc27bb",
+	"architectureId": 0,
+	"baseScore": "5.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-1035",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2018-04-18T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4093112",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4093112",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4093112",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/help/4093112",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4088776"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server, version 1709  (Server Core Installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11466,
+	"releaseDate": "2018-04-18T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L/E:P/RL:O/RC:C"
+}

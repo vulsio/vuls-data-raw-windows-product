@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-322d-0000631110f3",
+	"architectureId": 0,
+	"baseScore": "5.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1075",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2020-05-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4551853",
+			"articleUrl": "https://support.microsoft.com/help/4551853",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4551853",
+			"knownIssuesName": "4551853",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4551853",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4549949"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1809 for ARM64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11570,
+	"releaseDate": "2020-05-12T07:00:00Z",
+	"releaseNumber": "2020-May",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

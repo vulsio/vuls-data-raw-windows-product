@@ -1,0 +1,35 @@
+{
+	"id": "00000000-2cbe-0000-e429-00007b552323",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1219",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-06-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4561602",
+			"articleUrl": "https://support.microsoft.com/help/4561602",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4561602",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4556812"
+		}
+	],
+	"platform": "Windows 10 Version 1709 for x64-based Systems",
+	"platformId": 11454,
+	"product": "Microsoft Edge (EdgeHTML-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10724,
+	"releaseDate": "2020-06-09T07:00:00Z",
+	"releaseNumber": "2020-Jun",
+	"severity": "Critical",
+	"severityId": 100000000
+}

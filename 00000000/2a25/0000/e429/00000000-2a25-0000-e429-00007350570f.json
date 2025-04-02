@@ -1,0 +1,38 @@
+{
+	"id": "00000000-2a25-0000-e429-00007350570f",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Edge (EdgeHTML-based)",
+	"baseProductVersion": "1.0..0",
+	"cpe": "cpe:2.3:a:microsoft:edge:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3203",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3163018",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3163018",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3163018",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3156421"
+		}
+	],
+	"platform": "Windows 10 Version 1511 for 32-bit Systems",
+	"platformId": 10789,
+	"product": "Microsoft Edge (EdgeHTML-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10724,
+	"releaseDate": "2016-06-14T07:00:00Z",
+	"releaseNumber": "2016-Jun",
+	"severity": "Critical",
+	"severityId": 100000000
+}

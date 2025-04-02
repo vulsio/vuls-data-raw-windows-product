@@ -1,0 +1,62 @@
+{
+	"id": "00000000-0000-0000-4327-0000b46ce746",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2008 R2 Service Pack 1",
+	"baseProductVersion": "6.1.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_R2:*:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17000",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2020-11-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				";.\\win8ip\\win7\\mstscax.dll;.\\win8ip\\win7\\rdpcorets.dll;.\\winblueip\\win7\\mstscax.dll;cdd.dll;fdssdp.dll;gdiplus.dll;ipmontr.dll;ks.sys;localspl.dll;mstscax.dll;ndis.sys;nfssvr.sys;Portcls.sys;RAMgmtPSProvider.dll;Rasapi32.dll;rasdlg.dll;rasgcw.dll;rasplap.dll;rdp4vs.dll;rdpcore.dll;rdpcorets.dll;rdpwd.sys;tsmf.dll;unidrvui.dll",
+				"ps5ui.dll",
+				"pscript5.dll;win32k.sys;wintrust.dll"
+			],
+			"articleName": "4586827",
+			"articleUrl": "https://support.microsoft.com/help/4586827",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4586827",
+			"knownIssuesName": "4586827",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4586827",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4580345"
+		},
+		{
+			"affectedBinaries": [
+				";.\\win8ip\\win7\\mstscax.dll;.\\win8ip\\win7\\rdpcorets.dll;.\\winblueip\\win7\\mstscax.dll;cdd.dll;fdssdp.dll;gdiplus.dll;ipmontr.dll;ks.sys;localspl.dll;mstscax.dll;ndis.sys;nfssvr.sys;Portcls.sys;RAMgmtPSProvider.dll;Rasapi32.dll;rasdlg.dll;rasgcw.dll;rasplap.dll;rdp4vs.dll;rdpcore.dll;rdpcorets.dll;rdpwd.sys;tsmf.dll;unidrvui.dll",
+				"ps5ui.dll",
+				"pscript5.dll;win32k.sys;wintrust.dll"
+			],
+			"articleName": "4586805",
+			"articleUrl": "https://support.microsoft.com/help/4586805",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4586805",
+			"knownIssuesName": "4586805",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4586805",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10051,
+	"releaseDate": "2020-11-10T08:00:00Z",
+	"releaseNumber": "2020-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

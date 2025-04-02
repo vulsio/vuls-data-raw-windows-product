@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-6b29-000040ad7663",
+	"architectureId": 0,
+	"baseScore": "7.6",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-27059",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-03-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4493228",
+			"articleUrl": "https://support.microsoft.com/kb/4493228",
+			"downloadName": "Security Update",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484469"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2013 RT Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10603,
+	"productVersion": "15.0.0",
+	"releaseDate": "2021-03-09T08:00:00Z",
+	"releaseNumber": "2021-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.6",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:H/UI:R/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

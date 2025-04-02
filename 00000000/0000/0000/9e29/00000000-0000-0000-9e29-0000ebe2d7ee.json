@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-9e29-0000ebe2d7ee",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8246",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2018-06-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4022191",
+			"articleUrl": "https://support.microsoft.com/help/4022191",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=d34b7660-58ea-4f60-81b7-caa37f80daec",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4018399"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2013 Service Pack 1 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10654,
+	"releaseDate": "2018-06-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-ab2d-0000c4bfc91f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1072",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://my.visualstudio.com/Downloads?q=Team%20Foundation%20Server%202010&pgroup=",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://aka.ms/tfs2010sp1patchx64",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Team Foundation Server 2010 SP1 (x64)",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11691,
+	"releaseDate": "2019-07-09T07:00:00Z",
+	"releaseNumber": "2019-Jul",
+	"severity": "Critical",
+	"severityId": 100000000
+}

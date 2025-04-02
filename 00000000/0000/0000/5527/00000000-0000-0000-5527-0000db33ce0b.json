@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-5527-0000db33ce0b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8676",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-09-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4025865",
+			"articleUrl": "http://support.microsoft.com/help/4025865",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=f145b833-309f-49c6-b664-4155a216150d",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4020732"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Lync 2010 (32-bit)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10069,
+	"releaseDate": "2017-09-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

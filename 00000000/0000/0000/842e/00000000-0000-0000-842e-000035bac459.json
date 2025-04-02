@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-842e-000035bac459",
+	"architectureId": 0,
+	"baseScore": "8.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-34470",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2021-07-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5003612",
+			"articleUrl": "https://support.microsoft.com/help/5003612",
+			"downloadName": "Security Update",
+			"downloadUrl": "http://www.microsoft.com/download/details.aspx?familyid=aa0d4c7c-526f-4a1a-924c-b534839f0001",
+			"fixedBuildNumber": "15.02.0922.007",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5003435"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2019 Cumulative Update 10",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11908,
+	"productVersion": "15.02.0.0",
+	"releaseDate": "2021-07-13T07:00:00Z",
+	"releaseNumber": "2021-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:A/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

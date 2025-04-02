@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-d32d-00006e6670e3",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0688",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4536987",
+			"articleUrl": "https://support.microsoft.com/help/4536987",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=6f5e2305-f1dc-4ce9-97c5-4d6fc1b87a24",
+			"knownIssuesName": "4536987",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4536987",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4523171"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2019 Cumulative Update 4",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11731,
+	"releaseDate": "2020-02-11T08:00:00Z",
+	"releaseNumber": "2020-Feb",
+	"severity": "Important",
+	"severityId": 100000001
+}

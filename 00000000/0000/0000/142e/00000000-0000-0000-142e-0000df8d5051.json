@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-142e-0000df8d5051",
+	"architectureId": 0,
+	"baseProductName": "Azure Sphere",
+	"baseProductVersion": "20.00",
+	"baseScore": "6.2",
+	"cpe": "cpe:2.3:a:microsoft:azure_sphere:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-16990",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2020-11-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/azure-sphere/",
+			"downloadName": "Security Update",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Sphere",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11796,
+	"releaseDate": "2020-11-10T08:00:00Z",
+	"releaseNumber": "2020-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.4",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

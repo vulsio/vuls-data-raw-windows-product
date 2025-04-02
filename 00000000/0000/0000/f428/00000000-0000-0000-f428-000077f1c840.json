@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-f428-000077f1c840",
+	"architectureId": 0,
+	"baseScore": "6.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0993",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4550961",
+			"articleUrl": "https://support.microsoft.com/help/4550961",
+			"downloadName": "Monthly Rollup",
+			"knownIssuesName": "4550961",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4550961",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4541509"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows RT 8.1",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10484,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H/E:P/RL:O/RC:C"
+}

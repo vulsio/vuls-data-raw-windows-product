@@ -1,0 +1,59 @@
+{
+	"id": "00000000-0000-0000-4127-00005b3e7268",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2008 R2 Service Pack 1 (Server Core installation)",
+	"baseProductVersion": "6.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_R2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1534",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-08-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				";.\\srm\\bin\\srmsvc.dll;atmfd.dll;cmicomponents\\security-configuration-engine-client.man;cscsvc.dll;dnsapi.dll;dnsrslvr.dll;dwrite.dll;fdSSDP.dll;fntcache.dll;gdiplus.dll;ipmontr.dll;loc\\src\\bin\\netmsg.dll.mui;loc\\src\\bin\\wsecedit.dll.mui;lsasrv.dll;mf3216.dll;mp4sdecd.dll;msisip.dll;msjet40.dll;msrd3x40.dll;msxbde40.dll;netlogon.dll;nfssvr.sys;ntkrnlmp.exe;PrintBrmEngine.exe;RAMgmtPSProvider.dll;rasapi32.dll;rasdlg.dll;rasgcw.dll;rasmans.dll;rasmxs.dll;rasplap.dll;rasser.dll;sdengin2.dll;tapisrv.dll;Upnphost.dll;usp10.dll;wiaservc.dll;win32k.sys;wmadmod.dll;wmisvc.dll;workfolderssvc.dll;wsecedit.dll"
+			],
+			"articleName": "4571729",
+			"articleUrl": "https://support.microsoft.com/help/4571729",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4571729",
+			"knownIssuesName": "4571729",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4571729",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4565524"
+		},
+		{
+			"affectedBinaries": [
+				";.\\srm\\bin\\srmsvc.dll;atmfd.dll;cmicomponents\\security-configuration-engine-client.man;cscsvc.dll;dnsapi.dll;dnsrslvr.dll;dwrite.dll;fdSSDP.dll;fntcache.dll;gdiplus.dll;ipmontr.dll;loc\\src\\bin\\netmsg.dll.mui;loc\\src\\bin\\wsecedit.dll.mui;lsasrv.dll;mf3216.dll;mp4sdecd.dll;msisip.dll;msjet40.dll;msrd3x40.dll;msxbde40.dll;netlogon.dll;nfssvr.sys;ntkrnlmp.exe;PrintBrmEngine.exe;RAMgmtPSProvider.dll;rasapi32.dll;rasdlg.dll;rasgcw.dll;rasmans.dll;rasmxs.dll;rasplap.dll;rasser.dll;sdengin2.dll;tapisrv.dll;Upnphost.dll;usp10.dll;wiaservc.dll;win32k.sys;wmadmod.dll;wmisvc.dll;workfolderssvc.dll;wsecedit.dll"
+			],
+			"articleName": "4571719",
+			"articleUrl": "https://support.microsoft.com/help/4571719",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4571719",
+			"knownIssuesName": "4571719",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4571719",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10049,
+	"productVersion": "6.0.0",
+	"releaseDate": "2020-08-11T07:00:00Z",
+	"releaseNumber": "2020-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

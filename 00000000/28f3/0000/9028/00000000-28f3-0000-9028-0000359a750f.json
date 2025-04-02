@@ -1,0 +1,33 @@
+{
+	"id": "00000000-28f3-0000-9028-0000359a750f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV160001",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-04-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3154132",
+			"articleUrl": "https://support.microsoft.com/kb/3154132",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=0c83847f-8213-417b-870b-2f14731eabf7",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3144756"
+		}
+	],
+	"platform": "Windows Server 2012 R2",
+	"platformId": 10483,
+	"product": "Adobe Flash Player",
+	"productFamily": "Other",
+	"productFamilyId": 100000000,
+	"productId": 10384,
+	"releaseDate": "2016-04-12T07:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002
+}

@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-142a-00009650570f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3301",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-08-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115408",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3115408",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=3d0bb181-5910-416e-8e46-1d9eed82671f",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3114960"
+		}
+	],
+	"platformId": 0,
+	"product": "Skype for Business 2016 Basic (32-bit)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10772,
+	"releaseDate": "2016-08-09T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

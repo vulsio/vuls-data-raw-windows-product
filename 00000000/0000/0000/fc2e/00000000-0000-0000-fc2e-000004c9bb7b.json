@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-fc2e-000004c9bb7b",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Endpoint Configuration Manager",
+	"baseProductVersion": "2103",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:endpoint_configuration_manager:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-24527",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2022-04-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "12819689",
+			"articleUrl": "https://docs.microsoft.com/en-us/mem/configmgr/hotfix/2111/12819689",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://docs.microsoft.com/en-us/mem/configmgr/hotfix/2111/12819689",
+			"ordinal": 0
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Endpoint Configuration Manager",
+	"productFamily": "System Center",
+	"productFamilyId": 100000009,
+	"productId": 12028,
+	"releaseDate": "2022-04-12T08:00:00Z",
+	"releaseNumber": "2022-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

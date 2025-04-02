@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-f92f-0000c3984b4a",
+	"architectureId": 0,
+	"baseProductName": "System.Data.SqlClient",
+	"baseProductVersion": "1.0",
+	"baseScore": "8.7",
+	"cpe": "cpe:2.3:a:microsoft:System.Data.SqlClient:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-0056",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-319: Cleartext Transmission of Sensitive Information",
+				"https://cwe.mitre.org/data/definitions/319.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-319: Cleartext Transmission of Sensitive Information"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2024-01-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/dotnet/core/tree/main/release-notes",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.nuget.org/packages/System.Data.SqlClient/4.8.6",
+			"fixedBuildNumber": "4.8.6",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "System.Data.SqlClient",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 12281,
+	"releaseDate": "2024-01-09T08:00:00Z",
+	"releaseNumber": "2024-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.6",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:N/E:U/RL:O/RC:C"
+}

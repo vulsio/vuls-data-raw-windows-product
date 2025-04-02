@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-0a2e-0000e6a130f9",
+	"architectureId": 0,
+	"baseProductName": "Dynamics 365 for Finance and Operations",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "7.6",
+	"cpe": "cpe:2.3:a:microsoft:dynamics_365:-:*:*:*:*:finance_and_operations:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36800",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+				"https://cwe.mitre.org/data/definitions/79.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2023-09-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/dynamics365/finance/get-started/whats-new-changed-10-0-36",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/download-hotfix-lcs",
+			"fixedBuildNumber": "10.0.1695",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Dynamics 365 for Finance and Operations",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 11786,
+	"releaseDate": "2023-09-12T07:00:00Z",
+	"releaseNumber": "2023-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.6",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:H/I:L/A:N/E:U/RL:O/RC:C"
+}

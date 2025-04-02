@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-b52e-00007a8ade64",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Exchange Server 2019 Cumulative Update 11",
+	"baseProductVersion": "15.02.0",
+	"baseScore": "5.3",
+	"cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_11:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-34692",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2022-08-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5015322",
+			"articleUrl": "https://support.microsoft.com/help/5015322",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=edb31b02-83ab-4133-b327-29f3799e4861",
+			"fixedBuildNumber": "15.02.0986.029",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5014261"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2019 Cumulative Update 11",
+	"productFamily": "Server Software",
+	"productFamilyId": 100000004,
+	"productId": 11957,
+	"releaseDate": "2022-08-09T07:00:00Z",
+	"releaseNumber": "2022-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.6",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N/E:U/RL:O/RC:C"
+}

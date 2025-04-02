@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-fb29-00004b3b637c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0003",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-01-10T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3128057",
+			"articleUrl": "https://support.microsoft.com/kb/3128057",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=fd2cd6ce-5bc6-4fcd-9ebc-977d1c0a0a59",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3118331"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10747,
+	"releaseDate": "2017-01-10T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

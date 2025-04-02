@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-cc2e-000009cc4082",
+	"architectureId": 0,
+	"baseProductName": "Microsoft BizTalk ESB Toolkit 2.4",
+	"baseProductVersion": "2.4",
+	"baseScore": "7.4",
+	"cpe": "cpe:2.3:a:microsoft:biztalk_esb_toolkit:2.4:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-43892",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2021-12-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5009301",
+			"articleUrl": "https://support.microsoft.com/help/5009301",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?id=103700",
+			"fixedBuildNumber": "2.4",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft BizTalk ESB Toolkit 2.4",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11980,
+	"releaseDate": "2021-12-14T08:00:00Z",
+	"releaseNumber": "2021-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

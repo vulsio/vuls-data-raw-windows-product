@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-412f-000079e39c56",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 10 Version 22H2",
+	"baseProductVersion": "10.0.19045.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_22H2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-21805",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-77: Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+				"https://cwe.mitre.org/data/definitions/77.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-77: Improper Neutralization of Special Elements used in a Command ('Command Injection')"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-02-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5022834",
+			"articleUrl": "https://support.microsoft.com/help/5022834",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5022834",
+			"fixedBuildNumber": "10.0.19045.2604",
+			"knownIssuesName": "5022834",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5022834",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5022282"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 22H2 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 12097,
+	"releaseDate": "2023-02-14T08:00:00Z",
+	"releaseNumber": "2023-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

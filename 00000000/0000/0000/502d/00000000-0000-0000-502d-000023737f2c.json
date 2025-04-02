@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-502d-000023737f2c",
+	"architectureId": 0,
+	"baseScore": "5.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-34485",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2021-08-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2017-relnotes",
+			"downloadName": "Security Update",
+			"downloadUrl": "http://aka.ms/vs/15/release/latest",
+			"fixedBuildNumber": "15.9.38",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2017 version 15.9 (includes 15.0 - 15.8)",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11600,
+	"releaseDate": "2021-08-10T07:00:00Z",
+	"releaseNumber": "2021-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.4",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

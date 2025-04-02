@@ -1,0 +1,52 @@
+{
+	"id": "00000000-0000-0000-b32f-0000db3cb4be",
+	"architectureId": 0,
+	"baseProductName": "Azure DevOps Server",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:o:microsoft:azure_devops_server:2019.1.2:-:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-33136",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-77: Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+				"https://cwe.mitre.org/data/definitions/77.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-77: Improper Neutralization of Special Elements used in a Command ('Command Injection')"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-09-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/azure/devops/server/release-notes/azuredevops2019u1?view=azure-devops",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "20230825.1",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure DevOps Server 2019.1.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12211,
+	"releaseDate": "2023-09-12T07:00:00Z",
+	"releaseNumber": "2023-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:T/RC:C"
+}

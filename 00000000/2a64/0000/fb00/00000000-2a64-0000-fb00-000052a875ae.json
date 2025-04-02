@@ -1,0 +1,22 @@
+{
+	"id": "00000000-2a64-0000-fb00-000052a875ae",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8541",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-05-25T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [],
+	"platform": "Windows 10 Version 1607 for 32-bit Systems",
+	"platformId": 10852,
+	"product": "Windows Defender",
+	"productFamily": "System Center",
+	"productFamilyId": 100000009,
+	"productId": 251,
+	"releaseDate": "2017-05-25T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

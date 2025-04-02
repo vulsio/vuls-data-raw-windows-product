@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-f228-00007efaf61e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0151",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2016-04-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3146723",
+			"articleUrl": "https://support.microsoft.com/kb/3146723",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=24473cc4-c9d9-44ca-adb7-2c8607e1d0df",
+			"knownIssuesUrl": "https://support.microsoft.com/kb/3146723",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3121212"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 8.1 for x64-based systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10482,
+	"releaseDate": "2016-04-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

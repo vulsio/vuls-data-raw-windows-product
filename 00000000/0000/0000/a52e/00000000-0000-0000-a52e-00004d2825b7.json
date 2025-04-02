@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-a52e-00004d2825b7",
+	"architectureId": 0,
+	"baseScore": "6.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-40448",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2021-09-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/microsoft/accessibility-insights-web/releases/tag/unified%402021.826.1",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://accessibilityinsights.io/en/downloads/",
+			"fixedBuildNumber": "2021.826.1",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Accessibility Insights for Android",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11941,
+	"releaseDate": "2021-09-14T07:00:00Z",
+	"releaseNumber": "2021-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.5",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:C/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

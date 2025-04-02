@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-1a29-0000634b227d",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Office 2010 Service Pack 2",
+	"baseProductVersion": "13.0.0.0",
+	"cpe": "cpe:2.3:a:microsoft:excel:2010:sp2:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1246",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4475599",
+			"articleUrl": "https://support.microsoft.com/help/4475599",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=628ce922-5874-4917-8f14-3d21a0418efb",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4475506"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2010 Service Pack 2 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10522,
+	"releaseDate": "2019-09-10T07:00:00Z",
+	"releaseNumber": "2019-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-312d-000079654e90",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 10 Version 1809",
+	"baseProductVersion": "10.0.17763.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_1809:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-23412",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-269: Improper Privilege Management",
+				"https://cwe.mitre.org/data/definitions/269.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-269: Improper Privilege Management"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2023-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5023702",
+			"articleUrl": "https://support.microsoft.com/help/5023702",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5023702",
+			"fixedBuildNumber": "10.0.17763.4131",
+			"knownIssuesName": "5023702",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5023702",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5022840"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1809 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11569,
+	"releaseDate": "2023-03-14T07:00:00Z",
+	"releaseNumber": "2023-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

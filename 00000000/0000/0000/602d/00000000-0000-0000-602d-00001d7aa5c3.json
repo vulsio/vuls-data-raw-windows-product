@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-602d-00001d7aa5c3",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0777",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2019-03-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/visualstudio/releasenotes/tfs2018-update3",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://download.visualstudio.microsoft.com/download/pr/a7c60af1-49c8-4d3e-b06d-d84a216efc65/484256389398bebfb799ff4b80c3175c/tfs2018.3.2patch2.exe",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Team Foundation Server 2018 Update 3.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11616,
+	"releaseDate": "2019-03-12T07:00:00Z",
+	"severity": "Low",
+	"severityId": 100000003
+}

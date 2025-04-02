@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-672a-00001da4d53b",
+	"architectureId": 0,
+	"baseScore": "8.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0887",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4507460",
+			"articleUrl": "https://support.microsoft.com/help/4507460",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4507460",
+			"knownIssuesName": "4507460",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4507460",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4503267"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2016  (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10855,
+	"releaseDate": "2019-07-09T07:00:00Z",
+	"releaseNumber": "2019-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

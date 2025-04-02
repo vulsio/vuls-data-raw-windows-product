@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-632e-0000b1d9b707",
+	"architectureId": 0,
+	"baseProductName": "Mono 6.12.0",
+	"baseProductVersion": "6.12.0",
+	"baseScore": "8.1",
+	"cpe": "cpe:2.3:a:microsoft:mono:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-24112",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-02-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://www.mono-project.com/docs/about-mono/releases/6.12.0.122/",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.mono-project.com/download/stable/",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Mono 6.12.0",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11875,
+	"productVersion": "6.12.0",
+	"releaseDate": "2021-02-09T08:00:00Z",
+	"releaseNumber": "2021-Feb",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.3",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-012a-00001cfa5e38",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft Office 2016",
+	"baseProductVersion": "16.0.0",
+	"cpe": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1494",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-08-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484346",
+			"articleUrl": "https://support.microsoft.com/kb/4484346",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=a1a11a8d-345a-42ec-83d3-2be978184668",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484258"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2016 (32-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10753,
+	"productVersion": "16.0.0",
+	"releaseDate": "2020-08-11T07:00:00Z",
+	"releaseNumber": "2020-Aug",
+	"severity": "Important",
+	"severityId": 100000001
+}

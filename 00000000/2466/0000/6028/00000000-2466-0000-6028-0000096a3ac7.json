@@ -1,0 +1,33 @@
+{
+	"id": "00000000-2466-0000-6028-0000096a3ac7",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3391",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-10-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3191492",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3191492",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3191492",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3185319"
+		}
+	],
+	"platform": "Windows Server 2008 for x64-based Systems Service Pack 2",
+	"platformId": 9318,
+	"product": "Internet Explorer 9",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10336,
+	"releaseDate": "2016-10-11T07:00:00Z",
+	"severity": "Low",
+	"severityId": 100000003
+}

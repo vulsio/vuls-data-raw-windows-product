@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-562f-0000be154767",
+	"architectureId": 0,
+	"baseProductName": "Azure EFLOW",
+	"baseProductVersion": "1.4.0.0",
+	"baseScore": "7.0",
+	"cpe": "cpe:2.3:a:microsoft:azure_eflow:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-38014",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2022-11-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/Azure/iotedge-eflow/releases",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/Azure/iotedge-eflow/releases",
+			"fixedBuildNumber": "1.4.2.12122 LTS",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure EFLOW",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12118,
+	"releaseDate": "2022-11-08T08:00:00Z",
+	"releaseNumber": "2022-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.1",
+	"vectorString": "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

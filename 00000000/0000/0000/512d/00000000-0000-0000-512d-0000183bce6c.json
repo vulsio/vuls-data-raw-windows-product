@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-512d-0000183bce6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV190018",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2019-06-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4503027",
+			"articleUrl": "https://support.microsoft.com/help/4503027",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=f94326f0-3693-49dc-9b8f-647d8cd6e1d3",
+			"knownIssuesName": "4503027",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4503027",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4487563"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2016 Cumulative Update 11",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11601,
+	"releaseDate": "2019-06-11T07:00:00Z",
+	"severityId": 0
+}

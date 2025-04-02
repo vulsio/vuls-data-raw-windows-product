@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-542a-00001194d258",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0647",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2020-01-14T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484223",
+			"articleUrl": "https://support.microsoft.com/kb/4484223",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=7e8987e2-18c0-4ec1-a74a-a89c0b040c80",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484141"
+		}
+	],
+	"platformId": 0,
+	"product": "Office Online Server",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10836,
+	"releaseDate": "2020-01-14T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

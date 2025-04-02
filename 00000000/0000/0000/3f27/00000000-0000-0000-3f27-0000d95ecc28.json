@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-3f27-0000d95ecc28",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows 7",
+	"baseProductVersion": "6.1.0",
+	"cpe": "cpe:2.3:o:microsoft:windows_7:{bv}:sp1:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-23824",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2022-11-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "AMD",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5020000",
+			"articleUrl": "https://support.microsoft.com/help/5020000",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5020000",
+			"fixedBuildNumber": "6.1.7601.26221",
+			"knownIssuesName": "5020000",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5020000",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5018454"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5020013",
+			"articleUrl": "https://support.microsoft.com/help/5020013",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5020013",
+			"fixedBuildNumber": "6.1.7601.26221",
+			"knownIssuesName": "5020013",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5020013",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 7 for 32-bit Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10047,
+	"releaseDate": "2022-11-08T08:00:00Z",
+	"releaseNumber": "2022-Nov",
+	"severity": "Important",
+	"severityId": 100000001
+}

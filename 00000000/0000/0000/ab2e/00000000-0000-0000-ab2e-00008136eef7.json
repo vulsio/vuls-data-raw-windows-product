@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-ab2e-00008136eef7",
+	"architectureId": 0,
+	"baseProductName": "Container Monitoring Solution",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:container_monitoring_solution:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-29149",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2022-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/microsoft/containerregistry",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/microsoft/OMS-docker/blob/master/Upgrade.md",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Container Monitoring Solution",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11947,
+	"releaseDate": "2022-06-14T07:00:00Z",
+	"releaseNumber": "2022-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

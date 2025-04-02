@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-242a-00009621ce6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV170014",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impactId": 0,
+	"initialReleaseDate": "2017-10-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4041689",
+			"articleUrl": "https://support.microsoft.com/help/4041689",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4041689",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4038783"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1511 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10788,
+	"releaseDate": "2017-10-10T07:00:00Z",
+	"releaseNumber": "2017-Oct",
+	"severityId": 0
+}

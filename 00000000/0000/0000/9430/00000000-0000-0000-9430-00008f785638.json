@@ -1,0 +1,78 @@
+{
+	"id": "00000000-0000-0000-9430-00008f785638",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2025",
+	"baseProductVersion": "10.0.26100.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2025:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-24059",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-681: Incorrect Conversion between Numeric Types",
+				"https://cwe.mitre.org/data/definitions/681.html"
+			]
+		},
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-125: Out-of-bounds Read",
+				"https://cwe.mitre.org/data/definitions/125.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-681: Incorrect Conversion between Numeric Types",
+		"CWE-125: Out-of-bounds Read"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2025-03-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5053598",
+			"articleUrl": "https://support.microsoft.com/help/5053598",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5053598",
+			"fixedBuildNumber": "10.0.26100.3476",
+			"knownIssuesName": "5053598",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5053598",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5051987"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5053636",
+			"articleUrl": "https://support.microsoft.com/help/5053636",
+			"downloadName": "SecurityHotpatchUpdate",
+			"fixedBuildNumber": "10.0.26100.3403",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5052105"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2025",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 12436,
+	"releaseDate": "2025-03-11T07:00:00Z",
+	"releaseNumber": "2025-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

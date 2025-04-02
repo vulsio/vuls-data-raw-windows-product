@@ -1,0 +1,37 @@
+{
+	"id": "00000000-2dc1-0000-9c2d-00006fb3190b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1147",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-07-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4578974",
+			"articleUrl": "https://support.microsoft.com/help/4578974",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4578974",
+			"knownIssuesName": "4578974",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4578974",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4576947, 4576484"
+		}
+	],
+	"platform": "Windows 10 Version 1909 for x64-based Systems",
+	"platformId": 11713,
+	"product": "Microsoft .NET Framework 3.5 AND 4.8",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11676,
+	"releaseDate": "2020-07-14T07:00:00Z",
+	"releaseNumber": "2020-Jul",
+	"severity": "Critical",
+	"severityId": 100000000
+}

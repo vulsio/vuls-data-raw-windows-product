@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-b42e-0000b98f391a",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Exchange Server 2016 Cumulative Update 22",
+	"baseProductVersion": "15.0.0",
+	"baseScore": "8.0",
+	"cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_22:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-41082",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2022-09-30T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5019758",
+			"articleUrl": "https://support.microsoft.com/help/5019758",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=ddb4f351-5cb6-4ce4-93c1-ec6946f7c26a",
+			"fixedBuildNumber": "15.01.2375.037",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5019077"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2016 Cumulative Update 22",
+	"productFamily": "Server Software",
+	"productFamilyId": 100000004,
+	"productId": 11956,
+	"releaseDate": "2022-09-30T07:00:00Z",
+	"releaseNumber": "2022-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.2",
+	"vectorString": "CVSS:3.1/AV:A/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

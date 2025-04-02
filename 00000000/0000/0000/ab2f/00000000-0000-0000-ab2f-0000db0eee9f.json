@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-ab2f-0000db0eee9f",
+	"architectureId": 0,
+	"baseProductName": "NuGet 6.5.0",
+	"baseProductVersion": "6.0.0",
+	"baseScore": "7.1",
+	"cpe": "cpe:2.3:a:microsoft:nuget:6.5.0:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-29337",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-367: Time-of-check Time-of-use (TOCTOU) Race Condition",
+				"https://cwe.mitre.org/data/definitions/367.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-367: Time-of-check Time-of-use (TOCTOU) Race Condition"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-06-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/NuGet/Home/issues/12653",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.nuget.org/downloads",
+			"fixedBuildNumber": "6.5.1",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "NuGet 6.5.0",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12203,
+	"releaseDate": "2023-06-13T07:00:00Z",
+	"releaseNumber": "2023-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.2",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

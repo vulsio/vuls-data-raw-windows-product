@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-3f27-00001f65506d",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows 7",
+	"baseProductVersion": "6.1.0",
+	"cpe": "cpe:2.3:o:microsoft:windows_7:{bv}:sp1:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-21125",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2022-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Intel Corporation",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5014748",
+			"articleUrl": "https://support.microsoft.com/help/5014748",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5014748",
+			"fixedBuildNumber": "6.1.7601.25984",
+			"knownIssuesName": "5014748",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5014748",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5014012"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5014742",
+			"articleUrl": "https://support.microsoft.com/help/5014742",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5014742",
+			"fixedBuildNumber": "6.1.7601.25984",
+			"knownIssuesName": "5014742",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5014742",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 7 for 32-bit Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10047,
+	"releaseDate": "2022-06-14T07:00:00Z",
+	"releaseNumber": "2022-Jun",
+	"severity": "Important",
+	"severityId": 100000001
+}

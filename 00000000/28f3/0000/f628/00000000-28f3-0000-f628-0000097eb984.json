@@ -1,0 +1,36 @@
+{
+	"id": "00000000-28f3-0000-f628-0000097eb984",
+	"architectureId": 0,
+	"baseScore": "6.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3241",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-07-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3170106",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3170106",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3170106",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3160005"
+		}
+	],
+	"platform": "Windows Server 2012 R2",
+	"platformId": 10483,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2016-07-12T07:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002,
+	"temporalScore": "5.4",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:L/E:P/RL:O/RC:C"
+}

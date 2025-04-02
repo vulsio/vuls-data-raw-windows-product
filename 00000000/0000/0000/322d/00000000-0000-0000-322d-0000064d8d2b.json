@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-322d-0000064d8d2b",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0613",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-01-14T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4534273",
+			"articleUrl": "https://support.microsoft.com/help/4534273",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4534273",
+			"knownIssuesName": "4534273",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4534273",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4530715"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1809 for ARM64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11570,
+	"releaseDate": "2020-01-14T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

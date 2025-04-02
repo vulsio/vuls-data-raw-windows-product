@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-2b2a-00002dc5feb1",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3315",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-08-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115256",
+			"articleUrl": "https://support.microsoft.com/kb/3115256",
+			"downloadName": "Security Update",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3101371"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft OneNote 2013 RT Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10795,
+	"releaseDate": "2016-08-09T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

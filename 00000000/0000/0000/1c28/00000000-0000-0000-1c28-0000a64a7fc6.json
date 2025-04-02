@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-1c28-0000a64a7fc6",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8695",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-09-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4025866",
+			"articleUrl": "http://support.microsoft.com/kb/4025866",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=8e4ef5f4-f86d-4a70-b315-53d5eb596e1c",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4020733"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Lync 2010 Attendee (admin level install)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10268,
+	"releaseDate": "2017-09-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

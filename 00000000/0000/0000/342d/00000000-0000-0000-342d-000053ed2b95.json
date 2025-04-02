@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-342d-000053ed2b95",
+	"architectureId": 0,
+	"baseScore": "7.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1037",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2019-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4507469",
+			"articleUrl": "https://support.microsoft.com/help/4507469",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4507469",
+			"knownIssuesName": "4507469",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4507469",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4503327"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2019  (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11572,
+	"releaseDate": "2019-07-09T07:00:00Z",
+	"releaseNumber": "2019-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.3",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-7429-000014b97fe7",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Foundation 2013 Service Pack 1",
+	"baseProductVersion": "15.0.0",
+	"baseScore": "4.3",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_foundation:2013:sp1:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-21968",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2022-02-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002155",
+			"articleUrl": "https://support.microsoft.com/kb/5002155",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=7887bc43-5ade-4bfd-a7ba-46bef6736d9e",
+			"fixedBuildNumber": "15.0.5423.1000",
+			"ordinal": 0,
+			"supercedence": "5002127"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Foundation 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10612,
+	"releaseDate": "2022-02-08T08:00:00Z",
+	"releaseNumber": "2022-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "3.8",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N/E:U/RL:O/RC:C"
+}

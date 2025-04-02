@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-f329-000037c134ce",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0906",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484273",
+			"articleUrl": "https://support.microsoft.com/kb/4484273",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=0b8d1474-1298-4b6f-9d6c-192365e3f6ac",
+			"knownIssuesName": "4484273",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4484273",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484256"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2016 (32-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10739,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Important",
+	"severityId": 100000001
+}

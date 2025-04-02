@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-102e-0000f594e5c1",
+	"architectureId": 0,
+	"baseScore": "6.6",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17117",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-12-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4593465",
+			"articleUrl": "https://support.microsoft.com/help/4593465",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=46d811f5-53f1-4aad-9735-c87e40c98994",
+			"knownIssuesName": "4593465",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4593465",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4588741"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2019 Cumulative Update 7",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11792,
+	"releaseDate": "2020-12-08T08:00:00Z",
+	"releaseNumber": "2020-Dec",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "5.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-0d2a-0000a16b97b2",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft Outlook 2016",
+	"baseProductVersion": "16.0.0.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:outlook:2016:*:*:*:*:x86:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-35742",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2022-08-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002051",
+			"articleUrl": "https://support.microsoft.com/kb/5002051",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=8b792f48-8003-4dff-bf18-25e78521c840",
+			"fixedBuildNumber": "16.0.4966.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5001942"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2016 (32-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10765,
+	"releaseDate": "2022-08-09T07:00:00Z",
+	"releaseNumber": "2022-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

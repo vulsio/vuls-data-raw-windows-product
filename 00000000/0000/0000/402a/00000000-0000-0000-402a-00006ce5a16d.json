@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-402a-00006ce5a16d",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2016",
+	"baseProductVersion": "10.0.14393.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2016:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-43467",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-362: Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')",
+				"https://cwe.mitre.org/data/definitions/362.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-362: Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5043051",
+			"articleUrl": "https://support.microsoft.com/help/5043051",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5043051",
+			"fixedBuildNumber": "10.0.14393.7336",
+			"knownIssuesName": "5043051",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5043051",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5041773"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2016",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10816,
+	"releaseDate": "2024-09-10T07:00:00Z",
+	"releaseNumber": "2024-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

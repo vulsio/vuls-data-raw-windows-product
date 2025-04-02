@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-8804-00005fe67761",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0183",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-05-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115480",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3115480",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=cd87f679-d48b-43c3-8633-3000be6d2ed6",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3115393"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "3115479",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3115479",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=c1b3b442-ae5a-457a-8071-c8b5c5de7300",
+			"ordinal": 2,
+			"rebootRequired": "Maybe",
+			"supercedence": "3115395"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Word Viewer",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 1160,
+	"releaseDate": "2016-05-10T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

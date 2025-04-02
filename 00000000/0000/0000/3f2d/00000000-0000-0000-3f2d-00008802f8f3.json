@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-3f2d-00008802f8f3",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-16973",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-10-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4580328",
+			"articleUrl": "https://support.microsoft.com/help/4580328",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4580328",
+			"knownIssuesName": "4580328",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4580328",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4577041"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1709 for ARM64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11583,
+	"releaseDate": "2020-10-13T07:00:00Z",
+	"releaseNumber": "2020-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

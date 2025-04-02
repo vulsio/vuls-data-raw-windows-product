@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-6630-00001bd1e2a2",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 11 Version 24H2",
+	"baseProductVersion": "10.0.26100.0",
+	"baseScore": "4.7",
+	"cpe": "cpe:2.3:o:microsoft:windows_11_24H2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-0001",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-1303: Non-Transparent Sharing of Microarchitectural Resources",
+				"https://cwe.mitre.org/data/definitions/1303.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-1303: Non-Transparent Sharing of Microarchitectural Resources"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2024-04-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Intel Corporation",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5044284",
+			"articleUrl": "https://support.microsoft.com/help/5044284",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5044284",
+			"fixedBuildNumber": "10.0.26100.2033",
+			"knownIssuesName": "5044284",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5044284",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5043080"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 11 Version 24H2 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 12390,
+	"releaseDate": "2024-04-09T07:00:00Z",
+	"releaseNumber": "2024-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.1",
+	"vectorString": "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

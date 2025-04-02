@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-2029-000085ca26ca",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV180021",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2018-08-14T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4032222",
+			"articleUrl": "https://support.microsoft.com/kb/4032222",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=7748314d-3e89-4046-a097-ec37f5b4ab33",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4022205"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2010 Service Pack 2 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10528,
+	"releaseDate": "2018-08-14T07:00:00Z",
+	"severityId": 0
+}

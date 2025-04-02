@@ -1,0 +1,33 @@
+{
+	"id": "00000000-3e60-000f-d323-0000b1e34564",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0136",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-04-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3114871",
+			"articleUrl": "http://support.microsoft.com/kb/3114871",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=e466074d-ab80-4ddb-b409-062d6a89a53b",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3114401"
+		}
+	],
+	"platform": "Microsoft Sharepoint Server 2010 Service Pack 2 Bad",
+	"platformId": 999008,
+	"product": "Excel Services",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 9171,
+	"releaseDate": "2016-04-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

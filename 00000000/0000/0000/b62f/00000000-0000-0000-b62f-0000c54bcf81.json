@@ -1,0 +1,52 @@
+{
+	"id": "00000000-0000-0000-b62f-0000c54bcf81",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Power Apps",
+	"baseProductVersion": "9.2.23042",
+	"baseScore": "5.4",
+	"cpe": "cpe:2.3:a:microsoft:power-apps:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-32052",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-918: Server-Side Request Forgery (SSRF)",
+				"https://cwe.mitre.org/data/definitions/918.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-918: Server-Side Request Forgery (SSRF)"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2023-07-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/power-platform/released-versions/common-data-service/9.2-23042",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "9.2.23042",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Power Apps (online)",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 12214,
+	"releaseDate": "2023-07-11T07:00:00Z",
+	"releaseNumber": "2023-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:N/E:U/RL:O/RC:C"
+}

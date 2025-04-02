@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-502d-0000bdf1c840",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0793",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-03-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2017-relnotes",
+			"downloadName": "Security Update",
+			"downloadUrl": "http://aka.ms/vs/15/release/latest",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2017 version 15.9 (includes 15.0 - 15.8)",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11600,
+	"releaseDate": "2020-03-10T07:00:00Z",
+	"releaseNumber": "2020-Mar",
+	"severity": "Important",
+	"severityId": 100000001
+}

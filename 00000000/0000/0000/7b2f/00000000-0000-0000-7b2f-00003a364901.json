@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-7b2f-00003a364901",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Office for Android",
+	"baseProductVersion": "16.0.1",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:office:*:*:android:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-38250",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-126: Buffer Over-read",
+				"https://cwe.mitre.org/data/definitions/126.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-126: Buffer Over-read"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://support.google.com/googleplay/answer/113412?hl=en",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow",
+			"fixedBuildNumber": "16.0.16827.2xxxxx",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office for Android",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 12155,
+	"releaseDate": "2024-09-10T07:00:00Z",
+	"releaseNumber": "2024-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

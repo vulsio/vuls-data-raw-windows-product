@@ -1,0 +1,23 @@
+{
+	"id": "00000000-0000-0000-1524-000005d448dd",
+	"architectureId": 0,
+	"baseProductName": "None Available",
+	"cpe": "null",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1183",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impactId": 0,
+	"initialReleaseDate": "2019-08-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "None Available",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 9237,
+	"releaseDate": "2019-08-13T07:00:00Z",
+	"releaseNumber": "2019-Aug",
+	"severityId": 0
+}

@@ -1,0 +1,52 @@
+{
+	"id": "00000000-0000-0000-1e30-0000d8f0530d",
+	"architectureId": 0,
+	"baseProductName": "Azure AI Search",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.3",
+	"cpe": "cpe:2.3:a:microsoft:azure_AI_search:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-29063",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-798: Use of Hard-coded Credentials",
+				"https://cwe.mitre.org/data/definitions/798.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-798: Use of Hard-coded Credentials"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2024-04-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/azure/search/whats-new",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://learn.microsoft.com/en-us/azure/search/search-security-api-keys?tabs=portal-use%2Cportal-find%2Cportal-query#regenerate-admin-keys",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure AI Search",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12318,
+	"releaseDate": "2024-04-09T07:00:00Z",
+	"releaseNumber": "2024-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.6",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:L/E:P/RL:O/RC:C"
+}

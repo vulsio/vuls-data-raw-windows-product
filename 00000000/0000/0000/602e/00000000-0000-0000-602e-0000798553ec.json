@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-602e-0000798553ec",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Visual Studio 2019 version 16.9 (includes 16.0 - 16.8)",
+	"baseProductVersion": "15.0.0",
+	"cpe": "cpe:2.3:a:microsoft:visual_studio_2019:16.9:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-3711",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-11-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "OpenSSL Software Foundation",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes-v16.9",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://my.visualstudio.com/Downloads?q=Visual Studio 2019 version 16.9",
+			"fixedBuildNumber": "16.9.13",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2019 version 16.9 (includes 16.0 - 16.8)",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11872,
+	"releaseDate": "2021-11-09T08:00:00Z",
+	"releaseNumber": "2021-Nov",
+	"severity": "Critical",
+	"severityId": 100000000
+}

@@ -1,0 +1,50 @@
+{
+	"id": "00000000-0000-0000-f228-000051e2d7ee",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 8.1",
+	"baseProductVersion": "6.3.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_8.1:*:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8547",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2018-11-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4467697",
+			"articleUrl": "https://support.microsoft.com/help/4467697",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4467697",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4462926"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4467703",
+			"articleUrl": "https://support.microsoft.com/help/4467703",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4467703",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 8.1 for x64-based systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10482,
+	"releaseDate": "2018-11-13T08:00:00Z",
+	"releaseNumber": "2018-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

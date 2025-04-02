@@ -1,0 +1,34 @@
+{
+	"id": "00000000-28f4-0000-9028-0000a221ce6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV170018",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-10-17T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4049179",
+			"articleUrl": "https://support.microsoft.com/help/4049179",
+			"downloadName": "Security Update",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4038806"
+		}
+	],
+	"platform": "Windows RT 8.1",
+	"platformId": 10484,
+	"product": "Adobe Flash Player",
+	"productFamily": "Other",
+	"productFamilyId": 100000000,
+	"productId": 10384,
+	"releaseDate": "2017-10-17T07:00:00Z",
+	"releaseNumber": "2017-Oct",
+	"severity": "Critical",
+	"severityId": 100000000
+}

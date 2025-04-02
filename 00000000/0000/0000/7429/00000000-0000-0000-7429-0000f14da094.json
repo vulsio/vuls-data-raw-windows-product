@@ -1,0 +1,49 @@
+{
+	"id": "00000000-0000-0000-7429-0000f14da094",
+	"architectureId": 0,
+	"baseScore": "5.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17120",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2020-12-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4493138",
+			"articleUrl": "https://support.microsoft.com/kb/4493138",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=259a4b86-7086-4240-8928-d40956abc4db",
+			"knownIssuesName": "4493138",
+			"knownIssuesUrl": "https://support.microsoft.com/kb/4493138",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4486733"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4486696",
+			"articleUrl": "https://support.microsoft.com/kb/4486696",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=4c2dc799-6b4c-470d-bc3b-2bbbd9a160bd",
+			"ordinal": 2,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484488"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Foundation 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10612,
+	"releaseDate": "2020-12-08T08:00:00Z",
+	"releaseNumber": "2020-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.6",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

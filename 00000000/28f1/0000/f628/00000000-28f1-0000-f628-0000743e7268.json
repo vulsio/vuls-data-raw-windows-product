@@ -1,0 +1,50 @@
+{
+	"id": "00000000-28f1-0000-f628-0000743e7268",
+	"architectureId": 0,
+	"baseScore": "4.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1432",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2020-07-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4565541",
+			"articleUrl": "https://support.microsoft.com/help/4565541",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4565541",
+			"knownIssuesName": "4565541",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4565541",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4561666"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4565479",
+			"articleUrl": "https://support.microsoft.com/help/4565479",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4565479",
+			"ordinal": 2,
+			"rebootRequired": "Yes",
+			"supercedence": "4561603"
+		}
+	],
+	"platform": "Windows 8.1 for 32-bit systems",
+	"platformId": 10481,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2020-07-14T07:00:00Z",
+	"releaseNumber": "2020-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "3.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N/E:P/RL:O/RC:C"
+}

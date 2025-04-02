@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-7329-0000d9544634",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0195",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3178725",
+			"articleUrl": "http://support.microsoft.com/kb/3178725",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=b145b4ba-125a-4c91-9f11-44f8b5d5c311",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3172457"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Web Apps Server 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10611,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

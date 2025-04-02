@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-5328-00006a383966",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0922",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-03-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011695",
+			"articleUrl": "https://support.microsoft.com/help/4011695",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=52c1a89e-7d46-462d-aae1-cb3a6b22f8d1",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011651"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2013 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10323,
+	"releaseDate": "2018-03-13T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

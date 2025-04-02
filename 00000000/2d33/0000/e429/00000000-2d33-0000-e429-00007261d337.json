@@ -1,0 +1,38 @@
+{
+	"id": "00000000-2d33-0000-e429-00007261d337",
+	"architectureId": 0,
+	"baseScore": "4.2",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1427",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-11-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4523205",
+			"articleUrl": "https://support.microsoft.com/help/4523205",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4523205",
+			"knownIssuesName": "4523205",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4523205",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4519338"
+		}
+	],
+	"platform": "Windows Server 2019",
+	"platformId": 11571,
+	"product": "Microsoft Edge (EdgeHTML-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10724,
+	"releaseDate": "2019-11-12T08:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002,
+	"temporalScore": "3.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:L/I:L/A:N/E:P/RL:O"
+}

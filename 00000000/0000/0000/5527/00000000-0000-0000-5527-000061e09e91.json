@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-5527-000061e09e91",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0283",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-06-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4020732",
+			"articleUrl": "http://support.microsoft.com/help/4020732",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=e0bcfa59-944e-4e33-a1fd-6908c75d0e0c",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4010299"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Lync 2010 (32-bit)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10069,
+	"releaseDate": "2017-06-13T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

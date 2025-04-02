@@ -1,0 +1,50 @@
+{
+	"id": "00000000-0000-0000-6024-00005f087afb",
+	"architectureId": 0,
+	"baseScore": "4.7",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0874",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2020-03-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4541506",
+			"articleUrl": "https://support.microsoft.com/help/4541506",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4541506",
+			"knownIssuesName": "4541506",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4541506",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4537810"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4541504",
+			"articleUrl": "https://support.microsoft.com/help/4541504",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4541504",
+			"knownIssuesName": "4541504",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4541504",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for 32-bit Systems Service Pack 2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9312,
+	"releaseDate": "2020-03-10T07:00:00Z",
+	"releaseNumber": "2020-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.2",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

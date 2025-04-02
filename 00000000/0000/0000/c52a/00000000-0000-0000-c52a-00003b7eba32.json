@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-c52a-00003b7eba32",
+	"architectureId": 0,
+	"baseProductName": "Microsoft AutoUpdate for Mac",
+	"baseProductVersion": "0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:autoupdate:-:*:*:*:*:macos:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-21360",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-269: Improper Privilege Management",
+				"https://cwe.mitre.org/data/definitions/269.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-269: Improper Privilege Management"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2025-01-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/officeupdates/release-history-microsoft-autoupdate",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.77.24121924_Updater.pkg",
+			"fixedBuildNumber": "4.76",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft AutoUpdate for Mac",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10949,
+	"releaseDate": "2025-01-14T08:00:00Z",
+	"releaseNumber": "2025-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

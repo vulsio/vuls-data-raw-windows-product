@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-252a-00001eb00a1f",
+	"architectureId": 0,
+	"baseScore": "5.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0219",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2017-06-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4022714",
+			"articleUrl": "https://support.microsoft.com/help/4022714",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4022714",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4022714",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4019473"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1511 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10789,
+	"releaseDate": "2017-06-13T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L/E:P/RL:O/RC:C"
+}

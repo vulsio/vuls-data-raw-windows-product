@@ -1,0 +1,54 @@
+{
+	"id": "00000000-0000-0000-fe29-00008a946dca",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Publisher 2016",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:publisher:2016:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-20673",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-693: Protection Mechanism Failure",
+				"https://cwe.mitre.org/data/definitions/693.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-693: Protection Mechanism Failure"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-02-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002492",
+			"articleUrl": "https://support.microsoft.com/help/5002492",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=bfc648bc-453f-43b9-b339-cadbaf8c7477",
+			"fixedBuildNumber": "16.0.5435.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Publisher 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10750,
+	"releaseDate": "2024-02-13T08:00:00Z",
+	"releaseNumber": "2024-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,69 @@
+{
+	"id": "00000000-0000-0000-8024-0000a32e3552",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2008 Service Pack 2 (Server Core installation)",
+	"baseProductVersion": "6.0.6003.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_sp2:{bv}:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-21685",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-02-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5022890",
+			"articleUrl": "https://support.microsoft.com/help/5022890",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5022890",
+			"fixedBuildNumber": "6.0.6003.21915",
+			"knownIssuesName": "5022890",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5022890",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5022340"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5022893",
+			"articleUrl": "https://support.microsoft.com/help/5022893",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5022893",
+			"fixedBuildNumber": "6.0.6003.21915",
+			"knownIssuesName": "5022893",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5022893",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9344,
+	"releaseDate": "2023-02-14T08:00:00Z",
+	"releaseNumber": "2023-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

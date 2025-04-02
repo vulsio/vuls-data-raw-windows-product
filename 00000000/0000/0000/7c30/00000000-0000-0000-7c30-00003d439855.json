@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-7c30-00003d439855",
+	"architectureId": 0,
+	"baseProductName": "Dynamics 365 Business Central Online",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "8.1",
+	"cpe": "cpe:2.3:a:microsoft:.dynamics_365_business_central_online:*:*:*:*:*:*:*:*",
+	"customerActionRequired": false,
+	"cveNumber": "CVE-2024-43460",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-285: Improper Authorization",
+				"https://cwe.mitre.org/data/definitions/285.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-285: Improper Authorization"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-09-17T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Dynamics 365 Business Central Online",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 12412,
+	"releaseDate": "2024-09-17T07:00:00Z",
+	"releaseNumber": "2024-Sep",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.1",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,31 @@
+{
+	"id": "00000000-1129-0000-e829-0000116f9ec1",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0149",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-05-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3142037",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3142037",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3142037",
+			"ordinal": 1
+		}
+	],
+	"platform": "Windows Vista Service Pack 2",
+	"platformId": 4393,
+	"product": "Microsoft .NET Framework 4.6",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10728,
+	"releaseDate": "2016-05-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

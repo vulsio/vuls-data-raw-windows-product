@@ -1,0 +1,21 @@
+{
+	"id": "00000000-0000-0000-a72c-000051a875ae",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8540",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-05-25T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Microsoft Forefront Endpoint Protection 2010",
+	"productFamily": "System Center",
+	"productFamilyId": 100000009,
+	"productId": 11431,
+	"releaseDate": "2017-05-25T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

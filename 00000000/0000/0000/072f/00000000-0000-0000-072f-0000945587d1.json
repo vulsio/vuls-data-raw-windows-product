@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-072f-0000945587d1",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Exchange Server 2016 Cumulative Update 23",
+	"baseProductVersion": "15.01.0",
+	"baseScore": "8.0",
+	"cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_23:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36778",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-426: Untrusted Search Path",
+				"https://cwe.mitre.org/data/definitions/426.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-426: Untrusted Search Path"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-10-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5030877",
+			"articleUrl": "https://support.microsoft.com/help/5030877",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=4fae83a5-23d7-4495-aa07-1a69916a96d7",
+			"fixedBuildNumber": "15.01.2507.034",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5026261"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2016 Cumulative Update 23",
+	"productFamily": "Server Software",
+	"productFamilyId": 100000004,
+	"productId": 12039,
+	"releaseDate": "2023-10-10T07:00:00Z",
+	"releaseNumber": "2023-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.1/AV:A/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

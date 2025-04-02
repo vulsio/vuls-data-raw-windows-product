@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-b92e-00006f6a1634",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Server Subscription Edition",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "6.3",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server:-:*:*:*:subscription:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-33132",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+				"https://cwe.mitre.org/data/definitions/79.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2023-06-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002416",
+			"articleUrl": "https://support.microsoft.com/help/5002416",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=d5afe0e7-7490-485f-82e4-da5a385658b8",
+			"fixedBuildNumber": "16.0.16130.20548",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002390"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server Subscription Edition",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11961,
+	"releaseDate": "2023-06-13T07:00:00Z",
+	"releaseNumber": "2023-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:L/A:N/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-9a29-00009b25ce6c",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Exchange Server 2013 Service Pack 1",
+	"baseProductVersion": "15.00.0",
+	"cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_1:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "ADV160012",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3151097",
+			"articleUrl": "https://support.microsoft.com/kb/3151097",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=270226a4-b37a-43ae-b31a-4b704c9680ac",
+			"ordinal": 0,
+			"supercedence": "2986475"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2013 Service Pack 1",
+	"productFamily": "Server Software",
+	"productFamilyId": 100000004,
+	"productId": 10650,
+	"releaseDate": "2016-06-14T07:00:00Z",
+	"releaseNumber": "2016-Jun",
+	"severity": "Important",
+	"severityId": 100000001
+}

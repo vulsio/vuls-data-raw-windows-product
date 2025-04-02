@@ -1,0 +1,58 @@
+{
+	"id": "00000000-0000-0000-8024-00002d86cafe",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2008 Service Pack 2 (Server Core installation)",
+	"baseProductVersion": "6.0.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_sp2:*:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17069",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2020-11-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				";fdssdp.dll;gdiplus.dll;ipmontr.dll;ks.sys;localspl.dll;ndis.sys;nfssvr.sy;pbkmigr.dll;Portcls.sys;Rasapi32.dll;rasdlg.dll;rasgcw.dll;rasplap.dll;win32k.sys;wintrust.dll"
+			],
+			"articleName": "4586807",
+			"articleUrl": "https://support.microsoft.com/help/4586807",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4586807",
+			"knownIssuesName": "4586807",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4586807",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4580378"
+		},
+		{
+			"affectedBinaries": [
+				";fdssdp.dll;gdiplus.dll;ipmontr.dll;ks.sys;localspl.dll;ndis.sys;nfssvr.sy;pbkmigr.dll;Portcls.sys;Rasapi32.dll;rasdlg.dll;rasgcw.dll;rasplap.dll;win32k.sys;wintrust.dll"
+			],
+			"articleName": "4586817",
+			"articleUrl": "https://support.microsoft.com/help/4586817",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4586817",
+			"knownIssuesName": "4586817",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4586817",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9344,
+	"releaseDate": "2020-11-10T08:00:00Z",
+	"releaseNumber": "2020-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

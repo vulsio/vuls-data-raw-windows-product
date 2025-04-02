@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-652a-00007df1950d",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV200011",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2020-07-29T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5012170",
+			"articleUrl": "https://support.microsoft.com/help/5012170",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5012170",
+			"fixedBuildNumber": "10.0.14393.5285",
+			"knownIssuesName": "5012170",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5012170",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4535680"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1607 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10853,
+	"releaseDate": "2020-07-29T07:00:00Z",
+	"releaseNumber": "2020-Jul",
+	"severity": "Important",
+	"severityId": 100000001
+}

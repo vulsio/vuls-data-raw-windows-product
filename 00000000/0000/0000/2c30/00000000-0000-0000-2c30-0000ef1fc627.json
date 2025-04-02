@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-2c30-0000ef1fc627",
+	"architectureId": 0,
+	"baseProductName": "Outlook for Windows",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "8.1",
+	"cpe": "cpe:2.3:a:microsoft:outlook_for_windows:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-20670",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2024-04-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://apps.microsoft.com/detail/9nrx63209r7b?cid=cmmdoli6tgo&hl=en-us&gl=US",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://apps.microsoft.com/detail/9nrx63209r7b?cid=cmmdoli6tgo&hl=en-us&gl=US",
+			"fixedBuildNumber": "1.2023.0322.0100",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Outlook for Windows",
+	"productFamily": "Other",
+	"productFamilyId": 100000000,
+	"productId": 12332,
+	"releaseDate": "2024-04-09T07:00:00Z",
+	"releaseNumber": "2024-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.1",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:N/E:U/RL:O/RC:C"
+}

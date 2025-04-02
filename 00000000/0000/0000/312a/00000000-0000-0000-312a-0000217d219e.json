@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-312a-0000217d219e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0760",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484125",
+			"articleUrl": "https://support.microsoft.com/kb/4484125",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=253fd0a7-96d2-4412-911d-5c1a3955f256",
+			"knownIssuesName": "4484125",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4484125",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4464548"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Project 2013 Service Pack 1 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10801,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Important",
+	"severityId": 100000001
+}

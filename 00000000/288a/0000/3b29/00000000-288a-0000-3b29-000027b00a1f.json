@@ -1,0 +1,46 @@
+{
+	"id": "00000000-288a-0000-3b29-000027b00a1f",
+	"architectureId": 0,
+	"baseScore": "3.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0210",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4015551",
+			"articleUrl": "https://support.microsoft.com/help/4015551",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4015551",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4012217"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4014661",
+			"articleUrl": "https://support.microsoft.com/help/4014661",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4014661",
+			"ordinal": 2,
+			"rebootRequired": "Yes",
+			"supercedence": "4012204"
+		}
+	],
+	"platform": "Windows Server 2012",
+	"platformId": 10378,
+	"product": "Internet Explorer 10",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10555,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "3.2",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:H/UI:R/S:U/C:L/I:L/A:N/E:P/RL:O/RC:C"
+}

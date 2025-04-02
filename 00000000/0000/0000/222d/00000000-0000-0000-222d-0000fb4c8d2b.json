@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-222d-0000fb4c8d2b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0618",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4535706",
+			"articleUrl": "https://support.microsoft.com/help/4535706",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://download.microsoft.com/download/9/f/a/9fa97512-ff9b-466a-918e-d95214fbfceb/SQLServer2016-KB4535706-x64.exe",
+			"knownIssuesName": "4535706",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4535706",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4527378"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2016 for x64-based Systems Service Pack 2 (CU)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 11554,
+	"releaseDate": "2020-02-11T08:00:00Z",
+	"releaseNumber": "2020-Feb",
+	"severity": "Important",
+	"severityId": 100000001
+}

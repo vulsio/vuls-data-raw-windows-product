@@ -1,0 +1,48 @@
+{
+	"id": "00000000-28f3-0000-f628-000062d348dd",
+	"architectureId": 0,
+	"baseScore": "6.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1485",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-12-10T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4530702",
+			"articleUrl": "https://support.microsoft.com/help/4530702",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4530702",
+			"knownIssuesName": "4530702",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4530702",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4525243"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4530677",
+			"articleUrl": "https://support.microsoft.com/help/4530677",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4530677",
+			"ordinal": 2,
+			"rebootRequired": "Yes",
+			"supercedence": "4525106"
+		}
+	],
+	"platform": "Windows Server 2012 R2",
+	"platformId": 10483,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2019-12-10T08:00:00Z",
+	"severity": "Low",
+	"severityId": 100000003,
+	"temporalScore": "5.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-1929-0000e5ace008",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0853",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2018-02-13T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3114874",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3114874",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=bf7440a9-9bc4-4d32-a60e-80c4d380d026",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "2687423"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2010 Service Pack 2 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10521,
+	"releaseDate": "2018-02-13T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

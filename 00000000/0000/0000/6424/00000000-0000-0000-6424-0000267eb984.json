@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-6424-0000267eb984",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows Vista x64 Edition Service Pack 2",
+	"baseProductVersion": "5.0.0",
+	"baseScore": "7.3",
+	"cpe": "cpe:2.3:o:microsoft:windows_vista:{bv}:sp2:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3345",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"srv.sys;srv2.sys;srvnet.sys;netevent.dll;netevent.dll.mui"
+			],
+			"articleName": "3177186",
+			"articleUrl": "https://support.microsoft.com/kb/3177186",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=f694edbd-f71b-4d18-b5ae-ef65bfefd5f9",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3073921"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Vista x64 Edition Service Pack 2",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 9316,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.1",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:R"
+}

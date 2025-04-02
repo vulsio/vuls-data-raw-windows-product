@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-3a2a-0000217d219e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0760",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484281",
+			"articleUrl": "https://support.microsoft.com/kb/4484281",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=5e795eee-839e-4aaa-982e-8601a3612548",
+			"knownIssuesName": "4484281",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4484281",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484156"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2013 Service Pack 1 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10810,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Important",
+	"severityId": 100000001
+}

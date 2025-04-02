@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-e72d-00005dcacac5",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1022",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4549678",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4549678",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/download/details.aspx?id=101070",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4538888"
+		}
+	],
+	"platformId": 0,
+	"product": "Dynamics 365 Business Central 2019 Release Wave 2 (On-Premise)",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 11751,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Critical",
+	"severityId": 100000000
+}

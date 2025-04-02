@@ -1,0 +1,58 @@
+{
+	"id": "00000000-0000-0000-6929-000002cdce41",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-28449",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-04-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4504726",
+			"articleUrl": "https://support.microsoft.com/kb/4504726",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=8ece743b-c7e5-4aaa-be86-88b285c2e4ac",
+			"knownIssuesName": "4504726",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4504726",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4493228"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "3178643",
+			"articleUrl": "https://support/microsoft.com/help/3178643",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=778bc40f-9dd9-4799-ac6e-0d63c205addc",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "3178639",
+			"articleUrl": "https://support/microsoft.com/help/3178639",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=37b48918-6d7e-4594-a6c1-61162d2c1e5a",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2013 Service Pack 1 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10601,
+	"productVersion": "15.0.0.0",
+	"releaseDate": "2021-04-13T07:00:00Z",
+	"releaseNumber": "2021-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

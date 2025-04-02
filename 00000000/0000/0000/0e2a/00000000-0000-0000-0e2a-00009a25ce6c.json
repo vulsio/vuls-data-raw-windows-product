@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-0e2a-00009a25ce6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV160011",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2016-08-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115440",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3115440",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=2f0490f8-dc90-45c4-bdde-34bca8895aac",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "MS16-099"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10766,
+	"releaseDate": "2016-08-09T07:00:00Z",
+	"severity": "None",
+	"severityId": 100000004
+}

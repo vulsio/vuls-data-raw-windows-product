@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-a728-0000596708ca",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Microsoft Outlook 2013 Service Pack 1",
+	"baseProductVersion": "15.0.0.0",
+	"cpe": "cpe:2.3:a:microsoft:outlook:2013:*:*:*:rt:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3366",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3118280",
+			"articleUrl": "https://support.microsoft.com/kb/3118280",
+			"downloadName": "Security Update",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3115118"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2013 RT Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10407,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

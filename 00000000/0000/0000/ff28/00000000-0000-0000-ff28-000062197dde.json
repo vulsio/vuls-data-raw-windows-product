@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-ff28-000062197dde",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0594",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-02-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4461630",
+			"articleUrl": "https://support.microsoft.com/kb/4461630",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=ee157143-0ec3-4022-936e-be920b820b29",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4461580"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server 2010 Service Pack 2",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10495,
+	"releaseDate": "2019-02-12T08:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-f328-00000bc5feb1",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2012 R2",
+	"baseProductVersion": "6.3.0",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2012_R2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3216",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"gdi32.dll;wow6432"
+			],
+			"articleName": "3164035",
+			"articleUrl": "https://support.microsoft.com/kb/3164035",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3164035",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3156013"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 R2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10483,
+	"releaseDate": "2016-06-14T07:00:00Z",
+	"releaseNumber": "2016-Jun",
+	"severity": "Important",
+	"severityId": 100000001
+}

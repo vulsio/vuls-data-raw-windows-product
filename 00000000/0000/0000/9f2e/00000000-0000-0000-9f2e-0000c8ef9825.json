@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-9f2e-0000c8ef9825",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Visual Studio 2019 version 16.11 (includes 16.0 - 16.10)",
+	"baseProductVersion": "16.11.0",
+	"cpe": "cpe:2.3:a:microsoft:visual_studio_2019:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-24765",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2022-04-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "GitHub",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes-v16.11",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://my.visualstudio.com/Downloads?q=Visual Studio 2019 version 16.11",
+			"fixedBuildNumber": "16.11.12",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2019 version 16.11 (includes 16.0 - 16.10)",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11935,
+	"releaseDate": "2022-04-12T07:00:00Z",
+	"releaseNumber": "2022-Apr",
+	"severity": "Important",
+	"severityId": 100000001
+}

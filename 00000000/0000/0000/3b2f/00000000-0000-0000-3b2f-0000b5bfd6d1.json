@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-3b2f-0000b5bfd6d1",
+	"architectureId": 0,
+	"baseProductName": "Azure Arc-enabled Kubernetes cluster 1.7.18",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "10.0",
+	"cpe": "cpe:2.3:a:microsoft:azure_arc-enabled_kubernetes:1.7.18:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-37968",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2022-10-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/azure/azure-arc/data/release-notes",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://learn.microsoft.com/en-us/azure/azure-arc/kubernetes/agent-upgrade#toggle-automatic-upgrade-on-or-off-after-connecting-a-cluster-to-azure-arc",
+			"fixedBuildNumber": "1.7.18",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Arc-enabled Kubernetes cluster 1.7.18",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12091,
+	"releaseDate": "2022-10-11T07:00:00Z",
+	"releaseNumber": "2022-Oct",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-0729-000059d53a46",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7289",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-12-13T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3114395",
+			"articleUrl": "https://support.microsoft.com/kb/3114395",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=74889612-96c1-4120-ae50-f529504a7f48",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "2817478"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Publisher 2010 Service Pack 2 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10503,
+	"releaseDate": "2016-12-13T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

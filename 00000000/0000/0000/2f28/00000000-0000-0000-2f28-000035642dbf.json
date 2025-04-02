@@ -1,0 +1,69 @@
+{
+	"id": "00000000-0000-0000-2f28-000035642dbf",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows Server 2008 Service Pack 2 (Server Core installation)",
+	"baseProductVersion": "6.0.6003.0",
+	"baseScore": "8.1",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_sp2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-21555",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-367: Time-of-check Time-of-use (TOCTOU) Race Condition",
+				"https://cwe.mitre.org/data/definitions/367.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-367: Time-of-check Time-of-use (TOCTOU) Race Condition"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-01-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5022340",
+			"articleUrl": "https://support.microsoft.com/help/5022340",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5022340",
+			"fixedBuildNumber": "6.0.6003.21872",
+			"knownIssuesName": "5022340",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5022340",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5021289"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5022353",
+			"articleUrl": "https://support.microsoft.com/help/5022353",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5022353",
+			"fixedBuildNumber": "6.0.6003.21872",
+			"knownIssuesName": "5022353",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5022353",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10287,
+	"releaseDate": "2023-01-10T08:00:00Z",
+	"releaseNumber": "2023-Jan",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.1",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

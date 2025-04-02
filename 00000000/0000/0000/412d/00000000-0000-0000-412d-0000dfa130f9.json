@@ -1,0 +1,70 @@
+{
+	"id": "00000000-0000-0000-412d-0000dfa130f9",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Server 2019",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server:2019:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36890",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-284: Improper Access Control",
+				"https://cwe.mitre.org/data/definitions/284.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-284: Improper Access Control"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2023-08-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002436",
+			"articleUrl": "https://support.microsoft.com/help/5002436",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=838d6c3a-7b03-4b62-ab88-9a0a0e0f33c7",
+			"fixedBuildNumber": "16.0.10401.20025",
+			"knownIssuesName": "5002436",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5002436",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002423"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5002422",
+			"articleUrl": "https://support.microsoft.com/help/5002422",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=5f8d695d-b900-4cb2-ad5a-361fce88ac7d",
+			"fixedBuildNumber": "16.0.10401.20025",
+			"knownIssuesName": "5002422",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5002422",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002403"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server 2019",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11585,
+	"releaseDate": "2023-08-08T07:00:00Z",
+	"releaseNumber": "2023-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-2d2a-00005c85b795",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Access 2013 Service Pack 1 (64-bit editions)",
+	"baseProductVersion": "15.0.0",
+	"cpe": "cpe:2.3:a:microsoft:access:2013:sp1:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1582",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-08-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484366",
+			"articleUrl": "https://support.microsoft.com/kb/4484366",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=3f464f0b-cbf9-4c87-9690-2fb5a1cd28b3",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4462210"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Access 2013 Service Pack 1 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10797,
+	"productVersion": "15.0.0",
+	"releaseDate": "2020-08-11T07:00:00Z",
+	"releaseNumber": "2020-Aug",
+	"severity": "Important",
+	"severityId": 100000001
+}

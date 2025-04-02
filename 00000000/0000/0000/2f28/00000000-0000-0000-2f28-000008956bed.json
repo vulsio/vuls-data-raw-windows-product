@@ -1,0 +1,69 @@
+{
+	"id": "00000000-0000-0000-2f28-000008956bed",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows Server 2008 Service Pack 2 (Server Core installation)",
+	"baseProductVersion": "6.0.6003.0",
+	"baseScore": "5.6",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_sp2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-21336",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-203: Observable Discrepancy",
+				"https://cwe.mitre.org/data/definitions/203.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-203: Observable Discrepancy"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2025-01-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5050063",
+			"articleUrl": "https://support.microsoft.com/help/5050063",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5050063",
+			"fixedBuildNumber": "6.0.6003.23070",
+			"knownIssuesName": "5050063",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5050063",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5048710"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5050061",
+			"articleUrl": "https://support.microsoft.com/help/5050061",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5050061",
+			"fixedBuildNumber": "6.0.6003.23070",
+			"knownIssuesName": "5050061",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5050061",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10287,
+	"releaseDate": "2025-01-14T08:00:00Z",
+	"releaseNumber": "2025-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.9",
+	"vectorString": "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

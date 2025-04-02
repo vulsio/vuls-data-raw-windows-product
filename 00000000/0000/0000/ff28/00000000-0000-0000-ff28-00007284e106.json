@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-ff28-00007284e106",
+	"architectureId": 0,
+	"baseProductName": "Microsoft SharePoint Server 2010 Service Pack 2",
+	"baseProductVersion": "13.0.0.0",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server:2010:sp2:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8539",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-11-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4461520",
+			"articleUrl": "https://support.microsoft.com/help/4461520",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=544bc091-3694-401c-a410-ea983c584422",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4092481"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server 2010 Service Pack 2",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10495,
+	"releaseDate": "2018-11-13T08:00:00Z",
+	"releaseNumber": "2018-Nov",
+	"severity": "Important",
+	"severityId": 100000001
+}

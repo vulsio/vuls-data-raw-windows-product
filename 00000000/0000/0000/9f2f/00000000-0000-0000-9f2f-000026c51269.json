@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-9f2f-000026c51269",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Exchange Server 2019 Cumulative Update 13",
+	"baseProductVersion": "15.02.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_13:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-26198",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-426: Untrusted Search Path",
+				"https://cwe.mitre.org/data/definitions/426.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-426: Untrusted Search Path"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-03-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5037224",
+			"articleUrl": "https://support.microsoft.com/help/5037224",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=11b316cf-c030-43e0-9a09-2717bb9630c5",
+			"fixedBuildNumber": "15.02.1544.011",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5036402"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2019 Cumulative Update 13",
+	"productFamily": "Server Software",
+	"productFamilyId": 100000004,
+	"productId": 12191,
+	"releaseDate": "2024-03-12T07:00:00Z",
+	"releaseNumber": "2024-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

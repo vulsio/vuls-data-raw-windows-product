@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-8a28-0000267eb984",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2012",
+	"baseProductVersion": "6.2.0",
+	"baseScore": "5.0",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2012:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3345",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"srv.sys;srv2.sys;srvnet.sys"
+			],
+			"articleName": "3177186",
+			"articleUrl": "https://support.microsoft.com/kb/3177186",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=f6370a66-2bfe-463e-88a2-3ce5dbaa4147",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3130896"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10378,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.2",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:R/S:U/C:N/I:N/A:H/E:U/RL:O/RC:R"
+}

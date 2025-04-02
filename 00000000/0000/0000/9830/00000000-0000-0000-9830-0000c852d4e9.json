@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-9830-0000c852d4e9",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Office LTSC for Mac 2024",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:office_macos_2024:*:*:*:*:*:long_term_servicing_channel:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-49029",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-908: Use of Uninitialized Resource",
+				"https://cwe.mitre.org/data/definitions/908.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-908: Use of Uninitialized Resource"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-11-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://go.microsoft.com/fwlink/p/?linkid=831049",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://go.microsoft.com/fwlink/p/?linkid=831049",
+			"fixedBuildNumber": "16.91.24111020",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office LTSC for Mac 2024",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 12440,
+	"releaseDate": "2024-11-12T08:00:00Z",
+	"releaseNumber": "2024-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

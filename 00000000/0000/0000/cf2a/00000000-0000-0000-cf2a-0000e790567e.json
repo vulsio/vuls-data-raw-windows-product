@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-cf2a-0000e790567e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0757",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Tampering",
+	"impactId": 100000009,
+	"initialReleaseDate": "2019-03-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2017-mac-relnotes",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://download.visualstudio.microsoft.com/download/pr/f9347e0c-e84d-4968-8225-28ff735f9383/96c5a9b8bbd1d70f52a92b15a0b33bf2/visualstudioformac-7.8.3.2.dmg",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Visual Studio 2017 for Mac",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10959,
+	"releaseDate": "2019-03-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

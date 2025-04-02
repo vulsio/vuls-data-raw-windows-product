@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-f329-000025eceb00",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7267",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2016-12-13T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3128016",
+			"articleUrl": "https://support.microsoft.com/kb/3128016",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=b2ee2d3d-8cc1-4ad9-8e53-4b7557b0993e",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3127904"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2016 (32-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10739,
+	"releaseDate": "2016-12-13T08:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002
+}

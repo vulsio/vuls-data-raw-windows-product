@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-c52e-000090ca1fb1",
+	"architectureId": 0,
+	"baseProductName": "Office app",
+	"baseProductVersion": "0",
+	"baseScore": "9.6",
+	"cpe": "cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-43905",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-12-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://ms-windows-store://pdp/?productid=9WZDNCRD29V9",
+			"downloadName": "Security Update",
+			"downloadUrl": "ms-windows-store://pdp/?productid=9WZDNCRD29V9",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Office app",
+	"productFamily": "Apps",
+	"productFamilyId": 100000012,
+	"productId": 11973,
+	"releaseDate": "2021-12-14T08:00:00Z",
+	"releaseNumber": "2021-Dec",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.6",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

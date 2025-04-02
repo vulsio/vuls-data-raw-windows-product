@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-e72f-000077272e3e",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Power Platform",
+	"baseProductVersion": "1.0.0",
+	"cpe": "cpe:2.3:a:microsoft:power_platform:*:*:*:*:*:*:*:*",
+	"customerActionRequired": false,
+	"cveNumber": "CVE-2024-38190",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-862: Missing Authorization",
+				"https://cwe.mitre.org/data/definitions/862.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-862: Missing Authorization"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2024-10-15T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Microsoft Power Platform",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 12263,
+	"releaseDate": "2024-10-15T07:00:00Z",
+	"releaseNumber": "2024-Oct",
+	"severity": "Critical",
+	"severityId": 100000000
+}

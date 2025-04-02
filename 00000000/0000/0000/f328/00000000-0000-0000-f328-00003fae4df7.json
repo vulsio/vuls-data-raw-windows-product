@@ -1,0 +1,46 @@
+{
+	"id": "00000000-0000-0000-f328-00003fae4df7",
+	"architectureId": 0,
+	"baseScore": "8.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3238",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-07-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4038792",
+			"articleUrl": "https://support.microsoft.com/help/4038792",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4038792",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/help/4038792",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4034681"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4038793",
+			"articleUrl": "https://support.microsoft.com/help/4038793",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4038793",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/help/4038793",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 R2",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10483,
+	"releaseDate": "2016-07-12T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

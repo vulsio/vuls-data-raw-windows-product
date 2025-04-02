@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-962e-0000f6947ef6",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 11 version 21H2",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_11_21H2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-26161",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-122: Heap-based Buffer Overflow",
+				"https://cwe.mitre.org/data/definitions/122.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-122: Heap-based Buffer Overflow"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-03-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5035854",
+			"articleUrl": "https://support.microsoft.com/help/5035854",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5035854",
+			"fixedBuildNumber": "10.0.22000.2836",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5034766"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 11 version 21H2 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11926,
+	"releaseDate": "2024-03-12T07:00:00Z",
+	"releaseNumber": "2024-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

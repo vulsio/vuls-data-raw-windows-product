@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-072d-0000bba4d53b",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0588",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-01-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4471389",
+			"articleUrl": "https://support.microsoft.com/help/4471389",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=ccf6c5e6-e26b-4ed8-a868-4cf45162f566",
+			"knownIssuesName": "4471389",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4471389",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4459266"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2013 Cumulative Update 21",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11527,
+	"releaseDate": "2019-01-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

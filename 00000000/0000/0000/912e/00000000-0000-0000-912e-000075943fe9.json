@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-912e-000075943fe9",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Dynamics 365 (on-premises) version 9.1",
+	"baseProductVersion": "9.0",
+	"baseScore": "5.7",
+	"cpe": "cpe:2.3:a:microsoft:dynamics_365:9.1:*:*:*:on-premises:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-35263",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-200: Exposure of Sensitive Information to an Unauthorized Actor",
+				"https://cwe.mitre.org/data/definitions/200.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-200: Exposure of Sensitive Information to an Unauthorized Actor"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2024-06-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5039459",
+			"articleUrl": "https://support.microsoft.com/help/5039459",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=9b7950ad-00d1-41d4-9f9b-c516b0ad42dd",
+			"fixedBuildNumber": "1.29",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Dynamics 365 (on-premises) version 9.1",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 11921,
+	"releaseDate": "2024-06-11T07:00:00Z",
+	"releaseNumber": "2024-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.0",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

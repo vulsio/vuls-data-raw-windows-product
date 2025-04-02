@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-2b30-0000354775f0",
+	"architectureId": 0,
+	"baseProductName": "Azure Monitor",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:azure_monitor_agent:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-30060",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-59: Improper Link Resolution Before File Access ('Link Following')",
+				"https://cwe.mitre.org/data/definitions/59.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-59: Improper Link Resolution Before File Access ('Link Following')"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-05-16T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-extension-versions",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-manage?tabs=azure-portal#update",
+			"fixedBuildNumber": "1.26.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Monitor Agent",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12331,
+	"releaseDate": "2024-05-16T07:00:00Z",
+	"releaseNumber": "2024-May",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

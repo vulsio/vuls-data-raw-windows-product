@@ -1,0 +1,62 @@
+{
+	"id": "00000000-0000-0000-8024-00002b86cafe",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2008 Service Pack 2 (Server Core installation)",
+	"baseProductVersion": "6.0.0",
+	"baseScore": "6.6",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_sp2:6.0.6003.21167:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17049",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2020-11-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				";bowser.sys;dns.exe;DnsMgr.dll;driver.stl;gdi32.dll;gdiplus.dll;kdcsvc.dll;lsasrv.dll;msconfig.exe;msi.dll;msinfo32.exe;msisip.dll;msjet40.dll;MSRA.exe;ntfs.sys;ntkrnlmp.exe;ntkrpamp.exe;ntoskrnl.exe",
+				"ntkrnlmp.exe;racpldlg.dll;RAServer.exe;rastapi.dll;samsrv.dll;signdrv.dll;srv.sys;srv2.sys;tcpip.sys;wabimp.dll;win32k.sys;wintrust.dll;wmvdecod.dll"
+			],
+			"articleName": "5004305",
+			"articleUrl": "https://support.microsoft.com/help/5004305",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5004305",
+			"fixedBuildNumber": "6.0.6003.21167",
+			"knownIssuesName": "5004305",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5004305",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5004955"
+		},
+		{
+			"affectedBinaries": [
+				";bowser.sys;dns.exe;DnsMgr.dll;driver.stl;gdi32.dll;gdiplus.dll;kdcsvc.dll;lsasrv.dll;msconfig.exe;msi.dll;msinfo32.exe;msisip.dll;msjet40.dll;MSRA.exe;ntfs.sys;ntkrnlmp.exe;ntkrpamp.exe;ntoskrnl.exe",
+				"ntkrnlmp.exe;racpldlg.dll;RAServer.exe;rastapi.dll;samsrv.dll;signdrv.dll;srv.sys;srv2.sys;tcpip.sys;wabimp.dll;win32k.sys;wintrust.dll;wmvdecod.dll"
+			],
+			"articleName": "5004299",
+			"articleUrl": "https://support.microsoft.com/help/5004299",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5004299",
+			"fixedBuildNumber": "6.0.6003.21167",
+			"knownIssuesName": "5004299",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5004299",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9344,
+	"releaseDate": "2020-11-10T08:00:00Z",
+	"releaseNumber": "2020-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.8",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

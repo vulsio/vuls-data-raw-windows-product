@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-1f29-0000eb567f91",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft Outlook 2010 Service Pack 2",
+	"baseProductVersion": "13.0.0.0",
+	"cpe": "cpe:2.3:a:microsoft:outlook:2010:sp2:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8576",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-11-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4461529",
+			"articleUrl": "https://support.microsoft.com/help/4461529",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=5501b249-fea3-4e0b-9cf2-6dd837b0c65f",
+			"knownIssuesName": "4461529",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4461529",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4227170"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2010 Service Pack 2 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10527,
+	"releaseDate": "2018-11-13T08:00:00Z",
+	"releaseNumber": "2018-Nov",
+	"severity": "Important",
+	"severityId": 100000001
+}

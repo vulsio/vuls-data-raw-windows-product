@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-4027-00006d50570f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3209",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-10-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3185330",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3185330",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3185330",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3175024"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "3192391",
+			"articleUrl": "https://support.microsoft.com/kb/3192391",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3192391",
+			"knownIssuesUrl": "https://support.microsoft.com/kb/3192391",
+			"ordinal": 2,
+			"rebootRequired": "Yes",
+			"supercedence": "3175024"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 7 for x64-based Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10048,
+	"releaseDate": "2016-10-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,41 @@
+{
+	"id": "00000000-2b5b-0000-d323-0000887527fd",
+	"architectureId": 0,
+	"baseProductName": "Excel Services",
+	"baseProductVersion": "15.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:excel_services:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-1714",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-01-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4486736",
+			"articleUrl": "https://support.microsoft.com/kb/4486736",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=d8e0bc39-5bd6-44d3-8115-17351d074350",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484531"
+		}
+	],
+	"platform": "Microsoft SharePoint Enterprise Server 2013 Service Pack 1",
+	"platformId": 11099,
+	"product": "Excel Services",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 9171,
+	"releaseDate": "2021-01-12T08:00:00Z",
+	"releaseNumber": "2021-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

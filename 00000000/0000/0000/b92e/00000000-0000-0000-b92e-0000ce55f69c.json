@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-b92e-0000ce55f69c",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Server Subscription Edition",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server:-:*:*:*:subscription:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-30159",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2022-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002224",
+			"articleUrl": "https://support.microsoft.com/kb/5002224",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=8c541baa-7b91-472f-a4e6-0fb6a0875d32",
+			"fixedBuildNumber": "16.0.14931.20418",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002194"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server Subscription Edition",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11961,
+	"releaseDate": "2022-06-14T07:00:00Z",
+	"releaseNumber": "2022-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

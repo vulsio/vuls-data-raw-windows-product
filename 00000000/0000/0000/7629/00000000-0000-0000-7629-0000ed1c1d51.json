@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-7629-0000ed1c1d51",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8551",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2017-06-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3203399",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3203399",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=743eb9ae-8a36-4707-81e0-5f619d28c666",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3191890"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Project Server 2013 Service Pack 1 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10614,
+	"releaseDate": "2017-06-13T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

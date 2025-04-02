@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-012a-0000728358b7",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft Office 2016",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:a:microsoft:office_2016:*:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-43609",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-200: Exposure of Sensitive Information to an Unauthorized Actor",
+				"https://cwe.mitre.org/data/definitions/200.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-200: Exposure of Sensitive Information to an Unauthorized Actor"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2024-10-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002635",
+			"articleUrl": "https://support.microsoft.com/help/5002635",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=11c1e8b1-a44f-456f-83ef-e86c8e981e7c",
+			"fixedBuildNumber": "16.0.5469.1001",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002570"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2016 (32-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10753,
+	"releaseDate": "2024-10-08T07:00:00Z",
+	"releaseNumber": "2024-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

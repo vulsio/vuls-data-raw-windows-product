@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-b030-0000f5ca73ff",
+	"architectureId": 0,
+	"baseProductName": "On-Premises Data Gateway",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "6.4",
+	"cpe": "cpe:2.3:a:microsoft:sap_hana_enabled_sso_for_onpremises_data_gateway:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-21403",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-863: Incorrect Authorization",
+				"https://cwe.mitre.org/data/definitions/863.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-863: Incorrect Authorization"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2025-01-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-monthly-updates",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://download.microsoft.com/download/D/A/1/DA1FDDB8-6DA8-4F50-B4D0-18019591E182/GatewayInstall.exe",
+			"fixedBuildNumber": "3000.246",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "On-Premises Data Gateway",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12464,
+	"releaseDate": "2025-01-14T08:00:00Z",
+	"releaseNumber": "2025-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.9",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:L/UI:R/S:U/C:H/I:H/A:N/E:U/RC:C"
+}

@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-422f-00006e90e338",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Windows 10 Version 22H2",
+	"baseProductVersion": "10.0.19045.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_22H2:{bv}:*:*:*:*:*:arm64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36909",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-191: Integer Underflow (Wrap or Wraparound)",
+				"https://cwe.mitre.org/data/definitions/191.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-191: Integer Underflow (Wrap or Wraparound)"
+	],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2023-08-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5029244",
+			"articleUrl": "https://support.microsoft.com/help/5029244",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5029244",
+			"fixedBuildNumber": "10.0.19045.3324",
+			"knownIssuesName": "5029244",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5029244",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5028166"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 22H2 for ARM64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 12098,
+	"releaseDate": "2023-08-08T07:00:00Z",
+	"releaseNumber": "2023-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

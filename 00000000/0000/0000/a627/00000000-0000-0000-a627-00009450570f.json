@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-a627-00009450570f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3303",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-08-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115109",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3115109",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=cac9f192-03f4-4fc2-a11f-aca63b038c21",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3114542"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2007 Service Pack 3",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10150,
+	"releaseDate": "2016-08-09T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

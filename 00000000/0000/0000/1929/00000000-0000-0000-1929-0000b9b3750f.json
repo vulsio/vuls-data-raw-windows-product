@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-1929-0000b9b3750f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV180003",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2018-01-09T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011611",
+			"articleUrl": "https://support.microsoft.com/help/4011611",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=7369b56d-5149-4c74-9374-ea9a9d9da47a",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011055"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2010 Service Pack 2 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10521,
+	"releaseDate": "2018-01-09T08:00:00Z",
+	"severity": "None",
+	"severityId": 100000004
+}

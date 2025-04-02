@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-f42c-0000a7577f91",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8374",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Tampering",
+	"impactId": 100000009,
+	"initialReleaseDate": "2018-08-14T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4340731",
+			"articleUrl": "https://support.microsoft.com/help/4340731",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=4392a20a-0c93-4385-bebd-809f8ca5213b",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/help/4340731",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4092041"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2016 Cumulative Update 9",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11508,
+	"releaseDate": "2018-08-14T07:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002
+}

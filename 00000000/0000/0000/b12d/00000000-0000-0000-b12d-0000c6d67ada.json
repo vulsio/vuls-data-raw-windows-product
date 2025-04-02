@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-b12d-0000c6d67ada",
+	"architectureId": 0,
+	"baseProductName": "ADAL.NET",
+	"baseProductVersion": "5.0.0",
+	"cpe": "cpe:2.3:a:microsoft:active_directory_authentication_library:*:*:*:*:*:.net:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1258",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2019-08-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/releases/tag/5.2.0",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/releases/tag/5.2.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "ADAL.NET",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11697,
+	"productVersion": "5.0.0",
+	"releaseDate": "2019-08-14T07:00:00Z",
+	"releaseNumber": "2019-Aug",
+	"severity": "Important",
+	"severityId": 100000001
+}

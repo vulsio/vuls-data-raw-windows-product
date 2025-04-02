@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-0a2a-00002eca2e74",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft OneNote 2016",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "4.6",
+	"cpe": "cpe:2.3:a:microsoft:onenote_2016:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36769",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2023-08-15T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484434",
+			"articleUrl": "https://support.microsoft.com/help/4484434",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=285cadec-bb8a-4e64-a20d-50d90920895b",
+			"fixedBuildNumber": "16.0.5408.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft OneNote 2016 (32-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10762,
+	"releaseDate": "2023-08-15T07:00:00Z",
+	"releaseNumber": "2023-Aug",
+	"severity": "Moderate",
+	"severityId": 100000002,
+	"temporalScore": "4.0",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:L/I:L/A:N/E:U/RL:O/RC:C"
+}

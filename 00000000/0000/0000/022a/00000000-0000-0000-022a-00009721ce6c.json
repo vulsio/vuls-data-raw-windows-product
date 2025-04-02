@@ -1,0 +1,44 @@
+{
+	"id": "00000000-0000-0000-022a-00009721ce6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV170017",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2017-10-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4022176",
+			"articleUrl": "https://support.microsoft.com/help/4022176",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=612bc1ed-ae41-4891-a39c-897ad968cf47",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011237"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4022172",
+			"articleUrl": "https://support.microsoft.com/help/4022172",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=df11f4bf-b0d0-44cd-bc4a-2fd0db847920",
+			"ordinal": 2,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011239"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10754,
+	"releaseDate": "2017-10-10T07:00:00Z",
+	"releaseNumber": "2017-Oct",
+	"severity": "None",
+	"severityId": 100000004
+}

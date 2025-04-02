@@ -1,0 +1,43 @@
+{
+	"id": "00000000-2743-0000-1725-0000271d1d51",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8759",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-09-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4040980",
+			"articleUrl": "https://support.microsoft.com/help/4040980",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4041083",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4019112, 4035036, 4014981, 4032113"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4040966",
+			"articleUrl": "https://support.microsoft.com/help/4040966",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4041090",
+			"ordinal": 2,
+			"rebootRequired": "Maybe",
+			"supercedence": "2978120"
+		}
+	],
+	"platform": "Windows Server 2008 R2 for x64-based Systems Service Pack 1",
+	"platformId": 10051,
+	"product": "Microsoft .NET Framework 3.5.1",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 9495,
+	"releaseDate": "2017-09-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

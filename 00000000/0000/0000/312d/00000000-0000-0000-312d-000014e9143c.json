@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-312d-000014e9143c",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-16968",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-10-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4577668",
+			"articleUrl": "https://support.microsoft.com/help/4577668",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4577668",
+			"knownIssuesName": "4577668",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4577668",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4570333"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1809 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11569,
+	"releaseDate": "2020-10-13T07:00:00Z",
+	"releaseNumber": "2020-Oct",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

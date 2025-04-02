@@ -1,0 +1,42 @@
+{
+	"id": "00000000-288a-0000-8c29-00009f0bd7f0",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0765",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2018-05-08T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4096494",
+			"articleUrl": "https://support.microsoft.com/help/4096494",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4099634",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4055265; 4074806; 4076493"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4095518",
+			"articleUrl": "https://support.microsoft.com/help/4095518",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4099638",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platform": "Windows Server 2012",
+	"platformId": 10378,
+	"product": "Microsoft .NET Framework 4.5.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10636,
+	"releaseDate": "2018-05-08T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

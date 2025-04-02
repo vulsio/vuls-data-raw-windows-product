@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-692f-000093245285",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "CBL Mariner 1.0",
+	"baseProductVersion": "1.0",
+	"cpe": "cpe:2.3:o:microsoft:cbl_mariner:1.0:*:*:*:*:*:*:x64",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-35737",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impactId": 0,
+	"initialReleaseDate": "2024-01-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "MITRE Corporation",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"sqlite-3.34.1-2.cm1.x86_64.rpm",
+				"sqlite-devel-3.34.1-2.cm1.x86_64.rpm",
+				"sqlite-libs-3.34.1-2.cm1.x86_64.rpm",
+				"sqlite-debuginfo-3.34.1-2.cm1.x86_64.rpm"
+			],
+			"articleName": "sqlite",
+			"articleUrl": "https://nvd.nist.gov/vuln/detail/CVE-2022-35737",
+			"downloadName": "CBL-Mariner",
+			"fixedBuildNumber": "3.34.1-2",
+			"ordinal": 0
+		}
+	],
+	"platformId": 0,
+	"product": "CBL Mariner 1.0 x64",
+	"productFamily": "Mariner",
+	"productFamilyId": 100000014,
+	"productId": 12137,
+	"releaseDate": "2024-01-09T08:00:00Z",
+	"releaseNumber": "2024-Jan",
+	"severityId": 0
+}

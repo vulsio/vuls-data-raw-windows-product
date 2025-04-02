@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-182e-0000efbc92ad",
+	"architectureId": 0,
+	"baseScore": "6.1",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-26886",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2021-03-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5000802",
+			"articleUrl": "https://support.microsoft.com/help/5000802",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5000802",
+			"knownIssuesName": "5000802",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5000802",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4601319"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 20H2 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11800,
+	"productVersion": "10.0.0",
+	"releaseDate": "2021-03-09T08:00:00Z",
+	"releaseNumber": "2021-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.3",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:L/A:H/E:U/RL:O/RC:C"
+}

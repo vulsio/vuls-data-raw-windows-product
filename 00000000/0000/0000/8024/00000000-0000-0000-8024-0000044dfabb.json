@@ -1,0 +1,69 @@
+{
+	"id": "00000000-0000-0000-8024-0000044dfabb",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2008 Service Pack 2 (Server Core installation)",
+	"baseProductVersion": "6.0.6003.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_sp2:{bv}:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-38256",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-908: Use of Uninitialized Resource",
+				"https://cwe.mitre.org/data/definitions/908.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-908: Use of Uninitialized Resource"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2024-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5043135",
+			"articleUrl": "https://support.microsoft.com/help/5043135",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5043135",
+			"fixedBuildNumber": "6.0.6003.22870",
+			"knownIssuesName": "5043135",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5043135",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5041850"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5043087",
+			"articleUrl": "https://support.microsoft.com/help/5043087",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5043087",
+			"fixedBuildNumber": "6.0.6003.22870",
+			"knownIssuesName": "5043087",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5043087",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9344,
+	"releaseDate": "2024-09-10T07:00:00Z",
+	"releaseNumber": "2024-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

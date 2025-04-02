@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-6f29-0000a191c4f3",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8629",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2017-09-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011113",
+			"articleUrl": "https://support.microsoft.com/help/4011113",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=4df75d92-55d6-45d9-ac16-7aa923a0bb44",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3203387"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10607,
+	"releaseDate": "2017-09-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

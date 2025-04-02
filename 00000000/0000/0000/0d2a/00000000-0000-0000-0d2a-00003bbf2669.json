@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-0d2a-00003bbf2669",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8663",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-07-27T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011052",
+			"articleUrl": "https://support.microsoft.com/help/4011052",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=5780cd73-4f3b-4a4a-9f1e-e7f246ec8a07",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3191932"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2016 (32-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10765,
+	"releaseDate": "2017-07-27T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

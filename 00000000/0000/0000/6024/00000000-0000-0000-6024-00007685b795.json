@@ -1,0 +1,59 @@
+{
+	"id": "00000000-0000-0000-6024-00007685b795",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows Server 2008 Service Pack 2",
+	"baseProductVersion": "6.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_sp2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-1489",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-08-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				";.\\srm\\bin\\srmsvc.dll;atmfd.dll;cscsvc.dll;dwrite.dll;fdSSDP.dll;fntcache.dll;gdiplus.dll;ipmontr.dll;mf3216.dll;mp4sdecd.dll;msisip.dll;msjet40.dll;msrd3x40.dll;msxbde40.dll;nfssvr.sys;ntkrnlmp.exe;pbkmigr.dll;PrintBrmEngine.exe;rasapi32.dll;rasdlg.dll;rasgcw.dll;rasmxs.dll;rasplap.dll;rasser.dll;sdengin2.dll;tapisrv.dll;Upnphost.dll;wiaservc.dll;win32k.sys;wmadmod.dll;wmisvc.dll"
+			],
+			"articleName": "4571730",
+			"articleUrl": "https://support.microsoft.com/help/4571730",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4571730",
+			"knownIssuesName": "4571730",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4571730",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4565536"
+		},
+		{
+			"affectedBinaries": [
+				";.\\srm\\bin\\srmsvc.dll;atmfd.dll;cscsvc.dll;dwrite.dll;fdSSDP.dll;fntcache.dll;gdiplus.dll;ipmontr.dll;mf3216.dll;mp4sdecd.dll;msisip.dll;msjet40.dll;msrd3x40.dll;msxbde40.dll;nfssvr.sys;ntkrnlmp.exe;pbkmigr.dll;PrintBrmEngine.exe;rasapi32.dll;rasdlg.dll;rasgcw.dll;rasmxs.dll;rasplap.dll;rasser.dll;sdengin2.dll;tapisrv.dll;Upnphost.dll;wiaservc.dll;win32k.sys;wmadmod.dll;wmisvc.dll"
+			],
+			"articleName": "4571746",
+			"articleUrl": "https://support.microsoft.com/help/4571746",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4571746",
+			"knownIssuesName": "4571746",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4571746",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for 32-bit Systems Service Pack 2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9312,
+	"productVersion": "6.0.0",
+	"releaseDate": "2020-08-11T07:00:00Z",
+	"releaseNumber": "2020-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

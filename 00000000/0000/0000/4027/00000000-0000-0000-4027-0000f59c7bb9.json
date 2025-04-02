@@ -1,0 +1,62 @@
+{
+	"id": "00000000-0000-0000-4027-0000f59c7bb9",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 7 Service Pack 1",
+	"baseProductVersion": "6.1.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_7:*:sp1:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17047",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2020-11-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				";.\\win8ip\\win7\\mstscax.dll;.\\win8ip\\win7\\rdpcorets.dll;.\\winblueip\\win7\\mstscax.dll;cdd.dll;fdssdp.dll;gdiplus.dll;ipmontr.dll;ks.sys;localspl.dll;mstscax.dll;ndis.sys;nfssvr.sys;Portcls.sys;RAMgmtPSProvider.dll;Rasapi32.dll;rasdlg.dll;rasgcw.dll;rasplap.dll;rdp4vs.dll;rdpcore.dll;rdpcorets.dll;rdpwd.sys;tsmf.dll;unidrvui.dll",
+				"ps5ui.dll",
+				"pscript5.dll;win32k.sys;wintrust.dll"
+			],
+			"articleName": "4586827",
+			"articleUrl": "https://support.microsoft.com/help/4586827",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4586827",
+			"knownIssuesName": "4586827",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4586827",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4580345"
+		},
+		{
+			"affectedBinaries": [
+				";.\\win8ip\\win7\\mstscax.dll;.\\win8ip\\win7\\rdpcorets.dll;.\\winblueip\\win7\\mstscax.dll;cdd.dll;fdssdp.dll;gdiplus.dll;ipmontr.dll;ks.sys;localspl.dll;mstscax.dll;ndis.sys;nfssvr.sys;Portcls.sys;RAMgmtPSProvider.dll;Rasapi32.dll;rasdlg.dll;rasgcw.dll;rasplap.dll;rdp4vs.dll;rdpcore.dll;rdpcorets.dll;rdpwd.sys;tsmf.dll;unidrvui.dll",
+				"ps5ui.dll",
+				"pscript5.dll;win32k.sys;wintrust.dll"
+			],
+			"articleName": "4586805",
+			"articleUrl": "https://support.microsoft.com/help/4586805",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4586805",
+			"knownIssuesName": "4586805",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4586805",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 7 for x64-based Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10048,
+	"releaseDate": "2020-11-10T08:00:00Z",
+	"releaseNumber": "2020-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:P/RL:O/RC:C"
+}

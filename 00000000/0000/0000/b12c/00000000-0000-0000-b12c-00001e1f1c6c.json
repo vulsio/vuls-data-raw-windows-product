@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-b12c-00001e1f1c6c",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft Office 2013 Click-to-Run (C2R)",
+	"baseProductVersion": "15.0.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:office:2013:*:*:*:click-to-run:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-22004",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2022-02-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Update History",
+			"articleUrl": "https://docs.microsoft.com/en-us/officeupdates/update-history-office-2013",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "15.0.5415.xxxxxx",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2013 Click-to-Run (C2R) for 32-bit editions",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11441,
+	"releaseDate": "2022-02-08T08:00:00Z",
+	"releaseNumber": "2022-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,30 @@
+{
+	"id": "00000000-0000-0000-6f2d-000091bdb8f3",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0816",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2019-03-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4491476",
+			"articleUrl": "https://support.microsoft.com/help/4491476",
+			"downloadName": "Security Update",
+			"ordinal": 1,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "UbuntuServer:18.04-LTS",
+	"productFamily": "Open Source Software",
+	"productFamilyId": 100000003,
+	"productId": 11631,
+	"releaseDate": "2019-03-12T07:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002
+}

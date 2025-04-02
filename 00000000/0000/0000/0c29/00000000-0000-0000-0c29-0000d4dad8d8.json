@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-0c29-0000d4dad8d8",
+	"architectureId": 0,
+	"baseScore": "7.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-27055",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2021-03-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484376",
+			"articleUrl": "https://support.microsoft.com/kb/4484376",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=f2ed5b79-5768-4299-962a-51bc5849a715",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4462225"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visio 2010 Service Pack 2 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10508,
+	"productVersion": "2010 Service Pack 2 (32-bit editions)",
+	"releaseDate": "2021-03-09T08:00:00Z",
+	"releaseNumber": "2021-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.1",
+	"vectorString": "CVSS:3.1/AV:L/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

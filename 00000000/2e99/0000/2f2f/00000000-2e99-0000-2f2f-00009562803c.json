@@ -1,0 +1,42 @@
+{
+	"id": "00000000-2e99-0000-2f2f-00009562803c",
+	"architectureId": 0,
+	"baseProductName": "Microsoft .NET Framework 3.5 AND 4.8.1",
+	"baseProductVersion": "4.8.1",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:.net:4.8.1:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-32030",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2023-06-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5027537",
+			"articleUrl": "https://support.microsoft.com/help/5027537",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5027117",
+			"fixedBuildNumber": "4.8.9166.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5022728, 5026958, 5022729"
+		}
+	],
+	"platform": "Windows 10 Version 21H2 for 32-bit Systems",
+	"platformId": 11929,
+	"product": "Microsoft .NET Framework 3.5 AND 4.8.1",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12079,
+	"releaseDate": "2023-06-13T07:00:00Z",
+	"releaseNumber": "2023-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-bf2f-00002afc4761",
+	"architectureId": 0,
+	"baseProductName": "Skype for Business Server 2019 CU7",
+	"baseProductVersion": "2046.0",
+	"baseScore": "5.3",
+	"cpe": "cpe:2.3:a:microsoft:skype_for_business_server:2019:cu7:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-41763",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-918: Server-Side Request Forgery (SSRF)",
+				"https://cwe.mitre.org/data/definitions/918.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-918: Server-Side Request Forgery (SSRF)"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2023-10-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4470124",
+			"articleUrl": "https://support.microsoft.com/help/4470124",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://support.microsoft.com/help/4470124",
+			"fixedBuildNumber": "7.0.246.530",
+			"knownIssuesName": "4470124",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4470124",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Skype for Business Server 2019 CU7",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 12223,
+	"releaseDate": "2023-10-10T07:00:00Z",
+	"releaseNumber": "2023-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N/E:P/RL:O/RC:C"
+}

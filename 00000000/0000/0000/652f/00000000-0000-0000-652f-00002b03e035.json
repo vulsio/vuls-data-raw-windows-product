@@ -1,0 +1,50 @@
+{
+	"id": "00000000-0000-0000-652f-00002b03e035",
+	"architectureId": 0,
+	"baseProductName": "Windows Terminal for Windows 10",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:terminal:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-44702",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2022-12-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/microsoft/terminal/releases/tag/v1.15.2874.0",
+			"downloadName": "App Store",
+			"downloadUrl": "https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=en-us&gl=us",
+			"fixedBuildNumber": "1.15.2874.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/microsoft/terminal/releases/tag/v1.15.2874.0",
+			"downloadName": "GitHub",
+			"downloadUrl": "https://github.com/microsoft/terminal/releases/tag/v1.15.2874.0",
+			"fixedBuildNumber": "1.15.2874.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Terminal for Windows 10",
+	"productFamily": "Apps",
+	"productFamilyId": 100000012,
+	"productId": 12133,
+	"releaseDate": "2022-12-13T08:00:00Z",
+	"releaseNumber": "2022-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

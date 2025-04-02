@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-a728-0000df6d0b8d",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Microsoft Outlook 2013 Service Pack 1",
+	"baseProductVersion": "15.0.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:outlook:2013:*:*:*:rt:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-31941",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-06-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5001934",
+			"articleUrl": "https://support.microsoft.com/kb/5001934",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "15.0.5475.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4504733"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2013 RT Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10407,
+	"releaseDate": "2021-06-08T07:00:00Z",
+	"releaseNumber": "2021-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-632d-0000183bce6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV190018",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2019-06-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4503028",
+			"articleUrl": "https://support.microsoft.com/help/4503028",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=705484dc-a5a6-46c7-994f-57ab41678253",
+			"knownIssuesName": "4503028",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4503028",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4487563"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2013 Cumulative Update 22",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11619,
+	"releaseDate": "2019-06-11T07:00:00Z",
+	"severityId": 0
+}

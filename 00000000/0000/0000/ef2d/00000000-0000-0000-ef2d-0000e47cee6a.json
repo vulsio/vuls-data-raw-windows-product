@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-ef2d-0000e47cee6a",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV200007",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2020-04-21T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://www.openssl.org/news/secadv/20200421.txt",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.openssl.org/source/",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "OpenSSL 1.1.1g",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11759,
+	"releaseDate": "2020-04-21T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Important",
+	"severityId": 100000001
+}

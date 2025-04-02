@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-c72a-0000299b92c1",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows 10 Version 1703",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "4.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_10:1703:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8417",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2018-11-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4467696",
+			"articleUrl": "https://support.microsoft.com/help/4467696",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4467696",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4462937"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1703 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10951,
+	"releaseDate": "2018-11-13T08:00:00Z",
+	"releaseNumber": "2018-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.5",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:L/I:L/A:L"
+}

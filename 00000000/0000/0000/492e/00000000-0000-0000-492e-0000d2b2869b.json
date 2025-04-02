@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-492e-0000d2b2869b",
+	"architectureId": 0,
+	"baseProductName": "Remote Desktop client for Windows Desktop",
+	"baseProductVersion": "1.2.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:remote_desktop:-:*:*:*:*:windows:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-38131",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-591: Sensitive Data Storage in Improperly Locked Memory",
+				"https://cwe.mitre.org/data/definitions/591.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-591: Sensitive Data Storage in Improperly Locked Memory"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-08-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-client-windows#updates-for-version-125560",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-client-windows#updates-for-version-125560",
+			"fixedBuildNumber": "1.2.5560.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Remote Desktop client for Windows Desktop",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11849,
+	"releaseDate": "2024-08-13T07:00:00Z",
+	"releaseNumber": "2024-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

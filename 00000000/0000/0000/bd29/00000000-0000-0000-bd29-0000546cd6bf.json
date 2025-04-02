@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-bd29-0000546cd6bf",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Outlook for Android",
+	"baseProductVersion": "1.0",
+	"baseScore": "6.3",
+	"cpe": "cpe:2.3:a:microsoft:outlook:2016:*:*:*:*:android:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-24480",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2022-12-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook",
+			"fixedBuildNumber": "Publication",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook for Android",
+	"productFamily": "Apps",
+	"productFamilyId": 100000012,
+	"productId": 10685,
+	"releaseDate": "2022-12-13T08:00:00Z",
+	"releaseNumber": "2022-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.5",
+	"vectorString": "CVSS:3.1/AV:P/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-322d-00000cd67ada",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1454",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2019-11-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4519338",
+			"articleUrl": "https://support.microsoft.com/help/4519338",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4519338",
+			"knownIssuesName": "4519338",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4519338",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4524148"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1809 for ARM64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11570,
+	"releaseDate": "2019-11-12T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-972a-00005705fe20",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0669",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2019-02-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4461608",
+			"articleUrl": "https://support.microsoft.com/kb/4461608",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=b7c1bbf8-8cb6-4f91-94a3-f6782765015e",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4461566"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel Viewer",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10903,
+	"releaseDate": "2019-02-12T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

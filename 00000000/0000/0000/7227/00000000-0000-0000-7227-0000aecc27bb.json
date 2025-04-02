@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-7227-0000aecc27bb",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-1037",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2018-04-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4091346",
+			"articleUrl": "https://support.microsoft.com/help/4091346",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://download.visualstudio.microsoft.com/download/pr/12043046/0cc279e34958fb236c6005a6ffdb40dc/VS10SP1-KB4091346-x86.exe",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2010 Service Pack 1",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10098,
+	"releaseDate": "2018-04-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

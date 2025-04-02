@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-302d-000086d42eb3",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows 10 Version 1809",
+	"baseProductVersion": "10.0.17763.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_1809:{bv}:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-28901",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-126: Buffer Over-read",
+				"https://cwe.mitre.org/data/definitions/126.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-126: Buffer Over-read"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2024-04-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5036896",
+			"articleUrl": "https://support.microsoft.com/help/5036896",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5036896",
+			"fixedBuildNumber": "10.0.17763.5696",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5035849"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1809 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11568,
+	"releaseDate": "2024-04-09T07:00:00Z",
+	"releaseNumber": "2024-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

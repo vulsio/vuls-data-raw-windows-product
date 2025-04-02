@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-fa29-0000b66ce746",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft Word 2016",
+	"baseProductVersion": "16.0.1",
+	"baseScore": "3.3",
+	"cpe": "cpe:2.3:a:microsoft:word:2016:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-17020",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2020-11-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4486719",
+			"articleUrl": "https://support.microsoft.com/kb/4486719",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=af00e20b-3992-43a5-b2ad-3fd9bb018bc5",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4486679"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2016 (32-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10746,
+	"releaseDate": "2020-11-10T08:00:00Z",
+	"releaseNumber": "2020-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "2.9",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-5d2d-000097ad7663",
+	"architectureId": 0,
+	"baseProductName": "Skype for Business Server 2015 CU 8",
+	"baseProductVersion": "2015 CU 8",
+	"baseScore": "6.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-24099",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2021-02-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5000675",
+			"articleUrl": "https://support.microsoft.com/help/5000675",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=0d08ed37-106a-456f-a5c6-61df22588bec",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Skype for Business Server 2015 CU 8",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11613,
+	"productVersion": "2015 CU 8",
+	"releaseDate": "2021-02-09T08:00:00Z",
+	"releaseNumber": "2021-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

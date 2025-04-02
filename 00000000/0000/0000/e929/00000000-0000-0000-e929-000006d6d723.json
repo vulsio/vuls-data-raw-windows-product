@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-e929-000006d6d723",
+	"architectureId": 0,
+	"baseScore": "8.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8682",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-09-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4038781",
+			"articleUrl": "https://support.microsoft.com/help/4038781",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4038781",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4034668"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10729,
+	"releaseDate": "2017-09-12T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.6",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

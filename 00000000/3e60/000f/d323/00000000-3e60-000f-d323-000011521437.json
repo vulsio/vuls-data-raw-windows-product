@@ -1,0 +1,38 @@
+{
+	"id": "00000000-3e60-000f-d323-000011521437",
+	"architectureId": 0,
+	"baseProductName": "Excel Services",
+	"baseProductVersion": "15.0.0",
+	"cpe": "cpe:2.3:a:microsoft:excel_services:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0027",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3178685",
+			"articleUrl": "https://support.microsoft.com/kb/3178685",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=f4ae53ac-28ba-44fb-9a06-d14cf4d1b52b",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3128029"
+		}
+	],
+	"platform": "Microsoft Sharepoint Server 2010 Service Pack 2 Bad",
+	"platformId": 999008,
+	"product": "Excel Services",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 9171,
+	"releaseDate": "2017-03-14T07:00:00Z",
+	"releaseNumber": "2017-Mar",
+	"severity": "Important",
+	"severityId": 100000001
+}

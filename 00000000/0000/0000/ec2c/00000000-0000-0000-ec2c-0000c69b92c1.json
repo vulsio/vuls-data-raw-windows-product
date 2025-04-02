@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-ec2c-0000c69b92c1",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8117",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2018-04-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Information",
+			"articleUrl": "https://www.microsoft.com/accessories/en-us/products/keyboards/wireless-keyboard-850/pz3-00001",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://go.microsoft.com/fwlink/?linkid=871281",
+			"ordinal": 1,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Wireless Keyboard 850",
+	"productFamily": "Device",
+	"productFamilyId": 100000011,
+	"productId": 11500,
+	"releaseDate": "2018-04-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

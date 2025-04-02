@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-1427-00009b25ce6c",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Exchange Server 2007 Service Pack 3",
+	"baseProductVersion": "0",
+	"cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "ADV160012",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3151086",
+			"articleUrl": "https://support.microsoft.com/kb/316086",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=96460a5b-8823-4e1a-9a6d-faccd320b6af",
+			"ordinal": 0,
+			"supercedence": "2996150"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2007 Service Pack 3",
+	"productFamily": "Server Software",
+	"productFamilyId": 100000004,
+	"productId": 10004,
+	"releaseDate": "2016-06-14T07:00:00Z",
+	"releaseNumber": "2016-Jun",
+	"severity": "Important",
+	"severityId": 100000001
+}

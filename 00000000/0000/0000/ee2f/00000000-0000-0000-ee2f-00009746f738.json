@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-ee2f-00009746f738",
+	"architectureId": 0,
+	"baseProductName": "Azure DevOps Server 2022",
+	"baseProductVersion": "20231128.1",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:o:microsoft:azure_devops_server:2022.1:-:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-21751",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-284: Improper Access Control",
+				"https://cwe.mitre.org/data/definitions/284.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-284: Improper Access Control"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2023-12-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/azure/devops/server/release-notes/azuredevops2022u1?view=azure-devops&tabs=yaml",
+			"downloadName": "Security Update",
+			"downloadUrl": "file://cpvsbuild/drops/mseng/tfs/Dev19/releases_M225.AzureDevOps2022.1/layouts/x86ret/Tfs2018Sgn_20231128.1/enu/devops/Patch",
+			"fixedBuildNumber": "20231128.1",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure DevOps Server 2022.1",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12270,
+	"releaseDate": "2023-12-13T08:00:00Z",
+	"releaseNumber": "2023-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:N/E:U/RL:O/RC:C"
+}

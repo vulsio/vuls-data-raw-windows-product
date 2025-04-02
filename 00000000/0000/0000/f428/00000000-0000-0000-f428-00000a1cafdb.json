@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-f428-00000a1cafdb",
+	"architectureId": 0,
+	"baseScore": "7.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0543",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2019-01-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4480963",
+			"articleUrl": "https://support.microsoft.com/help/4480963",
+			"downloadName": "Monthly Rollup",
+			"knownIssuesName": "4480963",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4480963",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4471320"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows RT 8.1",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10484,
+	"releaseDate": "2019-01-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.8",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+}

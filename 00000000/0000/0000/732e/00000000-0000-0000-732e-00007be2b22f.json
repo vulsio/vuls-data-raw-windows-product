@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-732e-00007be2b22f",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Accessibility Insights for Web",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.4",
+	"cpe": "cpe:2.3:a:microsoft:accessibility_insights_for_web:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-31936",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2021-05-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/microsoft/accessibility-insights-web/releases/tag/web%402.26.0",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://accessibilityinsights.io/downloads/",
+			"fixedBuildNumber": "2.26.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Accessibility Insights for Web",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11891,
+	"productVersion": "1.0.0",
+	"releaseDate": "2021-05-11T07:00:00Z",
+	"releaseNumber": "2021-May",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-1929-00009721ce6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV170017",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2017-10-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4022206",
+			"articleUrl": "https://support.microsoft.com/help/4022206",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=b4016c8c-9fa6-40c0-ae74-93b3a66e6c0d",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4011274"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4022208",
+			"articleUrl": "https://support.microsoft.com/help/4022208",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=c9e5660e-9c33-4303-b82a-fe62be624ad1",
+			"ordinal": 2,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2010 Service Pack 2 (32-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10521,
+	"releaseDate": "2017-10-10T07:00:00Z",
+	"releaseNumber": "2017-Oct",
+	"severity": "None",
+	"severityId": 100000004
+}

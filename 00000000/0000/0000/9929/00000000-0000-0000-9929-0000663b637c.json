@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-9929-0000663b637c",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Office Web Apps Server 2010 Service Pack 2",
+	"baseProductVersion": "0",
+	"cpe": "cpe:2.3:a:microsoft:office_web_apps_server:2010:sp2:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0105",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3178689",
+			"articleUrl": "https://support.microsoft.com/kb/3178689",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=6cfa7ba7-03cc-43e4-9728-ed8b79566046",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3128035"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Web Apps Server 2010 Service Pack 2",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10649,
+	"releaseDate": "2017-03-14T07:00:00Z",
+	"releaseNumber": "2017-Mar",
+	"severity": "Important",
+	"severityId": 100000001
+}

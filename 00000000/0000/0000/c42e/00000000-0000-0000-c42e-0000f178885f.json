@@ -1,0 +1,41 @@
+{
+	"id": "00000000-0000-0000-c42e-0000f178885f",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "SharePoint Server Subscription Edition Language Pack",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server:-:language_pack:*:*:subscription:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-41060",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2022-11-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002291",
+			"articleUrl": "https://support.microsoft.com/help/5002291",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=94825ac1-0f72-495f-90d1-55819b5496c1",
+			"fixedBuildNumber": "16.0.15601.20238",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "SharePoint Server Subscription Edition Language Pack",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11972,
+	"releaseDate": "2022-11-08T08:00:00Z",
+	"releaseNumber": "2022-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

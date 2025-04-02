@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-d22f-000067e456b7",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Windows 11 version 22H3",
+	"baseProductVersion": "10.0.22631.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_11_23H2:{bv}:*:*:*:*:*:arm64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-21418",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-122: Heap-based Buffer Overflow",
+				"https://cwe.mitre.org/data/definitions/122.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-122: Heap-based Buffer Overflow"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2025-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5051989",
+			"articleUrl": "https://support.microsoft.com/help/5051989",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5051989",
+			"fixedBuildNumber": "10.0.22631.4890",
+			"knownIssuesName": "5051989",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5051989",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5050021"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 11 Version 23H2 for ARM64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 12242,
+	"releaseDate": "2025-02-11T08:00:00Z",
+	"releaseNumber": "2025-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.2",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:F/RL:O/RC:C"
+}

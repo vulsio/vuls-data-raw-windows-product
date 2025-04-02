@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-5628-0000aecc27bb",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-1037",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2018-04-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4089501",
+			"articleUrl": "https://support.microsoft.com/help/4089501",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://download.visualstudio.microsoft.com/download/pr/12064878/0050b099d6fb882f69547ee3011651f3/VS11-KB4089501.exe",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2012 Update 5",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10326,
+	"releaseDate": "2018-04-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

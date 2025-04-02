@@ -1,0 +1,33 @@
+{
+	"id": "00000000-0000-0000-ac27-0000b57a1339",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8508",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2017-06-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3191898",
+			"articleUrl": "https://support.microsoft.com/en-us/help/3191898",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=1fb1a320-983d-4743-9437-53973e05f558",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/help/3191898",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3127890"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2007 Service Pack 3",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10156,
+	"releaseDate": "2017-06-13T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

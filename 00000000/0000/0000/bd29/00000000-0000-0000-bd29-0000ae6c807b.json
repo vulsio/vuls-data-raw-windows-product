@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-bd29-0000ae6c807b",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Outlook for Android",
+	"baseProductVersion": "1.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:outlook:2016:*:*:*:*:android:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-26204",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-77: Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+				"https://cwe.mitre.org/data/definitions/77.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-77: Improper Neutralization of Special Elements used in a Command ('Command Injection')"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2024-03-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/officeupdates/release-notes-outlook-mobile",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://play.google.com/store/apps/details/Microsoft_Outlook?id=com.microsoft.office.outlook&hl=en_US&pli=1",
+			"fixedBuildNumber": "4.2404.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook for Android",
+	"productFamily": "Apps",
+	"productFamilyId": 100000012,
+	"productId": 10685,
+	"releaseDate": "2024-03-12T07:00:00Z",
+	"releaseNumber": "2024-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

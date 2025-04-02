@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-cd2e-00002cf799cb",
+	"architectureId": 0,
+	"baseProductName": "App Installer",
+	"baseProductVersion": "1.0.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:app_installer:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-38177",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-116: Improper Encoding or Escaping of Output",
+				"https://cwe.mitre.org/data/definitions/116.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-116: Improper Encoding or Escaping of Output"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2024-08-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/windows/msix/app-installer/install-update-app-installer",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://aka.ms/getwinget",
+			"fixedBuildNumber": "1.22.11261.0",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "App Installer",
+	"productFamily": "Apps",
+	"productFamilyId": 100000012,
+	"productId": 11981,
+	"releaseDate": "2024-08-13T07:00:00Z",
+	"releaseNumber": "2024-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

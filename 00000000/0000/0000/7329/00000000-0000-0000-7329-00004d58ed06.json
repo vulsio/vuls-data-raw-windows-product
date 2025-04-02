@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-7329-00004d58ed06",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0127",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-04-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3114934",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3114934",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=aba6bf56-1ed7-49fa-b8ef-5636624637b7",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3114821"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Web Apps Server 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10611,
+	"releaseDate": "2016-04-12T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

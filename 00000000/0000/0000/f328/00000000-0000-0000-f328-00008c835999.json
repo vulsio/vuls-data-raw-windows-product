@@ -1,0 +1,52 @@
+{
+	"id": "00000000-0000-0000-f328-00008c835999",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2012 R2",
+	"baseProductVersion": "6.3.9600.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2012_R2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-35820",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2022-08-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5016681",
+			"articleUrl": "https://support.microsoft.com/help/5016681",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5016681",
+			"fixedBuildNumber": "6.3.9600.20520",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5015874"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5016683",
+			"articleUrl": "https://support.microsoft.com/help/5016683",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5016683",
+			"fixedBuildNumber": "6.3.9600.20520",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 R2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10483,
+	"releaseDate": "2022-08-09T07:00:00Z",
+	"releaseNumber": "2022-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

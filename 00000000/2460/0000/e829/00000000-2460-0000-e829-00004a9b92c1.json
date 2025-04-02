@@ -1,0 +1,42 @@
+{
+	"id": "00000000-2460-0000-e829-00004a9b92c1",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8517",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2018-12-11T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4470637",
+			"articleUrl": "https://support.microsoft.com/help/4470637",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4471990",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4467227; 4467243"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4470500",
+			"articleUrl": "https://support.microsoft.com/help/4470500",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4471984",
+			"ordinal": 2,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2008 for 32-bit Systems Service Pack 2",
+	"platformId": 9312,
+	"product": "Microsoft .NET Framework 4.6",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10728,
+	"releaseDate": "2018-12-11T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

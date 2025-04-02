@@ -1,0 +1,33 @@
+{
+	"id": "00000000-273f-0000-f628-000079faf61e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0154",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-04-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3148198",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3148198",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=742fffb3-232c-4082-b054-853b6ad48406",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3139929"
+		}
+	],
+	"platform": "Windows 7 for 32-bit Systems Service Pack 1",
+	"platformId": 10047,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2016-04-12T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

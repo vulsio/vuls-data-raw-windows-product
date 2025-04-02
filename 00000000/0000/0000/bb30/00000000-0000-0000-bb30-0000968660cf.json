@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-bb30-0000968660cf",
+	"architectureId": 0,
+	"baseProductName": "Azure AI Face Service",
+	"baseProductVersion": "1.0",
+	"baseScore": "9.9",
+	"cpe": "cpe:2.3:a:microsoft:azure_ai_face_service:*:*:*:*:*:*:*:*",
+	"customerActionRequired": false,
+	"cveNumber": "CVE-2025-21415",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-290: Authentication Bypass by Spoofing",
+				"https://cwe.mitre.org/data/definitions/290.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-290: Authentication Bypass by Spoofing"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2025-01-29T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Azure AI Face Service",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12475,
+	"releaseDate": "2025-01-29T08:00:00Z",
+	"releaseNumber": "2025-Jan",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.9",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

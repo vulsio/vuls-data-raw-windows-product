@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-a728-0000f97884f2",
+	"architecture": "ARM",
+	"architectureId": 4,
+	"baseProductName": "Microsoft Outlook 2013 Service Pack 1",
+	"baseProductVersion": "15.0.0.0",
+	"cpe": "cpe:2.3:a:microsoft:outlook:2013:*:*:*:rt:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1204",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2019-08-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4475563",
+			"articleUrl": "https://support.microsoft.com/kb/4475563",
+			"downloadName": "Security Update",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4464592"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Outlook 2013 RT Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10407,
+	"productVersion": "15.0.0.0",
+	"releaseDate": "2019-08-13T07:00:00Z",
+	"releaseNumber": "2019-Aug",
+	"severity": "Important",
+	"severityId": 100000001
+}

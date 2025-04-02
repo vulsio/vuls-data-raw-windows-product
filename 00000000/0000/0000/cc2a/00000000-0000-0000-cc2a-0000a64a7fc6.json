@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-cc2a-0000a64a7fc6",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8695",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-09-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4025869",
+			"articleUrl": "http://support.microsoft.com/kb/4025869",
+			"downloadName": "Security Update",
+			"downloadUrl": "http://support.microsoft.com/kb/4025869",
+			"ordinal": 1,
+			"supercedence": "4020736"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Live Meeting 2007 Add-in",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10956,
+	"releaseDate": "2017-09-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

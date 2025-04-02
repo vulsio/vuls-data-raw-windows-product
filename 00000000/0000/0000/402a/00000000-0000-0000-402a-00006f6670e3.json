@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-402a-00006f6670e3",
+	"architectureId": 0,
+	"baseScore": "8.2",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0689",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2020-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5012170",
+			"articleUrl": "https://support.microsoft.com/help/5012170",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5012170",
+			"fixedBuildNumber": "10.0.14393.5285",
+			"knownIssuesName": "5012170",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5012170",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4535680"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2016",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10816,
+	"releaseDate": "2020-02-11T08:00:00Z",
+	"releaseNumber": "2020-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.6",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:H/UI:N/S:C/C:H/I:H/A:H/E:F/RL:O/RC:C"
+}

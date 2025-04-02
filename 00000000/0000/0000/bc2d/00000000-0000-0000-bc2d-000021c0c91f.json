@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-bc2d-000021c0c91f",
+	"architectureId": 0,
+	"baseProductName": "Windows Azure Pack Web Sites V2",
+	"baseProductVersion": "1.0",
+	"cpe": "cpe:2.3:a:microsoft:azure_app_service_on_azure_stack:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1372",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-10-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4524964",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4524964",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/download/details.aspx?id=100854",
+			"knownIssuesUrl": "https://www.microsoft.com/en-us/download/details.aspx?id=100854",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Azure Pack Web Sites V2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11708,
+	"releaseDate": "2019-10-08T07:00:00Z",
+	"releaseNumber": "2019-Oct",
+	"severity": "Critical",
+	"severityId": 100000000
+}

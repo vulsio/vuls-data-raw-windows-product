@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-2728-000027eceb00",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7265",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-12-13T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3128023",
+			"articleUrl": "https://support.microsoft.com/kb/3128023",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=e47182ec-fab0-4d46-9462-cb4035864d72",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3127893"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel Viewer 2007 Service Pack 3",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10279,
+	"releaseDate": "2016-12-13T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

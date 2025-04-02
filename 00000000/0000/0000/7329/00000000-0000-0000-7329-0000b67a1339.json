@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-7329-0000b67a1339",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8509",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-06-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3203391",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3203391",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=fe7cbd47-c6a9-414b-ae47-c57051762812",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3191888"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Web Apps Server 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10611,
+	"releaseDate": "2017-06-13T07:00:00Z",
+	"severity": "Moderate",
+	"severityId": 100000002
+}

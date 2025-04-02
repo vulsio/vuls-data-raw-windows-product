@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-8a28-00009df26027",
+	"architectureId": 0,
+	"baseScore": "6.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3258",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2016-07-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3170377",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3170377",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=2b09fb78-60ea-4f14-a4e2-5289a2000930",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3153171"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10378,
+	"releaseDate": "2016-07-12T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:N/E:P/RL:O/RC:C"
+}

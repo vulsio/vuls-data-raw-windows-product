@@ -1,0 +1,21 @@
+{
+	"id": "00000000-0000-0000-1d27-0000ff544634",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0290",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-05-08T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Microsoft Security Essentials",
+	"productFamily": "System Center",
+	"productFamilyId": 100000009,
+	"productId": 10013,
+	"releaseDate": "2017-05-08T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

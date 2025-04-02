@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-642d-000073ed2b95",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1136",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2019-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4509409",
+			"articleUrl": "https://support.microsoft.com/help/4509409",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=d44bad0f-f22f-4d18-815c-849d2ced2a95",
+			"knownIssuesName": "4509409",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4509409",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4503027"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2016 Cumulative Update 12",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 11620,
+	"releaseDate": "2019-07-09T07:00:00Z",
+	"releaseNumber": "2019-Jul",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-382f-00004f53c526",
+	"architectureId": 0,
+	"baseProductName": "Azure Service Fabric Explorer",
+	"baseProductVersion": "8.1.0.0",
+	"baseScore": "6.2",
+	"cpe": "cpe:2.3:a:microsoft:azure_service_fabric:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-35829",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2022-10-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://learn.microsoft.com/en-us/azure/service-fabric/service-fabric-versions",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "8.1.316.9590",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Service Fabric Explorer",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12088,
+	"releaseDate": "2022-10-11T07:00:00Z",
+	"releaseNumber": "2022-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.4",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:H/UI:R/S:C/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

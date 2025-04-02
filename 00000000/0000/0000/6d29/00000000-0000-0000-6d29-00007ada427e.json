@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-6d29-00007ada427e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0812",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-01-09T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011580",
+			"articleUrl": "https://support.microsoft.com/help/4011580",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=13eebd26-08aa-4ea0-8926-cf32bf561cc7",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3162047"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Word 2013 Service Pack 1 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10605,
+	"releaseDate": "2018-01-09T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

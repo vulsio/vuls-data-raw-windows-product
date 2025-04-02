@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-e62f-00006be87e08",
+	"architectureId": 0,
+	"baseProductName": "PowerShell 7.4",
+	"baseProductVersion": "7.4.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:powershell:7.4:-:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-38095",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-20: Improper Input Validation",
+				"https://cwe.mitre.org/data/definitions/20.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-20: Improper Input Validation"
+	],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2024-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/PowerShell/Announcements/issues/64",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/PowerShell/Announcements/issues/64",
+			"fixedBuildNumber": "7.4.4",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "PowerShell 7.4",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12262,
+	"releaseDate": "2024-07-09T07:00:00Z",
+	"releaseNumber": "2024-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

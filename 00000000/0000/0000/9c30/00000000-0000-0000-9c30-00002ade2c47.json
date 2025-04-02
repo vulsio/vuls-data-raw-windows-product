@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-9c30-00002ade2c47",
+	"architectureId": 0,
+	"baseProductName": "airlift.microsoft.com",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.3",
+	"cpe": "cpe:2.3:a:microsoft:airlift_microsoft_com:*:*:*:*:*:*:*:*",
+	"customerActionRequired": false,
+	"cveNumber": "CVE-2024-49056",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-302: Authentication Bypass by Assumed-Immutable Data",
+				"https://cwe.mitre.org/data/definitions/302.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-302: Authentication Bypass by Assumed-Immutable Data"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-11-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "airlift.microsoft.com",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12444,
+	"releaseDate": "2024-11-12T08:00:00Z",
+	"releaseNumber": "2024-Nov",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.4",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:N/E:U/RL:O/RC:C"
+}

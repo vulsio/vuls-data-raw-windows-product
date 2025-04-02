@@ -1,0 +1,33 @@
+{
+	"id": "00000000-2464-0000-eb23-0000156f9ec1",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-0145",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-04-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3142041",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3142041",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3142041",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3135987"
+		}
+	],
+	"platform": "Windows Vista x64 Edition Service Pack 2",
+	"platformId": 9316,
+	"product": "Microsoft .NET Framework 3.0 Service Pack 2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 9195,
+	"releaseDate": "2016-04-12T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

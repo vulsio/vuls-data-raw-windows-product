@@ -1,0 +1,30 @@
+{
+	"id": "00000000-0000-0000-022a-00003096750f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV170005",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impactId": 0,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3178702",
+			"articleUrl": "https://support.microsoft.com/kb/3178702",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=ab14986b-b878-4e96-ad9e-2c45fdb6bdd5",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3127986"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10754,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severityId": 0
+}

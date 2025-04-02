@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-f629-00006170ee6a",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft PowerPoint 2016",
+	"baseProductVersion": "16.0.0",
+	"cpe": "cpe:2.3:a:microsoft:powerpoint:2016:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "ADV230003",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Defense in Depth",
+	"impactId": 100000000,
+	"initialReleaseDate": "2023-08-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4504720",
+			"articleUrl": "https://support.microsoft.com/help/4504720",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=36200b29-2fc6-4a85-8d00-ca65ba662d32",
+			"fixedBuildNumber": "16.0.5408.1001",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4493224"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft PowerPoint 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10742,
+	"releaseDate": "2023-08-08T07:00:00Z",
+	"releaseNumber": "2023-Aug",
+	"severity": "Moderate",
+	"severityId": 100000002
+}

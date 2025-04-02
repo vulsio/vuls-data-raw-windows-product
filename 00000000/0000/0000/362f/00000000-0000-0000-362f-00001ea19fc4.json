@@ -1,0 +1,43 @@
+{
+	"id": "00000000-0000-0000-362f-00001ea19fc4",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 11 version 22H2",
+	"baseProductVersion": "10.0.22621.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_11_22H2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-38043",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2022-10-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5018427",
+			"articleUrl": "https://support.microsoft.com/help/5018427",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5018427",
+			"fixedBuildNumber": "10.0.22621.674",
+			"knownIssuesName": "5018427",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5018427",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 11 Version 22H2 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 12086,
+	"releaseDate": "2022-10-11T07:00:00Z",
+	"releaseNumber": "2022-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

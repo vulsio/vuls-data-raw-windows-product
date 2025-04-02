@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-972d-0000df7a0128",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Microsoft SQL Server 2014 Service Pack 3 (GDR)",
+	"baseProductVersion": "12.0.0",
+	"baseScore": "7.5",
+	"cpe": " cpe:2.3:a:microsoft:sql_server:2014:sp3:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-29143",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2022-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5014165",
+			"articleUrl": "https://support.microsoft.com/help/5014165",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=024ac33f-82ae-441c-8138-88b1c53b2449",
+			"fixedBuildNumber": "12.0.6169.19",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4583463"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2014 Service Pack 3 for 32-bit Systems (GDR)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 11671,
+	"releaseDate": "2022-06-14T07:00:00Z",
+	"releaseNumber": "2022-Jun",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

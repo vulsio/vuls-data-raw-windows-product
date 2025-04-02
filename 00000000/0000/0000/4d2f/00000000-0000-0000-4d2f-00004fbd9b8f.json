@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-4d2f-00004fbd9b8f",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Dynamics 365 Business Central 2022 Release Wave 2",
+	"baseProductVersion": "21.0.0",
+	"baseScore": "4.4",
+	"cpe": "cpe:2.3:a:microsoft:dynamics_365_business_central:2022:release_wave_2:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-41066",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2022-11-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5021004",
+			"articleUrl": "http://support.microsoft.com/kb/5021004",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-us/download/details.aspx?id=104693",
+			"fixedBuildNumber": "Application Build 21.1.48638, Platform Build 21.0.",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Dynamics 365 Business Central 2022 Release Wave 2",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 12109,
+	"releaseDate": "2022-11-08T08:00:00Z",
+	"releaseNumber": "2022-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "3.9",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-6f29-00000e588018",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-1028",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-04-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4011586",
+			"articleUrl": "https://support.microsoft.com/help/4011586",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=07293804-dcec-4055-b5e2-d88c3cc7aa0f",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3213560"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10607,
+	"releaseDate": "2018-04-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,35 @@
+{
+	"id": "00000000-2a40-0000-0c2d-000056beb8f3",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0613",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-02-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4487026",
+			"articleUrl": "https://support.microsoft.com/help/4487026",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4487026",
+			"knownIssuesName": "4487026",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4487026",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4480961"
+		}
+	],
+	"platform": "Windows Server 2016",
+	"platformId": 10816,
+	"product": "Microsoft .NET Framework 4.6.2/4.7/4.7.1/4.7.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11532,
+	"releaseDate": "2019-02-12T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

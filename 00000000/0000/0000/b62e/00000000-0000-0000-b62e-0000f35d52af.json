@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-b62e-0000f35d52af",
+	"architectureId": 0,
+	"baseProductName": "Dynamics 365 Sales",
+	"baseProductVersion": "9.0.0",
+	"baseScore": "8.7",
+	"cpe": "cpe:2.3:a:microsoft:dynamics_365_sales:-:*:*:*:*:*:*:*",
+	"customerActionRequired": false,
+	"cveNumber": "CVE-2025-21177",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-918: Server-Side Request Forgery (SSRF)",
+				"https://cwe.mitre.org/data/definitions/918.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-918: Server-Side Request Forgery (SSRF)"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2025-02-06T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Dynamics 365 Sales",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 11958,
+	"releaseDate": "2025-02-06T08:00:00Z",
+	"releaseNumber": "2025-Feb",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.6",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:H/I:H/A:N/E:U/RL:O/RC:C"
+}

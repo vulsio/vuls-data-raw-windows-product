@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-652a-0000c37f76ac",
+	"architectureId": 0,
+	"baseScore": "4.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0164",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4015217",
+			"articleUrl": "https://support.microsoft.com/help/4015217",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4015217",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4013429"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1607 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10853,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.0",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:H/UI:N/S:U/C:N/I:N/A:H/E:P/RL:O/RC:C"
+}

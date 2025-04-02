@@ -1,0 +1,54 @@
+{
+	"id": "00000000-0000-0000-b92e-00009cd2cd4d",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Server Subscription Edition",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server:-:*:*:*:subscription:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-30043",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-611: Improper Restriction of XML External Entity Reference",
+				"https://cwe.mitre.org/data/definitions/611.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-611: Improper Restriction of XML External Entity Reference"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2024-05-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002599",
+			"articleUrl": "https://support.microsoft.com/help/5002599",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=523339ec-3e36-44d3-a5ea-49d09d535343",
+			"fixedBuildNumber": "16.0.17328.20292",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server Subscription Edition",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11961,
+	"releaseDate": "2024-05-14T07:00:00Z",
+	"releaseNumber": "2024-May",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

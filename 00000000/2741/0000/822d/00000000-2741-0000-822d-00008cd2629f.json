@@ -1,0 +1,53 @@
+{
+	"id": "00000000-2741-0000-822d-00008cd2629f",
+	"architectureId": 0,
+	"baseProductName": "Microsoft .NET Framework 4.8",
+	"baseProductVersion": "4.8.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:.net:4.8:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-21911",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2022-01-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5009719",
+			"articleUrl": "https://support.microsoft.com/help/5009719",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5008858",
+			"fixedBuildNumber": "4.8.4465.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4578977"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5009711",
+			"articleUrl": "https://support.microsoft.com/help/5009711",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5008885",
+			"fixedBuildNumber": "4.8.4465.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4601089"
+		}
+	],
+	"platform": "Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)",
+	"platformId": 10049,
+	"product": "Microsoft .NET Framework 4.8",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11650,
+	"releaseDate": "2022-01-11T08:00:00Z",
+	"releaseNumber": "2022-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

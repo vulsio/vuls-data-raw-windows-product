@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-312d-00006e86b79a",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 10 Version 1809",
+	"baseProductVersion": "10.0.17763.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_1809:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-24946",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-591: Sensitive Data Storage in Improperly Locked Memory",
+				"https://cwe.mitre.org/data/definitions/591.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-591: Sensitive Data Storage in Improperly Locked Memory"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2023-05-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5026362",
+			"articleUrl": "https://support.microsoft.com/help/5026362",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5026362",
+			"fixedBuildNumber": "10.0.17763.4377",
+			"knownIssuesName": "5026362",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5026362",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5025229"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1809 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11569,
+	"releaseDate": "2023-05-09T07:00:00Z",
+	"releaseNumber": "2023-May",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,40 @@
+{
+	"id": "00000000-2d34-0000-9d2d-0000f0d4957e",
+	"architectureId": 0,
+	"baseScore": "4.7",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-16937",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2020-10-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4579976",
+			"articleUrl": "https://support.microsoft.com/help/4579976",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4578966",
+			"knownIssuesName": "4578966",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4578966",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4576627, 4577324"
+		}
+	],
+	"platform": "Windows Server 2019  (Server Core installation)",
+	"platformId": 11572,
+	"product": "Microsoft .NET Framework 3.5 AND 4.7.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11677,
+	"releaseDate": "2020-10-13T07:00:00Z",
+	"releaseNumber": "2020-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.2",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

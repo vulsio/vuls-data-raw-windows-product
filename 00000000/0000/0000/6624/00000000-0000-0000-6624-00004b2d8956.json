@@ -1,0 +1,69 @@
+{
+	"id": "00000000-0000-0000-6624-00004b2d8956",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2008  Service Pack 2",
+	"baseProductVersion": "6.0.6003.0",
+	"baseScore": "5.3",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_sp2:{bv}:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-36801",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-126: Buffer Over-read",
+				"https://cwe.mitre.org/data/definitions/126.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-126: Buffer Over-read"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2023-09-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5030271",
+			"articleUrl": "https://support.microsoft.com/help/5030271",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5030271",
+			"fixedBuildNumber": "6.0.6003.22264",
+			"knownIssuesName": "5030271",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5030271",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5029318"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5030286",
+			"articleUrl": "https://support.microsoft.com/help/5030286",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5030286",
+			"fixedBuildNumber": "6.0.6003.22262",
+			"knownIssuesName": "5030286",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5030286",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for x64-based Systems Service Pack 2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9318,
+	"releaseDate": "2023-09-12T07:00:00Z",
+	"releaseNumber": "2023-Sep",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.6",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N/E:U/RL:O/RC:C"
+}

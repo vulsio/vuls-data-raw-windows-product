@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-252a-0000f4dbaf6c",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3376",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-10-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3192441",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3192441",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3192441",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "3185614"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1511 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10789,
+	"releaseDate": "2016-10-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

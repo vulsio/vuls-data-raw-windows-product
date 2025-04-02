@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-c72a-0000ffbe2669",
+	"architectureId": 0,
+	"baseScore": "7.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8465",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2017-06-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4022725",
+			"articleUrl": "https://support.microsoft.com/help/4022725",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4022725",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4022725",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4016871"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1703 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10951,
+	"releaseDate": "2017-06-13T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H"
+}

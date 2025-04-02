@@ -1,0 +1,45 @@
+{
+	"id": "00000000-0000-0000-e929-00009f103a64",
+	"architectureId": 0,
+	"baseScore": "5.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8307",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2018-07-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4338829",
+			"articleUrl": "https://support.microsoft.com/help/4338829",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4338829",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4284860"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4345455",
+			"articleUrl": "https://support.microsoft.com/help/4345455",
+			"downloadName": "Alternate Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4345455",
+			"ordinal": 2,
+			"rebootRequired": "Yes",
+			"supercedence": "4284860"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10729,
+	"releaseDate": "2018-07-10T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L/E:P/RL:O/RC:C"
+}

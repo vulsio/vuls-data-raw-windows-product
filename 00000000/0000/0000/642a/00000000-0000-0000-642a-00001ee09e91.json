@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-642a-00001ee09e91",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows 10 Version 1607",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_1607:{bv}:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0084",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4013429",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/4013429",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4013429",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/help/4013429/windows-10-update-kb4013429",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3213986"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1607 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10852,
+	"releaseDate": "2017-03-14T07:00:00Z",
+	"releaseNumber": "2017-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

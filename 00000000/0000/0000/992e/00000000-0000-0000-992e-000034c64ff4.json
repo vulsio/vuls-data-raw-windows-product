@@ -1,0 +1,54 @@
+{
+	"id": "00000000-0000-0000-992e-000034c64ff4",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows 10 Version 21H2",
+	"baseProductVersion": "10.0.19043.0",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_21H2:{bv}:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-44487",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-400: Uncontrolled Resource Consumption",
+				"https://cwe.mitre.org/data/definitions/400.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-400: Uncontrolled Resource Consumption"
+	],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2023-10-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "MITRE Corporation",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5031356",
+			"articleUrl": "https://support.microsoft.com/help/5031356",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5031356",
+			"fixedBuildNumber": "10.0.19044.3570",
+			"knownIssuesName": "5031356",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5031356",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5030211"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 21H2 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11929,
+	"releaseDate": "2023-10-10T07:00:00Z",
+	"releaseNumber": "2023-Oct",
+	"severity": "Important",
+	"severityId": 100000001
+}

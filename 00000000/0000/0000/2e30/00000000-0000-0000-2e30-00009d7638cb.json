@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-2e30-00009d7638cb",
+	"architectureId": 0,
+	"baseProductName": "Azure Identity Library for .NET",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:a:microsoft:azure_identity_library_for_.net:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-29992",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-522: Insufficiently Protected Credentials",
+				"https://cwe.mitre.org/data/definitions/522.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-522: Insufficiently Protected Credentials"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2024-04-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/identity/Azure.Identity/CHANGELOG.md#1110-2024-04-09",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.nuget.org/packages/Azure.Identity/1.11.0",
+			"fixedBuildNumber": "1.11.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Identity Library for .NET",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12334,
+	"releaseDate": "2024-04-09T07:00:00Z",
+	"releaseNumber": "2024-Apr",
+	"severity": "Moderate",
+	"severityId": 100000002,
+	"temporalScore": "5.3",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/RL:O/RC:C"
+}

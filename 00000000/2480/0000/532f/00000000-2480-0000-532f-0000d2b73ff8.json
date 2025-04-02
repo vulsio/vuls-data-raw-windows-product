@@ -1,0 +1,64 @@
+{
+	"id": "00000000-2480-0000-532f-0000d2b73ff8",
+	"architectureId": 0,
+	"baseProductName": "Microsoft .NET Framework 4.6.2",
+	"baseProductVersion": "4.7.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:.net:4.6.2:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-43483",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-407: Inefficient Algorithmic Complexity",
+				"https://cwe.mitre.org/data/definitions/407.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-407: Inefficient Algorithmic Complexity"
+	],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2024-10-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5044098",
+			"articleUrl": "https://support.microsoft.com/help/5044098",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5044019",
+			"fixedBuildNumber": "4.7.04115.01",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5044086",
+			"articleUrl": "https://support.microsoft.com/help/5044086",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5043947",
+			"fixedBuildNumber": "4.7.04115.03",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation)",
+	"platformId": 9344,
+	"product": "Microsoft .NET Framework 4.6.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12115,
+	"releaseDate": "2024-10-08T07:00:00Z",
+	"releaseNumber": "2024-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

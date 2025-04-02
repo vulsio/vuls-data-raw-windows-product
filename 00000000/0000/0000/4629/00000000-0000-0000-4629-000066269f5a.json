@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-4629-000066269f5a",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Visual Studio 2013 Update 5",
+	"baseProductVersion": "12.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:visual_studio:2013:update_5:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-23381",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-122: Heap-based Buffer Overflow",
+				"https://cwe.mitre.org/data/definitions/122.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-122: Heap-based Buffer Overflow"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2023-02-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5026610",
+			"articleUrl": "https://support.microsoft.com/help/5026610",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://aka.ms/vs/12/release/5026610",
+			"fixedBuildNumber": "12.0.40700.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2013 Update 5",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10566,
+	"releaseDate": "2023-02-14T08:00:00Z",
+	"releaseNumber": "2023-Feb",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,42 @@
+{
+	"id": "00000000-2e19-0000-9c2d-00003f757de3",
+	"architectureId": 0,
+	"baseProductName": "Microsoft .NET Framework 3.5 AND 4.8",
+	"baseProductVersion": "4.8.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:.net:4.8:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-26832",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2022-04-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5012117",
+			"articleUrl": "https://support.microsoft.com/help/5012117",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5012117",
+			"fixedBuildNumber": "4.8.4494.03",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5008876"
+		}
+	],
+	"platform": "Windows 10 Version 20H2 for 32-bit Systems",
+	"platformId": 11801,
+	"product": "Microsoft .NET Framework 3.5 AND 4.8",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11676,
+	"releaseDate": "2022-04-12T08:00:00Z",
+	"releaseNumber": "2022-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

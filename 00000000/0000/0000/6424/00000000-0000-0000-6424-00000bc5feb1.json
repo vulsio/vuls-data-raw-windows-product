@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-6424-00000bc5feb1",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows Vista x64 Edition Service Pack 2",
+	"baseProductVersion": "5.0.0",
+	"cpe": "cpe:2.3:o:microsoft:windows_vista:{bv}:sp2:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3216",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-06-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3164035",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3164035",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=bf9b3b9c-85f3-4542-8c8d-b157db0bfa6f",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3156013"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Vista x64 Edition Service Pack 2",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 9316,
+	"releaseDate": "2016-06-14T07:00:00Z",
+	"releaseNumber": "2016-Jun",
+	"severity": "Important",
+	"severityId": 100000001
+}

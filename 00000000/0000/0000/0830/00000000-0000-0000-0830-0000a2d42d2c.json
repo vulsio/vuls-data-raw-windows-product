@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-0830-0000a2d42d2c",
+	"architectureId": 0,
+	"baseProductName": "Software for Open Networking in the Cloud (SONiC)",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "7.8",
+	"cpe": "cpe:2.3:a:microsoft:azure_software_for_open_networking_in_the_cloud:-:*:*:*:*:-:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-21418",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-284: Improper Access Control",
+				"https://cwe.mitre.org/data/definitions/284.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-284: Improper Access Control"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-03-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/sonic-net/SONiC/wiki",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://github.com/sonic-net/SONiC",
+			"fixedBuildNumber": "20220531.26",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Software for Open Networking in the Cloud (SONiC) 202205",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12296,
+	"releaseDate": "2024-03-12T07:00:00Z",
+	"releaseNumber": "2024-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

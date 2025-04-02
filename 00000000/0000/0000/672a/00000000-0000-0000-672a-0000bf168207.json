@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-672a-0000bf168207",
+	"architectureId": 0,
+	"baseScore": "2.6",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2013-6629",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4015217",
+			"articleUrl": "https://support.microsoft.com/help/4015217",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4015217",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4013429"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2016  (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10855,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "2.4",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:L/UI:R/S:U/C:L/I:N/A:N/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,37 @@
+{
+	"id": "00000000-2a24-0000-f628-000067383966",
+	"architectureId": 0,
+	"baseScore": "4.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0927",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2018-03-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4088779",
+			"articleUrl": "https://support.microsoft.com/help/4088779",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4088779",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4088779",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4074591"
+		}
+	],
+	"platform": "Windows 10 Version 1511 for x64-based Systems",
+	"platformId": 10788,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2018-03-13T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "3.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N/E:P/RL:O/RC:C"
+}

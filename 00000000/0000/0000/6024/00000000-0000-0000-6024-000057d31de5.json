@@ -1,0 +1,59 @@
+{
+	"id": "00000000-0000-0000-6024-000057d31de5",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows Server 2008 Service Pack 2",
+	"baseProductVersion": "6.0.0",
+	"baseScore": "8.1",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008_sp2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-1722",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-02-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"dns.exe;fxssvc.exe;localspl.dll;msi.dll;ntkrnlmp.exe;ntkrpamp.exe;oleaut32.dll;tcpip.sys;wintrust.dll"
+			],
+			"articleName": "4601360",
+			"articleUrl": "https://support.microsoft.com/help/4601360",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4601360",
+			"knownIssuesName": "4601360",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4601360",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4598288"
+		},
+		{
+			"affectedBinaries": [
+				"dns.exe;fxssvc.exe;localspl.dll;msi.dll;ntkrnlmp.exe;ntkrpamp.exe;oleaut32.dll;tcpip.sys;wintrust.dll"
+			],
+			"articleName": "4601366",
+			"articleUrl": "https://support.microsoft.com/help/4601366",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4601366",
+			"knownIssuesName": "4601366",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4601366",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for 32-bit Systems Service Pack 2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9312,
+	"productVersion": "6.0.0",
+	"releaseDate": "2021-02-09T08:00:00Z",
+	"releaseNumber": "2021-Feb",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.1",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

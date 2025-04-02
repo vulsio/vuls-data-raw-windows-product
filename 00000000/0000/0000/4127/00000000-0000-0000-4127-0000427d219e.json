@@ -1,0 +1,48 @@
+{
+	"id": "00000000-0000-0000-4127-0000427d219e",
+	"architectureId": 0,
+	"baseScore": "8.6",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0662",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4537820",
+			"articleUrl": "https://support.microsoft.com/help/4537820",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4537820",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4534310"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4537813",
+			"articleUrl": "https://support.microsoft.com/help/4537813",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4537813",
+			"knownIssuesName": "4537813",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4537813",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10049,
+	"releaseDate": "2020-02-11T08:00:00Z",
+	"releaseNumber": "2020-Feb",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:H/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,41 @@
+{
+	"id": "00000000-2460-0000-6028-000070dd6c94",
+	"architectureId": 0,
+	"baseProductName": "Internet Explorer 9",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "2.4",
+	"cpe": "cpe:2.3:a:microsoft:internet_explorer:9:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0059",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2017-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4012204",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/4012204",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4012204",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3203621"
+		}
+	],
+	"platform": "Windows Server 2008 for 32-bit Systems Service Pack 2",
+	"platformId": 9312,
+	"product": "Internet Explorer 9",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10336,
+	"releaseDate": "2017-03-14T07:00:00Z",
+	"releaseNumber": "2017-Mar",
+	"severity": "Low",
+	"severityId": 100000003,
+	"temporalScore": "2.2",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:H/UI:R/S:U/C:L/I:N/A:N/E:P/RL:O/RC:C"
+}

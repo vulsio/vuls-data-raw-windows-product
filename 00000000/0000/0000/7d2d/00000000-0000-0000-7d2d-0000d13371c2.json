@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-7d2d-0000d13371c2",
+	"architectureId": 0,
+	"baseScore": "8.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1468",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-12-10T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4530684",
+			"articleUrl": "https://support.microsoft.com/help/4530684",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4530684",
+			"knownIssuesName": "4530684",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4530684",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4524570"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1903 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11645,
+	"releaseDate": "2019-12-10T08:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.6",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

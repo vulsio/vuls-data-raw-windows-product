@@ -1,0 +1,35 @@
+{
+	"id": "00000000-0000-0000-da2e-0000ad57a984",
+	"architectureId": 0,
+	"baseProductName": "Azure Databricks",
+	"baseProductVersion": "0",
+	"cpe": "cpe:2.3:o:microsoft:azure_databricks:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-44228",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-12-16T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Apache Software Foundation",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Additional Information",
+			"articleUrl": "https://docs.microsoft.com/en-us/azure/databricks/kb/libraries/verify-log4j-version",
+			"downloadName": "Security Update",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Databricks",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11994,
+	"releaseDate": "2021-12-16T08:00:00Z",
+	"releaseNumber": "2021-Dec",
+	"severity": "Critical",
+	"severityId": 100000000
+}

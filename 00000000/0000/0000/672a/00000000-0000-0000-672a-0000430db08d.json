@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-672a-0000430db08d",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2016 (Server Core installation)",
+	"baseProductVersion": "10.0.14393.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2016:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-49129",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-400: Uncontrolled Resource Consumption",
+				"https://cwe.mitre.org/data/definitions/400.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-400: Uncontrolled Resource Consumption"
+	],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2024-12-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5048671",
+			"articleUrl": "https://support.microsoft.com/help/5048671",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5048671",
+			"fixedBuildNumber": "10.0.14393.7606",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5046612"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2016 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10855,
+	"releaseDate": "2024-12-10T08:00:00Z",
+	"releaseNumber": "2024-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

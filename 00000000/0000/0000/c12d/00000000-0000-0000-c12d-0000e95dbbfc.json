@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-c12d-0000e95dbbfc",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 10 Version 1909",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_1909:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-21990",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2022-03-08T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5011485",
+			"articleUrl": "https://support.microsoft.com/help/5011485",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5011485",
+			"fixedBuildNumber": "10.0.18363.2158",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5010345"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1909 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11713,
+	"releaseDate": "2022-03-08T08:00:00Z",
+	"releaseNumber": "2022-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.9",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

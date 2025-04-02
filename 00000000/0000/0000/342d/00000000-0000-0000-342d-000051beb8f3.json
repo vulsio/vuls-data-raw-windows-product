@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-342d-000051beb8f3",
+	"architectureId": 0,
+	"baseScore": "8.8",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0618",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-02-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4487044",
+			"articleUrl": "https://support.microsoft.com/help/4487044",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4487044",
+			"knownIssuesName": "4487044",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4487044",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4480116"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2019  (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11572,
+	"releaseDate": "2019-02-12T08:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.9",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,52 @@
+{
+	"id": "00000000-0000-0000-e02d-000054ab1e85",
+	"architectureId": 0,
+	"baseProductName": "Windows Defender Antimalware Platform",
+	"baseProductVersion": "4.0.0.0",
+	"baseScore": "5.5",
+	"cpe": "cpe:2.3:a:microsoft:windows_defender:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-20671",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-276: Incorrect Default Permissions",
+				"https://cwe.mitre.org/data/definitions/276.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-276: Incorrect Default Permissions"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2024-03-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://www.microsoft.com/en-us/wdsi/defenderupdates",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "4.18.24010.12",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Defender Antimalware Platform",
+	"productFamily": "System Center",
+	"productFamilyId": 100000009,
+	"productId": 11744,
+	"releaseDate": "2024-03-12T07:00:00Z",
+	"releaseNumber": "2024-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

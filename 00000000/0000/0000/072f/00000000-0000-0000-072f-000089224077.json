@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-072f-000089224077",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Exchange Server 2016 Cumulative Update 23",
+	"baseProductVersion": "15.01.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_23:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-49040",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-451: User Interface (UI) Misrepresentation of Critical Information",
+				"https://cwe.mitre.org/data/definitions/451.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-451: User Interface (UI) Misrepresentation of Critical Information"
+	],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2024-11-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5049233",
+			"articleUrl": "https://support.microsoft.com/help/5049233",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=e0299b1b-535a-44e0-8f57-ed2b9cc94e6f",
+			"fixedBuildNumber": "15.01.2507.044",
+			"knownIssuesName": "5049233",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5049233",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5037224"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2016 Cumulative Update 23",
+	"productFamily": "Server Software",
+	"productFamilyId": 100000004,
+	"productId": 12039,
+	"releaseDate": "2024-11-12T08:00:00Z",
+	"releaseNumber": "2024-Nov",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N/E:P/RL:O/RC:C"
+}

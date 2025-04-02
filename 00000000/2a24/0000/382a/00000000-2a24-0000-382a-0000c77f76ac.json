@@ -1,0 +1,33 @@
+{
+	"id": "00000000-2a24-0000-382a-0000c77f76ac",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0160",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4015219",
+			"articleUrl": "https://support.microsoft.com/help/4015219",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4015219",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4013198"
+		}
+	],
+	"platform": "Windows 10 Version 1511 for x64-based Systems",
+	"platformId": 10788,
+	"product": "Microsoft .NET Framework 4.6.1",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10808,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

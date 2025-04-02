@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-1a2f-0000973e0dda",
+	"architectureId": 0,
+	"baseProductName": "System Center Operations Manager (SCOM) 2022",
+	"baseProductVersion": "10.22.0",
+	"baseScore": "9.8",
+	"cpe": "cpe:2.3:a:microsoft:system_center_operations_manager:2022:-:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-21334",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-416: Use After Free",
+				"https://cwe.mitre.org/data/definitions/416.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-416: Use After Free"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-03-12T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://www.microsoft.com/en-in/download/details.aspx?id=104213",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/en-in/download/details.aspx?id=104213",
+			"fixedBuildNumber": "10.22.1070.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "System Center Operations Manager (SCOM) 2022",
+	"productFamily": "System Center",
+	"productFamilyId": 100000009,
+	"productId": 12058,
+	"releaseDate": "2024-03-12T07:00:00Z",
+	"releaseNumber": "2024-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "8.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

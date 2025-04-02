@@ -1,0 +1,66 @@
+{
+	"id": "00000000-0000-0000-6b2f-000075dbb2f7",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "CBL Mariner 2.0",
+	"baseProductVersion": "2.0",
+	"cpe": "cpe:2.3:o:microsoft:cbl_mariner:2.0:*:*:*:*:*:*:x64",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-21626",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-1104: Use of Unmaintained Third Party Components",
+				"https://cwe.mitre.org/data/definitions/1104.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-1104: Use of Unmaintained Third Party Components"
+	],
+	"impactId": 0,
+	"initialReleaseDate": "2024-02-28T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "GitHub",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"cri-tools-1.28.0-5.cm2.x86_64.rpm"
+			],
+			"articleName": "cri-tools",
+			"articleUrl": "https://nvd.nist.gov/vuln/detail/CVE-2024-21626",
+			"downloadName": "CBL-Mariner",
+			"fixedBuildNumber": "1.28.0-5",
+			"ordinal": 0
+		},
+		{
+			"affectedBinaries": [
+				"kubernetes-1.28.4-3.cm2.x86_64.rpm",
+				"kubernetes-client-1.28.4-3.cm2.x86_64.rpm",
+				"kubernetes-kubeadm-1.28.4-3.cm2.x86_64.rpm",
+				"kubernetes-kube-proxy-1.28.4-3.cm2.x86_64.rpm",
+				"kubernetes-kube-apiserver-1.28.4-3.cm2.x86_64.rpm",
+				"kubernetes-kube-controller-manager-1.28.4-3.cm2.x86_64.rpm",
+				"kubernetes-kube-scheduler-1.28.4-3.cm2.x86_64.rpm",
+				"kubernetes-pause-1.28.4-3.cm2.x86_64.rpm"
+			],
+			"articleName": "kubernetes",
+			"articleUrl": "https://nvd.nist.gov/vuln/detail/CVE-2024-21626",
+			"downloadName": "CBL-Mariner",
+			"fixedBuildNumber": "1.28.4-3",
+			"ordinal": 0
+		}
+	],
+	"platformId": 0,
+	"product": "CBL Mariner 2.0 x64",
+	"productFamily": "Mariner",
+	"productFamilyId": 100000014,
+	"productId": 12139,
+	"releaseDate": "2024-02-28T08:00:00Z",
+	"releaseNumber": "2024-Feb",
+	"severityId": 0
+}

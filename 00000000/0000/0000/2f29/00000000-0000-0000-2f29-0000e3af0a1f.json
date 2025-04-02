@@ -1,0 +1,52 @@
+{
+	"id": "00000000-0000-0000-2f29-0000e3af0a1f",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2012 R2 (Server Core installation)",
+	"baseProductVersion": "6.3.0",
+	"baseScore": "5.3",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2012_R2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0016",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2017-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4012216",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4012216",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4012216",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3205401"
+		},
+		{
+			"affectedBinaries": [
+				"msxpspcl6.dll;msxpsps.dll;hvax64.exe;hvix64.exe;srv.sys;quartz.dll;n/a;win32k.sys;gdiplus.dll;gdi32.dll;icm32.dll;dwrite.dll;fntcache.dll;ntkrnlmp.exe;ntkrpamp.exe;dnsapi.dll;msxml3.dll;custerr.dll;vmswitch.sys;dnsrslvr.dll;mrxsmb20.sys;mrxsmb.sys;dxgkrnl.sys;helppane.exe"
+			],
+			"articleName": "4012213",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4012213",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4012213",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 R2 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10543,
+	"releaseDate": "2017-03-14T07:00:00Z",
+	"releaseNumber": "2017-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:N/I:N/A:H/E:P/RL:O/RC:C"
+}

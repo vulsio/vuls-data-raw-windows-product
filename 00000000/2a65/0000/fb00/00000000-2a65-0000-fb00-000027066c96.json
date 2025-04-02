@@ -1,0 +1,22 @@
+{
+	"id": "00000000-2a65-0000-fb00-000027066c96",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8535",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2017-05-25T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [],
+	"platform": "Windows 10 Version 1607 for x64-based Systems",
+	"platformId": 10853,
+	"product": "Windows Defender",
+	"productFamily": "System Center",
+	"productFamilyId": 100000009,
+	"productId": 251,
+	"releaseDate": "2017-05-25T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,41 @@
+{
+	"id": "00000000-2a25-0000-f628-0000c5f26027",
+	"architectureId": 0,
+	"baseProductName": "Internet Explorer 11",
+	"baseProductVersion": "1.0.0",
+	"cpe": "cpe:2.3:a:microsoft:internet_explorer:11:-:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3351",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"mshtml.dll;ntkrnlmp.exe;ntkrpamp.exe;csrsrv.dll;pnidui.dll;win32kbase.sys;win32kfull.sys;ntdsai.dll;inputservice.dll;securekernel.exe;srv.sys;srv2.sys;srvnet.sys;winresume.exe;winresume.efi;ieframe.dll;emodel.dll;chakra.dll;ieinstal.exe;edgehtml.dll;mobile;only;vbscript.dll;oleaut32.dll;wininet.dll;lsasrv.dll;lsass.exe;wow6432;sspicli.dll;msv1_0.dll;ksecdd.sys;mrxsmb.sys;mrxsmb10.sys;mrxsmb20.sys;windows.data.pdf.dll"
+			],
+			"articleName": "3185614",
+			"articleUrl": "https://support.microsoft.com/kb/3185614",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3193494",
+			"knownIssuesUrl": "https://support.microsoft.com/kb/3185614",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "3176493"
+		}
+	],
+	"platform": "Windows 10 Version 1511 for 32-bit Systems",
+	"platformId": 10789,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

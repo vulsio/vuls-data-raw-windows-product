@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-8804-00007add6c94",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Office Word Viewer",
+	"baseProductVersion": "0",
+	"cpe": "cpe:2.3:a:microsoft:word_viewer:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0053",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3178694",
+			"articleUrl": "https://support.microsoft.com/kb/3178694",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=eb818a6c-4d7a-4ca0-a4fe-48c39d604600",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3128044"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Word Viewer",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 1160,
+	"releaseDate": "2017-03-14T07:00:00Z",
+	"releaseNumber": "2017-Mar",
+	"severity": "Important",
+	"severityId": 100000001
+}

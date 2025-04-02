@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-412d-0000f87884f2",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Server 2019",
+	"baseProductVersion": "16.0.0",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server:2019:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1205",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-08-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4475555",
+			"articleUrl": "https://support.microsoft.com/help/4475555",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?id=100097",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "4475529"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server 2019",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11585,
+	"productVersion": "16.0.0",
+	"releaseDate": "2019-08-13T07:00:00Z",
+	"releaseNumber": "2019-Aug",
+	"severity": "Critical",
+	"severityId": 100000000
+}

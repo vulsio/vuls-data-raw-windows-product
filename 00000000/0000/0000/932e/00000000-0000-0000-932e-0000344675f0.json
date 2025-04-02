@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-932e-0000344675f0",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2022",
+	"baseProductVersion": "10.0.20348.0",
+	"baseScore": "8.0",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2022:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-38010",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-130: Improper Handling of Length Parameter Inconsistency",
+				"https://cwe.mitre.org/data/definitions/130.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-130: Improper Handling of Length Parameter Inconsistency"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2024-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5040437",
+			"articleUrl": "https://support.microsoft.com/help/5040437",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5040437",
+			"fixedBuildNumber": "10.0.20348.2582",
+			"knownIssuesName": "5040437",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5040437",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5039227"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2022",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11923,
+	"releaseDate": "2024-07-09T07:00:00Z",
+	"releaseNumber": "2024-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.1/AV:A/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

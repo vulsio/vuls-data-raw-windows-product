@@ -1,0 +1,37 @@
+{
+	"id": "00000000-2cbd-0000-f628-00001a962f4e",
+	"architectureId": 0,
+	"baseScore": "7.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-0870",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2018-04-10T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4093112",
+			"articleUrl": "https://support.microsoft.com/en-us/help/4093112",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4093112",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/help/4093112",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4088776"
+		}
+	],
+	"platform": "Windows 10 Version 1709 for 32-bit Systems",
+	"platformId": 11453,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2018-04-10T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "6.7",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O"
+}

@@ -1,0 +1,47 @@
+{
+	"id": "00000000-273f-0000-f628-00006105fe20",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0667",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-03-12T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4489878",
+			"articleUrl": "https://support.microsoft.com/help/4489878",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4489878",
+			"knownIssuesName": "4489878",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4489878",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4486563"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4489873",
+			"articleUrl": "https://support.microsoft.com/help/4489873",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4489873",
+			"knownIssuesName": "4489873",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4489873",
+			"ordinal": 2,
+			"rebootRequired": "Yes",
+			"supercedence": "4486474"
+		}
+	],
+	"platform": "Windows 7 for 32-bit Systems Service Pack 1",
+	"platformId": 10047,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2019-03-12T07:00:00Z",
+	"severity": "Critical",
+	"severityId": 100000000
+}

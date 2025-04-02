@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-eb2f-0000761d5d67",
+	"architectureId": 0,
+	"baseProductName": "Dynamics 365 for Finance and Operations",
+	"baseProductVersion": "10.0.37",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:dynamics_365:-:*:*:*:*:finance_and_operations:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-35621",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-799: Improper Control of Interaction Frequency",
+				"https://cwe.mitre.org/data/definitions/799.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-799: Improper Control of Interaction Frequency"
+	],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2023-12-12T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://fix.lcs.dynamics.com/Issue/Details/?bugId=864015&dbType=3",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/download-hotfix-lcs",
+			"fixedBuildNumber": "7.0.7068.109",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Dynamics 365 for Finance and Operations Version 10.0.37 Platform Update 61",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 12267,
+	"releaseDate": "2023-12-12T08:00:00Z",
+	"releaseNumber": "2023-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

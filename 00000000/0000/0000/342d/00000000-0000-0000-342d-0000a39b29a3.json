@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-342d-0000a39b29a3",
+	"architectureId": 0,
+	"baseScore": "3.3",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-28312",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2021-04-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5001342",
+			"articleUrl": "https://support.microsoft.com/help/5001342",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5001342",
+			"knownIssuesName": "5001342",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5001342",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5000822"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2019 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11572,
+	"productVersion": "10.0.0",
+	"releaseDate": "2021-04-13T07:00:00Z",
+	"releaseNumber": "2021-Apr",
+	"severity": "Moderate",
+	"severityId": 100000002,
+	"temporalScore": "3.1",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:L/E:F/RL:O/RC:C"
+}

@@ -1,0 +1,66 @@
+{
+	"id": "00000000-0000-0000-412d-00005fc77b8c",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft SharePoint Server 2019",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "8.2",
+	"cpe": "cpe:2.3:a:microsoft:sharepoint_server_2019:*:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-49068",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-284: Improper Access Control",
+				"https://cwe.mitre.org/data/definitions/284.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-284: Improper Access Control"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2024-12-10T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002657",
+			"articleUrl": "https://support.microsoft.com/help/5002657",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=e71e3889-da21-4ab0-941e-6e9cbfbb986e",
+			"fixedBuildNumber": "16.0.10416.20026",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5002650"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5002664",
+			"articleUrl": "https://support.microsoft.com/help/5002664",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=5c60bcb4-ce16-464f-9e01-10ca73cab72a",
+			"fixedBuildNumber": "16.0.10416.20026",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002422"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SharePoint Server 2019",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 11585,
+	"releaseDate": "2024-12-10T08:00:00Z",
+	"releaseNumber": "2024-Dec",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.1",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N/E:U/RL:O/RC:C"
+}

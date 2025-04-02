@@ -1,0 +1,34 @@
+{
+	"id": "00000000-0000-0000-232d-0000b5ed2b95",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1332",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2019-12-10T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4532097",
+			"articleUrl": "https://support.microsoft.com/help/4532097",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://download.microsoft.com/download/6/d/8/6d8acd3e-e624-4256-8265-07c39b25e9ad/SQLServer2016-KB4532097-x64.exe",
+			"knownIssuesName": "4532097",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4532097",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4505220"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft SQL Server 2016 for x64-based Systems Service Pack 2 (GDR)",
+	"productFamily": "SQL Server",
+	"productFamilyId": 100000008,
+	"productId": 11555,
+	"releaseDate": "2019-12-10T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-9b2d-0000197984f2",
+	"architectureId": 0,
+	"baseProductName": "Azure DevOps Server 2019.0.1",
+	"baseProductVersion": "2019.0.0",
+	"cpe": "cpe:2.3:o:microsoft:azure_devops_server:2019.0.1:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1305",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2019-09-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/azure/devops/server/release-notes/azuredevops2019",
+			"downloadName": "Security Update",
+			"downloadUrl": "http://aka.ms/azdev2019patch",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure DevOps Server 2019.0.1",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11675,
+	"releaseDate": "2019-09-10T07:00:00Z",
+	"releaseNumber": "2019-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

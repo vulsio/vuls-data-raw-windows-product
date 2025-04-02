@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-6b2f-0000089214af",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "CBL Mariner 2.0",
+	"baseProductVersion": "2.0",
+	"cpe": "cpe:2.3:o:microsoft:cbl_mariner:2.0:*:*:*:*:*:*:x64",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-38039",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impactId": 0,
+	"initialReleaseDate": "2023-10-19T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "HackerOne",
+	"kbArticles": [
+		{
+			"affectedBinaries": [
+				"curl-8.3.0-1.cm2.x86_64.rpm",
+				"curl-devel-8.3.0-1.cm2.x86_64.rpm",
+				"curl-libs-8.3.0-1.cm2.x86_64.rpm",
+				"curl-debuginfo-8.3.0-1.cm2.x86_64.rpm"
+			],
+			"articleName": "curl",
+			"articleUrl": "https://nvd.nist.gov/vuln/detail/CVE-2023-38039",
+			"downloadName": "CBL-Mariner",
+			"fixedBuildNumber": "8.3.0-1",
+			"ordinal": 0
+		}
+	],
+	"platformId": 0,
+	"product": "CBL Mariner 2.0 x64",
+	"productFamily": "Mariner",
+	"productFamilyId": 100000014,
+	"productId": 12139,
+	"releaseDate": "2023-10-19T07:00:00Z",
+	"releaseNumber": "2023-Oct",
+	"severityId": 0
+}

@@ -1,0 +1,46 @@
+{
+	"id": "00000000-0000-0000-4027-0000753fced6",
+	"architectureId": 0,
+	"baseScore": "7.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2018-8897",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2018-05-08T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4103718",
+			"articleUrl": "https://support.microsoft.com/help/4103718",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4103718",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/help/4103718",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4093118"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4103712",
+			"articleUrl": "https://support.microsoft.com/help/4103712",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4103712",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/help/4103712",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 7 for x64-based Systems Service Pack 1",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10048,
+	"releaseDate": "2018-05-08T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.3",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

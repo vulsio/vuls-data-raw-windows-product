@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-192e-0000389d6855",
+	"architecture": "x86",
+	"architectureId": 1,
+	"baseProductName": "Windows 10 Version 20H2",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "6.5",
+	"cpe": "cpe:2.3:o:microsoft:windows_10_20H2:{bv}:*:*:*:*:*:x86:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2023-24944",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-843: Access of Resource Using Incompatible Type ('Type Confusion')",
+				"https://cwe.mitre.org/data/definitions/843.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-843: Access of Resource Using Incompatible Type ('Type Confusion')"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2023-05-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5026361",
+			"articleUrl": "https://support.microsoft.com/help/5026361",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5026361",
+			"fixedBuildNumber": "10.0.19042.2965",
+			"knownIssuesName": "5026361",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5026361",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5025221"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 20H2 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11801,
+	"releaseDate": "2023-05-09T07:00:00Z",
+	"releaseNumber": "2023-May",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.7",
+	"vectorString": "CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

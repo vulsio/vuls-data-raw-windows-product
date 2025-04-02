@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-332d-00006b1bafdb",
+	"architectureId": 0,
+	"baseScore": "4.7",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0849",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-04-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4493509",
+			"articleUrl": "https://support.microsoft.com/help/4493509",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4493509",
+			"knownIssuesName": "4493509",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4493509",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4489899"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2019",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11571,
+	"releaseDate": "2019-04-09T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.2",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C"
+}

@@ -1,0 +1,32 @@
+{
+	"id": "00000000-2460-0000-c42a-0000be6093a3",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7279",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-12-13T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3208481",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3208481",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3208481",
+			"ordinal": 1,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platform": "Windows Server 2008 for 32-bit Systems Service Pack 2",
+	"platformId": 9312,
+	"product": "Microsoft Windows Hyperlink Object Library",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10948,
+	"releaseDate": "2016-12-13T08:00:00Z",
+	"severity": "Low",
+	"severityId": 100000003
+}

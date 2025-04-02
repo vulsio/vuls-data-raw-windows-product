@@ -1,0 +1,21 @@
+{
+	"id": "00000000-0000-0000-5e28-000028066c96",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8536",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2017-05-25T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Windows Intune Endpoint Protection",
+	"productFamily": "System Center",
+	"productFamilyId": 100000009,
+	"productId": 10334,
+	"releaseDate": "2017-05-25T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

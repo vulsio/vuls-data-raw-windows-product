@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-df30-00006bbe7a94",
+	"architectureId": 0,
+	"baseProductName": "Azure Agent for Backup",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "6.7",
+	"cpe": "cpe:2.3:a:microsoft:azure_agent_for_backup:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-21199",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-269: Improper Privilege Management",
+				"https://cwe.mitre.org/data/definitions/269.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-269: Improper Privilege Management"
+	],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2025-03-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://support.microsoft.com/en-us/topic/update-for-azure-backup-for-microsoft-azure-recovery-services-agent-706ac5f8-b61d-4e5f-abc1-91e15af784cf",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://support.microsoft.com/en-us/topic/update-rollup-76-for-azure-site-recovery-6ca6833a-5b0f-4bdf-9946-41cd0aa8d6e4",
+			"fixedBuildNumber": "2.0.9940.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Agent for Backup",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12511,
+	"releaseDate": "2025-03-11T07:00:00Z",
+	"releaseNumber": "2025-Mar",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.8",
+	"vectorString": "CVSS:3.1/AV:L/AC:H/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

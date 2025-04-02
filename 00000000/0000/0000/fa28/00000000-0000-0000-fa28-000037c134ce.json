@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-fa28-000037c134ce",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0906",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4484285",
+			"articleUrl": "https://support.microsoft.com/kb/4484285",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=8baf4e6f-9db0-4a19-856e-5344171839df",
+			"knownIssuesName": "4484285",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4484285",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4484267"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Excel 2010 Service Pack 2 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10490,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Important",
+	"severityId": 100000001
+}

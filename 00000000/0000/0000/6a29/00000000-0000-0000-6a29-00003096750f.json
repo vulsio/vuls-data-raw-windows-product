@@ -1,0 +1,30 @@
+{
+	"id": "00000000-0000-0000-6a29-00003096750f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV170005",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impactId": 0,
+	"initialReleaseDate": "2017-04-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3178710",
+			"articleUrl": "https://support.microsoft.com/kb/3178710",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=a53d575c-2cfe-40be-9408-deb41cf26573",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3127968"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2013 Service Pack 1 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10602,
+	"releaseDate": "2017-04-11T07:00:00Z",
+	"severityId": 0
+}

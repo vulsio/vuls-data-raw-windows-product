@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-c529-00005f6708ca",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft PowerPoint 2013 Service Pack 1",
+	"baseProductVersion": "14.0.0",
+	"cpe": "cpe:2.3:a:microsoft:powerpoint:2013:sp1:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-3360",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2016-09-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3115487",
+			"articleUrl": "https://support.microsoft.com/kb/3115487",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=aae1c59c-0e55-4a19-9f4b-3b47c054613e",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3115118"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft PowerPoint 2013 Service Pack 1 (64-bit editions)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10693,
+	"releaseDate": "2016-09-13T07:00:00Z",
+	"releaseNumber": "2016-Sep",
+	"severity": "Important",
+	"severityId": 100000001
+}

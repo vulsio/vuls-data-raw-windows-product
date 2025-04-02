@@ -1,0 +1,51 @@
+{
+	"id": "00000000-0000-0000-f328-0000886ca65c",
+	"architectureId": 0,
+	"baseScore": "4.4",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-28447",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2021-04-13T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5001382",
+			"articleUrl": "https://support.microsoft.com/help/5001382",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5001382",
+			"knownIssuesName": "5001382",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5001382",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5000848"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5001393",
+			"articleUrl": "https://support.microsoft.com/help/5001393",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5001393",
+			"knownIssuesName": "5001393",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5001393",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2012 R2",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10483,
+	"productVersion": "6.3.0",
+	"releaseDate": "2021-04-13T07:00:00Z",
+	"releaseNumber": "2021-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "3.9",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:H/A:N/E:U/RL:O/RC:C"
+}

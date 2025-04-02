@@ -1,0 +1,65 @@
+{
+	"id": "00000000-2a67-0000-822d-0000cb70faca",
+	"architectureId": 0,
+	"baseProductName": "Microsoft .NET Framework 4.8",
+	"baseProductVersion": "4.8.0",
+	"baseScore": "7.5",
+	"cpe": "cpe:2.3:a:microsoft:.net:4.8:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-43484",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-407: Inefficient Algorithmic Complexity",
+				"https://cwe.mitre.org/data/definitions/407.html"
+			]
+		},
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-789: Memory Allocation with Excessive Size Value",
+				"https://cwe.mitre.org/data/definitions/789.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-407: Inefficient Algorithmic Complexity",
+		"CWE-789: Memory Allocation with Excessive Size Value"
+	],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2024-10-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5044021",
+			"articleUrl": "https://support.microsoft.com/help/5044021",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5044021",
+			"fixedBuildNumber": "4.8.04762.01",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2016 (Server Core installation)",
+	"platformId": 10855,
+	"product": "Microsoft .NET Framework 4.8",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11650,
+	"releaseDate": "2024-10-08T07:00:00Z",
+	"releaseNumber": "2024-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.5",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C"
+}

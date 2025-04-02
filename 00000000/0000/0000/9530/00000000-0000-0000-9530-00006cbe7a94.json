@@ -1,0 +1,57 @@
+{
+	"id": "00000000-0000-0000-9530-00006cbe7a94",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows Server 2025 (Server Core installation)",
+	"baseProductVersion": "10.0.26100.0",
+	"baseScore": "4.3",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2025:{bv}:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2025-21189",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-41: Improper Resolution of Path Equivalence",
+				"https://cwe.mitre.org/data/definitions/41.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-41: Improper Resolution of Path Equivalence"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2025-01-14T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5050009",
+			"articleUrl": "https://support.microsoft.com/help/5050009",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5050009",
+			"fixedBuildNumber": "10.0.26100.2894",
+			"knownIssuesName": "5050009",
+			"knownIssuesUrl": "https://support.microsoft.com/help/5050009",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5048667"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2025 (Server Core installation)",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 12437,
+	"releaseDate": "2025-01-14T08:00:00Z",
+	"releaseNumber": "2025-Jan",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "3.9",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N/E:P/RL:O/RC:C"
+}

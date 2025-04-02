@@ -1,0 +1,45 @@
+{
+	"id": "00000000-0000-0000-4127-00008c77445e",
+	"architectureId": 0,
+	"baseScore": "6.1",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2016-7255",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2016-11-08T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3197868",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3197868",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3197868",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/kb/3197868",
+			"ordinal": 1,
+			"supercedence": "3185330"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "3197867",
+			"articleUrl": "https://support.microsoft.com/en-us/kb/3197867",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB3197867",
+			"knownIssuesUrl": "https://support.microsoft.com/en-us/kb/3197867",
+			"ordinal": 2,
+			"supercedence": "MS11-019, 2511455; MS11-071, 2570947; MS15-020, 3033889; MS15-097, 3087039; MS16-030, 3139940; MS16-060, 3153171; MS16-062, 3153199; MS16-073, 3161664; MS16-074, 3164033; MS16-098, 3177725; MS16-101, 3167679; MS16-104, 3185319; MS16-111, 3175024; MS16-116, 3184122"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 10049,
+	"releaseDate": "2016-11-08T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:C/C:H/I:N/A:N/E:H/RL:O/RC:C"
+}

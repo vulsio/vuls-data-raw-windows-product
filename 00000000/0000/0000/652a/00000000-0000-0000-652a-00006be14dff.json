@@ -1,0 +1,38 @@
+{
+	"id": "00000000-0000-0000-652a-00006be14dff",
+	"architectureId": 0,
+	"baseScore": "9.9",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-26424",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-08-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5005043",
+			"articleUrl": "https://support.microsoft.com/help/5005043",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5005043",
+			"fixedBuildNumber": "10.0.14393.4583",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "5004238"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1607 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10853,
+	"releaseDate": "2021-08-10T07:00:00Z",
+	"releaseNumber": "2021-Aug",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.6",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,42 @@
+{
+	"id": "00000000-2740-0000-8c29-0000c690567e",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-0657",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Spoofing",
+	"impactId": 100000008,
+	"initialReleaseDate": "2019-02-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4487078",
+			"articleUrl": "https://support.microsoft.com/help/4487078",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4483455",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4481481; 4481488"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4487121",
+			"articleUrl": "https://support.microsoft.com/help/4487121",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4483474",
+			"ordinal": 2,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows 7 for x64-based Systems Service Pack 1",
+	"platformId": 10048,
+	"product": "Microsoft .NET Framework 4.5.2",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10636,
+	"releaseDate": "2019-02-12T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

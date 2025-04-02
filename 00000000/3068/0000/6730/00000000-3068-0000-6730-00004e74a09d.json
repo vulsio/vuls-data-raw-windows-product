@@ -1,0 +1,54 @@
+{
+	"id": "00000000-3068-0000-6730-00004e74a09d",
+	"architectureId": 0,
+	"baseProductName": "Azure Arc",
+	"baseProductVersion": "1.0.0",
+	"baseScore": "8.1",
+	"cpe": "cpe:2.3:a:microsoft:microsoft_azure_arc_resource_bridge:-:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-6387",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-364: Signal Handler Race Condition",
+				"https://cwe.mitre.org/data/definitions/364.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-364: Signal Handler Race Condition"
+	],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2024-07-11T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Red Hat, Inc.",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://github.com/Azure/ArcResourceBridge/releases",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://learn.microsoft.com/en-us/azure/azure-arc/resource-bridge/upgrade#manual-upgrade",
+			"fixedBuildNumber": "1.2.0",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platform": "Azure Arc-enabled VMware vSphere",
+	"platformId": 12392,
+	"product": "Azure Arc Resource Bridge",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 12391,
+	"releaseDate": "2024-07-11T07:00:00Z",
+	"releaseNumber": "2024-Jul",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "8.1",
+	"vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H"
+}

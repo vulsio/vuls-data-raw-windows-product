@@ -1,0 +1,53 @@
+{
+	"id": "00000000-0000-0000-912e-0000d0bb1c93",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Dynamics 365 (on-premises) version 9.1",
+	"baseProductVersion": "9.0",
+	"baseScore": "7.3",
+	"cpe": "cpe:2.3:a:microsoft:dynamics_365:9.1:*:*:*:on-premises:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-30061",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-285: Improper Authorization",
+				"https://cwe.mitre.org/data/definitions/285.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-285: Improper Authorization"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2024-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5037940",
+			"articleUrl": "https://support.microsoft.com/help/5037940",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=cb793a97-d02e-4de0-acdf-ee5b04b6bb7d",
+			"fixedBuildNumber": "9.1.28.09",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Dynamics 365 (on-premises) version 9.1",
+	"productFamily": "Microsoft Dynamics",
+	"productFamilyId": 100000006,
+	"productId": 11921,
+	"releaseDate": "2024-07-09T07:00:00Z",
+	"releaseNumber": "2024-Jul",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.4",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:N/E:U/RL:O/RC:C"
+}

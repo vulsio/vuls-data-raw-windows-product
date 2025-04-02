@@ -1,0 +1,55 @@
+{
+	"id": "00000000-0000-0000-962e-0000fcba4bfb",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Windows 11 version 21H2",
+	"baseProductVersion": "10.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:o:microsoft:windows_11_21H2:{bv}:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-29988",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-693: Protection Mechanism Failure",
+				"https://cwe.mitre.org/data/definitions/693.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-693: Protection Mechanism Failure"
+	],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2024-04-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5036894",
+			"articleUrl": "https://support.microsoft.com/help/5036894",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB5036894",
+			"fixedBuildNumber": "10.0.22000.2899",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "5035854"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 11 version 21H2 for x64-based Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11926,
+	"releaseDate": "2024-04-09T07:00:00Z",
+	"releaseNumber": "2024-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "8.2",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:F/RL:O/RC:C"
+}

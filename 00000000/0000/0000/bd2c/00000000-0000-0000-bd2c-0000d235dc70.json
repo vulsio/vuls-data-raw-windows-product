@@ -1,0 +1,39 @@
+{
+	"id": "00000000-0000-0000-bd2c-0000d235dc70",
+	"architectureId": 0,
+	"baseScore": "7.1",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0936",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2020-04-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4550927",
+			"articleUrl": "https://support.microsoft.com/help/4550927",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4550927",
+			"knownIssuesName": "4550927",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4550927",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4540681"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 10 Version 1709 for 32-bit Systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 11453,
+	"releaseDate": "2020-04-14T07:00:00Z",
+	"releaseNumber": "2020-Apr",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "6.4",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:H/E:P/RL:O/RC:C"
+}

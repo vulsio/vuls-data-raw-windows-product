@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-7329-000014521437",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Office Web Apps Server 2013 Service Pack 1",
+	"baseProductVersion": "15.0.1",
+	"cpe": "cpe:2.3:a:microsoft:office_web_apps_server:2013:sp1:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0020",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-03-14T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3172457",
+			"articleUrl": "https://support.microsoft.com/kb/3172457",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=be198e70-6f15-4ee9-8c89-119d832136cc",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "3127929"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office Web Apps Server 2013 Service Pack 1",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10611,
+	"releaseDate": "2017-03-14T07:00:00Z",
+	"releaseNumber": "2017-Mar",
+	"severity": "Important",
+	"severityId": 100000001
+}

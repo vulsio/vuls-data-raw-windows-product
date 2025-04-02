@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-142e-0000d8b3eb89",
+	"architectureId": 0,
+	"baseScore": "6.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-26430",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Denial of Service",
+	"impactId": 100000001,
+	"initialReleaseDate": "2021-08-10T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/azure-sphere/product-overview/whats-new",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "21.07",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Azure Sphere",
+	"productFamily": "Azure",
+	"productFamilyId": 100000005,
+	"productId": 11796,
+	"releaseDate": "2021-08-10T07:00:00Z",
+	"releaseNumber": "2021-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.4",
+	"vectorString": "CVSS:3.0/AV:L/AC:L/PR:H/UI:N/S:C/C:N/I:N/A:H/E:P/RL:O/RC:C"
+}

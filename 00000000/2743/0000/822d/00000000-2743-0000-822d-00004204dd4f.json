@@ -1,0 +1,44 @@
+{
+	"id": "00000000-2743-0000-822d-00004204dd4f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1113",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2019-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4507420",
+			"articleUrl": "https://support.microsoft.com/help/4507420",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4506994",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4499406; 4503865"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4507411",
+			"articleUrl": "https://support.microsoft.com/help/4507411",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4506956",
+			"ordinal": 2,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platform": "Windows Server 2008 R2 for x64-based Systems Service Pack 1",
+	"platformId": 10051,
+	"product": "Microsoft .NET Framework 4.8",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11650,
+	"releaseDate": "2019-07-09T07:00:00Z",
+	"releaseNumber": "2019-Jul",
+	"severity": "Critical",
+	"severityId": 100000000
+}

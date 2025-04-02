@@ -1,0 +1,63 @@
+{
+	"id": "00000000-0000-0000-022a-0000a98c2e9e",
+	"architecture": "x64",
+	"architectureId": 2,
+	"baseProductName": "Microsoft Office 2016",
+	"baseProductVersion": "16.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:*:x64:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-21840",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2022-01-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5002060",
+			"articleUrl": "https://support.microsoft.com/help/5002060",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=fa509eb3-67de-42d0-857b-9df9e31c416e",
+			"fixedBuildNumber": "16.0.5266.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5001982"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5002115",
+			"articleUrl": "https://support.microsoft.com/help/5002115",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=8d9e5de9-ca18-4221-803a-1da0d6041dc0",
+			"fixedBuildNumber": "16.0.5266.1001",
+			"ordinal": 0,
+			"rebootRequired": "Maybe",
+			"supercedence": "5002099"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "5002052",
+			"articleUrl": "https://support.microsoft.com/help/5002052",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/download/details.aspx?familyid=b84f8cf5-c4a8-4fc9-813d-53d13a0118d2",
+			"fixedBuildNumber": "16.0.5266.1000",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Office 2016 (64-bit edition)",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 10754,
+	"releaseDate": "2022-01-11T08:00:00Z",
+	"releaseNumber": "2022-Jan",
+	"severity": "Critical",
+	"severityId": 100000000,
+	"temporalScore": "7.7",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C"
+}

@@ -1,0 +1,33 @@
+{
+	"id": "00000000-296f-0000-d824-0000b7dd6c94",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-0254",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2017-05-09T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "3162040",
+			"articleUrl": "https://support.microsoft.com/kb/3162040",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=55475f7a-1114-4946-8095-07005781c3b6",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "3127927"
+		}
+	],
+	"platform": "Microsoft SharePoint Server 2013 Service Pack 1",
+	"platformId": 10607,
+	"product": "Word Automation Services",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 9432,
+	"releaseDate": "2017-05-09T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

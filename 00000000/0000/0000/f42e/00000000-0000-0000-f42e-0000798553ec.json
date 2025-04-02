@@ -1,0 +1,37 @@
+{
+	"id": "00000000-0000-0000-f42e-0000798553ec",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Visual Studio 2022 version 17.1",
+	"baseProductVersion": "17.0.0",
+	"cpe": "cpe:2.3:a:microsoft:visual_studio_2022:17.1:*:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-3711",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2021-11-09T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "OpenSSL Software Foundation",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/visualstudio/releases/2022/release-notes",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://my.visualstudio.com/Downloads?q=Visual Studio 2022 version 17.1",
+			"fixedBuildNumber": "17.1.1",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2022 version 17.1",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 12020,
+	"releaseDate": "2021-11-09T08:00:00Z",
+	"releaseNumber": "2021-Nov",
+	"severity": "Critical",
+	"severityId": 100000000
+}

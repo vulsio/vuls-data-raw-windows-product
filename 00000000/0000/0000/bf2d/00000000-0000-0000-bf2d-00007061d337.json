@@ -1,0 +1,31 @@
+{
+	"id": "00000000-0000-0000-bf2d-00007061d337",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1425",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2019-11-12T08:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/visualstudio/releases/2019/release-notes-v16.3",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://aka.ms/vs/16/release/latest",
+			"ordinal": 1,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2019 version 16.3",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 11711,
+	"releaseDate": "2019-11-12T08:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001
+}

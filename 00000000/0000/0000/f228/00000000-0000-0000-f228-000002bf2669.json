@@ -1,0 +1,46 @@
+{
+	"id": "00000000-0000-0000-f228-000002bf2669",
+	"architectureId": 0,
+	"baseScore": "7.0",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8466",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Elevation of Privilege",
+	"impactId": 100000002,
+	"initialReleaseDate": "2017-06-13T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4022726",
+			"articleUrl": "https://support.microsoft.com/help/4022726",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4022726",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4022726",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4019215"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4022717",
+			"articleUrl": "https://support.microsoft.com/help/4022717",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4022717",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4022717",
+			"ordinal": 2,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows 8.1 for x64-based systems",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10482,
+	"releaseDate": "2017-06-13T07:00:00Z",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.0",
+	"vectorString": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H"
+}

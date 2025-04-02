@@ -1,0 +1,50 @@
+{
+	"id": "00000000-0000-0000-5f24-0000afed2b95",
+	"architecture": "IA64",
+	"architectureId": 3,
+	"baseProductName": "Windows Server 2008 Service Pack 2",
+	"baseProductVersion": "6.0.0",
+	"baseScore": "5.3",
+	"cpe": "cpe:2.3:o:microsoft:windows_server_2008:-:sp2:*:*:*:*:itanium:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1338",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2019-10-08T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4520002",
+			"articleUrl": "https://support.microsoft.com/help/4520002",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4520002",
+			"ordinal": 0,
+			"rebootRequired": "Yes",
+			"supercedence": "4516026"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4520009",
+			"articleUrl": "https://support.microsoft.com/help/4520009",
+			"downloadName": "Security Only",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4520009",
+			"ordinal": 0,
+			"rebootRequired": "Yes"
+		}
+	],
+	"platformId": 0,
+	"product": "Windows Server 2008 for Itanium-Based Systems Service Pack 2",
+	"productFamily": "ESU",
+	"productFamilyId": 100000013,
+	"productId": 9311,
+	"releaseDate": "2019-10-08T07:00:00Z",
+	"releaseNumber": "2019-Oct",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "4.8",
+	"vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:N/I:H/A:N/E:P/RL:O/RC:C"
+}

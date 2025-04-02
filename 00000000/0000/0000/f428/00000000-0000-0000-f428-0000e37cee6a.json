@@ -1,0 +1,23 @@
+{
+	"id": "00000000-0000-0000-f428-0000e37cee6a",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "ADV200006",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2020-03-23T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Windows RT 8.1",
+	"productFamily": "Windows",
+	"productFamilyId": 100000010,
+	"productId": 10484,
+	"releaseDate": "2020-03-23T07:00:00Z",
+	"releaseNumber": "2020-Mar",
+	"severity": "Critical",
+	"severityId": 100000000
+}

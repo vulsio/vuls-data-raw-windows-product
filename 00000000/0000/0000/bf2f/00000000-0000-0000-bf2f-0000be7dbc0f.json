@@ -1,0 +1,42 @@
+{
+	"id": "00000000-0000-0000-bf2f-0000be7dbc0f",
+	"architectureId": 0,
+	"baseProductName": "Skype for Business Server 2019 CU7",
+	"baseProductVersion": "2046.0",
+	"baseScore": "5.7",
+	"cpe": "cpe:2.3:a:microsoft:skype_for_business_server:2019:cu7:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2024-20695",
+	"cweDetailsList": [
+		{
+			"keys": [
+				"cwe",
+				"cweUrl"
+			],
+			"values": [
+				"CWE-284: Improper Access Control",
+				"https://cwe.mitre.org/data/definitions/284.html"
+			]
+		}
+	],
+	"cweList": [
+		"CWE-284: Improper Access Control"
+	],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2024-02-13T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [],
+	"platformId": 0,
+	"product": "Skype for Business Server 2019 CU7",
+	"productFamily": "Microsoft Office",
+	"productFamilyId": 100000007,
+	"productId": 12223,
+	"releaseDate": "2024-02-13T08:00:00Z",
+	"releaseNumber": "2024-Feb",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "5.0",
+	"vectorString": "CVSS:3.1/AV:A/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C"
+}

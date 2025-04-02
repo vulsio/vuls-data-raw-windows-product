@@ -1,0 +1,46 @@
+{
+	"id": "00000000-2743-0000-f628-0000824a7fc6",
+	"architectureId": 0,
+	"baseScore": "3.5",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2017-8592",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2017-07-11T07:00:00Z",
+	"isMariner": false,
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4025341",
+			"articleUrl": "https://support.microsoft.com/help/4025341",
+			"downloadName": "Monthly Rollup",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4025341",
+			"ordinal": 1,
+			"rebootRequired": "Yes",
+			"supercedence": "4022719"
+		},
+		{
+			"affectedBinaries": [],
+			"articleName": "4025252",
+			"articleUrl": "http://support.microsoft.com/help/4025252",
+			"downloadName": "IE Cumulative",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4025252",
+			"ordinal": 2,
+			"rebootRequired": "Yes",
+			"supercedence": "4021558"
+		}
+	],
+	"platform": "Windows Server 2008 R2 for x64-based Systems Service Pack 1",
+	"platformId": 10051,
+	"product": "Internet Explorer 11",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 10486,
+	"releaseDate": "2017-07-11T07:00:00Z",
+	"severity": "Low",
+	"severityId": 100000003,
+	"temporalScore": "3.2",
+	"vectorString": "CVSS:3.0/AV:N/AC:L/PR:H/UI:R/S:U/C:L/I:L/A:N/E:P/RL:O/RC:C"
+}

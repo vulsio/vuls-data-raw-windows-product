@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-872d-0000994fd47f",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2021-30618",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impactId": 0,
+	"initialReleaseDate": "2021-09-02T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Chrome",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "Release Notes",
+			"articleUrl": "https://docs.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security",
+			"downloadName": "Security Update",
+			"fixedBuildNumber": "93.0.961.38",
+			"ordinal": 0,
+			"rebootRequired": "No"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Edge (Chromium-based)",
+	"productFamily": "Browser",
+	"productFamilyId": 100000001,
+	"productId": 11655,
+	"productVersion": "1.0.0",
+	"releaseDate": "2021-09-02T07:00:00Z",
+	"releaseNumber": "2021-Sep",
+	"severityId": 0
+}

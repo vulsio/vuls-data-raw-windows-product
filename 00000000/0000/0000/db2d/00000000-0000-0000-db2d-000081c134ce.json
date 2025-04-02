@@ -1,0 +1,32 @@
+{
+	"id": "00000000-0000-0000-db2d-000081c134ce",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2020-0702",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Security Feature Bypass",
+	"impactId": 100000007,
+	"initialReleaseDate": "2020-02-11T08:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4537765",
+			"articleUrl": "https://support.microsoft.com/help/4537765",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4537765",
+			"ordinal": 1
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Surface Hub",
+	"productFamily": "Device",
+	"productFamilyId": 100000011,
+	"productId": 11739,
+	"releaseDate": "2020-02-11T08:00:00Z",
+	"releaseNumber": "2020-Feb",
+	"severity": "Important",
+	"severityId": 100000001
+}

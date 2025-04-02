@@ -1,0 +1,40 @@
+{
+	"id": "00000000-0000-0000-4629-000093ca9ec6",
+	"architectureId": 0,
+	"baseProductName": "Microsoft Visual Studio 2013 Update 5",
+	"baseProductVersion": "12.0.0",
+	"baseScore": "8.8",
+	"cpe": "cpe:2.3:a:microsoft:visual_studio:2013:update_5:*:*:*:*:*:*",
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2022-35825",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Remote Code Execution",
+	"impactId": 100000005,
+	"initialReleaseDate": "2022-08-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "5016315",
+			"articleUrl": "https://support.microsoft.com/help/5016315",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://aka.ms/vs/12/release/5016315",
+			"fixedBuildNumber": "12.0.40699.0",
+			"ordinal": 0,
+			"rebootRequired": "Maybe"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Visual Studio 2013 Update 5",
+	"productFamily": "Developer Tools",
+	"productFamilyId": 100000002,
+	"productId": 10566,
+	"releaseDate": "2022-08-09T07:00:00Z",
+	"releaseNumber": "2022-Aug",
+	"severity": "Important",
+	"severityId": 100000001,
+	"temporalScore": "7.9",
+	"vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C"
+}

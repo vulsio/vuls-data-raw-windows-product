@@ -1,0 +1,36 @@
+{
+	"id": "00000000-0000-0000-ec28-0000dfd348dd",
+	"architectureId": 0,
+	"customerActionRequired": true,
+	"cveNumber": "CVE-2019-1084",
+	"cweDetailsList": [],
+	"cweList": [],
+	"impact": "Information Disclosure",
+	"impactId": 100000003,
+	"initialReleaseDate": "2019-07-09T07:00:00Z",
+	"isMariner": false,
+	"issuingCna": "Microsoft",
+	"kbArticles": [
+		{
+			"affectedBinaries": [],
+			"articleName": "4509410",
+			"articleUrl": "https://support.microsoft.com/help/4509410",
+			"downloadName": "Security Update",
+			"downloadUrl": "https://www.microsoft.com/downloads/details.aspx?familyid=fe350505-fe6d-44c7-8dbe-3f848db6a1c1",
+			"knownIssuesName": "4509410",
+			"knownIssuesUrl": "https://support.microsoft.com/help/4509410",
+			"ordinal": 1,
+			"rebootRequired": "Maybe",
+			"supercedence": "4503028"
+		}
+	],
+	"platformId": 0,
+	"product": "Microsoft Exchange Server 2010 Service Pack 3",
+	"productFamily": "Exchange Server",
+	"productFamilyId": 100000004,
+	"productId": 10476,
+	"releaseDate": "2019-07-09T07:00:00Z",
+	"releaseNumber": "2019-Jul",
+	"severity": "Important",
+	"severityId": 100000001
+}
